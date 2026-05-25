@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-25T07:47:01.469184+00:00",
+  "available_levels": [
+    "A2",
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "categories": [
+    "tech",
+    "tech_business",
+    "world",
+    "culture"
+  ],
+  "dates": [
+    {
+      "date": "2026-05-25",
+      "topic_count": 4,
+      "categories": [
+        "tech",
+        "tech_business",
+        "world",
+        "culture"
+      ]
+    }
+  ]
+}

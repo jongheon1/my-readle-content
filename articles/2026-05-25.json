@@ -1,0 +1,874 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-25",
+  "topics": [
+    {
+      "topic_id": "2026-05-25-tech-01",
+      "category": "tech",
+      "title_ko": "F#로 직접 만든 게임보이 에뮬레이터",
+      "source_url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "source_name": "Hacker News (Nick Kossolapov)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Building a Game Boy, One Bug at a Time",
+          "body": "Have you ever wanted to understand how computers work? One software engineer did too. He had worked for eight years, but he still did not really know. So he made a plan. He decided to copy an old machine: the Game Boy. He loved the Game Boy as a child. He played Pokemon on it for many hours. Building the copy was hard. He worked late at night, again and again. Sound was the worst part. But in the end, it worked! His copy could play real games. He learned a lot, and he had fun. Sometimes the best way to learn is to build something yourself.",
+          "word_count": 107,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "engineer",
+              "pos": "noun",
+              "meaning_ko": "기술자, 엔지니어"
+            },
+            {
+              "word": "machine",
+              "pos": "noun",
+              "meaning_ko": "기계"
+            },
+            {
+              "word": "copy",
+              "pos": "noun",
+              "meaning_ko": "복제품, 사본"
+            },
+            {
+              "word": "worst",
+              "pos": "adjective",
+              "meaning_ko": "가장 나쁜, 최악의"
+            },
+            {
+              "word": "build",
+              "pos": "verb",
+              "meaning_ko": "만들다, 제작하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "again and again",
+              "meaning_ko": "계속해서, 반복해서"
+            },
+            {
+              "phrase": "in the end",
+              "meaning_ko": "결국, 마침내"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Building a Game Boy, One Bug at a Time",
+          "body": "Have you ever used something every day without really knowing how it works? A software engineer named Nick felt exactly like that. He had built software for eight years, but he admitted that he never understood how computers actually work inside.\n\nSo he gave himself a challenge. He decided to recreate an old machine in code: the Nintendo Game Boy. He chose it for a reason. As a child, he had spent hundreds of hours playing Pokemon on a Game Boy, so the project felt personal.\n\nIt was not easy. He often told himself he would work for just one hour, but suddenly it was two in the morning. The sound was the hardest part of all. At one point, a single bug stopped him for weeks, and he almost gave up. An AI tool finally helped him find it.\n\nIn the end, his copy worked. It could play real games, with sound, on a computer and in a web browser. Did the project make him a better engineer? Maybe not. But he understands his tools better now, and he had a lot of fun. That is a good reason to build anything.",
+          "word_count": 193,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "software",
+              "pos": "noun",
+              "meaning_ko": "소프트웨어"
+            },
+            {
+              "word": "challenge",
+              "pos": "noun",
+              "meaning_ko": "도전 과제"
+            },
+            {
+              "word": "recreate",
+              "pos": "verb",
+              "meaning_ko": "다시 만들다, 재현하다"
+            },
+            {
+              "word": "personal",
+              "pos": "adjective",
+              "meaning_ko": "개인적인"
+            },
+            {
+              "word": "bug",
+              "pos": "noun",
+              "meaning_ko": "(프로그램의) 오류, 버그"
+            },
+            {
+              "word": "browser",
+              "pos": "noun",
+              "meaning_ko": "(웹) 브라우저"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "give yourself a challenge",
+              "meaning_ko": "스스로에게 도전 과제를 주다"
+            },
+            {
+              "phrase": "almost gave up",
+              "meaning_ko": "거의 포기했다"
+            },
+            {
+              "phrase": "a good reason to",
+              "meaning_ko": "~할 만한 충분한 이유"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Building a Game Boy, One Bug at a Time",
+          "body": "Have you ever used something every single day without truly understanding how it works? For most of us, the computer is exactly that kind of object. Surprisingly, a software engineer named Nick felt the same way, even after building software professionally for more than eight years.\n\nInstead of accepting that gap, he turned it into a project. He decided to recreate, entirely in code, one of the most beloved machines of the 1990s: the Nintendo Game Boy. A program that imitates real hardware like this is called an emulator. The choice was personal: as a child, he had spent hundreds of hours catching Pokemon, so the little grey console meant something to him.\n\nBefore starting, he prepared carefully. He completed a course that teaches how computers are built from the ground up, and then practised by emulating a simpler device. Only then did he begin the real challenge.\n\nThe work was demanding. He would promise himself a quick hour of coding and look up to find it was two in the morning. Recreating the sound was the most difficult part, because audio must be perfectly timed or it turns into noise. At one point, a single hidden bug blocked him for weeks, and he nearly abandoned the whole thing. An AI assistant eventually spotted the mistake in minutes.\n\nHis finished emulator now runs real games, complete with sound, on both desktops and web browsers. He says the project probably did not make him a better engineer. But he finally understands the tool he uses every day, and, just as importantly, he enjoyed every late night. Sometimes curiosity alone is reason enough to build something.",
+          "word_count": 274,
+          "estimated_read_seconds": 137,
+          "vocab": [
+            {
+              "word": "emulator",
+              "pos": "noun",
+              "meaning_ko": "에뮬레이터(다른 기기를 흉내 내는 프로그램)"
+            },
+            {
+              "word": "imitate",
+              "pos": "verb",
+              "meaning_ko": "흉내 내다, 모방하다"
+            },
+            {
+              "word": "beloved",
+              "pos": "adjective",
+              "meaning_ko": "사랑받는"
+            },
+            {
+              "word": "console",
+              "pos": "noun",
+              "meaning_ko": "게임기, 콘솔"
+            },
+            {
+              "word": "demanding",
+              "pos": "adjective",
+              "meaning_ko": "힘든, 부담이 큰"
+            },
+            {
+              "word": "curiosity",
+              "pos": "noun",
+              "meaning_ko": "호기심"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "from the ground up",
+              "meaning_ko": "맨 처음부터, 기초부터"
+            },
+            {
+              "phrase": "look up to find",
+              "meaning_ko": "문득 보니 ~이더라"
+            },
+            {
+              "phrase": "reason enough",
+              "meaning_ko": "~하기에 충분한 이유"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Building a Game Boy, One Bug at a Time",
+          "body": "Have you ever relied on something every single day while quietly admitting you have no idea how it actually works? For most people, the computer is precisely that kind of mystery. What is surprising is that a professional software engineer named Nick felt the same way, even after eight years of building software for a living.\n\nRather than shrugging off that gap in his knowledge, he treated it as an invitation. He set himself an unusual goal: to recreate, entirely in code, one of the most cherished machines of the 1990s, the Nintendo Game Boy. A program that imitates physical hardware in this way is known as an emulator. The choice was deeply personal. As a child, he had spent hundreds of hours catching Pokemon on that little grey console, and that emotional connection, he believed, would carry him through the difficult parts.\n\nHe also resisted the temptation to dive in unprepared. First he worked through a course that builds a computer conceptually from its most basic components, and then he practised by emulating a far simpler device. Only with those foundations in place did he take on the Game Boy itself.\n\nThe process was relentless. He would sit down promising himself a single hour of coding, then glance up to discover it was two in the morning. Of all the components, recreating the sound proved the most punishing, because audio has to be timed with extraordinary precision: a fraction off, and music dissolves into an ugly buzz. At his lowest point, one elusive bug halted his progress for weeks, and he came close to abandoning the project entirely. An AI assistant eventually identified the flaw within minutes, something weeks of manual searching had failed to do.\n\nThe finished emulator now runs genuine Game Boy games, complete with sound, on both desktop computers and web browsers. Reflecting on the experience, Nick is refreshingly honest: the project probably did not make him a better engineer in any measurable way. Yet he now genuinely understands the tool he depends on every day, and he treasures the memory of those obsessive late nights. His story is a quiet reminder that curiosity, rather than necessity, is often the most powerful teacher, and that the surest way to understand something is to build it yourself, one stubborn bug at a time.",
+          "word_count": 386,
+          "estimated_read_seconds": 193,
+          "vocab": [
+            {
+              "word": "rely on",
+              "pos": "verb",
+              "meaning_ko": "~에 의존하다"
+            },
+            {
+              "word": "invitation",
+              "pos": "noun",
+              "meaning_ko": "(무언가를 하게 하는) 계기, 권유"
+            },
+            {
+              "word": "cherished",
+              "pos": "adjective",
+              "meaning_ko": "소중히 여겨지는"
+            },
+            {
+              "word": "relentless",
+              "pos": "adjective",
+              "meaning_ko": "끊임없는, 가차 없는"
+            },
+            {
+              "word": "punishing",
+              "pos": "adjective",
+              "meaning_ko": "몹시 힘든, 고된"
+            },
+            {
+              "word": "elusive",
+              "pos": "adjective",
+              "meaning_ko": "붙잡기 어려운, 규명하기 힘든"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "shrug off",
+              "meaning_ko": "대수롭지 않게 넘기다"
+            },
+            {
+              "phrase": "at his lowest point",
+              "meaning_ko": "가장 힘든 순간에"
+            },
+            {
+              "phrase": "come close to",
+              "meaning_ko": "거의 ~할 뻔하다"
+            },
+            {
+              "phrase": "a quiet reminder",
+              "meaning_ko": "새삼 일깨워 주는 것"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-25-tech_business-01",
+      "category": "tech_business",
+      "title_ko": "사우디 '더 라인', 속도를 줄이고 AI 데이터센터로",
+      "source_url": "https://techstartups.com/2026/05/22/top-tech-news-today-may-22-2026/",
+      "source_name": "Tech Startups",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why Saudi Arabia Paused Its Mirror City",
+          "body": "Imagine a city in a straight line. It is very long but very thin. Tall mirror walls go up on both sides. This is The Line, a famous plan in Saudi Arabia. The country wanted to build a city of the future. But the plan is very big and very hard. Now Saudi Arabia has made a choice. It will slow this dream down. Instead, it will build something less exciting but more useful: big computer buildings called data centers. These centers run artificial intelligence, or AI. Many countries now want them. A bold dream is nice. But sometimes a simple, useful plan wins.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "straight",
+              "pos": "adjective",
+              "meaning_ko": "곧은, 직선의"
+            },
+            {
+              "word": "thin",
+              "pos": "adjective",
+              "meaning_ko": "얇은, 좁은"
+            },
+            {
+              "word": "choice",
+              "pos": "noun",
+              "meaning_ko": "선택"
+            },
+            {
+              "word": "useful",
+              "pos": "adjective",
+              "meaning_ko": "유용한"
+            },
+            {
+              "word": "bold",
+              "pos": "adjective",
+              "meaning_ko": "대담한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "of the future",
+              "meaning_ko": "미래의"
+            },
+            {
+              "phrase": "slow down",
+              "meaning_ko": "속도를 늦추다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why Saudi Arabia Paused Its Mirror City",
+          "body": "Imagine a city built as one straight line. It would be about 170 kilometres long but very thin, with tall mirror walls on both sides. This strange and beautiful idea is called The Line, and it is part of a huge project in Saudi Arabia.\n\nFor years, the country has dreamed of building cities of the future in the desert. But dreams like this cost a lot of money and take a very long time. Recently, Saudi Arabia decided to slow down work on The Line until after 2030.\n\nSo what will it build instead? Something far less exciting, but much more useful: data centers. These are large buildings full of computers, and they are needed to run artificial intelligence, or AI.\n\nHere is the interesting part. All over the world, countries are now competing to attract data centers, just as they once competed for ports and factories. AI needs huge amounts of computer power, and that power has to live somewhere.\n\nSaudi Arabia's change of plan tells a wider story. A shiny dream can capture the imagination, but in the end, the boring plumbing behind technology may matter even more.",
+          "word_count": 191,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "desert",
+              "pos": "noun",
+              "meaning_ko": "사막"
+            },
+            {
+              "word": "compete",
+              "pos": "verb",
+              "meaning_ko": "경쟁하다"
+            },
+            {
+              "word": "attract",
+              "pos": "verb",
+              "meaning_ko": "끌어들이다, 유치하다"
+            },
+            {
+              "word": "artificial intelligence",
+              "pos": "noun",
+              "meaning_ko": "인공지능"
+            },
+            {
+              "word": "imagination",
+              "pos": "noun",
+              "meaning_ko": "상상력"
+            },
+            {
+              "word": "plumbing",
+              "pos": "noun",
+              "meaning_ko": "배관 설비; 여기서는 '기반 설비'의 비유"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "all over the world",
+              "meaning_ko": "전 세계에서"
+            },
+            {
+              "phrase": "change of plan",
+              "meaning_ko": "계획 변경"
+            },
+            {
+              "phrase": "capture the imagination",
+              "meaning_ko": "상상력을 사로잡다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why Saudi Arabia Paused Its Mirror City",
+          "body": "Imagine a city built as a single straight line, roughly 170 kilometres long, only 200 metres wide, and wrapped in towering mirrored walls. It sounds like science fiction, but it has a name: The Line. It is the centrepiece of NEOM, an enormous and famously ambitious project in Saudi Arabia.\n\nFor years, the country has promoted these futuristic cities as proof that the desert could be reinvented. However, projects on this scale are extraordinarily expensive and slow to complete. Recently, Saudi Arabia announced that work on The Line would be paused until after 2030.\n\nWhat is taking priority instead is far less glamorous. The country is now focusing on the practical parts of NEOM, such as utilities, energy, and digital connections, in order to attract data centers. These are vast buildings filled with computers, and they have become essential because they provide the power that artificial intelligence depends on.\n\nThis shift is more significant than it might first appear. Around the world, governments are competing to host data centers in the same way they once competed for ports, railways, and factories. AI cannot exist without somewhere physical to run, and whoever controls that space gains real economic and political influence.\n\nIn other words, a country has quietly chosen reliable infrastructure over a spectacular dream. It is tempting to be disappointed that the mirrored city has stalled. Yet the decision reveals something important about our moment: the future of technology may be decided less by bold architecture and more by the unglamorous plumbing that keeps AI running.",
+          "word_count": 256,
+          "estimated_read_seconds": 128,
+          "vocab": [
+            {
+              "word": "centrepiece",
+              "pos": "noun",
+              "meaning_ko": "핵심, 중심이 되는 것"
+            },
+            {
+              "word": "ambitious",
+              "pos": "adjective",
+              "meaning_ko": "야심 찬"
+            },
+            {
+              "word": "glamorous",
+              "pos": "adjective",
+              "meaning_ko": "화려한, 매력적인"
+            },
+            {
+              "word": "utilities",
+              "pos": "noun",
+              "meaning_ko": "(전기·수도 등의) 공익 설비"
+            },
+            {
+              "word": "essential",
+              "pos": "adjective",
+              "meaning_ko": "필수적인"
+            },
+            {
+              "word": "spectacular",
+              "pos": "adjective",
+              "meaning_ko": "장관인, 극적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "take priority",
+              "meaning_ko": "우선시되다"
+            },
+            {
+              "phrase": "in other words",
+              "meaning_ko": "다시 말해"
+            },
+            {
+              "phrase": "more significant than it appears",
+              "meaning_ko": "보이는 것보다 더 중요한"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why Saudi Arabia Paused Its Mirror City",
+          "body": "Imagine a city designed as a single uninterrupted line, roughly 170 kilometres long, a mere 200 metres wide, and enclosed by mirrored walls hundreds of metres high. It reads like a passage from science fiction, yet it has a concrete name: The Line. It is the most striking element of NEOM, the vast and famously ambitious development that Saudi Arabia has spent years promoting to the world.\n\nThe appeal of such a project is obvious. A futuristic city rising from the desert serves as a powerful symbol, a promise that a nation can reinvent itself and leap into the future. But symbols are expensive. Megaprojects of this magnitude consume staggering sums of money and take decades to realise. Recently, Saudi Arabia acknowledged this reality and announced that work on The Line would be slowed until after 2030.\n\nWhat the country has chosen to prioritise instead is considerably less photogenic. Rather than the mirrored city, attention and investment are now flowing toward the practical foundations of NEOM, such as utilities, energy supply, and digital connectivity, all intended to attract data centers. These are enormous, climate-controlled buildings packed with servers, and they have quietly become indispensable, because they supply the raw computing power on which artificial intelligence runs.\n\nThe deeper meaning of this pivot is easy to miss. Across the globe, governments are now competing to host data centers with the same intensity that earlier generations competed for deep-water ports, railway hubs, and manufacturing zones. Artificial intelligence, for all its apparent weightlessness, cannot exist without a physical home, and the territories that provide that home stand to gain genuine economic leverage and geopolitical influence.\n\nSeen in this light, Saudi Arabia has made a revealing trade: it has set aside a spectacular architectural dream in favour of dependable, almost invisible infrastructure. One could mourn the postponement of the mirrored city, and many will. But the decision captures something essential about the present moment. The trajectory of technology may ultimately be shaped not by audacious design, but by the unglamorous plumbing, the cables, cooling systems, and power lines, that allows artificial intelligence to function at all. Sometimes maturity means choosing the substance over the spectacle.",
+          "word_count": 361,
+          "estimated_read_seconds": 180,
+          "vocab": [
+            {
+              "word": "uninterrupted",
+              "pos": "adjective",
+              "meaning_ko": "끊김 없는, 연속된"
+            },
+            {
+              "word": "megaproject",
+              "pos": "noun",
+              "meaning_ko": "초대형 사업"
+            },
+            {
+              "word": "indispensable",
+              "pos": "adjective",
+              "meaning_ko": "없어서는 안 될"
+            },
+            {
+              "word": "photogenic",
+              "pos": "adjective",
+              "meaning_ko": "사진이 잘 받는, 보기 좋은"
+            },
+            {
+              "word": "leverage",
+              "pos": "noun",
+              "meaning_ko": "영향력, 지렛대 효과"
+            },
+            {
+              "word": "geopolitical",
+              "pos": "adjective",
+              "meaning_ko": "지정학적인"
+            },
+            {
+              "word": "audacious",
+              "pos": "adjective",
+              "meaning_ko": "대담한, 과감한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "rise from",
+              "meaning_ko": "~에서 솟아오르다"
+            },
+            {
+              "phrase": "set aside",
+              "meaning_ko": "제쳐 두다, 보류하다"
+            },
+            {
+              "phrase": "in this light",
+              "meaning_ko": "이런 관점에서 보면"
+            },
+            {
+              "phrase": "substance over spectacle",
+              "meaning_ko": "볼거리보다 실속"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-25-world-01",
+      "category": "world",
+      "title_ko": "동아프리카, 헌 옷 수입을 막으려 하지만 쉽지 않다",
+      "source_url": "https://www.bbc.com/news/articles/c2l2k5pxrgdo",
+      "source_name": "BBC News",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Where Do Your Old Clothes Really Go?",
+          "body": "Have you ever given old clothes to a shop or a box on the street? Where do they go? Many of them travel far away. A lot of used clothes from rich countries go to East Africa. People there call them mitumba. They are cheap, so many families buy them.\n\nNow some governments want to change this. They want people to buy new clothes made at home. So they have added new taxes on used clothes. But it is not easy. Millions of people sell mitumba to earn money. And new local clothes cost much more. A simple idea can become very hard in real life.",
+          "word_count": 106,
+          "estimated_read_seconds": 53,
+          "vocab": [
+            {
+              "word": "clothes",
+              "pos": "noun",
+              "meaning_ko": "옷"
+            },
+            {
+              "word": "travel",
+              "pos": "verb",
+              "meaning_ko": "이동하다, 멀리 가다"
+            },
+            {
+              "word": "cheap",
+              "pos": "adjective",
+              "meaning_ko": "값싼"
+            },
+            {
+              "word": "government",
+              "pos": "noun",
+              "meaning_ko": "정부"
+            },
+            {
+              "word": "tax",
+              "pos": "noun",
+              "meaning_ko": "세금"
+            },
+            {
+              "word": "earn",
+              "pos": "verb",
+              "meaning_ko": "(돈을) 벌다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "give away",
+              "meaning_ko": "거저 주다, 기부하다"
+            },
+            {
+              "phrase": "in real life",
+              "meaning_ko": "현실에서, 실제로는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Where Do Your Old Clothes Really Go?",
+          "body": "Have you ever dropped old clothes into a donation box and wondered where they go next? Often, they travel much further than you think. Large amounts of used clothing from wealthy countries are shipped to East Africa, where people call them mitumba.\n\nFor families on a low income, mitumba is a great deal. The clothes are cheap, and there is huge choice. In Kenya alone, around 180,000 tonnes of used clothing arrived in a single recent year.\n\nBut some governments are not happy. They worry that cheap imports stop local factories from growing, and they point to the waste these clothes create. Uganda, for example, has added a new 30% tax on used clothing to protect both local makers and the environment.\n\nThe problem is that change is difficult. Up to 4.9 million people across East Africa earn money from the mitumba trade. And local clothes simply cost more. As one shop owner explained, a customer can buy ten second-hand dresses for the price of one new local one.\n\nSo a simple-sounding plan, buy local, not used, runs into real life. Good intentions, it turns out, are only the beginning of the story.",
+          "word_count": 193,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "donation",
+              "pos": "noun",
+              "meaning_ko": "기부"
+            },
+            {
+              "word": "wealthy",
+              "pos": "adjective",
+              "meaning_ko": "부유한"
+            },
+            {
+              "word": "import",
+              "pos": "noun",
+              "meaning_ko": "수입(품)"
+            },
+            {
+              "word": "tonne",
+              "pos": "noun",
+              "meaning_ko": "톤(무게 단위)"
+            },
+            {
+              "word": "waste",
+              "pos": "noun",
+              "meaning_ko": "쓰레기, 낭비"
+            },
+            {
+              "word": "trade",
+              "pos": "noun",
+              "meaning_ko": "거래, 교역"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a great deal",
+              "meaning_ko": "아주 좋은 거래(조건)"
+            },
+            {
+              "phrase": "run into",
+              "meaning_ko": "~에 맞닥뜨리다, 부딪히다"
+            },
+            {
+              "phrase": "good intentions",
+              "meaning_ko": "좋은 의도, 선의"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Where Do Your Old Clothes Really Go?",
+          "body": "Have you ever dropped a bag of old clothes into a donation bin and felt quietly pleased with yourself? It is worth asking what happens next. Very often, those clothes begin a long journey, and a large share of them ends up in East Africa, where they are known as mitumba.\n\nFor millions of shoppers, mitumba is welcome. The clothing is inexpensive and varied, and in Kenya, now the continent's biggest importer, roughly 180,000 tonnes arrived in a single recent year, a sharp rise over the previous decade.\n\nSeveral governments, however, see a problem. They argue that a flood of cheap second-hand clothing prevents local factories from developing, and they are increasingly worried about textile waste. Uganda has responded with a new environmental tax of 30% on used clothing, hoping to encourage domestic production and protect the environment at the same time.\n\nYet curbing the trade is far harder than it sounds. Research suggests that up to 4.9 million people across East Africa depend on mitumba for their living, including traders, tailors, and transporters. Local manufacturers, meanwhile, cannot match the prices. One Tanzanian shop owner described the trap clearly: for the cost of a single new dress made locally, a customer could buy ten second-hand ones.\n\nThis is not the first attempt to limit the trade. About ten years ago, the region planned a full ban, but the effort collapsed under pressure from the United States, a major exporter of used clothing. The lesson is uncomfortable but valuable: a policy can sound sensible and still be almost impossible to carry out, because real economies are built from millions of ordinary decisions.",
+          "word_count": 271,
+          "estimated_read_seconds": 136,
+          "vocab": [
+            {
+              "word": "bin",
+              "pos": "noun",
+              "meaning_ko": "통, 수거함"
+            },
+            {
+              "word": "inexpensive",
+              "pos": "adjective",
+              "meaning_ko": "비싸지 않은"
+            },
+            {
+              "word": "domestic",
+              "pos": "adjective",
+              "meaning_ko": "국내의"
+            },
+            {
+              "word": "manufacturer",
+              "pos": "noun",
+              "meaning_ko": "제조업체"
+            },
+            {
+              "word": "curb",
+              "pos": "verb",
+              "meaning_ko": "억제하다, 제한하다"
+            },
+            {
+              "word": "textile",
+              "pos": "noun",
+              "meaning_ko": "섬유, 직물"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "pleased with yourself",
+              "meaning_ko": "스스로 흐뭇해하는"
+            },
+            {
+              "phrase": "match the prices",
+              "meaning_ko": "가격을 따라가다(맞추다)"
+            },
+            {
+              "phrase": "carry out",
+              "meaning_ko": "실행하다, 수행하다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Where Do Your Old Clothes Really Go?",
+          "body": "Have you ever dropped a bag of unwanted clothes into a donation bin and walked away with a small, comfortable sense of virtue? It is worth pausing to ask what actually happens afterwards. In many cases, those garments embark on a journey of thousands of kilometres, and a significant proportion of them arrive in East Africa, where they are widely known as mitumba.\n\nFor a great many shoppers, mitumba is something close to a blessing. The clothing is cheap, abundant, and varied, and demand is enormous. Kenya has become the continent's leading importer, taking in roughly 180,000 tonnes of used clothing in a single recent year, a figure about 76% higher than a decade earlier.\n\nA number of governments, however, regard this dependence with growing unease. They argue that an unending tide of inexpensive imports smothers local manufacturing before it can mature, and they are increasingly alarmed by the environmental cost of so much discarded textile. Uganda has acted on these concerns, imposing a new environmental levy of 30% on used clothing, stacked on top of existing duties, in the hope of nurturing domestic producers while limiting waste.\n\nCurbing the trade, however, is extraordinarily difficult, and the reasons are instructive. Research indicates that as many as 4.9 million people across East Africa earn their livelihoods from mitumba, among them importers, market traders, tailors, and transporters. Local manufacturers, for their part, simply cannot compete on price. A shop owner in Dar es Salaam captured the dilemma with painful clarity: for the price of one locally made dress, a customer could walk away with ten second-hand alternatives.\n\nNor is this the first such attempt. Roughly a decade ago, the regional bloc agreed on an ambitious plan to ban used-clothing imports outright, only to see it unravel under pressure from the United States, itself a major exporter of second-hand garments, which threatened valuable trade access. One country, Rwanda, held firm and accepted the cost; most of its neighbours did not.\n\nThe episode offers a lesson that extends well beyond fashion. A policy can be coherent, well-intentioned, and even environmentally sound, and still prove almost unworkable, because a real economy is not a diagram on a minister's desk. It is the sum of millions of small, stubborn decisions made by people trying to dress their families and earn a living. Good intentions, in the end, are merely where the hard work begins.",
+          "word_count": 398,
+          "estimated_read_seconds": 199,
+          "vocab": [
+            {
+              "word": "virtue",
+              "pos": "noun",
+              "meaning_ko": "미덕, 선행"
+            },
+            {
+              "word": "embark on",
+              "pos": "verb",
+              "meaning_ko": "(여정·일을) 시작하다"
+            },
+            {
+              "word": "abundant",
+              "pos": "adjective",
+              "meaning_ko": "풍부한"
+            },
+            {
+              "word": "unease",
+              "pos": "noun",
+              "meaning_ko": "불안감"
+            },
+            {
+              "word": "smother",
+              "pos": "verb",
+              "meaning_ko": "질식시키다, 억누르다"
+            },
+            {
+              "word": "levy",
+              "pos": "noun",
+              "meaning_ko": "부과금, 세"
+            },
+            {
+              "word": "livelihood",
+              "pos": "noun",
+              "meaning_ko": "생계"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "close to a blessing",
+              "meaning_ko": "축복에 가까운"
+            },
+            {
+              "phrase": "hold firm",
+              "meaning_ko": "입장을 굳건히 지키다"
+            },
+            {
+              "phrase": "where the hard work begins",
+              "meaning_ko": "진짜 어려운 일이 시작되는 지점"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-25-culture-01",
+      "category": "culture",
+      "title_ko": "창의성의 정의를 바꾼 1960년대 미술학교 실험",
+      "source_url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
+      "source_name": "The MIT Press Reader",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "The Art Students Who Found the Problem",
+          "body": "Imagine an art class in 1964. A student must draw a picture in one hour. On a table there are 27 objects: grapes, an old book, a glass shape, and more. The student can choose any of them.\n\nTwo researchers watched. They saw something interesting. Half the students picked a few objects fast and started to draw. They knew their idea early. The other half played for a long time. They touched things, moved them, and tried again and again.\n\nYears later, the second group did much better as artists. Why? They did not rush to answer. First, they looked for the right question. That is real creativity.",
+          "word_count": 108,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "imagine",
+              "pos": "verb",
+              "meaning_ko": "상상하다"
+            },
+            {
+              "word": "object",
+              "pos": "noun",
+              "meaning_ko": "물건, 사물"
+            },
+            {
+              "word": "choose",
+              "pos": "verb",
+              "meaning_ko": "고르다, 선택하다"
+            },
+            {
+              "word": "researcher",
+              "pos": "noun",
+              "meaning_ko": "연구자"
+            },
+            {
+              "word": "rush",
+              "pos": "verb",
+              "meaning_ko": "서두르다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a long time",
+              "meaning_ko": "오랫동안"
+            },
+            {
+              "phrase": "years later",
+              "meaning_ko": "몇 년 뒤"
+            }
+          ]
+        },
+        "B1": {
+          "title": "The Art Students Who Found the Problem",
+          "body": "Imagine an art studio in 1964. A student is given one hour to create a drawing. In front of him sits a table with 27 different objects: a bunch of grapes, an old book, a glass prism, and more. He can choose any of them. In the corner, two researchers are quietly taking notes.\n\nThis was a famous study by the psychologist Mihaly Csikszentmihalyi and his colleague. They watched 31 art students, and they noticed two very different styles.\n\nAbout half of the students chose their objects quickly and began drawing almost at once. They seemed to know their idea from the start. The other half behaved differently. They picked objects up, turned them over, changed the arrangement, and started again, sometimes exploring for nearly the whole hour.\n\nHere is the surprising part. Art experts judged that the second group produced the more original work. And five years later, those same students had become far more successful artists.\n\nThe researchers gave this behaviour a name: problem-finding. Their conclusion is powerful. Real creativity is not only about solving a problem quickly. Often, it begins much earlier, with the patience to discover which problem is worth solving at all.",
+          "word_count": 197,
+          "estimated_read_seconds": 98,
+          "vocab": [
+            {
+              "word": "studio",
+              "pos": "noun",
+              "meaning_ko": "작업실, 스튜디오"
+            },
+            {
+              "word": "prism",
+              "pos": "noun",
+              "meaning_ko": "프리즘"
+            },
+            {
+              "word": "psychologist",
+              "pos": "noun",
+              "meaning_ko": "심리학자"
+            },
+            {
+              "word": "arrangement",
+              "pos": "noun",
+              "meaning_ko": "배열, 배치"
+            },
+            {
+              "word": "original",
+              "pos": "adjective",
+              "meaning_ko": "독창적인"
+            },
+            {
+              "word": "patience",
+              "pos": "noun",
+              "meaning_ko": "인내심"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "take notes",
+              "meaning_ko": "메모하다, 필기하다"
+            },
+            {
+              "phrase": "from the start",
+              "meaning_ko": "처음부터"
+            },
+            {
+              "phrase": "here is the surprising part",
+              "meaning_ko": "놀라운 점은 이렇다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "The Art Students Who Found the Problem",
+          "body": "Imagine an art studio in 1964. A student has been given exactly one hour to complete a drawing. In front of him stands a table covered with 27 carefully chosen objects: a bunch of grapes, a steel gearshift, an antique book, a glass prism. He may use any of them, in any arrangement he likes. In the corner, a researcher watches and takes notes.\n\nThis unusual scene was part of a study led by the psychologist Mihaly Csikszentmihalyi and his colleague Jacob Getzels, who wanted to understand how artists actually create. They observed 31 students, and what they found has shaped creativity research ever since.\n\nRoughly half of the students approached the task as a problem to be solved. They selected their objects quickly, sketched a rough outline, and spent the remaining time refining a clear idea. The other half worked in a completely different way. They lingered, picking objects up and turning them over, rearranging them, switching materials, and starting again, some experimenting for nearly fifty minutes before settling on anything.\n\nIt would be easy to assume the first group was more efficient and therefore more successful. The results suggested the opposite. A panel of art critics judged that the slow, exploratory students produced the more original and compelling work. More striking still, when researchers tracked the students down five years later, those same explorers had built far more successful artistic careers.\n\nThe researchers called this quality problem-finding. The insight matters well beyond the art studio. Many of the hardest challenges we face today are not neat puzzles waiting to be solved; they are messy situations where the real difficulty is working out what the problem actually is. Sometimes the most creative act is not answering the question, but having the patience to find the right one.",
+          "word_count": 298,
+          "estimated_read_seconds": 149,
+          "vocab": [
+            {
+              "word": "gearshift",
+              "pos": "noun",
+              "meaning_ko": "변속 장치, 기어"
+            },
+            {
+              "word": "antique",
+              "pos": "adjective",
+              "meaning_ko": "골동품의, 오래된"
+            },
+            {
+              "word": "refine",
+              "pos": "verb",
+              "meaning_ko": "다듬다, 정교하게 하다"
+            },
+            {
+              "word": "linger",
+              "pos": "verb",
+              "meaning_ko": "머무르다, 지체하다"
+            },
+            {
+              "word": "exploratory",
+              "pos": "adjective",
+              "meaning_ko": "탐색하는"
+            },
+            {
+              "word": "compelling",
+              "pos": "adjective",
+              "meaning_ko": "강렬한, 설득력 있는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "approach a task as",
+              "meaning_ko": "어떤 과제를 ~로 받아들이다(대하다)"
+            },
+            {
+              "phrase": "the opposite",
+              "meaning_ko": "그 반대"
+            },
+            {
+              "phrase": "well beyond",
+              "meaning_ko": "~을 훨씬 넘어서"
+            }
+          ]
+        },
+        "C1": {
+          "title": "The Art Students Who Found the Problem",
+          "body": "Imagine an art studio in 1964. A student has been allotted exactly one hour to complete a drawing. Before him stands a table arranged with 27 deliberately chosen objects: a bunch of grapes, a steel gearshift, an antique book, a glass prism. He is free to select any of them, move them to an empty table, arrange them however he wishes, and begin. In the corner, a researcher observes in silence, recording every decision.\n\nThis carefully staged scene was part of a now-celebrated study conducted by the psychologist Mihaly Csikszentmihalyi and his colleague Jacob Getzels, who set out to understand how artists genuinely approach the act of creation. They watched 31 students complete the same exercise, and the pattern they uncovered has influenced creativity research for half a century.\n\nRoughly half of the students treated the assignment as a problem to be solved. They chose their objects briskly, committed to a composition, sketched a rough outline, and devoted the remaining time to refining an idea they had essentially settled on from the outset. The other half proceeded in an entirely different spirit. They lingered and explored, lifting objects, turning them over, rearranging them, abandoning one material for another, erasing and beginning again. Some of them experimented for nearly fifty minutes and then had to rush to produce anything at all by the deadline.\n\nAn observer might reasonably have predicted that the decisive, efficient students would fare better. The evidence pointed firmly in the other direction. A panel of art critics judged that the slow, searching students had produced the more original and aesthetically compelling work. More remarkably, when the researchers traced the students five years after graduation, it was the explorers who had established the more successful artistic careers; among the eleven students who had explored the least, eight had abandoned art altogether.\n\nCsikszentmihalyi gave this elusive quality a name: problem-finding. Its significance reaches far beyond the art studio. The most consequential challenges of our era, the so-called wicked problems of climate, technology, and society, are rarely tidy puzzles awaiting a clever solution. They are ambiguous, shifting situations in which the genuine difficulty lies in determining what the problem even is. The study's quiet lesson is therefore strangely liberating. Creativity, at its deepest level, is not the speed with which we answer a question, but the patience and courage to keep searching until we have found the question worth answering.",
+          "word_count": 400,
+          "estimated_read_seconds": 200,
+          "vocab": [
+            {
+              "word": "allot",
+              "pos": "verb",
+              "meaning_ko": "할당하다, 배정하다"
+            },
+            {
+              "word": "deliberately",
+              "pos": "adverb",
+              "meaning_ko": "의도적으로"
+            },
+            {
+              "word": "briskly",
+              "pos": "adverb",
+              "meaning_ko": "빠르고 활기차게"
+            },
+            {
+              "word": "composition",
+              "pos": "noun",
+              "meaning_ko": "(작품의) 구성"
+            },
+            {
+              "word": "aesthetically",
+              "pos": "adverb",
+              "meaning_ko": "미적으로"
+            },
+            {
+              "word": "ambiguous",
+              "pos": "adjective",
+              "meaning_ko": "모호한"
+            },
+            {
+              "word": "liberating",
+              "pos": "adjective",
+              "meaning_ko": "해방감을 주는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "set out to",
+              "meaning_ko": "~하려고 나서다, 착수하다"
+            },
+            {
+              "phrase": "point in the other direction",
+              "meaning_ko": "정반대를 가리키다"
+            },
+            {
+              "phrase": "fare better",
+              "meaning_ko": "더 잘 해내다"
+            },
+            {
+              "phrase": "reach far beyond",
+              "meaning_ko": "~을 훨씬 넘어 미치다"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
