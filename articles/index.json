@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-27T12:47:03.459058+00:00",
+  "updated_at": "2026-05-27T15:21:38.673263+00:00",
   "available_levels": [
     "A2",
     "B1",
@@ -15,6 +15,17 @@
     "speaking"
   ],
   "dates": [
+    {
+      "date": "2026-05-28",
+      "topic_count": 5,
+      "categories": [
+        "academic_science",
+        "academic_humanities",
+        "cs_concepts",
+        "backend_systems",
+        "speaking"
+      ]
+    },
     {
       "date": "2026-05-27",
       "topic_count": 5,

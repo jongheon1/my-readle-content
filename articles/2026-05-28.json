@@ -1,0 +1,1116 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-28",
+  "topics": [
+    {
+      "topic_id": "2026-05-28-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "왜 우리는 잠을 자야 하는가",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why we need to sleep",
+          "body": "Have you ever felt very tired after a bad night of sleep? Almost everyone has. But why do we even need sleep? Why can't we just rest?\n\nSleep is more than just rest. While you sleep, your brain is busy. It cleans itself. It also saves what you learned that day. That is why students who sleep more often do better on tests.\n\nSleep is also good for your body. Your muscles grow. Your heart gets a break. If you do not sleep enough, you get sick more easily. So sleep is not lazy time. It is one of the most important jobs your body does every day.",
+          "word_count": 108,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "tired",
+              "pos": "adjective",
+              "meaning_ko": "피곤한"
+            },
+            {
+              "word": "brain",
+              "pos": "noun",
+              "meaning_ko": "뇌"
+            },
+            {
+              "word": "body",
+              "pos": "noun",
+              "meaning_ko": "몸"
+            },
+            {
+              "word": "sick",
+              "pos": "adjective",
+              "meaning_ko": "아픈"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "have you ever",
+              "meaning_ko": "~해 본 적 있나요"
+            },
+            {
+              "phrase": "more than just",
+              "meaning_ko": "단지 ~ 이상의"
+            },
+            {
+              "phrase": "every day",
+              "meaning_ko": "매일"
+            },
+            {
+              "phrase": "do better on tests",
+              "meaning_ko": "시험을 더 잘 보다"
+            },
+            {
+              "phrase": "get sick more easily",
+              "meaning_ko": "더 쉽게 아프다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why we need to sleep",
+          "body": "Have you ever woken up after a bad night and felt slow, foggy, and a bit grumpy? Most of us have. But why do we even need to sleep? On the surface, it seems like a strange thing for a body to do — being switched off for eight hours every day.\n\nThe truth is that sleep is one of the busiest times for your brain. While you lie quietly with your eyes closed, your brain is actively cleaning out waste, sorting through everything you saw and did during the day, and quietly moving important memories from short-term storage into long-term storage. That is the main reason students who sleep enough usually do better on tests.\n\nYour body is also working hard. Muscles repair small injuries. Your heart slows down and rests. Hormones that help you grow and fight illness are released. If you skip sleep too often, your immune system weakens and you really do get sick more easily.\n\nSo when someone says sleep is wasted time, they have it backwards. Sleep is when some of the most important work in your body and brain quietly happens.",
+          "word_count": 188,
+          "estimated_read_seconds": 94,
+          "vocab": [
+            {
+              "word": "foggy",
+              "pos": "adjective",
+              "meaning_ko": "머리가 멍한"
+            },
+            {
+              "word": "waste",
+              "pos": "noun",
+              "meaning_ko": "노폐물, 쓰레기"
+            },
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "기억"
+            },
+            {
+              "word": "immune",
+              "pos": "adjective",
+              "meaning_ko": "면역의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "on the surface",
+              "meaning_ko": "겉으로 보기에는"
+            },
+            {
+              "phrase": "lie quietly with your eyes closed",
+              "meaning_ko": "눈을 감고 가만히 누워 있다"
+            },
+            {
+              "phrase": "short-term storage",
+              "meaning_ko": "단기 저장소"
+            },
+            {
+              "phrase": "long-term storage",
+              "meaning_ko": "장기 저장소"
+            },
+            {
+              "phrase": "skip sleep",
+              "meaning_ko": "잠을 거르다"
+            },
+            {
+              "phrase": "they have it backwards",
+              "meaning_ko": "거꾸로 알고 있는 것이다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why we need to sleep",
+          "body": "Have you ever woken up after a bad night and spent the morning feeling slow, foggy, and a little short-tempered with everyone around you? Almost all of us have. But it raises a strange question: why do we need to sleep at all? On the surface, sleep looks like a deeply impractical thing for a body to do — going almost completely offline for eight hours every single day, defenseless and unconscious.\n\nThe honest answer is that sleep is one of the busiest periods of your brain's entire day. While you lie there with your eyes closed, neurons are firing in complex patterns, the brain is flushing out waste products that build up while you are awake, and crucially, important memories are being moved from short-term storage into more permanent long-term storage. This is one big reason students who sleep adequately tend to perform better on exams than students who study an extra hour at the cost of an hour of sleep.\n\nYour body, meanwhile, is hardly idle either. Muscles repair the small injuries of the day. Your heart rate slows and gives the cardiovascular system a long, quiet break. Hormones related to growth and immune defense are released in carefully timed pulses. When sleep is repeatedly cut short, the immune system weakens, mood regulation deteriorates, and the risk of long-term problems like obesity, depression, and certain cardiovascular diseases climbs.\n\nSo the cultural idea that sleep is wasted time, or that successful people simply need less of it, has it almost exactly backwards. Sleep is the period during which some of the most important biological and cognitive work in your day is quietly being done — without it, none of the other hours really work properly.",
+          "word_count": 286,
+          "estimated_read_seconds": 143,
+          "vocab": [
+            {
+              "word": "neuron",
+              "pos": "noun",
+              "meaning_ko": "뉴런, 신경세포"
+            },
+            {
+              "word": "cardiovascular",
+              "pos": "adjective",
+              "meaning_ko": "심혈관의"
+            },
+            {
+              "word": "regulation",
+              "pos": "noun",
+              "meaning_ko": "조절"
+            },
+            {
+              "word": "deteriorate",
+              "pos": "verb",
+              "meaning_ko": "악화되다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "going almost completely offline",
+              "meaning_ko": "거의 완전히 오프라인 상태로 들어가는"
+            },
+            {
+              "phrase": "at the cost of",
+              "meaning_ko": "~을 희생하면서"
+            },
+            {
+              "phrase": "hardly idle either",
+              "meaning_ko": "그것도 결코 한가하지 않은"
+            },
+            {
+              "phrase": "in carefully timed pulses",
+              "meaning_ko": "정교하게 시간이 맞춰진 파동으로"
+            },
+            {
+              "phrase": "has it almost exactly backwards",
+              "meaning_ko": "거의 정반대로 알고 있는 것이다"
+            },
+            {
+              "phrase": "without it, none of the other hours really work properly",
+              "meaning_ko": "이것 없이는 나머지 시간들이 제대로 작동하지 않는다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why we need to sleep",
+          "body": "Have you ever woken up after a bad night and spent the morning feeling slow, foggy, and slightly resentful of everyone who chose to speak to you before nine? Most of us have. But it raises a peculiar question that is easy to overlook: why do we need to sleep at all? On the surface, sleep looks like an almost absurd thing for a body to do — going effectively offline for eight hours every single day, paralyzed, defenseless, and unconscious of the world.\n\nThe honest answer, which neuroscience has only properly begun to uncover in the last few decades, is that sleep is one of the most active and intricate periods of your brain's entire day. While you lie there apparently inert, neurons are firing in elaborate, coordinated patterns. The brain is flushing out metabolic waste that accumulates while you are awake, including proteins associated with diseases like Alzheimer's. Crucially, important memories from the day are being selectively transferred from short-term storage into more durable long-term storage, while irrelevant noise is quietly discarded. This is one of the most well-documented reasons why students who sleep adequately consistently outperform peers who trade an hour of sleep for an extra hour of study.\n\nYour body, meanwhile, is hardly passive. Muscles repair the microscopic injuries accumulated during the day. The cardiovascular system enters a state of relative rest, with reduced heart rate and blood pressure. Hormones associated with growth, appetite regulation, and immune defense are released in carefully orchestrated pulses tied to specific sleep stages. When sleep is chronically truncated, almost every one of these systems suffers — immunity weakens, emotional regulation deteriorates, and the long-term risk of obesity, depression, and certain cardiovascular conditions climbs measurably.\n\nPerhaps the most counterintuitive finding is how stubborn this requirement is. Caffeine, willpower, and clever scheduling can mask the symptoms of sleep deprivation for a while, but they cannot replace the underlying biological work. Sleep is not a stretch of inactivity inserted to fill the boring hours of darkness; it is a precisely organized state during which an enormous amount of essential maintenance, consolidation, and repair quietly takes place. In a real sense, you are not wasting eight hours when you sleep — you are buying the other sixteen.",
+          "word_count": 373,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "inert",
+              "pos": "adjective",
+              "meaning_ko": "활동을 멈춘, 비활성의"
+            },
+            {
+              "word": "metabolic",
+              "pos": "adjective",
+              "meaning_ko": "신진대사의"
+            },
+            {
+              "word": "orchestrated",
+              "pos": "adjective",
+              "meaning_ko": "정교하게 조율된"
+            },
+            {
+              "word": "truncated",
+              "pos": "adjective",
+              "meaning_ko": "잘려 짧아진"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in the last few decades",
+              "meaning_ko": "지난 수십 년 사이에"
+            },
+            {
+              "phrase": "trade an hour of sleep for an extra hour of study",
+              "meaning_ko": "잠 한 시간을 공부 한 시간과 맞바꾸다"
+            },
+            {
+              "phrase": "in carefully orchestrated pulses",
+              "meaning_ko": "정교하게 조율된 파동으로"
+            },
+            {
+              "phrase": "almost every one of these systems suffers",
+              "meaning_ko": "이 모든 시스템이 거의 다 손상된다"
+            },
+            {
+              "phrase": "a stretch of inactivity",
+              "meaning_ko": "활동이 없는 시간대"
+            },
+            {
+              "phrase": "you are buying the other sixteen",
+              "meaning_ko": "나머지 16시간을 사는 셈이다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-28-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "돈은 어떻게 발명되었는가",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How money was invented",
+          "body": "A long time ago, people did not use money. They traded things. A farmer with eggs could give them to a baker for bread. This is called barter.\n\nBut there was a problem. What if the baker did not want eggs that day? Then the farmer could not get bread.\n\nSo people had a new idea. They picked one thing that everyone liked. It was easy to carry, and it did not break. Often, it was shells or small pieces of metal. This became money. With money, you could sell anything and buy anything. It made trade much easier for everyone.",
+          "word_count": 101,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "trade",
+              "pos": "verb",
+              "meaning_ko": "거래하다"
+            },
+            {
+              "word": "bread",
+              "pos": "noun",
+              "meaning_ko": "빵"
+            },
+            {
+              "word": "problem",
+              "pos": "noun",
+              "meaning_ko": "문제"
+            },
+            {
+              "word": "shell",
+              "pos": "noun",
+              "meaning_ko": "조개껍데기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a long time ago",
+              "meaning_ko": "오래 전에"
+            },
+            {
+              "phrase": "this is called",
+              "meaning_ko": "이것을 ~라고 한다"
+            },
+            {
+              "phrase": "what if",
+              "meaning_ko": "만약 ~라면"
+            },
+            {
+              "phrase": "a new idea",
+              "meaning_ko": "새로운 생각"
+            },
+            {
+              "phrase": "much easier",
+              "meaning_ko": "훨씬 더 쉬운"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How money was invented",
+          "body": "A long time ago, people did not have money at all. To get what they needed, they used a system called barter. A farmer with extra eggs might trade them with a baker for some bread, or with a shoemaker for a new pair of shoes.\n\nThis sounds simple, but it had a frustrating problem. What if the baker did not want eggs that day? The farmer had to find someone who wanted eggs and also had bread, on the same day. That kind of perfect match was rare.\n\nTo solve this, people slowly came up with a clever idea. They chose one thing that almost everyone wanted, that was easy to carry, and that did not go bad. In different parts of the world, this was salt, small shells, animals, or small pieces of metal. Over time, gold and silver became the most popular choice.\n\nThis was the beginning of money. With money, the farmer could sell his eggs to anyone, get coins, and then buy bread or shoes later — even from a different person. In one quiet step, trade became thousands of times easier, and our whole modern economy can trace its roots back to this small invention.",
+          "word_count": 201,
+          "estimated_read_seconds": 100,
+          "vocab": [
+            {
+              "word": "barter",
+              "pos": "noun",
+              "meaning_ko": "물물 교환"
+            },
+            {
+              "word": "frustrating",
+              "pos": "adjective",
+              "meaning_ko": "답답한, 짜증나는"
+            },
+            {
+              "word": "clever",
+              "pos": "adjective",
+              "meaning_ko": "기발한"
+            },
+            {
+              "word": "coin",
+              "pos": "noun",
+              "meaning_ko": "동전"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "trade them with X for Y",
+              "meaning_ko": "Y와 바꾸려고 X와 그것을 거래하다"
+            },
+            {
+              "phrase": "perfect match",
+              "meaning_ko": "딱 맞는 짝"
+            },
+            {
+              "phrase": "came up with a clever idea",
+              "meaning_ko": "기발한 아이디어를 떠올렸다"
+            },
+            {
+              "phrase": "over time",
+              "meaning_ko": "시간이 지나면서"
+            },
+            {
+              "phrase": "in one quiet step",
+              "meaning_ko": "조용히 한 걸음에"
+            },
+            {
+              "phrase": "trace its roots back to",
+              "meaning_ko": "그 뿌리를 ~까지 거슬러 올라가다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How money was invented",
+          "body": "For most of human history, people did not use money. To exchange what they had for what they needed, they relied on a system called barter. A farmer with extra eggs could trade them with a baker for bread, or with a weaver for cloth. On paper, this sounds simple and even charming.\n\nIn practice, barter had a stubborn problem economists call the double coincidence of wants. For a trade to happen, two people had to want exactly what the other was offering, in roughly the right amount, on the same day. The farmer with eggs had to find a baker who happened to want eggs at that moment and also happened to have bread to spare. As communities grew and the variety of goods exploded, this became more and more impractical.\n\nThe solution, which seems to have emerged independently in many different cultures, was to choose a single item that almost everyone was willing to accept. Different societies picked different things: salt in parts of Africa, small shells in coastal regions, cattle in pastoral cultures, and eventually small pieces of metal almost everywhere. The key qualities were always the same — the item had to be durable, easy to carry, hard to fake, and broadly desired.\n\nOver centuries, this commodity money slowly became standardized into coins, then paper notes, and now digital balances on a screen. But the underlying idea is unchanged. Money is, at its core, an agreement: a shared promise that this token can be exchanged later for something useful. That quiet agreement is what allows a farmer in one country to buy a phone made in another, by people he will never meet.",
+          "word_count": 277,
+          "estimated_read_seconds": 138,
+          "vocab": [
+            {
+              "word": "commodity",
+              "pos": "noun",
+              "meaning_ko": "상품, 원자재"
+            },
+            {
+              "word": "pastoral",
+              "pos": "adjective",
+              "meaning_ko": "목축의"
+            },
+            {
+              "word": "durable",
+              "pos": "adjective",
+              "meaning_ko": "내구성 있는"
+            },
+            {
+              "word": "token",
+              "pos": "noun",
+              "meaning_ko": "증표, 토큰"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "on paper",
+              "meaning_ko": "이론상으로는, 서류상으로는"
+            },
+            {
+              "phrase": "in practice",
+              "meaning_ko": "실제로는"
+            },
+            {
+              "phrase": "to spare",
+              "meaning_ko": "남는, 여분의"
+            },
+            {
+              "phrase": "almost everyone was willing to accept",
+              "meaning_ko": "거의 모두가 받아들일 의향이 있는"
+            },
+            {
+              "phrase": "is, at its core",
+              "meaning_ko": "그 핵심에 있어서는"
+            },
+            {
+              "phrase": "a shared promise",
+              "meaning_ko": "공유된 약속"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How money was invented",
+          "body": "For most of human history, people had no money in any form recognizable today. To exchange what they had for what they needed, they relied on a system we now call barter. A farmer with surplus eggs could trade them with a baker for bread, or with a weaver for a length of cloth. Described in those terms, the system sounds almost idyllic — direct, personal, and refreshingly free of the abstractions of modern finance.\n\nIn practice, however, barter ran into a stubborn obstacle that economists have given the rather charming name of the double coincidence of wants. For any trade to occur, two people had to want precisely what the other was offering, in roughly the right quantities, at roughly the same time. The farmer with eggs to spare had to find a baker who happened to want eggs that day and also happened to have bread he was willing to part with. As communities grew larger and the variety of goods on offer multiplied, this coincidence became increasingly unlikely — and the system increasingly hopeless.\n\nThe solution, which emerged independently across many different cultures, was to settle on a single item that almost everyone was willing to accept in payment. Different societies converged on different choices: salt in parts of Africa, cowrie shells along coastlines, cattle in pastoral economies, and eventually small standardized pieces of metal almost everywhere. The qualities that distinguished the successful candidates were always the same — durability, portability, divisibility, resistance to counterfeiting, and a broad social consensus that the item was worth accepting.\n\nOver the centuries, this commodity money was gradually refined into coins, then into paper notes backed by precious metal, then into purely fiat currency, and most recently into digital balances stored as entries on a computer. The technologies have shifted dramatically; the underlying idea has not. Money, at its philosophical core, is an agreement — a shared, almost theatrical promise that a particular token can later be exchanged for something genuinely useful. The thing in your wallet has no intrinsic worth; it has only the worth that a society has agreed to give it.\n\nThat quiet, ancient agreement is what allows a farmer in one country to buy a phone manufactured in another by workers and engineers he will never meet, mediated by institutions whose names he may not know. Almost everything we recognize as modern economic life rests on this remarkable, fragile, and largely invisible consensus.",
+          "word_count": 406,
+          "estimated_read_seconds": 203,
+          "vocab": [
+            {
+              "word": "idyllic",
+              "pos": "adjective",
+              "meaning_ko": "목가적인, 이상적인"
+            },
+            {
+              "word": "fiat",
+              "pos": "adjective",
+              "meaning_ko": "(가치를) 명령으로 정한, 신용에 의한"
+            },
+            {
+              "word": "counterfeiting",
+              "pos": "noun",
+              "meaning_ko": "위조"
+            },
+            {
+              "word": "intrinsic",
+              "pos": "adjective",
+              "meaning_ko": "본질적인, 고유한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in any form recognizable today",
+              "meaning_ko": "오늘날 우리가 알아볼 수 있는 어떤 형태로도"
+            },
+            {
+              "phrase": "ran into a stubborn obstacle",
+              "meaning_ko": "끈질긴 장애물에 부딪혔다"
+            },
+            {
+              "phrase": "converged on different choices",
+              "meaning_ko": "서로 다른 선택지로 수렴했다"
+            },
+            {
+              "phrase": "almost theatrical promise",
+              "meaning_ko": "거의 연극적인 약속"
+            },
+            {
+              "phrase": "intrinsic worth",
+              "meaning_ko": "본질적 가치"
+            },
+            {
+              "phrase": "largely invisible consensus",
+              "meaning_ko": "대체로 눈에 보이지 않는 합의"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-28-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "TCP는 어떻게 신뢰성 있는 전송을 보장하는가",
+      "source_url": null,
+      "source_name": "Generated · CS 핵심 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How TCP guarantees reliable delivery",
+          "body": "When you send a message on your phone, it must travel through the internet. The internet is busy and messy. Sometimes pieces of your message get lost. Sometimes they arrive in the wrong order.\n\nHow can your message still be perfect at the end? The answer is a clever set of rules called TCP. Your message is cut into small pieces. Each piece has a number. When all the pieces arrive, the computer puts them back in order.\n\nIf a piece is missing, the computer asks for it again. So in the end, every word of your message arrives, in the right order. That is how the internet stays reliable.",
+          "word_count": 110,
+          "estimated_read_seconds": 55,
+          "vocab": [
+            {
+              "word": "message",
+              "pos": "noun",
+              "meaning_ko": "메시지"
+            },
+            {
+              "word": "piece",
+              "pos": "noun",
+              "meaning_ko": "조각"
+            },
+            {
+              "word": "number",
+              "pos": "noun",
+              "meaning_ko": "숫자"
+            },
+            {
+              "word": "order",
+              "pos": "noun",
+              "meaning_ko": "순서"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "travel through the internet",
+              "meaning_ko": "인터넷을 통해 이동하다"
+            },
+            {
+              "phrase": "in the wrong order",
+              "meaning_ko": "잘못된 순서로"
+            },
+            {
+              "phrase": "a clever set of rules",
+              "meaning_ko": "영리한 규칙들"
+            },
+            {
+              "phrase": "ask for it again",
+              "meaning_ko": "다시 요청하다"
+            },
+            {
+              "phrase": "in the right order",
+              "meaning_ko": "올바른 순서로"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How TCP guarantees reliable delivery",
+          "body": "When you send a message on your phone, it has to travel across the internet, sometimes around the whole world. The internet is a wild place. Packages of data can get lost, arrive late, or even arrive in the wrong order. So how does your message always look perfect on the other side?\n\nThe answer is a clever protocol called TCP. The idea is simple. Your message is cut into small pieces, called packets. Each packet is given a number, like pages in a book.\n\nThe computer on the other side collects the packets and puts them back in order using those numbers. After receiving each one, it sends back a small \"got it\" message. If your computer does not hear back after a short time, it sends the missing packet again.\n\nThe result is quietly amazing. Even though packets are lost or out of order constantly under the surface, your message — every word and every emoji — always arrives complete and in the right order. TCP is the patient, polite layer that turns a chaotic network into the reliable internet we take for granted.",
+          "word_count": 186,
+          "estimated_read_seconds": 93,
+          "vocab": [
+            {
+              "word": "protocol",
+              "pos": "noun",
+              "meaning_ko": "프로토콜, 통신 규약"
+            },
+            {
+              "word": "packet",
+              "pos": "noun",
+              "meaning_ko": "패킷, 데이터 조각"
+            },
+            {
+              "word": "patient",
+              "pos": "adjective",
+              "meaning_ko": "인내심 있는"
+            },
+            {
+              "word": "reliable",
+              "pos": "adjective",
+              "meaning_ko": "신뢰할 수 있는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "around the whole world",
+              "meaning_ko": "전 세계를 돌아"
+            },
+            {
+              "phrase": "a wild place",
+              "meaning_ko": "정신없는 곳"
+            },
+            {
+              "phrase": "like pages in a book",
+              "meaning_ko": "책의 페이지처럼"
+            },
+            {
+              "phrase": "puts them back in order",
+              "meaning_ko": "다시 순서대로 정리한다"
+            },
+            {
+              "phrase": "under the surface",
+              "meaning_ko": "겉으로 드러나지 않게, 안쪽에서"
+            },
+            {
+              "phrase": "we take for granted",
+              "meaning_ko": "우리가 당연하게 여기는"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How TCP guarantees reliable delivery",
+          "body": "Every time you send a message, load a webpage, or stream a video, your data has to travel across the internet, often jumping through many machines on the way. That underlying network is surprisingly chaotic. Packets of data can be lost, delayed, duplicated, or arrive in a completely different order than they were sent. So how does your message always look perfect when it arrives on the other side?\n\nThe answer is a quiet but ingenious protocol called TCP, the Transmission Control Protocol. The basic idea is straightforward. Your data is first cut into small chunks called packets, and each packet is stamped with a sequence number that says exactly where it belongs in the original message.\n\nOn the receiving side, the computer collects the packets as they arrive and uses those sequence numbers to reassemble them in the correct order. For every packet it successfully receives, it sends a tiny acknowledgement back to the sender. If the sender does not receive an acknowledgement for a particular packet within a certain time, it simply assumes the packet was lost and sends it again.\n\nTCP layers a few more clever ideas on top of this. It adjusts how fast it sends packets based on how the network is behaving — slowing down when there is congestion, speeding up again when the path clears. It also detects whether data has been corrupted in transit using small checksums.\n\nThe end result is genuinely remarkable. Underneath the surface, the internet is constantly losing, reordering, and corrupting little pieces of your data. Above the surface, you experience web pages that load completely, files that download without errors, and messages that arrive in the right order. TCP is the patient, polite negotiator that turns a fundamentally unreliable network into the reliable internet we now take for granted.",
+          "word_count": 301,
+          "estimated_read_seconds": 150,
+          "vocab": [
+            {
+              "word": "ingenious",
+              "pos": "adjective",
+              "meaning_ko": "기발한, 독창적인"
+            },
+            {
+              "word": "sequence",
+              "pos": "noun",
+              "meaning_ko": "순서, 일련번호"
+            },
+            {
+              "word": "acknowledgement",
+              "pos": "noun",
+              "meaning_ko": "수신 확인"
+            },
+            {
+              "word": "congestion",
+              "pos": "noun",
+              "meaning_ko": "혼잡"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "jumping through many machines",
+              "meaning_ko": "여러 기계를 거쳐"
+            },
+            {
+              "phrase": "first cut into small chunks",
+              "meaning_ko": "먼저 작은 조각으로 잘리다"
+            },
+            {
+              "phrase": "stamped with a sequence number",
+              "meaning_ko": "순서 번호가 찍힌"
+            },
+            {
+              "phrase": "based on how the network is behaving",
+              "meaning_ko": "네트워크 상태에 따라"
+            },
+            {
+              "phrase": "in transit",
+              "meaning_ko": "전송 중에"
+            },
+            {
+              "phrase": "the patient, polite negotiator",
+              "meaning_ko": "참을성 있고 정중한 협상가"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How TCP guarantees reliable delivery",
+          "body": "Every time you send a chat message, load a webpage, or stream a video, the data involved has to travel across an underlying network that is, frankly, a great deal messier than its outward appearance suggests. Packets routinely get lost, delayed, duplicated, or arrive in a completely different order from the one in which they were sent. The interesting question, then, is how your message always appears intact and in the right order on the other side.\n\nThe answer is a quietly brilliant protocol known as TCP — the Transmission Control Protocol — which sits as a kind of polite, patient negotiator between your applications and the chaos of the network below. The fundamental idea is conceptually simple. Your data is first chopped into small chunks called packets, and each packet is stamped with a sequence number indicating exactly where it belongs in the overall stream.\n\nOn the receiving side, the computer collects packets as they trickle in and uses those sequence numbers to reassemble the original message in correct order, regardless of the sequence in which the packets actually arrived. For every packet that lands successfully, the receiver sends a small acknowledgement, often called an ACK, back to the sender. If the sender fails to hear an acknowledgement for a particular packet within a certain timeout, it makes the reasonable assumption that the packet was lost in transit and quietly retransmits it.\n\nTCP layers several other elegant ideas on top of this core mechanism. Through algorithms collectively known as congestion control, it adjusts its sending rate based on signals from the network, throttling down when it detects congestion and ramping back up as the path clears, in order to share bandwidth fairly with other connections. It uses small mathematical checksums to detect corruption in flight, and it manages a sliding window of unacknowledged packets so that data can keep flowing without waiting for each individual confirmation.\n\nThe end result is, when you stop to think about it, genuinely impressive. Underneath, the internet is continuously losing, reordering, and occasionally garbling pieces of your data. On top, you experience web pages that load completely, files that download without corruption, and conversations that read in the order they were typed. TCP is the unsung negotiator that quietly turns a fundamentally unreliable substrate into the reliable, ordered, error-checked channel that nearly every modern application depends on.",
+          "word_count": 393,
+          "estimated_read_seconds": 196,
+          "vocab": [
+            {
+              "word": "substrate",
+              "pos": "noun",
+              "meaning_ko": "기반, 토대"
+            },
+            {
+              "word": "retransmit",
+              "pos": "verb",
+              "meaning_ko": "재전송하다"
+            },
+            {
+              "word": "throttle",
+              "pos": "verb",
+              "meaning_ko": "속도를 조절하다, 줄이다"
+            },
+            {
+              "word": "unsung",
+              "pos": "adjective",
+              "meaning_ko": "잘 알려지지 않은, 무명의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "frankly, a great deal messier",
+              "meaning_ko": "솔직히 훨씬 더 어수선한"
+            },
+            {
+              "phrase": "sits as a kind of polite, patient negotiator",
+              "meaning_ko": "정중하고 인내심 있는 협상가처럼 자리하다"
+            },
+            {
+              "phrase": "in flight",
+              "meaning_ko": "전송 중에"
+            },
+            {
+              "phrase": "in order to share bandwidth fairly",
+              "meaning_ko": "대역폭을 공평하게 나누기 위해"
+            },
+            {
+              "phrase": "when you stop to think about it",
+              "meaning_ko": "잠시 멈추고 생각해 보면"
+            },
+            {
+              "phrase": "the unsung negotiator",
+              "meaning_ko": "잘 알려지지 않은 협상가"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-28-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "Idempotency key란 무엇인가",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 실무",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is an idempotency key",
+          "body": "Imagine you press a buy button online, but the page is slow. So you press it again. Did you just buy two things by mistake?\n\nThis is a real problem for engineers. To fix it, they use a small idea called an idempotency key. It is a short, unique code that goes with your request, like a ticket number.\n\nThe first time the server sees this key, it does the work. The second time it sees the same key, it just says \"already done\" and ignores the request. So you only buy one thing, no matter how many times you press the button. It is a quiet protection most apps use.",
+          "word_count": 111,
+          "estimated_read_seconds": 56,
+          "vocab": [
+            {
+              "word": "button",
+              "pos": "noun",
+              "meaning_ko": "버튼"
+            },
+            {
+              "word": "slow",
+              "pos": "adjective",
+              "meaning_ko": "느린"
+            },
+            {
+              "word": "code",
+              "pos": "noun",
+              "meaning_ko": "코드, 부호"
+            },
+            {
+              "word": "already",
+              "pos": "adverb",
+              "meaning_ko": "이미"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "imagine you",
+              "meaning_ko": "~한다고 상상해 보라"
+            },
+            {
+              "phrase": "by mistake",
+              "meaning_ko": "실수로"
+            },
+            {
+              "phrase": "a small idea called",
+              "meaning_ko": "~라고 불리는 작은 아이디어"
+            },
+            {
+              "phrase": "no matter how many times",
+              "meaning_ko": "몇 번을 ~하더라도"
+            },
+            {
+              "phrase": "most apps use",
+              "meaning_ko": "대부분의 앱이 사용하는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is an idempotency key",
+          "body": "Imagine you click a Pay button on a shopping website, but the page does not respond quickly. After a few seconds, you start to wonder if it worked. You click again, just in case. Did you just charge your card twice?\n\nThis is a real and serious problem in backend systems, and engineers solve it with a clever idea called an idempotency key. The idea is simple. Every time the app sends a request that should only happen once — like a payment or a transfer — it attaches a small unique code, like a ticket number.\n\nThe server keeps a short memory of recent keys. The first time it sees a particular key, it does the work and stores the result. If the same key arrives a second time, the server sees that the work is already done. Instead of doing it again, it returns the same result as before.\n\nThe user feels nothing different. From their point of view, the request just succeeded. But behind the scenes, that small key protected them from a duplicate charge or a duplicate order. It is one of those quiet ideas that almost every serious backend system uses, even though most users have never heard of it.",
+          "word_count": 205,
+          "estimated_read_seconds": 102,
+          "vocab": [
+            {
+              "word": "charge",
+              "pos": "verb",
+              "meaning_ko": "(요금을) 청구하다"
+            },
+            {
+              "word": "unique",
+              "pos": "adjective",
+              "meaning_ko": "고유한"
+            },
+            {
+              "word": "duplicate",
+              "pos": "adjective",
+              "meaning_ko": "중복된"
+            },
+            {
+              "word": "transfer",
+              "pos": "noun",
+              "meaning_ko": "송금, 이체"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "just in case",
+              "meaning_ko": "혹시 모르니까, 만일을 대비해"
+            },
+            {
+              "phrase": "a real and serious problem",
+              "meaning_ko": "진짜 심각한 문제"
+            },
+            {
+              "phrase": "should only happen once",
+              "meaning_ko": "한 번만 일어나야 하는"
+            },
+            {
+              "phrase": "a short memory of",
+              "meaning_ko": "~의 짧은 기억"
+            },
+            {
+              "phrase": "from their point of view",
+              "meaning_ko": "그들의 관점에서는"
+            },
+            {
+              "phrase": "behind the scenes",
+              "meaning_ko": "무대 뒤에서, 보이지 않는 곳에서"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is an idempotency key",
+          "body": "Imagine you click the Pay button on a shopping site, but the page hangs for a few seconds. Worried, you click again. Did you just charge your credit card twice?\n\nThis is one of the oldest and most stressful problems in backend engineering. Networks are unreliable, browsers retry, mobile apps lose connections at exactly the wrong moment, and the same request can quietly arrive at a server two or three times. The trick that most modern systems use to handle this is called an idempotency key.\n\nThe idea is conceptually small but profoundly useful. Whenever the client sends a request that should produce a real-world side effect — charging a card, sending a transfer, creating an order — it generates a short unique code, called an idempotency key, and attaches it to the request. The first time the server sees this key, it executes the operation and stores the result alongside the key in a short-lived cache. If the same key shows up again — because the network glitched, the user clicked twice, or the app silently retried — the server recognizes it, skips re-executing the operation, and simply returns the original stored result.\n\nFrom the user's perspective, nothing dramatic happens. They see a successful confirmation, exactly as they would have without any of this machinery. From the engineer's perspective, however, the small key just turned a potentially catastrophic duplicate charge into a quiet no-op.\n\nIdempotency keys have become a quiet standard in payment APIs, message queues, and almost any system that sits between an unreliable network and a database it cannot afford to corrupt. It is one of those rare ideas that costs almost nothing to implement and saves an enormous amount of pain whenever the world misbehaves — which, in distributed systems, is always.",
+          "word_count": 296,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "profoundly",
+              "pos": "adverb",
+              "meaning_ko": "깊이, 심오하게"
+            },
+            {
+              "word": "execute",
+              "pos": "verb",
+              "meaning_ko": "실행하다"
+            },
+            {
+              "word": "retry",
+              "pos": "verb",
+              "meaning_ko": "재시도하다"
+            },
+            {
+              "word": "catastrophic",
+              "pos": "adjective",
+              "meaning_ko": "재앙적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "the page hangs for a few seconds",
+              "meaning_ko": "페이지가 몇 초간 멈춘다"
+            },
+            {
+              "phrase": "one of the oldest and most stressful problems",
+              "meaning_ko": "가장 오래되고 스트레스 많은 문제 중 하나"
+            },
+            {
+              "phrase": "at exactly the wrong moment",
+              "meaning_ko": "정확히 가장 안 좋은 순간에"
+            },
+            {
+              "phrase": "in a short-lived cache",
+              "meaning_ko": "짧게 유지되는 캐시 안에"
+            },
+            {
+              "phrase": "from the user's perspective",
+              "meaning_ko": "사용자의 관점에서는"
+            },
+            {
+              "phrase": "a quiet no-op",
+              "meaning_ko": "조용한 무동작 (아무 일도 안 한 것)"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is an idempotency key",
+          "body": "Imagine you click the Pay button on a shopping site, but the page hangs awkwardly for several seconds. After a polite pause, you start to wonder whether the click actually went through, and so, slightly nervously, you click again. Did you just charge your credit card twice?\n\nThis deceptively simple scenario captures one of the oldest and most stress-inducing problems in backend engineering. Networks are inherently unreliable, browsers retry on timeouts, mobile apps lose their connection at exactly the wrong moment, and a single logical operation from the user's point of view can quietly arrive at the server two, three, or occasionally many more times. The mechanism most modern systems use to deal with this gracefully is called an idempotency key.\n\nThe idea is conceptually small but quietly powerful. Whenever the client issues a request that is expected to produce a meaningful side effect — charging a card, transferring funds, creating an order, sending a notification — it generates a short unique identifier, the idempotency key, and attaches it to the request, typically as a header. The first time the server encounters that particular key, it executes the operation normally and stores the resulting response alongside the key in a short-lived cache or table. If the same key appears again — because the network hiccupped, the user clicked twice, the app retried silently, or a load balancer doubled the request — the server recognizes the key, refuses to execute the operation a second time, and simply returns the previously stored response.\n\nFrom the user's vantage point, almost nothing visible happens. They see a successful confirmation, exactly as they would have under perfect network conditions. From the engineer's vantage point, however, that tiny key has just transformed what could have been a catastrophic duplicate charge into a quiet, well-behaved no-op.\n\nIdempotency keys have, over the past decade or so, become a quiet de-facto standard in payment APIs, message queues, webhook delivery systems, and essentially any service sitting between an unreliable network and a database it cannot afford to corrupt. The implementation cost is genuinely small — a key, a cache, a few lines of logic — and the protection it offers against the everyday misbehavior of the real world is disproportionately large. In distributed systems, where unexpected duplication is not an edge case but a regular occurrence, the idempotency key is one of those small, unglamorous patterns that quietly holds the whole show together.",
+          "word_count": 403,
+          "estimated_read_seconds": 202,
+          "vocab": [
+            {
+              "word": "deceptively",
+              "pos": "adverb",
+              "meaning_ko": "겉보기와 달리"
+            },
+            {
+              "word": "hiccup",
+              "pos": "verb",
+              "meaning_ko": "잠깐 문제가 생기다"
+            },
+            {
+              "word": "de-facto",
+              "pos": "adjective",
+              "meaning_ko": "사실상의"
+            },
+            {
+              "word": "disproportionately",
+              "pos": "adverb",
+              "meaning_ko": "불균형적으로, 비대칭적으로"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "after a polite pause",
+              "meaning_ko": "잠시 정중하게 기다린 뒤"
+            },
+            {
+              "phrase": "captures one of the oldest",
+              "meaning_ko": "가장 오래된 ~ 중 하나를 포착한다"
+            },
+            {
+              "phrase": "from the engineer's vantage point",
+              "meaning_ko": "엔지니어의 관점에서는"
+            },
+            {
+              "phrase": "a quiet, well-behaved no-op",
+              "meaning_ko": "조용하고 얌전한 무동작"
+            },
+            {
+              "phrase": "an edge case but a regular occurrence",
+              "meaning_ko": "드문 예외가 아니라 일상적으로 일어나는 일"
+            },
+            {
+              "phrase": "quietly holds the whole show together",
+              "meaning_ko": "조용히 전체 판을 떠받치고 있다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-28-speaking-01",
+      "category": "speaking",
+      "title_ko": "[IELTS P1] 보통 주말에 무엇을 하나요?",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 1",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What do you usually do on weekends?",
+          "body": "Most weekends, I stay at home. I sleep late on Saturday morning. Then I read a book or watch a movie. Sometimes, I meet a friend for coffee in the afternoon. I do not do anything special, but it is nice.",
+          "word_count": 41,
+          "estimated_read_seconds": 20,
+          "vocab": [
+            {
+              "word": "weekend",
+              "pos": "noun",
+              "meaning_ko": "주말"
+            },
+            {
+              "word": "late",
+              "pos": "adverb",
+              "meaning_ko": "늦게"
+            },
+            {
+              "word": "afternoon",
+              "pos": "noun",
+              "meaning_ko": "오후"
+            },
+            {
+              "word": "special",
+              "pos": "adjective",
+              "meaning_ko": "특별한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "most weekends",
+              "meaning_ko": "대부분의 주말에는"
+            },
+            {
+              "phrase": "stay at home",
+              "meaning_ko": "집에 있다"
+            },
+            {
+              "phrase": "sleep late",
+              "meaning_ko": "늦잠 자다"
+            },
+            {
+              "phrase": "meet a friend for coffee",
+              "meaning_ko": "친구와 커피 마시러 만나다"
+            },
+            {
+              "phrase": "I do not do anything special",
+              "meaning_ko": "특별한 일은 하지 않는다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What do you usually do on weekends?",
+          "body": "My weekends are usually pretty calm. On Saturday I always sleep in, because the week leaves me tired. Then I'll have a slow breakfast and maybe read for a while. In the afternoon, I often meet a friend for coffee or take a long walk. Sundays I keep even quieter — I just tidy up and prepare for Monday.",
+          "word_count": 59,
+          "estimated_read_seconds": 30,
+          "vocab": [
+            {
+              "word": "calm",
+              "pos": "adjective",
+              "meaning_ko": "차분한"
+            },
+            {
+              "word": "tired",
+              "pos": "adjective",
+              "meaning_ko": "피곤한"
+            },
+            {
+              "word": "breakfast",
+              "pos": "noun",
+              "meaning_ko": "아침 식사"
+            },
+            {
+              "word": "tidy",
+              "pos": "verb",
+              "meaning_ko": "정돈하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "pretty calm",
+              "meaning_ko": "꽤 차분한"
+            },
+            {
+              "phrase": "sleep in",
+              "meaning_ko": "늦잠 자다 (핵심 구동사)"
+            },
+            {
+              "phrase": "the week leaves me tired",
+              "meaning_ko": "한 주가 나를 피곤하게 만든다"
+            },
+            {
+              "phrase": "for a while",
+              "meaning_ko": "잠시 동안"
+            },
+            {
+              "phrase": "keep even quieter",
+              "meaning_ko": "더 조용하게 보내다"
+            },
+            {
+              "phrase": "prepare for Monday",
+              "meaning_ko": "월요일을 준비하다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What do you usually do on weekends?",
+          "body": "To be honest, my weekends are usually pretty calm. On Saturday I tend to sleep in for as long as possible, because the work week really wears me out. Then I'll have a slow breakfast and read a bit, just to clear my head. In the afternoon, I often meet a friend for coffee, or I take a long walk in the park near my apartment. Sundays are even quieter — I tidy up, do laundry, and quickly plan the week ahead so Monday doesn't feel chaotic.",
+          "word_count": 87,
+          "estimated_read_seconds": 44,
+          "vocab": [
+            {
+              "word": "drain",
+              "pos": "verb",
+              "meaning_ko": "진을 빼다, 지치게 하다"
+            },
+            {
+              "word": "tidy",
+              "pos": "verb",
+              "meaning_ko": "정돈하다"
+            },
+            {
+              "word": "chaotic",
+              "pos": "adjective",
+              "meaning_ko": "혼란스러운"
+            },
+            {
+              "word": "ahead",
+              "pos": "adverb",
+              "meaning_ko": "앞으로 다가올, 다음의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to be honest",
+              "meaning_ko": "솔직히 (자연스러운 헷지)"
+            },
+            {
+              "phrase": "tend to sleep in",
+              "meaning_ko": "보통 늦잠 자는 편이다"
+            },
+            {
+              "phrase": "wears me out",
+              "meaning_ko": "나를 진 빠지게 한다"
+            },
+            {
+              "phrase": "clear my head",
+              "meaning_ko": "머리를 식히다"
+            },
+            {
+              "phrase": "near my apartment",
+              "meaning_ko": "집(아파트) 근처에"
+            },
+            {
+              "phrase": "doesn't feel chaotic",
+              "meaning_ko": "혼란스럽게 느껴지지 않는다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What do you usually do on weekends?",
+          "body": "To be honest, my weekends are usually pretty calm, and I've genuinely come to prefer them that way. On Saturday I tend to sleep in for as long as my body wants, because the work week really does drain me. Then I'll have a slow breakfast, drink an indulgent amount of coffee, and read something light just to take my brain offline for a while. In the afternoon, I'll often meet a friend for coffee, or take a long walk in the park near my apartment with a podcast in my ears. Sundays are even quieter — I tidy up, do laundry, and spend ten minutes loosely planning the week so Monday doesn't feel quite so chaotic.",
+          "word_count": 117,
+          "estimated_read_seconds": 58,
+          "vocab": [
+            {
+              "word": "drain",
+              "pos": "verb",
+              "meaning_ko": "진을 빼다, 지치게 하다"
+            },
+            {
+              "word": "indulgent",
+              "pos": "adjective",
+              "meaning_ko": "호사스러운, 스스로에게 너그러운"
+            },
+            {
+              "word": "loosely",
+              "pos": "adverb",
+              "meaning_ko": "느슨하게, 대강"
+            },
+            {
+              "word": "chaotic",
+              "pos": "adjective",
+              "meaning_ko": "혼란스러운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I've genuinely come to prefer them that way",
+              "meaning_ko": "정말로 그 방식을 선호하게 되었다"
+            },
+            {
+              "phrase": "for as long as my body wants",
+              "meaning_ko": "몸이 원하는 만큼 오래"
+            },
+            {
+              "phrase": "really does drain me",
+              "meaning_ko": "정말 나를 진 빠지게 만든다"
+            },
+            {
+              "phrase": "take my brain offline",
+              "meaning_ko": "머리를 잠시 꺼두다"
+            },
+            {
+              "phrase": "with a podcast in my ears",
+              "meaning_ko": "귀에 팟캐스트를 꽂은 채"
+            },
+            {
+              "phrase": "doesn't feel quite so chaotic",
+              "meaning_ko": "그렇게까지 혼란스럽지는 않은"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
