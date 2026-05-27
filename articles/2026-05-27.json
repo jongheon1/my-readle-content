@@ -3,11 +3,899 @@
   "date": "2026-05-27",
   "topics": [
     {
-      "topic_id": "2026-05-27-behavioral-01",
-      "category": "behavioral",
-      "title_ko": "팀과 기술적 결정에서 의견이 갈렸던 경험을 말해보세요",
+      "topic_id": "2026-05-27-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "산호초는 어떻게 만들어지는가",
       "source_url": null,
-      "source_name": "Generated (behavioral interview)",
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How coral reefs are formed",
+          "body": "Have you ever seen a coral reef? It is a beautiful underwater garden, full of color. But how does it grow?\n\nCoral may look like a plant or a rock, but it is actually an animal. A coral animal is very small. Many small animals live together. They build hard shells around their bodies. Slowly, the shells grow. Over many, many years, they form a reef.\n\nCoral needs sun and warm water. So most reefs grow in warm seas. They also need clean water. Today, the water is too warm in many places. Sadly, some reefs are dying. We must protect them.",
+          "word_count": 102,
+          "estimated_read_seconds": 51,
+          "vocab": [
+            {
+              "word": "garden",
+              "pos": "noun",
+              "meaning_ko": "정원"
+            },
+            {
+              "word": "color",
+              "pos": "noun",
+              "meaning_ko": "색깔"
+            },
+            {
+              "word": "animal",
+              "pos": "noun",
+              "meaning_ko": "동물"
+            },
+            {
+              "word": "shell",
+              "pos": "noun",
+              "meaning_ko": "껍데기, 껍질"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "look like",
+              "meaning_ko": "~처럼 보이다"
+            },
+            {
+              "phrase": "very small",
+              "meaning_ko": "아주 작은"
+            },
+            {
+              "phrase": "live together",
+              "meaning_ko": "함께 살다"
+            },
+            {
+              "phrase": "over many years",
+              "meaning_ko": "오랜 세월에 걸쳐"
+            },
+            {
+              "phrase": "we must protect",
+              "meaning_ko": "우리는 보호해야 한다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How coral reefs are formed",
+          "body": "Have you ever seen a coral reef in a photo or a video? It looks like a beautiful underwater garden, full of bright colors. But how does something like this actually grow?\n\nA coral might look like a plant or a strange rock, but in reality it is an animal. Each coral is a tiny creature called a polyp. A single polyp is very small, but thousands or even millions of them live together in one place. Each polyp builds a hard shell of calcium around its soft body for protection.\n\nHere is the interesting part. When a polyp dies, its hard shell stays behind. New polyps grow on top of the old shells. After hundreds and thousands of years, layers and layers of shells form a huge structure under the sea — a coral reef.\n\nCoral needs warm sea water, plenty of sunlight, and clean water to grow. That is why most reefs are found in warm, shallow oceans near the equator. Sadly, in many places the water has become too warm, and reefs are slowly dying. So this slow, beautiful work of millions of tiny animals is now in real danger.",
+          "word_count": 193,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "creature",
+              "pos": "noun",
+              "meaning_ko": "생물"
+            },
+            {
+              "word": "structure",
+              "pos": "noun",
+              "meaning_ko": "구조물"
+            },
+            {
+              "word": "shallow",
+              "pos": "adjective",
+              "meaning_ko": "얕은"
+            },
+            {
+              "word": "equator",
+              "pos": "noun",
+              "meaning_ko": "적도"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in reality",
+              "meaning_ko": "실제로는"
+            },
+            {
+              "phrase": "thousands or even millions",
+              "meaning_ko": "수천, 심지어 수백만"
+            },
+            {
+              "phrase": "here is the interesting part",
+              "meaning_ko": "재미있는 부분은 이거다"
+            },
+            {
+              "phrase": "after hundreds and thousands of years",
+              "meaning_ko": "수백, 수천 년이 지난 뒤"
+            },
+            {
+              "phrase": "in real danger",
+              "meaning_ko": "정말 위험에 처한"
+            },
+            {
+              "phrase": "is found in",
+              "meaning_ko": "~에서 발견된다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How coral reefs are formed",
+          "body": "Have you ever seen a coral reef in a documentary and wondered how something so vast and colorful could grow on the ocean floor? It looks like an underwater garden, but the answer is actually stranger and more interesting.\n\nA coral might look like a plant or an oddly shaped rock, but in reality each one is an animal — a tiny, soft-bodied creature called a polyp. A single polyp is no larger than a grain of rice, but thousands or even millions of them live together in colonies. Each polyp slowly builds a hard skeleton of calcium carbonate around its soft body, mainly for protection from predators and waves.\n\nThe remarkable part is what happens over time. When an individual polyp dies, its hard skeleton remains. New polyps grow on top of those abandoned skeletons, and then more grow on top of them. Over hundreds, thousands, and even millions of years, layer upon layer of these tiny skeletons accumulate into the enormous reef structures we see today. In other words, a coral reef is essentially a vast, ancient apartment building constructed by countless generations of tiny animals.\n\nThis entire process is surprisingly fragile. Reef-building corals depend on warm, shallow water, abundant sunlight, and clean conditions, which is why almost all major reefs are found in tropical seas near the equator. They also rely on a partnership with microscopic algae that live inside their tissues and provide them with food.\n\nUnfortunately, when sea temperatures rise even slightly, this delicate partnership breaks down. The algae are expelled, the coral loses its color in an event known as bleaching, and if conditions do not improve quickly, the polyps starve and die. The patient work of millions of years can be undone in just a few warm summers.",
+          "word_count": 295,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "polyp",
+              "pos": "noun",
+              "meaning_ko": "산호 폴립 (작은 산호 동물)"
+            },
+            {
+              "word": "colony",
+              "pos": "noun",
+              "meaning_ko": "군락"
+            },
+            {
+              "word": "accumulate",
+              "pos": "verb",
+              "meaning_ko": "쌓이다, 축적되다"
+            },
+            {
+              "word": "bleaching",
+              "pos": "noun",
+              "meaning_ko": "백화 현상"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "no larger than",
+              "meaning_ko": "~보다 크지 않은"
+            },
+            {
+              "phrase": "the remarkable part is",
+              "meaning_ko": "놀라운 점은 ~이다"
+            },
+            {
+              "phrase": "in other words",
+              "meaning_ko": "다시 말해"
+            },
+            {
+              "phrase": "rely on",
+              "meaning_ko": "~에 의존하다"
+            },
+            {
+              "phrase": "if conditions do not improve",
+              "meaning_ko": "상황이 나아지지 않으면"
+            },
+            {
+              "phrase": "in just a few",
+              "meaning_ko": "단 몇 ~만에"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How coral reefs are formed",
+          "body": "Have you ever watched a documentary about a coral reef and quietly wondered how something so vast and intricately colorful could possibly assemble itself on the ocean floor? At first glance, a reef looks like an enormous underwater garden, but the truth is rather more surprising — and arguably more impressive — than that.\n\nA coral, despite appearances, is neither a plant nor a curiously shaped stone. Each one is in fact an animal — a tiny, soft-bodied creature called a polyp, no larger than a grain of rice. Polyps almost never live alone. Instead, thousands or even millions of genetically identical individuals cluster together in colonies, each one secreting a hard skeleton of calcium carbonate around its delicate body, principally as defense against predators and the constant motion of the sea.\n\nThe truly remarkable process unfolds over deep time. When an individual polyp dies, its mineral skeleton is left behind. The next generation of polyps takes root on top of those abandoned skeletons, builds its own layer, and is itself replaced. Over thousands and even millions of years, these accumulated layers compound into the immense reef structures we see today. In a sense, a coral reef is best understood as a vast, ancient apartment building patiently constructed by countless generations of tiny architects, each contributing a single brick to a project none of them could ever see completed.\n\nThis entire architectural feat depends on a startlingly narrow set of conditions. Reef-building corals require warm, shallow water, generous sunlight, and remarkable clarity, which is why nearly every major reef on Earth is concentrated in a tropical band near the equator. Even more crucially, they depend on a microscopic partner — photosynthetic algae called zooxanthellae — which live embedded in their tissues and supply most of the energy the polyps need to survive and build.\n\nThis partnership is also their greatest vulnerability. When sea temperatures climb even a couple of degrees above normal for too long, the relationship collapses. The corals expel their algae, lose their color in a phenomenon known as bleaching, and unless cooler conditions return quickly, slowly starve. The quiet labour of millions of years can be undone in the span of a few unusually warm summers — a sobering reminder that some of the planet's most spectacular structures rest on partnerships almost too small to see.",
+          "word_count": 389,
+          "estimated_read_seconds": 194,
+          "vocab": [
+            {
+              "word": "intricately",
+              "pos": "adverb",
+              "meaning_ko": "복잡하고 정교하게"
+            },
+            {
+              "word": "photosynthetic",
+              "pos": "adjective",
+              "meaning_ko": "광합성을 하는"
+            },
+            {
+              "word": "zooxanthellae",
+              "pos": "noun",
+              "meaning_ko": "주산텔라 (산호 공생 조류)"
+            },
+            {
+              "word": "sobering",
+              "pos": "adjective",
+              "meaning_ko": "정신을 차리게 하는, 무겁게 와닿는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "at first glance",
+              "meaning_ko": "얼핏 보면"
+            },
+            {
+              "phrase": "unfolds over deep time",
+              "meaning_ko": "오랜 지질학적 시간에 걸쳐 펼쳐진다"
+            },
+            {
+              "phrase": "in a sense",
+              "meaning_ko": "어떤 의미에서는"
+            },
+            {
+              "phrase": "a startlingly narrow set of",
+              "meaning_ko": "놀랍도록 좁은 범위의"
+            },
+            {
+              "phrase": "in the span of",
+              "meaning_ko": "~의 짧은 기간 동안"
+            },
+            {
+              "phrase": "almost too small to see",
+              "meaning_ko": "눈에 거의 보이지 않을 만큼 작은"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "문자는 어떻게 발명되었는가",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How writing was invented",
+          "body": "Long ago, people did not have writing. They only used their voice. They told stories to remember things. But voice is not perfect. People forget. People die.\n\nSo one day, in a place called Sumer, people had a new idea. They made small marks on wet clay. The marks were like simple pictures. Each picture was a thing — a cow, a fish, a man.\n\nThis was the start of writing. It was about five thousand years ago. With writing, people could keep numbers. They could send a message far away. They could save knowledge. Writing changed the world forever.",
+          "word_count": 100,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "voice",
+              "pos": "noun",
+              "meaning_ko": "목소리"
+            },
+            {
+              "word": "story",
+              "pos": "noun",
+              "meaning_ko": "이야기"
+            },
+            {
+              "word": "mark",
+              "pos": "noun",
+              "meaning_ko": "자국, 표시"
+            },
+            {
+              "word": "clay",
+              "pos": "noun",
+              "meaning_ko": "점토, 진흙"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "long ago",
+              "meaning_ko": "오래 전"
+            },
+            {
+              "phrase": "told stories",
+              "meaning_ko": "이야기를 들려주었다"
+            },
+            {
+              "phrase": "a new idea",
+              "meaning_ko": "새로운 생각"
+            },
+            {
+              "phrase": "a place called",
+              "meaning_ko": "~라는 곳"
+            },
+            {
+              "phrase": "the start of",
+              "meaning_ko": "~의 시작"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How writing was invented",
+          "body": "For most of human history, people did not have writing. To remember important things, they only had their voice. They told stories around the fire, and they passed knowledge from parents to children. But voice has a big problem. People forget. People die. And every time a story is told again, it changes a little.\n\nAbout five thousand years ago, in an ancient land called Sumer, people came up with a brilliant solution. They started pressing simple marks into wet clay with a small stick. At first, each mark was just a tiny picture of a real thing — a cow, a fish, a person.\n\nSlowly, these pictures became more abstract. They started to stand for sounds, not just objects. This was the moment writing was truly born.\n\nImagine the impact of this small invention. Now, for the first time, a king could send a message to a city far away. A farmer could record exactly how much wheat he had. Stories did not die when storytellers died. In a real sense, the modern world began on those small pieces of wet clay.",
+          "word_count": 183,
+          "estimated_read_seconds": 92,
+          "vocab": [
+            {
+              "word": "brilliant",
+              "pos": "adjective",
+              "meaning_ko": "훌륭한, 기발한"
+            },
+            {
+              "word": "pressing",
+              "pos": "verb",
+              "meaning_ko": "누르는, 새기는"
+            },
+            {
+              "word": "abstract",
+              "pos": "adjective",
+              "meaning_ko": "추상적인"
+            },
+            {
+              "word": "invention",
+              "pos": "noun",
+              "meaning_ko": "발명"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "for most of",
+              "meaning_ko": "~의 대부분 동안"
+            },
+            {
+              "phrase": "came up with",
+              "meaning_ko": "생각해 냈다, 떠올렸다"
+            },
+            {
+              "phrase": "at first",
+              "meaning_ko": "처음에는"
+            },
+            {
+              "phrase": "stand for",
+              "meaning_ko": "~을 의미하다, 대신하다"
+            },
+            {
+              "phrase": "imagine the impact of",
+              "meaning_ko": "영향을 상상해 보라"
+            },
+            {
+              "phrase": "in a real sense",
+              "meaning_ko": "진정한 의미에서"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How writing was invented",
+          "body": "For most of human history, people had no writing at all. To remember anything that mattered — laws, trade agreements, family histories — they had only their voice. Stories were told around fires and passed from parents to children, generation after generation. But human memory has a stubborn problem. People forget. People die. And every time a story is retold, it quietly drifts a little from the version before.\n\nAround five thousand years ago, in an ancient region called Sumer, in what is now southern Iraq, people came up with a remarkably practical solution. They began pressing small marks into pieces of wet clay using a sharpened reed. In its earliest form, the system was straightforward: each mark was a simple picture of a real thing — a cow, a basket of grain, a person.\n\nOver the centuries, however, something interesting happened. The pictures became more abstract and stylized, and crucially, some of them started to represent sounds rather than objects. This shift, from picture to sound, is what scholars consider the true birth of writing.\n\nIt is hard to overstate the impact of this quiet invention. For the first time, a king could send precise instructions to a distant city without trusting a messenger's memory. A farmer could record exactly how much wheat he had stored. A merchant could prove what he was owed. And perhaps most importantly, knowledge stopped dying when the people who held it died. In a real sense, the long arc of the modern world — its laws, its science, its bureaucracies — began on those small, unimpressive pieces of wet clay.",
+          "word_count": 267,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "stubborn",
+              "pos": "adjective",
+              "meaning_ko": "끈질긴, 고질적인"
+            },
+            {
+              "word": "stylized",
+              "pos": "adjective",
+              "meaning_ko": "양식화된, 정형화된"
+            },
+            {
+              "word": "merchant",
+              "pos": "noun",
+              "meaning_ko": "상인"
+            },
+            {
+              "word": "bureaucracy",
+              "pos": "noun",
+              "meaning_ko": "관료 체제"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "drifts a little from",
+              "meaning_ko": "~에서 조금씩 멀어진다"
+            },
+            {
+              "phrase": "in its earliest form",
+              "meaning_ko": "가장 초기 형태에서는"
+            },
+            {
+              "phrase": "over the centuries",
+              "meaning_ko": "수 세기에 걸쳐"
+            },
+            {
+              "phrase": "rather than",
+              "meaning_ko": "~보다는, ~대신에"
+            },
+            {
+              "phrase": "it is hard to overstate",
+              "meaning_ko": "아무리 강조해도 지나치지 않다"
+            },
+            {
+              "phrase": "perhaps most importantly",
+              "meaning_ko": "아마 가장 중요하게도"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How writing was invented",
+          "body": "For most of the long history of our species, human beings had no writing whatsoever. To preserve anything that mattered — laws, treaties, family lineages, trade arrangements — people relied almost entirely on the spoken word. Knowledge was carried in memory, performed around fires, and handed down from parents to children, generation after generation. But human memory has an old, stubborn problem. People forget. People die. And every time a story is retold, it quietly drifts a little from the version that came before, until eventually no one can be sure what the original even looked like.\n\nRoughly five thousand years ago, in an ancient region called Sumer — located in what is today southern Iraq — people arrived at a remarkably practical solution. They began pressing small marks into pieces of wet clay using a sharpened reed, then drying or baking the clay until it became almost as durable as stone. In its earliest form, the system was essentially pictorial: each mark stood for a tangible object — a cow, a basket of grain, a person — and a record was little more than a small visual inventory.\n\nOver the following centuries, however, something subtle and profound began to happen. The pictures gradually became more abstract and stylized, and, crucially, some of them began to stand not for objects but for sounds. This single conceptual leap — from depicting things to encoding the noises of speech itself — is what most scholars regard as the true birth of writing.\n\nIt is genuinely difficult to overstate the consequences of this quiet invention. For the first time in human history, a king could send precise instructions to a distant city without depending on a messenger's fragile memory. A farmer could record, beyond dispute, exactly how much grain had been stored and how much was owed. A merchant could prove the terms of a deal that had taken place years before. And perhaps most importantly, knowledge stopped vanishing along with the people who held it. A thought set down in clay could outlive its author by thousands of years.\n\nIn a very real sense, the long arc of what we now call the modern world — its codified laws, its accumulated sciences, its sprawling bureaucracies, even its literature — first began to be drawn on those small, unimpressive pieces of wet Sumerian clay. It is worth pausing on that occasionally: nearly everything we treat as permanent today rests on someone, long ago, deciding that a fleeting human thought deserved to be pressed into mud.",
+          "word_count": 422,
+          "estimated_read_seconds": 211,
+          "vocab": [
+            {
+              "word": "lineage",
+              "pos": "noun",
+              "meaning_ko": "혈통, 가계"
+            },
+            {
+              "word": "pictorial",
+              "pos": "adjective",
+              "meaning_ko": "그림으로 된"
+            },
+            {
+              "word": "encoding",
+              "pos": "verb",
+              "meaning_ko": "(정보를) 부호화하는"
+            },
+            {
+              "word": "codified",
+              "pos": "adjective",
+              "meaning_ko": "성문화된, 체계로 정리된"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "rely almost entirely on",
+              "meaning_ko": "거의 전적으로 ~에 의존하다"
+            },
+            {
+              "phrase": "arrived at a remarkably practical solution",
+              "meaning_ko": "놀랍도록 실용적인 해법에 도달했다"
+            },
+            {
+              "phrase": "a single conceptual leap",
+              "meaning_ko": "단 하나의 개념적 도약"
+            },
+            {
+              "phrase": "beyond dispute",
+              "meaning_ko": "다툴 여지 없이"
+            },
+            {
+              "phrase": "outlive its author",
+              "meaning_ko": "작성자보다 더 오래 살아남다"
+            },
+            {
+              "phrase": "it is worth pausing on",
+              "meaning_ko": "잠시 멈추고 생각해 볼 가치가 있다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "해시 테이블 조회가 평균 O(1)인 이유",
+      "source_url": null,
+      "source_name": "Generated · CS 핵심 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why hash table lookup is O(1) on average",
+          "body": "Imagine a very big book. The book has names and phone numbers. You want to find one name fast. If the book has no order, you must read every page. That is slow.\n\nBut what if there is a trick? You take the name, and a machine gives you a number. The number is the page. You go straight to that page. You find the name fast.\n\nThis is the simple idea of a hash table. Hash means a special number for each name. With a hash, your computer can find data very quickly. That is why hash tables are used everywhere.",
+          "word_count": 102,
+          "estimated_read_seconds": 51,
+          "vocab": [
+            {
+              "word": "book",
+              "pos": "noun",
+              "meaning_ko": "책"
+            },
+            {
+              "word": "number",
+              "pos": "noun",
+              "meaning_ko": "숫자"
+            },
+            {
+              "word": "trick",
+              "pos": "noun",
+              "meaning_ko": "요령, 묘수"
+            },
+            {
+              "word": "data",
+              "pos": "noun",
+              "meaning_ko": "자료, 데이터"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "imagine a",
+              "meaning_ko": "~를 상상해 보라"
+            },
+            {
+              "phrase": "must read every",
+              "meaning_ko": "~를 모두 읽어야 한다"
+            },
+            {
+              "phrase": "go straight to",
+              "meaning_ko": "~로 곧장 가다"
+            },
+            {
+              "phrase": "the simple idea",
+              "meaning_ko": "단순한 아이디어"
+            },
+            {
+              "phrase": "used everywhere",
+              "meaning_ko": "어디서나 쓰이는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why hash table lookup is O(1) on average",
+          "body": "Imagine you have a giant phone book with millions of names. You need to find one person, fast. If the names are in no order at all, you have to read every page. That is painfully slow.\n\nA hash table is a clever way to solve this problem. The idea is simple. You have a name, and a small piece of math — called a hash function — turns that name into a number. That number tells you exactly which slot in memory to look at. Instead of searching, you jump straight to the right place.\n\nThis is why people say a hash table is O(1) on average. O(1) just means the work does not grow when your data grows. If you have ten million names, you still do roughly the same amount of work to find one.\n\nThere is a catch, of course. Sometimes two different names get the same hash number. That is called a collision, and hash tables have clever ways to handle it. But on average, when the design is good, you really do get one-jump lookup. That tiny trick is everywhere in software.",
+          "word_count": 188,
+          "estimated_read_seconds": 94,
+          "vocab": [
+            {
+              "word": "clever",
+              "pos": "adjective",
+              "meaning_ko": "영리한, 기발한"
+            },
+            {
+              "word": "function",
+              "pos": "noun",
+              "meaning_ko": "(수학의) 함수"
+            },
+            {
+              "word": "slot",
+              "pos": "noun",
+              "meaning_ko": "자리, 칸"
+            },
+            {
+              "word": "collision",
+              "pos": "noun",
+              "meaning_ko": "충돌"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "no order at all",
+              "meaning_ko": "전혀 순서가 없는"
+            },
+            {
+              "phrase": "a clever way to solve",
+              "meaning_ko": "해결할 영리한 방법"
+            },
+            {
+              "phrase": "instead of searching",
+              "meaning_ko": "찾는 대신에"
+            },
+            {
+              "phrase": "on average",
+              "meaning_ko": "평균적으로"
+            },
+            {
+              "phrase": "there is a catch, of course",
+              "meaning_ko": "물론 함정이 있다"
+            },
+            {
+              "phrase": "is everywhere in",
+              "meaning_ko": "~ 어디에나 있다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why hash table lookup is O(1) on average",
+          "body": "Imagine you have a phone book with ten million names, and you need to find one particular person as quickly as possible. If the names are in no order at all, your only option is to check every page one by one. As the book grows, the work grows with it, and very soon the whole approach becomes unusable.\n\nA hash table is a clever way around this problem, and it is one of the most quietly useful ideas in all of computer science. The trick is this. You have a key — say, a name — and you apply a small mathematical function to it called a hash function. The hash function takes your key and turns it into a number, which is then used to point directly to one specific slot in memory. Instead of searching, you simply jump to that slot.\n\nThis is what people mean when they say a hash table offers O(1) average-time lookup. O(1) is shorthand for the fact that the work does not grow as your data grows. Whether the table holds one hundred names or one hundred million, the time to find any single name stays roughly constant.\n\nThere is, of course, a catch. Sometimes two completely different keys end up producing the same hash number — an unavoidable situation called a collision. Hash tables have several well-known strategies for dealing with collisions, such as storing colliding items in a small list at each slot, but if a hash function is poor and collisions become very frequent, that beautiful constant-time behavior degrades quickly.\n\nIn practice, with a well-designed hash function and a sensible load factor, the average case really does deliver near-instant lookups. That is why hash tables sit quietly underneath almost every piece of modern software, from databases to compilers to your browser's address bar.",
+          "word_count": 304,
+          "estimated_read_seconds": 152,
+          "vocab": [
+            {
+              "word": "bucket",
+              "pos": "noun",
+              "meaning_ko": "버킷, 자료를 담는 칸"
+            },
+            {
+              "word": "constant",
+              "pos": "adjective",
+              "meaning_ko": "일정한, 변하지 않는"
+            },
+            {
+              "word": "degrade",
+              "pos": "verb",
+              "meaning_ko": "성능이 떨어지다"
+            },
+            {
+              "word": "shorthand",
+              "pos": "noun",
+              "meaning_ko": "줄임말, 약식 표현"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a clever way around this problem",
+              "meaning_ko": "이 문제를 우회하는 영리한 방법"
+            },
+            {
+              "phrase": "is shorthand for",
+              "meaning_ko": "~의 줄임말이다"
+            },
+            {
+              "phrase": "stays roughly constant",
+              "meaning_ko": "대체로 일정하게 유지된다"
+            },
+            {
+              "phrase": "sit quietly underneath",
+              "meaning_ko": "조용히 ~의 밑바닥에 자리 잡고 있다"
+            },
+            {
+              "phrase": "in practice",
+              "meaning_ko": "실제로는, 현실에서는"
+            },
+            {
+              "phrase": "almost every piece of",
+              "meaning_ko": "거의 모든 ~"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why hash table lookup is O(1) on average",
+          "body": "Imagine you have a phone book containing ten million names, and you need to locate one particular person as quickly as possible. If the names are arranged in no order whatsoever, your only honest option is to scan the entire book, one page at a time. The amount of work you do grows linearly with the size of the data, and very soon the approach becomes hopelessly impractical.\n\nA hash table is one of the quietly brilliant ideas of computer science, and it offers a way around this problem that is, in a certain sense, almost magical the first time you see it. The mechanism is conceptually simple. You take a key — perhaps a name, an integer, or a string — and pass it through a small mathematical function known as a hash function. That function deterministically transforms your key into a fixed-size integer, which then points directly to a specific bucket or slot in an underlying array. Instead of searching the structure, you compute an address and jump straight to it.\n\nThis is precisely what is meant when people describe a hash table as offering O(1) average-time lookup. O(1) is shorthand for the property that the cost of an operation does not grow as the dataset grows. Whether the table contains a hundred items or a hundred million, the average time required to find, insert, or remove any single key remains essentially constant. That is an extraordinary guarantee, and one that, for most realistic workloads, holds up remarkably well in practice.\n\nThere is, of course, a catch lurking behind the elegance. Because a hash function maps a potentially infinite space of keys into a finite array of slots, two genuinely different keys will sometimes produce the same hash value — a situation known as a collision. Hash tables employ a small family of well-studied techniques to deal with collisions — separate chaining, open addressing, and several elaborations on each — but if the hash function distributes keys poorly or the table becomes too crowded, the beautiful constant-time behavior degrades, in the worst case, all the way back to linear search.\n\nIn a well-engineered hash table, with a thoughtful hash function and a sensible load factor, the average case continues to deliver something very close to instant lookup. That quiet guarantee is exactly why hash tables sit invisibly underneath an enormous fraction of modern software, from databases and compilers to network routers and the address bar of every browser you have ever opened.",
+          "word_count": 414,
+          "estimated_read_seconds": 207,
+          "vocab": [
+            {
+              "word": "deterministically",
+              "pos": "adverb",
+              "meaning_ko": "결정론적으로 (입력이 같으면 결과도 같게)"
+            },
+            {
+              "word": "lurking",
+              "pos": "verb",
+              "meaning_ko": "도사리고 있는"
+            },
+            {
+              "word": "elaborations",
+              "pos": "noun",
+              "meaning_ko": "변형, 세부 발전형"
+            },
+            {
+              "word": "workloads",
+              "pos": "noun",
+              "meaning_ko": "(시스템에 가해지는) 작업 부하"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in a certain sense",
+              "meaning_ko": "어떤 의미에서는"
+            },
+            {
+              "phrase": "almost magical the first time you see it",
+              "meaning_ko": "처음 봤을 때 거의 마법 같은"
+            },
+            {
+              "phrase": "is precisely what is meant when",
+              "meaning_ko": "~라고 말할 때 정확히 의미하는 것"
+            },
+            {
+              "phrase": "in the worst case",
+              "meaning_ko": "최악의 경우에는"
+            },
+            {
+              "phrase": "with a thoughtful X and a sensible Y",
+              "meaning_ko": "신중한 X와 적절한 Y를 갖춘 채"
+            },
+            {
+              "phrase": "an enormous fraction of",
+              "meaning_ko": "~의 막대한 비중"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "Consistent hashing이란 무엇인가",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 실무",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is consistent hashing",
+          "body": "Imagine a small office with one mailbox for letters. Many letters come every day. Soon, the mailbox is full. So you buy more mailboxes.\n\nNow, where does each letter go? One way is: take the first letter of the name, and use that. But what if you add or remove a mailbox? Then everything changes. You must move all the letters. That is bad.\n\nThere is a smarter way. We use a special trick called consistent hashing. With this trick, when you add or remove one mailbox, only a few letters need to move. The rest stay in place. It saves a lot of work.",
+          "word_count": 105,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "mailbox",
+              "pos": "noun",
+              "meaning_ko": "우편함"
+            },
+            {
+              "word": "letter",
+              "pos": "noun",
+              "meaning_ko": "편지"
+            },
+            {
+              "word": "trick",
+              "pos": "noun",
+              "meaning_ko": "요령"
+            },
+            {
+              "word": "full",
+              "pos": "adjective",
+              "meaning_ko": "가득 찬"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "imagine a",
+              "meaning_ko": "~를 상상해 보라"
+            },
+            {
+              "phrase": "every day",
+              "meaning_ko": "매일"
+            },
+            {
+              "phrase": "one way is",
+              "meaning_ko": "한 가지 방법은 ~이다"
+            },
+            {
+              "phrase": "what if",
+              "meaning_ko": "만약 ~라면"
+            },
+            {
+              "phrase": "the rest stay",
+              "meaning_ko": "나머지는 그대로 있다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is consistent hashing",
+          "body": "Imagine a busy online service with millions of users. Their data has to live on many computers, called servers, because one server is not enough. A simple way to assign data is to take the user's ID, calculate a number, and use 'number modulo number of servers' to decide which server stores their data.\n\nThis sounds fine, until the day you need to add or remove a server. Suddenly the modulo is different for everyone. Almost every user's data has to move to a new server. The whole system shakes.\n\nConsistent hashing is a clever idea that solves this problem. The trick is to put the servers on an imaginary circle, and use a hash to place each piece of data on the same circle. Each piece of data is owned by the next server going clockwise.\n\nThe beautiful part is what happens when a server is added or removed. Only a small slice of the circle changes hands. The rest of the data stays exactly where it was. That is why most large distributed systems quietly use this idea under the hood.",
+          "word_count": 183,
+          "estimated_read_seconds": 92,
+          "vocab": [
+            {
+              "word": "server",
+              "pos": "noun",
+              "meaning_ko": "서버 (데이터를 저장하는 컴퓨터)"
+            },
+            {
+              "word": "modulo",
+              "pos": "noun",
+              "meaning_ko": "나머지 연산"
+            },
+            {
+              "word": "circle",
+              "pos": "noun",
+              "meaning_ko": "원"
+            },
+            {
+              "word": "clockwise",
+              "pos": "adverb",
+              "meaning_ko": "시계 방향으로"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "sounds fine, until",
+              "meaning_ko": "괜찮게 들린다, ~까지는"
+            },
+            {
+              "phrase": "almost every",
+              "meaning_ko": "거의 모든"
+            },
+            {
+              "phrase": "the trick is to",
+              "meaning_ko": "요령은 ~하는 것이다"
+            },
+            {
+              "phrase": "the beautiful part is",
+              "meaning_ko": "멋진 부분은 ~이다"
+            },
+            {
+              "phrase": "stays exactly where it was",
+              "meaning_ko": "있던 자리에 그대로 있다"
+            },
+            {
+              "phrase": "under the hood",
+              "meaning_ko": "내부적으로, 안쪽에서"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is consistent hashing",
+          "body": "Imagine you are running a busy web service with millions of users, and you have decided to spread their data across, say, ten servers, because one machine is simply not enough. The most obvious way to decide which server stores which user's data is to hash the user ID and take the result modulo ten. Whichever number falls out is the server you use.\n\nThis approach works beautifully — until the moment you need to add an eleventh server. Suddenly the modulo changes for almost every user, which means almost every piece of data has to be moved to a new home. The system has to shuffle nearly its entire state just to accommodate one new machine, and the same thing happens whenever a server is removed.\n\nConsistent hashing is an elegant solution to this problem, and it is one of the foundational ideas of modern distributed systems. The intuition is surprisingly visual. You imagine a circle representing the entire range of hash values. Each server is placed at one or more positions on this circle, and each piece of data is also hashed onto a position on the same circle. The rule is simple: each piece of data belongs to the next server you encounter when walking clockwise from its position.\n\nThe crucial property — and the reason this idea matters — is how the system behaves when servers come and go. When you add a server, only the small slice of the circle immediately before the new server changes hands. When you remove a server, only the data that previously belonged to it has to be moved, and it simply slides to its clockwise neighbor. The vast majority of the data stays exactly where it was.\n\nThat quiet stability is what allows large caches, key-value stores, and content delivery networks to grow, shrink, and survive failures without rebalancing nearly everything every time something changes.",
+          "word_count": 316,
+          "estimated_read_seconds": 158,
+          "vocab": [
+            {
+              "word": "shuffle",
+              "pos": "verb",
+              "meaning_ko": "뒤섞다, 재배치하다"
+            },
+            {
+              "word": "accommodate",
+              "pos": "verb",
+              "meaning_ko": "수용하다, 받아들이다"
+            },
+            {
+              "word": "distributed",
+              "pos": "adjective",
+              "meaning_ko": "분산된"
+            },
+            {
+              "word": "foundational",
+              "pos": "adjective",
+              "meaning_ko": "근본적인, 토대가 되는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "spread X across Y",
+              "meaning_ko": "X를 Y에 분산시키다"
+            },
+            {
+              "phrase": "the most obvious way",
+              "meaning_ko": "가장 명백한 방법"
+            },
+            {
+              "phrase": "until the moment",
+              "meaning_ko": "~하는 그 순간까지"
+            },
+            {
+              "phrase": "the intuition is surprisingly visual",
+              "meaning_ko": "직관은 의외로 시각적이다"
+            },
+            {
+              "phrase": "come and go",
+              "meaning_ko": "왔다 갔다 하다, 들어왔다 나갔다 하다"
+            },
+            {
+              "phrase": "the vast majority of",
+              "meaning_ko": "대다수의 ~"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is consistent hashing",
+          "body": "Imagine you are operating a high-traffic web service with millions of users, and you have decided to distribute their data across, say, ten servers, because no single machine can comfortably hold all of it. The most obvious scheme — the one almost everyone reaches for first — is to hash each user ID and take the result modulo the number of servers. Whichever number falls out tells you which server is responsible for that user's data. As a starting point, this is perfectly reasonable.\n\nThe problem reveals itself the first time you try to add an eleventh server. Because the modulus has changed, the mapping from key to server now produces a different answer for nearly every key in the system. The practical consequence is brutal: an enormous fraction of your data has to be moved to a new server simply to accommodate one new machine, and the same disruptive reshuffling occurs whenever a server is removed, fails, or is replaced. In a production system, that kind of churn is, frankly, unacceptable.\n\nConsistent hashing is one of the foundational ideas of modern distributed systems, and it offers an unusually elegant escape from this dilemma. The intuition behind it is more visual than mathematical. You imagine the entire range of possible hash values arranged around the circumference of a circle. Each server is mapped to one or more positions on that circle, and every piece of data is independently hashed onto a position as well. The governing rule is satisfyingly simple: each key belongs to the first server you encounter when moving clockwise from its position on the ring.\n\nThe crucial property — the one that justifies the whole construction — is how the arrangement behaves under change. When you add a new server, only the arc immediately preceding its position on the ring changes ownership. Every other key, on every other arc, continues to be served by exactly the same machine as before. When you remove a server, only the data that previously belonged to that one server needs to migrate, and it does so by sliding cleanly to its clockwise neighbor. The vast majority of the dataset remains undisturbed.\n\nThat property is precisely why consistent hashing sits at the heart of so many real-world systems — distributed caches, sharded databases, content delivery networks, and modern object stores. It does not eliminate the cost of rebalancing entirely; nothing could. But it confines that cost to the small region of the keyspace that genuinely needs to change, and in doing so, it makes the practical reality of running large distributed systems considerably more humane.",
+          "word_count": 433,
+          "estimated_read_seconds": 216,
+          "vocab": [
+            {
+              "word": "churn",
+              "pos": "noun",
+              "meaning_ko": "(시스템의) 잦은 변동"
+            },
+            {
+              "word": "circumference",
+              "pos": "noun",
+              "meaning_ko": "원주, 둘레"
+            },
+            {
+              "word": "preceding",
+              "pos": "adjective",
+              "meaning_ko": "앞에 있는, 선행하는"
+            },
+            {
+              "word": "humane",
+              "pos": "adjective",
+              "meaning_ko": "인간적인, 견딜 만한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "reveals itself the first time",
+              "meaning_ko": "처음 ~할 때 비로소 드러난다"
+            },
+            {
+              "phrase": "frankly, unacceptable",
+              "meaning_ko": "솔직히, 받아들일 수 없는"
+            },
+            {
+              "phrase": "an unusually elegant escape from",
+              "meaning_ko": "~로부터의 유난히 우아한 탈출구"
+            },
+            {
+              "phrase": "the one that justifies",
+              "meaning_ko": "~을 정당화하는 것"
+            },
+            {
+              "phrase": "sits at the heart of",
+              "meaning_ko": "~의 핵심에 자리 잡고 있다"
+            },
+            {
+              "phrase": "in doing so",
+              "meaning_ko": "그렇게 함으로써"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-speaking-01",
+      "category": "speaking",
+      "title_ko": "[행동면접] 팀과 기술적 결정에서 의견이 갈렸던 경험을 말해보세요",
+      "source_url": null,
+      "source_name": "Generated · Behavioral interview",
       "image_url": null,
       "levels": {
         "A2": {
@@ -219,864 +1107,6 @@
             {
               "phrase": "a lesson I keep returning to",
               "meaning_ko": "계속 되돌아가게 되는 교훈"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "topic_id": "2026-05-27-ielts_p1-01",
-      "category": "ielts_p1",
-      "title_ko": "요리하는 것을 좋아하나요?",
-      "source_url": null,
-      "source_name": "Generated (IELTS Speaking Part 1)",
-      "image_url": null,
-      "levels": {
-        "A2": {
-          "title": "Do you enjoy cooking?",
-          "body": "Yes, I do. I like cooking simple meals on the weekend. My favorite thing to make is fried rice, because it is fast and tastes good. During the week, I am busy, so I cook less. But on Sundays, I really enjoy it.",
-          "word_count": 43,
-          "estimated_read_seconds": 22,
-          "vocab": [
-            {
-              "word": "favorite",
-              "pos": "adjective",
-              "meaning_ko": "가장 좋아하는"
-            },
-            {
-              "word": "busy",
-              "pos": "adjective",
-              "meaning_ko": "바쁜"
-            },
-            {
-              "word": "simple",
-              "pos": "adjective",
-              "meaning_ko": "간단한"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "Yes, I do",
-              "meaning_ko": "네, 좋아해요 (yes-no 답 만들기)"
-            },
-            {
-              "phrase": "my favorite thing to make is",
-              "meaning_ko": "내가 제일 좋아하는 요리는"
-            },
-            {
-              "phrase": "during the week",
-              "meaning_ko": "주중에"
-            },
-            {
-              "phrase": "really enjoy it",
-              "meaning_ko": "정말 즐긴다"
-            },
-            {
-              "phrase": "on the weekend",
-              "meaning_ko": "주말에"
-            }
-          ]
-        },
-        "B1": {
-          "title": "Do you enjoy cooking?",
-          "body": "Yes, I really enjoy cooking, although I have to admit I'm not very good at it yet. I usually cook on the weekends, because I'm too tired during the week. My favorite thing to make is fried rice — it's quick, you can use almost anything in the fridge, and it always tastes good. Cooking helps me relax after a busy week.",
-          "word_count": 62,
-          "estimated_read_seconds": 31,
-          "vocab": [
-            {
-              "word": "admit",
-              "pos": "verb",
-              "meaning_ko": "인정하다, 솔직히 말하다"
-            },
-            {
-              "word": "recipe",
-              "pos": "noun",
-              "meaning_ko": "조리법, 레시피"
-            },
-            {
-              "word": "relax",
-              "pos": "verb",
-              "meaning_ko": "긴장을 풀다, 쉬다"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I have to admit",
-              "meaning_ko": "솔직히 말하면 (헷지 표현)"
-            },
-            {
-              "phrase": "I'm not very good at it yet",
-              "meaning_ko": "아직 잘하지는 못해요"
-            },
-            {
-              "phrase": "almost anything",
-              "meaning_ko": "거의 무엇이든"
-            },
-            {
-              "phrase": "helps me relax",
-              "meaning_ko": "긴장을 풀게 해준다"
-            },
-            {
-              "phrase": "after a busy week",
-              "meaning_ko": "바쁜 한 주를 보낸 뒤"
-            },
-            {
-              "phrase": "even though",
-              "meaning_ko": "비록 ~이지만"
-            }
-          ]
-        },
-        "B2": {
-          "title": "Do you enjoy cooking?",
-          "body": "Yes, I do enjoy cooking, even though I'd describe myself as more of a casual cook than a skilled one. During the week I tend to keep things simple, but on weekends I like to try something a bit more interesting, like a new pasta sauce or a recipe I've seen online. What I enjoy most is the calmness of it — chopping vegetables and following a recipe is a nice way to slow down after a stressful week at work. Also, it's quite satisfying to eat something you made yourself.",
-          "word_count": 91,
-          "estimated_read_seconds": 46,
-          "vocab": [
-            {
-              "word": "casual",
-              "pos": "adjective",
-              "meaning_ko": "느긋한, 가벼운"
-            },
-            {
-              "word": "satisfying",
-              "pos": "adjective",
-              "meaning_ko": "만족스러운"
-            },
-            {
-              "word": "calmness",
-              "pos": "noun",
-              "meaning_ko": "평온함"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I'd describe myself as",
-              "meaning_ko": "나를 ~라고 표현하겠다 (자기 평가)"
-            },
-            {
-              "phrase": "more of an X than a Y",
-              "meaning_ko": "Y라기보다는 X에 가까운"
-            },
-            {
-              "phrase": "tend to keep things simple",
-              "meaning_ko": "보통은 단순하게 한다"
-            },
-            {
-              "phrase": "what I enjoy most is",
-              "meaning_ko": "내가 가장 즐기는 것은"
-            },
-            {
-              "phrase": "slow down",
-              "meaning_ko": "속도를 늦추다, 여유를 갖다"
-            },
-            {
-              "phrase": "quite satisfying",
-              "meaning_ko": "꽤 만족스러운"
-            }
-          ]
-        },
-        "C1": {
-          "title": "Do you enjoy cooking?",
-          "body": "Yes, I genuinely enjoy cooking, although I'd hesitate to call myself a serious cook. During the week I usually keep things straightforward — something quick that doesn't take much thought after a long day. On weekends, though, I like to be a bit more adventurous, whether that means trying a new pasta sauce or attempting a recipe I've come across online. Honestly, what draws me to it isn't really the food itself; it's the calmness of the process. Chopping vegetables, following a recipe step by step — there's something almost meditative about it after a stressful week at the screen. And of course, there's a quiet kind of satisfaction in sitting down to eat something you made with your own hands.",
-          "word_count": 121,
-          "estimated_read_seconds": 60,
-          "vocab": [
-            {
-              "word": "hesitate",
-              "pos": "verb",
-              "meaning_ko": "망설이다"
-            },
-            {
-              "word": "adventurous",
-              "pos": "adjective",
-              "meaning_ko": "모험적인, 도전적인"
-            },
-            {
-              "word": "meditative",
-              "pos": "adjective",
-              "meaning_ko": "명상적인, 마음을 가라앉히는"
-            },
-            {
-              "word": "indulgent",
-              "pos": "adjective",
-              "meaning_ko": "스스로에게 너그러운, 호사스러운"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I'd hesitate to call myself",
-              "meaning_ko": "나를 ~라고 부르기엔 좀 망설여진다 (고급 헷지)"
-            },
-            {
-              "phrase": "what draws me to it isn't really",
-              "meaning_ko": "내가 거기에 끌리는 건 사실 ~이 아니다"
-            },
-            {
-              "phrase": "there's something almost X about it",
-              "meaning_ko": "거의 X에 가까운 무언가가 있다"
-            },
-            {
-              "phrase": "step by step",
-              "meaning_ko": "차근차근"
-            },
-            {
-              "phrase": "of course, there's",
-              "meaning_ko": "물론, ~도 있다 (자연스러운 부연)"
-            },
-            {
-              "phrase": "with your own hands",
-              "meaning_ko": "직접 손으로"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "topic_id": "2026-05-27-ielts_p2-01",
-      "category": "ielts_p2",
-      "title_ko": "배우고 싶은 기술 하나를 묘사하세요 (무엇·왜·어떻게·유용성)",
-      "source_url": null,
-      "source_name": "Generated (IELTS Speaking Part 2)",
-      "image_url": null,
-      "levels": {
-        "A2": {
-          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
-          "body": "I would like to learn how to play the guitar. I have wanted to do this for a long time, but I never had the time.\n\nI want to learn guitar for many reasons. First, I love listening to music. Some songs sound so beautiful with guitar. Second, my friend can play, and it looks fun.\n\nTo learn, I would buy a cheap guitar first. I do not want to spend a lot of money before I know if I really like it. Then I would watch videos online. There are many free lessons on YouTube. I would also try to play a little every day, maybe twenty or thirty minutes.\n\nThis skill would be useful for me because I want to relax more. My job is on a computer all day. Music with my hands would be very different. Also, I could play for friends. That would be a nice way to spend time with them.",
-          "word_count": 157,
-          "estimated_read_seconds": 78,
-          "vocab": [
-            {
-              "word": "guitar",
-              "pos": "noun",
-              "meaning_ko": "기타"
-            },
-            {
-              "word": "music",
-              "pos": "noun",
-              "meaning_ko": "음악"
-            },
-            {
-              "word": "lessons",
-              "pos": "noun",
-              "meaning_ko": "수업, 강의"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I would like to",
-              "meaning_ko": "~하고 싶다 (p2 시작 표현)"
-            },
-            {
-              "phrase": "for many reasons",
-              "meaning_ko": "여러 이유로"
-            },
-            {
-              "phrase": "First, ... Second, ...",
-              "meaning_ko": "첫째, ... 둘째, ... (구조화)"
-            },
-            {
-              "phrase": "free lessons online",
-              "meaning_ko": "온라인 무료 강의"
-            },
-            {
-              "phrase": "every day",
-              "meaning_ko": "매일"
-            }
-          ]
-        },
-        "B1": {
-          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
-          "body": "A skill I would really like to learn is playing the guitar. It's something I've been thinking about for years, but I've always told myself I don't have time.\n\nThere are a few reasons I want to learn. First, I genuinely love music, and most of my favorite songs have guitar in them. Second, one of my close friends plays the guitar, and watching him casually play after dinner always looks so relaxing and fun. I think it would be a great way to connect with him too.\n\nIf I really decided to do it, I'd probably start by buying a cheap second-hand guitar, because I don't want to spend a lot of money before I'm sure I'll stick with it. Then I would use free lessons on YouTube — there are so many good teachers online. I'd try to practice a little every day, maybe twenty or thirty minutes, instead of one long session on the weekend.\n\nThis skill would be useful for me in a few ways. My job is in front of a computer all day, so picking up something that uses my hands would be a really nice change. It would also help me relax, because I get stressed quite easily. And honestly, it would just be fun. At my age, learning a new skill that has nothing to do with work feels almost like a small gift to myself.",
-          "word_count": 234,
-          "estimated_read_seconds": 117,
-          "vocab": [
-            {
-              "word": "cheap",
-              "pos": "adjective",
-              "meaning_ko": "값싼"
-            },
-            {
-              "word": "second-hand",
-              "pos": "adjective",
-              "meaning_ko": "중고의"
-            },
-            {
-              "word": "practice",
-              "pos": "verb",
-              "meaning_ko": "연습하다"
-            },
-            {
-              "word": "instrument",
-              "pos": "noun",
-              "meaning_ko": "악기"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "for years",
-              "meaning_ko": "수년간"
-            },
-            {
-              "phrase": "I've always told myself",
-              "meaning_ko": "항상 스스로에게 말해왔다"
-            },
-            {
-              "phrase": "a few reasons",
-              "meaning_ko": "몇 가지 이유 (p2 구조화)"
-            },
-            {
-              "phrase": "stick with it",
-              "meaning_ko": "꾸준히 (그것을) 하다"
-            },
-            {
-              "phrase": "instead of",
-              "meaning_ko": "~ 대신에"
-            },
-            {
-              "phrase": "feels like a small gift to myself",
-              "meaning_ko": "나에게 주는 작은 선물처럼 느껴진다"
-            }
-          ]
-        },
-        "B2": {
-          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
-          "body": "A skill I would really like to learn is playing the guitar. It's something I've been thinking about for years, but I've always managed to convince myself I don't have time for it.\n\nThere are several reasons I want to learn. The most basic one is that I genuinely love music — a huge proportion of my favorite songs are built around the guitar, and there's something about the instrument's warmth that I find emotionally appealing. On top of that, one of my closest friends plays the guitar quite well, and whenever I see him casually pick it up after dinner, it always looks both relaxing and impressive. I imagine it would also give us a new way to spend time together.\n\nIf I were to actually commit to learning, I'd probably start by buying a cheap second-hand acoustic, because I don't want to invest a lot of money before I know whether I'll stick with it. Then I would rely mostly on YouTube tutorials, since there are excellent teachers offering structured beginner courses for free. Rather than practicing in long, intense sessions on the weekend, I'd try to play for twenty or thirty minutes every day, because I believe consistency matters far more than intensity when it comes to learning an instrument.\n\nThis skill would be useful for me in several ways. My work involves staring at a computer screen for most of the day, so taking up something that engages my hands and ears in a completely different way would be a welcome change. It would also help me unwind, since I tend to carry stress home with me. And perhaps most importantly, at this stage of life, deliberately learning something that has absolutely nothing to do with my career feels like a small but meaningful gift to myself.",
-          "word_count": 301,
-          "estimated_read_seconds": 150,
-          "vocab": [
-            {
-              "word": "commit",
-              "pos": "verb",
-              "meaning_ko": "전념하다, 마음먹다"
-            },
-            {
-              "word": "acoustic",
-              "pos": "noun",
-              "meaning_ko": "어쿠스틱 (기타)"
-            },
-            {
-              "word": "structured",
-              "pos": "adjective",
-              "meaning_ko": "체계적인"
-            },
-            {
-              "word": "consistency",
-              "pos": "noun",
-              "meaning_ko": "꾸준함, 일관성"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "for years",
-              "meaning_ko": "수년간"
-            },
-            {
-              "phrase": "managed to convince myself",
-              "meaning_ko": "스스로를 ~라고 설득해 왔다"
-            },
-            {
-              "phrase": "on top of that",
-              "meaning_ko": "게다가 (덧붙이기)"
-            },
-            {
-              "phrase": "If I were to actually commit to",
-              "meaning_ko": "만약 정말로 ~한다면 (가정법)"
-            },
-            {
-              "phrase": "would be a welcome change",
-              "meaning_ko": "환영할 만한 변화일 것이다"
-            },
-            {
-              "phrase": "carry stress home with me",
-              "meaning_ko": "스트레스를 집까지 가지고 가다"
-            }
-          ]
-        },
-        "C1": {
-          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
-          "body": "A skill I would genuinely like to learn is playing the guitar. To be honest, it's something I've been quietly thinking about for years, but I've always managed to talk myself out of it on the grounds that I don't have the time — which, in retrospect, sounds suspiciously like an excuse.\n\nThere are several reasons the guitar appeals to me. The most obvious one is that I love music — a disproportionate number of my favorite songs are built around the instrument, and there's something about its warmth and intimacy that I find emotionally compelling in a way that, say, a piano never quite reaches for me. Beyond that, one of my closest friends plays remarkably well, and whenever he casually picks up his guitar after dinner, it always strikes me as both relaxing for him and quietly impressive to watch. I suspect learning would also give the two of us a completely new way of spending time together.\n\nIf I ever actually committed to learning, I think I'd start in a deliberately modest way. I'd buy a cheap second-hand acoustic, mainly because I don't want to pour money into an expensive instrument before I'm convinced I'll stick with it. From there, I'd rely heavily on YouTube, where there are surprisingly good teachers offering structured beginner courses entirely for free. Rather than attempting long, ambitious practice sessions on the weekend, I'd aim for twenty or thirty minutes a day, on the principle that consistency matters far more than intensity when you're learning an instrument from scratch.\n\nThis skill would be useful to me in ways that go beyond simply being able to play a few songs. My job involves staring at a screen for most of the day, so taking up something that engages my hands and ears in an entirely different mode would be a meaningful counterweight. It would also, I suspect, help me unwind, because I tend to bring work-related stress home with me without realizing it. And perhaps most importantly of all, at this point in life, deliberately learning something that has absolutely nothing to do with my career feels less like a hobby and more like a quiet investment in the kind of person I want to remain.",
-          "word_count": 373,
-          "estimated_read_seconds": 186,
-          "vocab": [
-            {
-              "word": "disproportionate",
-              "pos": "adjective",
-              "meaning_ko": "불균형하게 많은/큰"
-            },
-            {
-              "word": "intimacy",
-              "pos": "noun",
-              "meaning_ko": "친밀감"
-            },
-            {
-              "word": "counterweight",
-              "pos": "noun",
-              "meaning_ko": "균형추, 상쇄 요소"
-            },
-            {
-              "word": "modest",
-              "pos": "adjective",
-              "meaning_ko": "겸손한, 소박한"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "to be honest",
-              "meaning_ko": "솔직히 (자연스러운 헷지)"
-            },
-            {
-              "phrase": "in retrospect",
-              "meaning_ko": "돌이켜 보면"
-            },
-            {
-              "phrase": "rely heavily on",
-              "meaning_ko": "~에 크게 의존하다"
-            },
-            {
-              "phrase": "on the principle that",
-              "meaning_ko": "~라는 원칙으로"
-            },
-            {
-              "phrase": "in ways that go beyond",
-              "meaning_ko": "단순히 ~를 넘어선 방식으로"
-            },
-            {
-              "phrase": "feels less like X and more like Y",
-              "meaning_ko": "X라기보다는 Y에 가깝게 느껴진다"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "topic_id": "2026-05-27-ielts_p3-01",
-      "category": "ielts_p3",
-      "title_ko": "사람들이 일을 위해 필요한 기술이 변하고 있다고 보나요? 어떻게요?",
-      "source_url": null,
-      "source_name": "Generated (IELTS Speaking Part 3)",
-      "image_url": null,
-      "levels": {
-        "A2": {
-          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
-          "body": "Yes, I think they are changing a lot. In the past, people did the same job for a long time. Now, jobs change quickly. Many people use computers and the internet every day at work. So, computer skills are important now. Also, people work with others from different countries, so English is helpful. I think we will have to learn new things many times in our lives.",
-          "word_count": 67,
-          "estimated_read_seconds": 34,
-          "vocab": [
-            {
-              "word": "change",
-              "pos": "verb",
-              "meaning_ko": "변하다"
-            },
-            {
-              "word": "English",
-              "pos": "noun",
-              "meaning_ko": "영어"
-            },
-            {
-              "word": "learn",
-              "pos": "verb",
-              "meaning_ko": "배우다"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "a lot",
-              "meaning_ko": "많이"
-            },
-            {
-              "phrase": "in the past",
-              "meaning_ko": "과거에는"
-            },
-            {
-              "phrase": "every day",
-              "meaning_ko": "매일"
-            },
-            {
-              "phrase": "many people",
-              "meaning_ko": "많은 사람들"
-            },
-            {
-              "phrase": "I think",
-              "meaning_ko": "내 생각에는"
-            }
-          ]
-        },
-        "B1": {
-          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
-          "body": "Yes, I definitely think the kinds of skills people need at work are changing quite quickly. In the past, many people did the same job for thirty or forty years. These days, that is becoming rare. Most jobs now require some level of digital skills, even simple ones like sending emails or using shared documents online.\n\nAnother big change is that we work much more with people from other countries. So good communication in English, and the ability to work in different cultures, has become very important. I also think we are expected to keep learning new tools all the time. I really believe that being open to learning, more than any specific skill, will be the most important thing in the future.",
-          "word_count": 123,
-          "estimated_read_seconds": 61,
-          "vocab": [
-            {
-              "word": "rare",
-              "pos": "adjective",
-              "meaning_ko": "드문"
-            },
-            {
-              "word": "digital",
-              "pos": "adjective",
-              "meaning_ko": "디지털의"
-            },
-            {
-              "word": "global",
-              "pos": "adjective",
-              "meaning_ko": "세계적인, 국제적인"
-            },
-            {
-              "word": "expected",
-              "pos": "verb",
-              "meaning_ko": "요구되다, 기대받다"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I definitely think that",
-              "meaning_ko": "분명히 ~라고 생각한다 (강한 의견)"
-            },
-            {
-              "phrase": "becoming rare",
-              "meaning_ko": "점점 드물어지고 있다"
-            },
-            {
-              "phrase": "even simple ones",
-              "meaning_ko": "아주 단순한 것조차"
-            },
-            {
-              "phrase": "another big change is that",
-              "meaning_ko": "또 다른 큰 변화는 ~이다 (점층 구조)"
-            },
-            {
-              "phrase": "more than any specific skill",
-              "meaning_ko": "어떤 특정 능력보다 더"
-            },
-            {
-              "phrase": "in the future",
-              "meaning_ko": "미래에는"
-            }
-          ]
-        },
-        "B2": {
-          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
-          "body": "Yes, I think the skills required for most jobs are changing quite dramatically, and at a much faster pace than even ten years ago. The most obvious shift is digital. Even roles that aren't considered technical now expect employees to be comfortable with shared documents, video calls, data dashboards, and increasingly, AI tools. Someone who refuses to learn these tends to find themselves slowly pushed to the margins of their team.\n\nA second change is that work has become much more global. Many of us collaborate with colleagues in completely different time zones, which means soft skills like clear written English, cultural awareness, and the ability to communicate asynchronously are now genuinely valuable, not just nice to have.\n\nBut the deeper change, in my view, isn't any specific skill — it's the expectation that you will keep learning throughout your career. The half-life of a particular tool or framework is shrinking every year, so what matters most is the underlying habit of being open to learning. In the end, I'd argue that adaptability has quietly become the most important skill of all, because it's the one that lets you acquire all the others.",
-          "word_count": 193,
-          "estimated_read_seconds": 96,
-          "vocab": [
-            {
-              "word": "dramatically",
-              "pos": "adverb",
-              "meaning_ko": "극적으로, 크게"
-            },
-            {
-              "word": "asynchronously",
-              "pos": "adverb",
-              "meaning_ko": "비동기적으로 (시차를 두고)"
-            },
-            {
-              "word": "shrinking",
-              "pos": "verb",
-              "meaning_ko": "줄어드는"
-            },
-            {
-              "word": "adaptability",
-              "pos": "noun",
-              "meaning_ko": "적응력"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I'd argue that",
-              "meaning_ko": "나는 ~라고 주장하고 싶다 (p3 의견 표현)"
-            },
-            {
-              "phrase": "at a much faster pace",
-              "meaning_ko": "훨씬 빠른 속도로"
-            },
-            {
-              "phrase": "tends to find themselves",
-              "meaning_ko": "어느새 자신이 ~하게 된다"
-            },
-            {
-              "phrase": "nice to have",
-              "meaning_ko": "있으면 좋은 (수준의)"
-            },
-            {
-              "phrase": "in my view",
-              "meaning_ko": "내 생각에는"
-            },
-            {
-              "phrase": "in the end",
-              "meaning_ko": "결국에는"
-            }
-          ]
-        },
-        "C1": {
-          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
-          "body": "Yes, I'd argue that the skills required for most kinds of work are changing fairly dramatically, and at a noticeably faster pace than even a decade ago. The most visible shift is digital. Even roles that aren't traditionally considered technical — teaching, healthcare, marketing, customer support — now assume a baseline comfort with shared documents, video conferencing, data dashboards, and, increasingly, with AI tools. People who actively resist learning these tend to find themselves quietly pushed to the margins of their teams, almost without anyone deciding it should happen.\n\nA second, less talked-about shift is that work has become genuinely global in a way it simply wasn't twenty years ago. Many of us now collaborate with colleagues in entirely different time zones, which means a set of softer skills — writing clearly in English, navigating cultural differences, and communicating effectively without immediate face-to-face feedback — have become substantively valuable, rather than merely admirable.\n\nThe deepest change, though, isn't any one particular skill. It's the expectation that learning is no longer something you finish, but something you do continuously. The effective half-life of a specific tool or framework keeps shrinking, which means what really matters is the underlying habit of staying curious and being willing to start from zero on something new every few years. In that sense, I'd argue that adaptability has quietly become the most important skill of our time — not because any single role demands it, but because it's the meta-skill that allows you to acquire whatever the next era of work happens to require.",
-          "word_count": 258,
-          "estimated_read_seconds": 129,
-          "vocab": [
-            {
-              "word": "noticeably",
-              "pos": "adverb",
-              "meaning_ko": "눈에 띄게"
-            },
-            {
-              "word": "substantively",
-              "pos": "adverb",
-              "meaning_ko": "실질적으로"
-            },
-            {
-              "word": "half-life",
-              "pos": "noun",
-              "meaning_ko": "반감기 (효용이 절반으로 줄어드는 시간)"
-            },
-            {
-              "word": "meta-skill",
-              "pos": "noun",
-              "meaning_ko": "메타 스킬 (다른 능력을 가능케 하는 능력)"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I'd argue that",
-              "meaning_ko": "나는 ~라고 주장하고 싶다"
-            },
-            {
-              "phrase": "at a noticeably faster pace",
-              "meaning_ko": "눈에 띄게 빠른 속도로"
-            },
-            {
-              "phrase": "less talked-about",
-              "meaning_ko": "덜 논의되는"
-            },
-            {
-              "phrase": "in a way it simply wasn't",
-              "meaning_ko": "예전엔 전혀 그렇지 않았던 방식으로"
-            },
-            {
-              "phrase": "not because X, but because Y",
-              "meaning_ko": "X 때문이 아니라 Y 때문에"
-            },
-            {
-              "phrase": "the meta-skill that",
-              "meaning_ko": "~인 메타 스킬"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "topic_id": "2026-05-27-opic-01",
-      "category": "opic",
-      "title_ko": "보통 주말에 무엇을 하는지 자세히 설명해 보세요 (활동·장소·함께하는 사람)",
-      "source_url": null,
-      "source_name": "Generated (OPIc)",
-      "image_url": null,
-      "levels": {
-        "A2": {
-          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
-          "body": "My weekend is usually quiet. On Saturday morning, I sleep late because I am tired from work. Then I have a slow breakfast at home. I drink coffee and read for a little while.\n\nIn the afternoon, I sometimes go for a walk in the park near my house. If the weather is good, I stay there for a long time. I also call my parents on Sunday. I talk to them for about an hour.\n\nOn Sunday evening, I clean my apartment and get ready for work. I do not do anything special, but it makes me feel calm.",
-          "word_count": 100,
-          "estimated_read_seconds": 50,
-          "vocab": [
-            {
-              "word": "breakfast",
-              "pos": "noun",
-              "meaning_ko": "아침 식사"
-            },
-            {
-              "word": "weather",
-              "pos": "noun",
-              "meaning_ko": "날씨"
-            },
-            {
-              "word": "walk",
-              "pos": "noun",
-              "meaning_ko": "산책"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "usually quiet",
-              "meaning_ko": "보통 조용하다"
-            },
-            {
-              "phrase": "sleep late",
-              "meaning_ko": "늦게까지 자다"
-            },
-            {
-              "phrase": "in the afternoon",
-              "meaning_ko": "오후에"
-            },
-            {
-              "phrase": "if the weather is good",
-              "meaning_ko": "날씨가 좋으면"
-            },
-            {
-              "phrase": "feel calm",
-              "meaning_ko": "차분해지다"
-            }
-          ]
-        },
-        "B1": {
-          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
-          "body": "My weekends are usually pretty quiet, and to be honest, I prefer them that way. On Saturday morning, I always sleep in because the week leaves me really tired. I'll usually have a slow breakfast at home, drink way too much coffee, and read something light for an hour or so.\n\nIn the afternoon, if the weather is good, I like to go for a walk in the small park near my apartment. Sometimes I meet a friend there for coffee, but often I just go alone, listen to a podcast, and let my mind rest.\n\nSundays are a little more routine. I call my parents in the afternoon — we usually talk for about an hour, mostly about nothing important. After that, I tidy up my apartment, do some laundry, and prepare a few things for the week ahead, like planning what I'll cook on Monday.\n\nNothing about my weekend is exciting, but that is exactly the point. By the time Sunday evening comes around, I feel rested and ready for another busy week.",
-          "word_count": 175,
-          "estimated_read_seconds": 88,
-          "vocab": [
-            {
-              "word": "tired",
-              "pos": "adjective",
-              "meaning_ko": "피곤한"
-            },
-            {
-              "word": "podcast",
-              "pos": "noun",
-              "meaning_ko": "팟캐스트"
-            },
-            {
-              "word": "routine",
-              "pos": "noun",
-              "meaning_ko": "일상, 루틴"
-            },
-            {
-              "word": "rested",
-              "pos": "adjective",
-              "meaning_ko": "쉬어서 개운한"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "to be honest",
-              "meaning_ko": "솔직히 말하면"
-            },
-            {
-              "phrase": "sleep in",
-              "meaning_ko": "늦잠 자다 (핵심 구동사)"
-            },
-            {
-              "phrase": "let my mind rest",
-              "meaning_ko": "머리를 쉬게 하다"
-            },
-            {
-              "phrase": "nothing important",
-              "meaning_ko": "별것 아닌 (대화 묘사)"
-            },
-            {
-              "phrase": "tidy up",
-              "meaning_ko": "정돈하다"
-            },
-            {
-              "phrase": "ready for another busy week",
-              "meaning_ko": "또 한 번의 바쁜 한 주를 맞을 준비가 된"
-            }
-          ]
-        },
-        "B2": {
-          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
-          "body": "My weekends are usually pretty quiet, and honestly, I've come to appreciate them that way. The work week tends to leave me drained, so I treat Saturday and Sunday almost like a recovery routine.\n\nOn Saturday morning, the first thing I do is sleep in for as long as my body wants. After that, I'll have a slow breakfast at home — usually toast, eggs, and far too much coffee — and read something light for an hour or so. I try to stay off my work laptop completely, which is harder than it sounds.\n\nIn the afternoon, if the weather is reasonable, I like to take a long walk in the park near my apartment. Sometimes I meet a friend there for coffee, but more often I go alone with a podcast in my ears. It sounds a bit unsocial, but I find it genuinely restorative.\n\nSundays follow a slightly more structured rhythm. I usually call my parents in the afternoon, and we end up talking for about an hour about nothing particularly important. Afterwards, I tidy up the apartment, do laundry, and quickly plan the week ahead — what I'll cook, what I need to focus on at work, that kind of thing.\n\nNothing about my weekends is dramatic or exciting, but that's exactly the point. By Sunday evening, I usually feel calm and recharged, which makes it much easier to start a busy week without dreading it.",
-          "word_count": 240,
-          "estimated_read_seconds": 120,
-          "vocab": [
-            {
-              "word": "drained",
-              "pos": "adjective",
-              "meaning_ko": "기진맥진한, 완전히 지친"
-            },
-            {
-              "word": "restorative",
-              "pos": "adjective",
-              "meaning_ko": "원기를 회복시켜 주는"
-            },
-            {
-              "word": "structured",
-              "pos": "adjective",
-              "meaning_ko": "체계적인"
-            },
-            {
-              "word": "dreading",
-              "pos": "verb",
-              "meaning_ko": "두려워하는, 미리 걱정하는"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I've come to appreciate",
-              "meaning_ko": "점점 ~의 진가를 알게 되었다"
-            },
-            {
-              "phrase": "treat X almost like Y",
-              "meaning_ko": "X를 거의 Y처럼 다루다"
-            },
-            {
-              "phrase": "harder than it sounds",
-              "meaning_ko": "말처럼 쉽지 않다"
-            },
-            {
-              "phrase": "more often than not",
-              "meaning_ko": "대체로, 자주"
-            },
-            {
-              "phrase": "that's exactly the point",
-              "meaning_ko": "그게 바로 핵심이다"
-            },
-            {
-              "phrase": "without dreading it",
-              "meaning_ko": "두려워하지 않으면서"
-            }
-          ]
-        },
-        "C1": {
-          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
-          "body": "My weekends are usually pretty quiet, and honestly, I've come to appreciate them precisely for that reason. The work week tends to leave me genuinely drained, so I treat Saturday and Sunday almost as a deliberate recovery routine rather than a stretch of free time to be filled with activity.\n\nOn Saturday morning, the first thing I do is sleep in for as long as my body wants. After that, I'll have a slow breakfast at home — usually something simple like toast, eggs, and an indulgent amount of coffee — and read something light for an hour or so. I try to stay off my work laptop completely, although I have to admit that's much harder in practice than it sounds.\n\nIn the afternoon, weather permitting, I like to take a long walk through the small park near my apartment. Sometimes I'll meet a friend there for coffee, but more often than not I go alone with a podcast in my ears. It probably sounds a bit antisocial, but I find that kind of solo time genuinely restorative, and most of my closest friendships actually benefit from the fact that I show up well-rested rather than running on fumes.\n\nSundays follow a slightly more structured rhythm. I usually call my parents in the afternoon — we tend to talk for about an hour, mostly about nothing particularly consequential — and afterwards I'll tidy up the apartment, do laundry, and roughly plan the week ahead. That last bit is more important than it sounds: spending fifteen minutes thinking about what I'll cook and what I need to focus on at work makes Monday feel noticeably less chaotic.\n\nThere's nothing dramatic or particularly enviable about my weekends, but in a way that's exactly the point. By Sunday evening, I usually feel calm and quietly recharged, which makes it much easier to walk into another demanding week without immediately dreading it. I suspect that as I've gotten older, I've increasingly come to value that kind of unremarkable peace over the louder, more eventful weekends I used to chase.",
-          "word_count": 346,
-          "estimated_read_seconds": 173,
-          "vocab": [
-            {
-              "word": "indulgent",
-              "pos": "adjective",
-              "meaning_ko": "스스로에게 너그러운, 호사스러운"
-            },
-            {
-              "word": "antisocial",
-              "pos": "adjective",
-              "meaning_ko": "사람들과 어울리지 않는"
-            },
-            {
-              "word": "consequential",
-              "pos": "adjective",
-              "meaning_ko": "중요한, 무게감 있는"
-            },
-            {
-              "word": "enviable",
-              "pos": "adjective",
-              "meaning_ko": "부러워할 만한"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "I've come to appreciate",
-              "meaning_ko": "점점 ~의 진가를 알게 되었다"
-            },
-            {
-              "phrase": "a stretch of free time",
-              "meaning_ko": "쭉 이어지는 자유 시간"
-            },
-            {
-              "phrase": "weather permitting",
-              "meaning_ko": "날씨가 허락한다면 (고급 부사구)"
-            },
-            {
-              "phrase": "more often than not",
-              "meaning_ko": "대체로, 자주"
-            },
-            {
-              "phrase": "running on fumes",
-              "meaning_ko": "에너지가 거의 바닥난 상태로 (이디엄)"
-            },
-            {
-              "phrase": "increasingly come to value",
-              "meaning_ko": "점점 더 가치 있게 여기게 되었다"
             }
           ]
         }

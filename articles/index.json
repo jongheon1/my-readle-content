@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-27T12:33:55.948148+00:00",
+  "updated_at": "2026-05-27T12:47:03.459058+00:00",
   "available_levels": [
     "A2",
     "B1",
@@ -8,22 +8,22 @@
     "C1"
   ],
   "categories": [
-    "behavioral",
-    "ielts_p1",
-    "ielts_p2",
-    "ielts_p3",
-    "opic"
+    "academic_science",
+    "academic_humanities",
+    "cs_concepts",
+    "backend_systems",
+    "speaking"
   ],
   "dates": [
     {
       "date": "2026-05-27",
       "topic_count": 5,
       "categories": [
-        "behavioral",
-        "ielts_p1",
-        "ielts_p2",
-        "ielts_p3",
-        "opic"
+        "academic_science",
+        "academic_humanities",
+        "cs_concepts",
+        "backend_systems",
+        "speaking"
       ]
     },
     {
