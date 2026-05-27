@@ -1,0 +1,1086 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-27",
+  "topics": [
+    {
+      "topic_id": "2026-05-27-behavioral-01",
+      "category": "behavioral",
+      "title_ko": "팀과 기술적 결정에서 의견이 갈렸던 경험을 말해보세요",
+      "source_url": null,
+      "source_name": "Generated (behavioral interview)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Tell me about a time you disagreed with your team on a technical decision.",
+          "body": "Last year, my team had to choose a database for a new project. Most people wanted to use the same database we always used. I thought a different one was better for our needs. I was worried, but I spoke up in a meeting. I shared my reasons with simple examples. Some people did not agree at first. So I built a small test to show the speed. After they saw the test, they agreed. We changed our plan, and the project worked well. I learned that it is important to speak up, but with proof.",
+          "word_count": 96,
+          "estimated_read_seconds": 48,
+          "vocab": [
+            {
+              "word": "project",
+              "pos": "noun",
+              "meaning_ko": "프로젝트"
+            },
+            {
+              "word": "agree",
+              "pos": "verb",
+              "meaning_ko": "동의하다"
+            },
+            {
+              "word": "plan",
+              "pos": "noun",
+              "meaning_ko": "계획"
+            },
+            {
+              "word": "proof",
+              "pos": "noun",
+              "meaning_ko": "증거"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "speak up",
+              "meaning_ko": "의견을 말하다, 목소리를 내다"
+            },
+            {
+              "phrase": "at first",
+              "meaning_ko": "처음에는"
+            },
+            {
+              "phrase": "in the end",
+              "meaning_ko": "결국, 마침내"
+            },
+            {
+              "phrase": "did not agree",
+              "meaning_ko": "동의하지 않았다"
+            },
+            {
+              "phrase": "work well",
+              "meaning_ko": "잘 풀리다, 잘 작동하다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Tell me about a time you disagreed with your team on a technical decision.",
+          "body": "A few months ago, my team had to choose a database for a new service. Most of my teammates wanted to use the same one we always used, because it felt safe and familiar. I felt strongly that a different database would be a better fit for the kind of data we were storing.\n\nIt wasn't easy to disagree, especially with people who had more experience. But instead of just arguing, I built a small test project over a weekend. I showed the team real numbers — query times, memory use, and a clear comparison.\n\nAfter they saw the results, the conversation changed completely. They started asking practical questions, and in the end we agreed to use the new database. The launch went smoothly, and the service is still running on it.\n\nWhat I took away is that disagreement is fine — even useful — as long as you bring evidence, not just opinions.",
+          "word_count": 154,
+          "estimated_read_seconds": 77,
+          "vocab": [
+            {
+              "word": "teammates",
+              "pos": "noun",
+              "meaning_ko": "팀원들"
+            },
+            {
+              "word": "evidence",
+              "pos": "noun",
+              "meaning_ko": "증거"
+            },
+            {
+              "word": "comparison",
+              "pos": "noun",
+              "meaning_ko": "비교"
+            },
+            {
+              "word": "smoothly",
+              "pos": "adverb",
+              "meaning_ko": "순조롭게"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "felt strongly that",
+              "meaning_ko": "~라고 강하게 느꼈다"
+            },
+            {
+              "phrase": "instead of just arguing",
+              "meaning_ko": "그냥 우기는 대신"
+            },
+            {
+              "phrase": "real numbers",
+              "meaning_ko": "실제 수치"
+            },
+            {
+              "phrase": "what I took away is",
+              "meaning_ko": "내가 얻은 교훈은 (인터뷰 마무리 표현)"
+            },
+            {
+              "phrase": "as long as",
+              "meaning_ko": "~하는 한"
+            },
+            {
+              "phrase": "disagreement is fine — even useful",
+              "meaning_ko": "의견 차이는 괜찮다, 심지어 유용하다 (em-dash 강조)"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Tell me about a time you disagreed with your team on a technical decision.",
+          "body": "A few months ago, my team had to choose the database for a new internal service. Most of my teammates wanted to stick with the database we always used, mainly because everyone was already comfortable with it. I, on the other hand, was convinced that a different database would handle our access patterns much better, especially as the data grew.\n\nPushing back wasn't comfortable. A few of my teammates were more senior than me, and I didn't want to come across as inexperienced or arrogant. So I decided that simply repeating my opinion wouldn't be enough.\n\nOver the weekend, I built a small proof-of-concept and ran realistic benchmarks against both options. I prepared a one-page summary with query times, memory usage, and operational trade-offs, and I made sure to acknowledge the downsides of my preferred option as well.\n\nWhen I shared it in the next meeting, the tone of the discussion shifted. We stopped talking about which database we liked and started talking about which one fit the problem. We ended up going with my recommendation.\n\nThe launch went smoothly, and the service has been running on that database for several months with no major issues. What I took away from the experience is that healthy disagreement isn't about winning the argument — it's about replacing opinions with evidence so the team can decide together.",
+          "word_count": 225,
+          "estimated_read_seconds": 112,
+          "vocab": [
+            {
+              "word": "pushback",
+              "pos": "noun",
+              "meaning_ko": "반대, 이견 제시"
+            },
+            {
+              "word": "proof-of-concept",
+              "pos": "noun",
+              "meaning_ko": "개념 증명 (간단한 시험 구현)"
+            },
+            {
+              "word": "benchmark",
+              "pos": "verb",
+              "meaning_ko": "벤치마크하다, 성능 측정하다"
+            },
+            {
+              "word": "trade-offs",
+              "pos": "noun",
+              "meaning_ko": "장단점, 득실"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I, on the other hand",
+              "meaning_ko": "나는 반면에 (대조 핵심)"
+            },
+            {
+              "phrase": "I was convinced that",
+              "meaning_ko": "~라고 확신했다"
+            },
+            {
+              "phrase": "come across as",
+              "meaning_ko": "~한 인상을 주다, ~처럼 보이다"
+            },
+            {
+              "phrase": "make sure to",
+              "meaning_ko": "반드시 ~하다"
+            },
+            {
+              "phrase": "ended up + V-ing",
+              "meaning_ko": "결국 ~하게 됐다"
+            },
+            {
+              "phrase": "what I took away from",
+              "meaning_ko": "~에서 얻은 교훈은"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Tell me about a time you disagreed with your team on a technical decision.",
+          "body": "A few months ago, my team had to choose the database that would back a new internal service. Most of my teammates instinctively wanted to stick with the database we had used for years — partly out of familiarity, and partly because it had already been operationally tuned to our environment. I, however, had become increasingly convinced that a different database would handle our particular access patterns far better, especially as the dataset scaled.\n\nPushing back wasn't comfortable. Several of my teammates had more experience than I did, and I was conscious of not wanting to come across as inexperienced or, worse, arrogant. So I decided early on that simply restating my opinion would get me nowhere.\n\nOver a weekend, I built a small proof-of-concept and benchmarked both options against workloads that closely resembled what production would look like. I distilled the results into a one-page memo: query latencies, memory footprints, operational trade-offs, and — importantly — an honest account of the weaknesses of my preferred option.\n\nWhen I shared the document in our next design meeting, the conversation changed almost immediately. We stopped debating which database we liked more and started reasoning about which one actually fit the problem in front of us. By the end of the meeting, we had aligned on my recommendation, and several teammates told me afterwards that the structured comparison had made it much easier to engage with the proposal.\n\nThe service launched on schedule and has been running on the new database without serious incident ever since. What I took away from the experience was a lesson I keep returning to: healthy disagreement, especially with more senior colleagues, is rarely won by repeating yourself more loudly. It's won by quietly replacing opinions with evidence and giving the team something concrete enough to push back on.",
+          "word_count": 302,
+          "estimated_read_seconds": 151,
+          "vocab": [
+            {
+              "word": "instinctively",
+              "pos": "adverb",
+              "meaning_ko": "본능적으로, 거의 반사적으로"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간 (응답 속도)"
+            },
+            {
+              "word": "footprint",
+              "pos": "noun",
+              "meaning_ko": "점유량, 사용량 (메모리·자원)"
+            },
+            {
+              "word": "distilled",
+              "pos": "verb",
+              "meaning_ko": "요약/정제하여 담아냈다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "had become increasingly convinced that",
+              "meaning_ko": "점점 ~라고 확신하게 됐다"
+            },
+            {
+              "phrase": "was conscious of not wanting to",
+              "meaning_ko": "~하지 않으려고 신경 썼다"
+            },
+            {
+              "phrase": "get me nowhere",
+              "meaning_ko": "아무 효과가 없다"
+            },
+            {
+              "phrase": "by the end of",
+              "meaning_ko": "~이 끝날 무렵"
+            },
+            {
+              "phrase": "without serious incident",
+              "meaning_ko": "큰 문제 없이"
+            },
+            {
+              "phrase": "a lesson I keep returning to",
+              "meaning_ko": "계속 되돌아가게 되는 교훈"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-ielts_p1-01",
+      "category": "ielts_p1",
+      "title_ko": "요리하는 것을 좋아하나요?",
+      "source_url": null,
+      "source_name": "Generated (IELTS Speaking Part 1)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I do. I like cooking simple meals on the weekend. My favorite thing to make is fried rice, because it is fast and tastes good. During the week, I am busy, so I cook less. But on Sundays, I really enjoy it.",
+          "word_count": 43,
+          "estimated_read_seconds": 22,
+          "vocab": [
+            {
+              "word": "favorite",
+              "pos": "adjective",
+              "meaning_ko": "가장 좋아하는"
+            },
+            {
+              "word": "busy",
+              "pos": "adjective",
+              "meaning_ko": "바쁜"
+            },
+            {
+              "word": "simple",
+              "pos": "adjective",
+              "meaning_ko": "간단한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Yes, I do",
+              "meaning_ko": "네, 좋아해요 (yes-no 답 만들기)"
+            },
+            {
+              "phrase": "my favorite thing to make is",
+              "meaning_ko": "내가 제일 좋아하는 요리는"
+            },
+            {
+              "phrase": "during the week",
+              "meaning_ko": "주중에"
+            },
+            {
+              "phrase": "really enjoy it",
+              "meaning_ko": "정말 즐긴다"
+            },
+            {
+              "phrase": "on the weekend",
+              "meaning_ko": "주말에"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I really enjoy cooking, although I have to admit I'm not very good at it yet. I usually cook on the weekends, because I'm too tired during the week. My favorite thing to make is fried rice — it's quick, you can use almost anything in the fridge, and it always tastes good. Cooking helps me relax after a busy week.",
+          "word_count": 62,
+          "estimated_read_seconds": 31,
+          "vocab": [
+            {
+              "word": "admit",
+              "pos": "verb",
+              "meaning_ko": "인정하다, 솔직히 말하다"
+            },
+            {
+              "word": "recipe",
+              "pos": "noun",
+              "meaning_ko": "조리법, 레시피"
+            },
+            {
+              "word": "relax",
+              "pos": "verb",
+              "meaning_ko": "긴장을 풀다, 쉬다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I have to admit",
+              "meaning_ko": "솔직히 말하면 (헷지 표현)"
+            },
+            {
+              "phrase": "I'm not very good at it yet",
+              "meaning_ko": "아직 잘하지는 못해요"
+            },
+            {
+              "phrase": "almost anything",
+              "meaning_ko": "거의 무엇이든"
+            },
+            {
+              "phrase": "helps me relax",
+              "meaning_ko": "긴장을 풀게 해준다"
+            },
+            {
+              "phrase": "after a busy week",
+              "meaning_ko": "바쁜 한 주를 보낸 뒤"
+            },
+            {
+              "phrase": "even though",
+              "meaning_ko": "비록 ~이지만"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I do enjoy cooking, even though I'd describe myself as more of a casual cook than a skilled one. During the week I tend to keep things simple, but on weekends I like to try something a bit more interesting, like a new pasta sauce or a recipe I've seen online. What I enjoy most is the calmness of it — chopping vegetables and following a recipe is a nice way to slow down after a stressful week at work. Also, it's quite satisfying to eat something you made yourself.",
+          "word_count": 91,
+          "estimated_read_seconds": 46,
+          "vocab": [
+            {
+              "word": "casual",
+              "pos": "adjective",
+              "meaning_ko": "느긋한, 가벼운"
+            },
+            {
+              "word": "satisfying",
+              "pos": "adjective",
+              "meaning_ko": "만족스러운"
+            },
+            {
+              "word": "calmness",
+              "pos": "noun",
+              "meaning_ko": "평온함"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd describe myself as",
+              "meaning_ko": "나를 ~라고 표현하겠다 (자기 평가)"
+            },
+            {
+              "phrase": "more of an X than a Y",
+              "meaning_ko": "Y라기보다는 X에 가까운"
+            },
+            {
+              "phrase": "tend to keep things simple",
+              "meaning_ko": "보통은 단순하게 한다"
+            },
+            {
+              "phrase": "what I enjoy most is",
+              "meaning_ko": "내가 가장 즐기는 것은"
+            },
+            {
+              "phrase": "slow down",
+              "meaning_ko": "속도를 늦추다, 여유를 갖다"
+            },
+            {
+              "phrase": "quite satisfying",
+              "meaning_ko": "꽤 만족스러운"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I genuinely enjoy cooking, although I'd hesitate to call myself a serious cook. During the week I usually keep things straightforward — something quick that doesn't take much thought after a long day. On weekends, though, I like to be a bit more adventurous, whether that means trying a new pasta sauce or attempting a recipe I've come across online. Honestly, what draws me to it isn't really the food itself; it's the calmness of the process. Chopping vegetables, following a recipe step by step — there's something almost meditative about it after a stressful week at the screen. And of course, there's a quiet kind of satisfaction in sitting down to eat something you made with your own hands.",
+          "word_count": 121,
+          "estimated_read_seconds": 60,
+          "vocab": [
+            {
+              "word": "hesitate",
+              "pos": "verb",
+              "meaning_ko": "망설이다"
+            },
+            {
+              "word": "adventurous",
+              "pos": "adjective",
+              "meaning_ko": "모험적인, 도전적인"
+            },
+            {
+              "word": "meditative",
+              "pos": "adjective",
+              "meaning_ko": "명상적인, 마음을 가라앉히는"
+            },
+            {
+              "word": "indulgent",
+              "pos": "adjective",
+              "meaning_ko": "스스로에게 너그러운, 호사스러운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd hesitate to call myself",
+              "meaning_ko": "나를 ~라고 부르기엔 좀 망설여진다 (고급 헷지)"
+            },
+            {
+              "phrase": "what draws me to it isn't really",
+              "meaning_ko": "내가 거기에 끌리는 건 사실 ~이 아니다"
+            },
+            {
+              "phrase": "there's something almost X about it",
+              "meaning_ko": "거의 X에 가까운 무언가가 있다"
+            },
+            {
+              "phrase": "step by step",
+              "meaning_ko": "차근차근"
+            },
+            {
+              "phrase": "of course, there's",
+              "meaning_ko": "물론, ~도 있다 (자연스러운 부연)"
+            },
+            {
+              "phrase": "with your own hands",
+              "meaning_ko": "직접 손으로"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-ielts_p2-01",
+      "category": "ielts_p2",
+      "title_ko": "배우고 싶은 기술 하나를 묘사하세요 (무엇·왜·어떻게·유용성)",
+      "source_url": null,
+      "source_name": "Generated (IELTS Speaking Part 2)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
+          "body": "I would like to learn how to play the guitar. I have wanted to do this for a long time, but I never had the time.\n\nI want to learn guitar for many reasons. First, I love listening to music. Some songs sound so beautiful with guitar. Second, my friend can play, and it looks fun.\n\nTo learn, I would buy a cheap guitar first. I do not want to spend a lot of money before I know if I really like it. Then I would watch videos online. There are many free lessons on YouTube. I would also try to play a little every day, maybe twenty or thirty minutes.\n\nThis skill would be useful for me because I want to relax more. My job is on a computer all day. Music with my hands would be very different. Also, I could play for friends. That would be a nice way to spend time with them.",
+          "word_count": 157,
+          "estimated_read_seconds": 78,
+          "vocab": [
+            {
+              "word": "guitar",
+              "pos": "noun",
+              "meaning_ko": "기타"
+            },
+            {
+              "word": "music",
+              "pos": "noun",
+              "meaning_ko": "음악"
+            },
+            {
+              "word": "lessons",
+              "pos": "noun",
+              "meaning_ko": "수업, 강의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I would like to",
+              "meaning_ko": "~하고 싶다 (p2 시작 표현)"
+            },
+            {
+              "phrase": "for many reasons",
+              "meaning_ko": "여러 이유로"
+            },
+            {
+              "phrase": "First, ... Second, ...",
+              "meaning_ko": "첫째, ... 둘째, ... (구조화)"
+            },
+            {
+              "phrase": "free lessons online",
+              "meaning_ko": "온라인 무료 강의"
+            },
+            {
+              "phrase": "every day",
+              "meaning_ko": "매일"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
+          "body": "A skill I would really like to learn is playing the guitar. It's something I've been thinking about for years, but I've always told myself I don't have time.\n\nThere are a few reasons I want to learn. First, I genuinely love music, and most of my favorite songs have guitar in them. Second, one of my close friends plays the guitar, and watching him casually play after dinner always looks so relaxing and fun. I think it would be a great way to connect with him too.\n\nIf I really decided to do it, I'd probably start by buying a cheap second-hand guitar, because I don't want to spend a lot of money before I'm sure I'll stick with it. Then I would use free lessons on YouTube — there are so many good teachers online. I'd try to practice a little every day, maybe twenty or thirty minutes, instead of one long session on the weekend.\n\nThis skill would be useful for me in a few ways. My job is in front of a computer all day, so picking up something that uses my hands would be a really nice change. It would also help me relax, because I get stressed quite easily. And honestly, it would just be fun. At my age, learning a new skill that has nothing to do with work feels almost like a small gift to myself.",
+          "word_count": 234,
+          "estimated_read_seconds": 117,
+          "vocab": [
+            {
+              "word": "cheap",
+              "pos": "adjective",
+              "meaning_ko": "값싼"
+            },
+            {
+              "word": "second-hand",
+              "pos": "adjective",
+              "meaning_ko": "중고의"
+            },
+            {
+              "word": "practice",
+              "pos": "verb",
+              "meaning_ko": "연습하다"
+            },
+            {
+              "word": "instrument",
+              "pos": "noun",
+              "meaning_ko": "악기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "for years",
+              "meaning_ko": "수년간"
+            },
+            {
+              "phrase": "I've always told myself",
+              "meaning_ko": "항상 스스로에게 말해왔다"
+            },
+            {
+              "phrase": "a few reasons",
+              "meaning_ko": "몇 가지 이유 (p2 구조화)"
+            },
+            {
+              "phrase": "stick with it",
+              "meaning_ko": "꾸준히 (그것을) 하다"
+            },
+            {
+              "phrase": "instead of",
+              "meaning_ko": "~ 대신에"
+            },
+            {
+              "phrase": "feels like a small gift to myself",
+              "meaning_ko": "나에게 주는 작은 선물처럼 느껴진다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
+          "body": "A skill I would really like to learn is playing the guitar. It's something I've been thinking about for years, but I've always managed to convince myself I don't have time for it.\n\nThere are several reasons I want to learn. The most basic one is that I genuinely love music — a huge proportion of my favorite songs are built around the guitar, and there's something about the instrument's warmth that I find emotionally appealing. On top of that, one of my closest friends plays the guitar quite well, and whenever I see him casually pick it up after dinner, it always looks both relaxing and impressive. I imagine it would also give us a new way to spend time together.\n\nIf I were to actually commit to learning, I'd probably start by buying a cheap second-hand acoustic, because I don't want to invest a lot of money before I know whether I'll stick with it. Then I would rely mostly on YouTube tutorials, since there are excellent teachers offering structured beginner courses for free. Rather than practicing in long, intense sessions on the weekend, I'd try to play for twenty or thirty minutes every day, because I believe consistency matters far more than intensity when it comes to learning an instrument.\n\nThis skill would be useful for me in several ways. My work involves staring at a computer screen for most of the day, so taking up something that engages my hands and ears in a completely different way would be a welcome change. It would also help me unwind, since I tend to carry stress home with me. And perhaps most importantly, at this stage of life, deliberately learning something that has absolutely nothing to do with my career feels like a small but meaningful gift to myself.",
+          "word_count": 301,
+          "estimated_read_seconds": 150,
+          "vocab": [
+            {
+              "word": "commit",
+              "pos": "verb",
+              "meaning_ko": "전념하다, 마음먹다"
+            },
+            {
+              "word": "acoustic",
+              "pos": "noun",
+              "meaning_ko": "어쿠스틱 (기타)"
+            },
+            {
+              "word": "structured",
+              "pos": "adjective",
+              "meaning_ko": "체계적인"
+            },
+            {
+              "word": "consistency",
+              "pos": "noun",
+              "meaning_ko": "꾸준함, 일관성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "for years",
+              "meaning_ko": "수년간"
+            },
+            {
+              "phrase": "managed to convince myself",
+              "meaning_ko": "스스로를 ~라고 설득해 왔다"
+            },
+            {
+              "phrase": "on top of that",
+              "meaning_ko": "게다가 (덧붙이기)"
+            },
+            {
+              "phrase": "If I were to actually commit to",
+              "meaning_ko": "만약 정말로 ~한다면 (가정법)"
+            },
+            {
+              "phrase": "would be a welcome change",
+              "meaning_ko": "환영할 만한 변화일 것이다"
+            },
+            {
+              "phrase": "carry stress home with me",
+              "meaning_ko": "스트레스를 집까지 가지고 가다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Describe a skill you would like to learn. You should say: what the skill is, why you want to learn it, how you would learn it, and explain why it would be useful for you.",
+          "body": "A skill I would genuinely like to learn is playing the guitar. To be honest, it's something I've been quietly thinking about for years, but I've always managed to talk myself out of it on the grounds that I don't have the time — which, in retrospect, sounds suspiciously like an excuse.\n\nThere are several reasons the guitar appeals to me. The most obvious one is that I love music — a disproportionate number of my favorite songs are built around the instrument, and there's something about its warmth and intimacy that I find emotionally compelling in a way that, say, a piano never quite reaches for me. Beyond that, one of my closest friends plays remarkably well, and whenever he casually picks up his guitar after dinner, it always strikes me as both relaxing for him and quietly impressive to watch. I suspect learning would also give the two of us a completely new way of spending time together.\n\nIf I ever actually committed to learning, I think I'd start in a deliberately modest way. I'd buy a cheap second-hand acoustic, mainly because I don't want to pour money into an expensive instrument before I'm convinced I'll stick with it. From there, I'd rely heavily on YouTube, where there are surprisingly good teachers offering structured beginner courses entirely for free. Rather than attempting long, ambitious practice sessions on the weekend, I'd aim for twenty or thirty minutes a day, on the principle that consistency matters far more than intensity when you're learning an instrument from scratch.\n\nThis skill would be useful to me in ways that go beyond simply being able to play a few songs. My job involves staring at a screen for most of the day, so taking up something that engages my hands and ears in an entirely different mode would be a meaningful counterweight. It would also, I suspect, help me unwind, because I tend to bring work-related stress home with me without realizing it. And perhaps most importantly of all, at this point in life, deliberately learning something that has absolutely nothing to do with my career feels less like a hobby and more like a quiet investment in the kind of person I want to remain.",
+          "word_count": 373,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "disproportionate",
+              "pos": "adjective",
+              "meaning_ko": "불균형하게 많은/큰"
+            },
+            {
+              "word": "intimacy",
+              "pos": "noun",
+              "meaning_ko": "친밀감"
+            },
+            {
+              "word": "counterweight",
+              "pos": "noun",
+              "meaning_ko": "균형추, 상쇄 요소"
+            },
+            {
+              "word": "modest",
+              "pos": "adjective",
+              "meaning_ko": "겸손한, 소박한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to be honest",
+              "meaning_ko": "솔직히 (자연스러운 헷지)"
+            },
+            {
+              "phrase": "in retrospect",
+              "meaning_ko": "돌이켜 보면"
+            },
+            {
+              "phrase": "rely heavily on",
+              "meaning_ko": "~에 크게 의존하다"
+            },
+            {
+              "phrase": "on the principle that",
+              "meaning_ko": "~라는 원칙으로"
+            },
+            {
+              "phrase": "in ways that go beyond",
+              "meaning_ko": "단순히 ~를 넘어선 방식으로"
+            },
+            {
+              "phrase": "feels less like X and more like Y",
+              "meaning_ko": "X라기보다는 Y에 가깝게 느껴진다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-ielts_p3-01",
+      "category": "ielts_p3",
+      "title_ko": "사람들이 일을 위해 필요한 기술이 변하고 있다고 보나요? 어떻게요?",
+      "source_url": null,
+      "source_name": "Generated (IELTS Speaking Part 3)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
+          "body": "Yes, I think they are changing a lot. In the past, people did the same job for a long time. Now, jobs change quickly. Many people use computers and the internet every day at work. So, computer skills are important now. Also, people work with others from different countries, so English is helpful. I think we will have to learn new things many times in our lives.",
+          "word_count": 67,
+          "estimated_read_seconds": 34,
+          "vocab": [
+            {
+              "word": "change",
+              "pos": "verb",
+              "meaning_ko": "변하다"
+            },
+            {
+              "word": "English",
+              "pos": "noun",
+              "meaning_ko": "영어"
+            },
+            {
+              "word": "learn",
+              "pos": "verb",
+              "meaning_ko": "배우다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a lot",
+              "meaning_ko": "많이"
+            },
+            {
+              "phrase": "in the past",
+              "meaning_ko": "과거에는"
+            },
+            {
+              "phrase": "every day",
+              "meaning_ko": "매일"
+            },
+            {
+              "phrase": "many people",
+              "meaning_ko": "많은 사람들"
+            },
+            {
+              "phrase": "I think",
+              "meaning_ko": "내 생각에는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
+          "body": "Yes, I definitely think the kinds of skills people need at work are changing quite quickly. In the past, many people did the same job for thirty or forty years. These days, that is becoming rare. Most jobs now require some level of digital skills, even simple ones like sending emails or using shared documents online.\n\nAnother big change is that we work much more with people from other countries. So good communication in English, and the ability to work in different cultures, has become very important. I also think we are expected to keep learning new tools all the time. I really believe that being open to learning, more than any specific skill, will be the most important thing in the future.",
+          "word_count": 123,
+          "estimated_read_seconds": 61,
+          "vocab": [
+            {
+              "word": "rare",
+              "pos": "adjective",
+              "meaning_ko": "드문"
+            },
+            {
+              "word": "digital",
+              "pos": "adjective",
+              "meaning_ko": "디지털의"
+            },
+            {
+              "word": "global",
+              "pos": "adjective",
+              "meaning_ko": "세계적인, 국제적인"
+            },
+            {
+              "word": "expected",
+              "pos": "verb",
+              "meaning_ko": "요구되다, 기대받다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I definitely think that",
+              "meaning_ko": "분명히 ~라고 생각한다 (강한 의견)"
+            },
+            {
+              "phrase": "becoming rare",
+              "meaning_ko": "점점 드물어지고 있다"
+            },
+            {
+              "phrase": "even simple ones",
+              "meaning_ko": "아주 단순한 것조차"
+            },
+            {
+              "phrase": "another big change is that",
+              "meaning_ko": "또 다른 큰 변화는 ~이다 (점층 구조)"
+            },
+            {
+              "phrase": "more than any specific skill",
+              "meaning_ko": "어떤 특정 능력보다 더"
+            },
+            {
+              "phrase": "in the future",
+              "meaning_ko": "미래에는"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
+          "body": "Yes, I think the skills required for most jobs are changing quite dramatically, and at a much faster pace than even ten years ago. The most obvious shift is digital. Even roles that aren't considered technical now expect employees to be comfortable with shared documents, video calls, data dashboards, and increasingly, AI tools. Someone who refuses to learn these tends to find themselves slowly pushed to the margins of their team.\n\nA second change is that work has become much more global. Many of us collaborate with colleagues in completely different time zones, which means soft skills like clear written English, cultural awareness, and the ability to communicate asynchronously are now genuinely valuable, not just nice to have.\n\nBut the deeper change, in my view, isn't any specific skill — it's the expectation that you will keep learning throughout your career. The half-life of a particular tool or framework is shrinking every year, so what matters most is the underlying habit of being open to learning. In the end, I'd argue that adaptability has quietly become the most important skill of all, because it's the one that lets you acquire all the others.",
+          "word_count": 193,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "dramatically",
+              "pos": "adverb",
+              "meaning_ko": "극적으로, 크게"
+            },
+            {
+              "word": "asynchronously",
+              "pos": "adverb",
+              "meaning_ko": "비동기적으로 (시차를 두고)"
+            },
+            {
+              "word": "shrinking",
+              "pos": "verb",
+              "meaning_ko": "줄어드는"
+            },
+            {
+              "word": "adaptability",
+              "pos": "noun",
+              "meaning_ko": "적응력"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd argue that",
+              "meaning_ko": "나는 ~라고 주장하고 싶다 (p3 의견 표현)"
+            },
+            {
+              "phrase": "at a much faster pace",
+              "meaning_ko": "훨씬 빠른 속도로"
+            },
+            {
+              "phrase": "tends to find themselves",
+              "meaning_ko": "어느새 자신이 ~하게 된다"
+            },
+            {
+              "phrase": "nice to have",
+              "meaning_ko": "있으면 좋은 (수준의)"
+            },
+            {
+              "phrase": "in my view",
+              "meaning_ko": "내 생각에는"
+            },
+            {
+              "phrase": "in the end",
+              "meaning_ko": "결국에는"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Do you think the kinds of skills people need for work are changing? In what ways?",
+          "body": "Yes, I'd argue that the skills required for most kinds of work are changing fairly dramatically, and at a noticeably faster pace than even a decade ago. The most visible shift is digital. Even roles that aren't traditionally considered technical — teaching, healthcare, marketing, customer support — now assume a baseline comfort with shared documents, video conferencing, data dashboards, and, increasingly, with AI tools. People who actively resist learning these tend to find themselves quietly pushed to the margins of their teams, almost without anyone deciding it should happen.\n\nA second, less talked-about shift is that work has become genuinely global in a way it simply wasn't twenty years ago. Many of us now collaborate with colleagues in entirely different time zones, which means a set of softer skills — writing clearly in English, navigating cultural differences, and communicating effectively without immediate face-to-face feedback — have become substantively valuable, rather than merely admirable.\n\nThe deepest change, though, isn't any one particular skill. It's the expectation that learning is no longer something you finish, but something you do continuously. The effective half-life of a specific tool or framework keeps shrinking, which means what really matters is the underlying habit of staying curious and being willing to start from zero on something new every few years. In that sense, I'd argue that adaptability has quietly become the most important skill of our time — not because any single role demands it, but because it's the meta-skill that allows you to acquire whatever the next era of work happens to require.",
+          "word_count": 258,
+          "estimated_read_seconds": 129,
+          "vocab": [
+            {
+              "word": "noticeably",
+              "pos": "adverb",
+              "meaning_ko": "눈에 띄게"
+            },
+            {
+              "word": "substantively",
+              "pos": "adverb",
+              "meaning_ko": "실질적으로"
+            },
+            {
+              "word": "half-life",
+              "pos": "noun",
+              "meaning_ko": "반감기 (효용이 절반으로 줄어드는 시간)"
+            },
+            {
+              "word": "meta-skill",
+              "pos": "noun",
+              "meaning_ko": "메타 스킬 (다른 능력을 가능케 하는 능력)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd argue that",
+              "meaning_ko": "나는 ~라고 주장하고 싶다"
+            },
+            {
+              "phrase": "at a noticeably faster pace",
+              "meaning_ko": "눈에 띄게 빠른 속도로"
+            },
+            {
+              "phrase": "less talked-about",
+              "meaning_ko": "덜 논의되는"
+            },
+            {
+              "phrase": "in a way it simply wasn't",
+              "meaning_ko": "예전엔 전혀 그렇지 않았던 방식으로"
+            },
+            {
+              "phrase": "not because X, but because Y",
+              "meaning_ko": "X 때문이 아니라 Y 때문에"
+            },
+            {
+              "phrase": "the meta-skill that",
+              "meaning_ko": "~인 메타 스킬"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-27-opic-01",
+      "category": "opic",
+      "title_ko": "보통 주말에 무엇을 하는지 자세히 설명해 보세요 (활동·장소·함께하는 사람)",
+      "source_url": null,
+      "source_name": "Generated (OPIc)",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
+          "body": "My weekend is usually quiet. On Saturday morning, I sleep late because I am tired from work. Then I have a slow breakfast at home. I drink coffee and read for a little while.\n\nIn the afternoon, I sometimes go for a walk in the park near my house. If the weather is good, I stay there for a long time. I also call my parents on Sunday. I talk to them for about an hour.\n\nOn Sunday evening, I clean my apartment and get ready for work. I do not do anything special, but it makes me feel calm.",
+          "word_count": 100,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "breakfast",
+              "pos": "noun",
+              "meaning_ko": "아침 식사"
+            },
+            {
+              "word": "weather",
+              "pos": "noun",
+              "meaning_ko": "날씨"
+            },
+            {
+              "word": "walk",
+              "pos": "noun",
+              "meaning_ko": "산책"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "usually quiet",
+              "meaning_ko": "보통 조용하다"
+            },
+            {
+              "phrase": "sleep late",
+              "meaning_ko": "늦게까지 자다"
+            },
+            {
+              "phrase": "in the afternoon",
+              "meaning_ko": "오후에"
+            },
+            {
+              "phrase": "if the weather is good",
+              "meaning_ko": "날씨가 좋으면"
+            },
+            {
+              "phrase": "feel calm",
+              "meaning_ko": "차분해지다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
+          "body": "My weekends are usually pretty quiet, and to be honest, I prefer them that way. On Saturday morning, I always sleep in because the week leaves me really tired. I'll usually have a slow breakfast at home, drink way too much coffee, and read something light for an hour or so.\n\nIn the afternoon, if the weather is good, I like to go for a walk in the small park near my apartment. Sometimes I meet a friend there for coffee, but often I just go alone, listen to a podcast, and let my mind rest.\n\nSundays are a little more routine. I call my parents in the afternoon — we usually talk for about an hour, mostly about nothing important. After that, I tidy up my apartment, do some laundry, and prepare a few things for the week ahead, like planning what I'll cook on Monday.\n\nNothing about my weekend is exciting, but that is exactly the point. By the time Sunday evening comes around, I feel rested and ready for another busy week.",
+          "word_count": 175,
+          "estimated_read_seconds": 88,
+          "vocab": [
+            {
+              "word": "tired",
+              "pos": "adjective",
+              "meaning_ko": "피곤한"
+            },
+            {
+              "word": "podcast",
+              "pos": "noun",
+              "meaning_ko": "팟캐스트"
+            },
+            {
+              "word": "routine",
+              "pos": "noun",
+              "meaning_ko": "일상, 루틴"
+            },
+            {
+              "word": "rested",
+              "pos": "adjective",
+              "meaning_ko": "쉬어서 개운한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "sleep in",
+              "meaning_ko": "늦잠 자다 (핵심 구동사)"
+            },
+            {
+              "phrase": "let my mind rest",
+              "meaning_ko": "머리를 쉬게 하다"
+            },
+            {
+              "phrase": "nothing important",
+              "meaning_ko": "별것 아닌 (대화 묘사)"
+            },
+            {
+              "phrase": "tidy up",
+              "meaning_ko": "정돈하다"
+            },
+            {
+              "phrase": "ready for another busy week",
+              "meaning_ko": "또 한 번의 바쁜 한 주를 맞을 준비가 된"
+            }
+          ]
+        },
+        "B2": {
+          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
+          "body": "My weekends are usually pretty quiet, and honestly, I've come to appreciate them that way. The work week tends to leave me drained, so I treat Saturday and Sunday almost like a recovery routine.\n\nOn Saturday morning, the first thing I do is sleep in for as long as my body wants. After that, I'll have a slow breakfast at home — usually toast, eggs, and far too much coffee — and read something light for an hour or so. I try to stay off my work laptop completely, which is harder than it sounds.\n\nIn the afternoon, if the weather is reasonable, I like to take a long walk in the park near my apartment. Sometimes I meet a friend there for coffee, but more often I go alone with a podcast in my ears. It sounds a bit unsocial, but I find it genuinely restorative.\n\nSundays follow a slightly more structured rhythm. I usually call my parents in the afternoon, and we end up talking for about an hour about nothing particularly important. Afterwards, I tidy up the apartment, do laundry, and quickly plan the week ahead — what I'll cook, what I need to focus on at work, that kind of thing.\n\nNothing about my weekends is dramatic or exciting, but that's exactly the point. By Sunday evening, I usually feel calm and recharged, which makes it much easier to start a busy week without dreading it.",
+          "word_count": 240,
+          "estimated_read_seconds": 120,
+          "vocab": [
+            {
+              "word": "drained",
+              "pos": "adjective",
+              "meaning_ko": "기진맥진한, 완전히 지친"
+            },
+            {
+              "word": "restorative",
+              "pos": "adjective",
+              "meaning_ko": "원기를 회복시켜 주는"
+            },
+            {
+              "word": "structured",
+              "pos": "adjective",
+              "meaning_ko": "체계적인"
+            },
+            {
+              "word": "dreading",
+              "pos": "verb",
+              "meaning_ko": "두려워하는, 미리 걱정하는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I've come to appreciate",
+              "meaning_ko": "점점 ~의 진가를 알게 되었다"
+            },
+            {
+              "phrase": "treat X almost like Y",
+              "meaning_ko": "X를 거의 Y처럼 다루다"
+            },
+            {
+              "phrase": "harder than it sounds",
+              "meaning_ko": "말처럼 쉽지 않다"
+            },
+            {
+              "phrase": "more often than not",
+              "meaning_ko": "대체로, 자주"
+            },
+            {
+              "phrase": "that's exactly the point",
+              "meaning_ko": "그게 바로 핵심이다"
+            },
+            {
+              "phrase": "without dreading it",
+              "meaning_ko": "두려워하지 않으면서"
+            }
+          ]
+        },
+        "C1": {
+          "title": "I'd like to know what you usually do on the weekend. Tell me about a typical weekend in detail — what you do, where you go, and who you spend time with.",
+          "body": "My weekends are usually pretty quiet, and honestly, I've come to appreciate them precisely for that reason. The work week tends to leave me genuinely drained, so I treat Saturday and Sunday almost as a deliberate recovery routine rather than a stretch of free time to be filled with activity.\n\nOn Saturday morning, the first thing I do is sleep in for as long as my body wants. After that, I'll have a slow breakfast at home — usually something simple like toast, eggs, and an indulgent amount of coffee — and read something light for an hour or so. I try to stay off my work laptop completely, although I have to admit that's much harder in practice than it sounds.\n\nIn the afternoon, weather permitting, I like to take a long walk through the small park near my apartment. Sometimes I'll meet a friend there for coffee, but more often than not I go alone with a podcast in my ears. It probably sounds a bit antisocial, but I find that kind of solo time genuinely restorative, and most of my closest friendships actually benefit from the fact that I show up well-rested rather than running on fumes.\n\nSundays follow a slightly more structured rhythm. I usually call my parents in the afternoon — we tend to talk for about an hour, mostly about nothing particularly consequential — and afterwards I'll tidy up the apartment, do laundry, and roughly plan the week ahead. That last bit is more important than it sounds: spending fifteen minutes thinking about what I'll cook and what I need to focus on at work makes Monday feel noticeably less chaotic.\n\nThere's nothing dramatic or particularly enviable about my weekends, but in a way that's exactly the point. By Sunday evening, I usually feel calm and quietly recharged, which makes it much easier to walk into another demanding week without immediately dreading it. I suspect that as I've gotten older, I've increasingly come to value that kind of unremarkable peace over the louder, more eventful weekends I used to chase.",
+          "word_count": 346,
+          "estimated_read_seconds": 173,
+          "vocab": [
+            {
+              "word": "indulgent",
+              "pos": "adjective",
+              "meaning_ko": "스스로에게 너그러운, 호사스러운"
+            },
+            {
+              "word": "antisocial",
+              "pos": "adjective",
+              "meaning_ko": "사람들과 어울리지 않는"
+            },
+            {
+              "word": "consequential",
+              "pos": "adjective",
+              "meaning_ko": "중요한, 무게감 있는"
+            },
+            {
+              "word": "enviable",
+              "pos": "adjective",
+              "meaning_ko": "부러워할 만한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I've come to appreciate",
+              "meaning_ko": "점점 ~의 진가를 알게 되었다"
+            },
+            {
+              "phrase": "a stretch of free time",
+              "meaning_ko": "쭉 이어지는 자유 시간"
+            },
+            {
+              "phrase": "weather permitting",
+              "meaning_ko": "날씨가 허락한다면 (고급 부사구)"
+            },
+            {
+              "phrase": "more often than not",
+              "meaning_ko": "대체로, 자주"
+            },
+            {
+              "phrase": "running on fumes",
+              "meaning_ko": "에너지가 거의 바닥난 상태로 (이디엄)"
+            },
+            {
+              "phrase": "increasingly come to value",
+              "meaning_ko": "점점 더 가치 있게 여기게 되었다"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
