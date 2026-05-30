@@ -1,0 +1,1116 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-30",
+  "topics": [
+    {
+      "topic_id": "2026-05-30-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "기억은 뇌 안에서 어떻게 저장되는가",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How memory is stored in the brain",
+          "body": "Where do your memories live in your brain? It is a strange question. We cannot see them. But scientists have learned a lot.\n\nWhen you remember something, many small brain cells work together. They send signals to each other. Each memory uses a special group of cells. The more you use that memory, the stronger the group becomes.\n\nSleep is very important for memory. While you sleep, your brain saves the day's memories more deeply. That is why students who sleep well often remember more.\n\nSo memory is not in one place. It is everywhere, made by many cells working together.",
+          "word_count": 101,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "brain",
+              "pos": "noun",
+              "meaning_ko": "뇌"
+            },
+            {
+              "word": "cell",
+              "pos": "noun",
+              "meaning_ko": "세포"
+            },
+            {
+              "word": "signal",
+              "pos": "noun",
+              "meaning_ko": "신호"
+            },
+            {
+              "word": "group",
+              "pos": "noun",
+              "meaning_ko": "무리, 그룹"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "where do your memories live",
+              "meaning_ko": "기억이 어디에 있는가"
+            },
+            {
+              "phrase": "work together",
+              "meaning_ko": "함께 작동하다"
+            },
+            {
+              "phrase": "send signals",
+              "meaning_ko": "신호를 보내다"
+            },
+            {
+              "phrase": "the more X, the stronger Y",
+              "meaning_ko": "X할수록 Y가 강해진다"
+            },
+            {
+              "phrase": "students who sleep well",
+              "meaning_ko": "잠을 잘 자는 학생들"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How memory is stored in the brain",
+          "body": "Where do your memories actually live inside your brain? It is one of those questions that sounds simple, but the answer is surprisingly strange. You cannot point to a single spot and say, \"My memory of my best friend lives here.\" Memory does not work like a folder on a computer.\n\nInstead, every memory is made by a network of small brain cells called neurons. When you experience something — a smell, a song, a friend's smile — many neurons in different parts of the brain become active at the same time. Together, they form a pattern. Later, when you remember that moment, the same pattern lights up again. The more you repeat or recall a memory, the stronger and faster that pattern becomes.\n\nSleep plays a quiet but important role too. While you are asleep, the brain replays the day's experiences and slowly moves the important ones from short-term storage into more permanent storage.\n\nSo your memories are not really in a place. They are patterns, scattered across the whole brain, alive only when the right cells fire together.",
+          "word_count": 180,
+          "estimated_read_seconds": 90,
+          "vocab": [
+            {
+              "word": "neuron",
+              "pos": "noun",
+              "meaning_ko": "뉴런, 신경세포"
+            },
+            {
+              "word": "network",
+              "pos": "noun",
+              "meaning_ko": "망, 네트워크"
+            },
+            {
+              "word": "pattern",
+              "pos": "noun",
+              "meaning_ko": "패턴"
+            },
+            {
+              "word": "permanent",
+              "pos": "adjective",
+              "meaning_ko": "영구적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "sounds simple, but",
+              "meaning_ko": "간단해 보이지만"
+            },
+            {
+              "phrase": "you cannot point to a single spot",
+              "meaning_ko": "한 곳을 가리킬 수 없다"
+            },
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "lights up again",
+              "meaning_ko": "다시 켜진다, 활성화된다"
+            },
+            {
+              "phrase": "play a quiet but important role",
+              "meaning_ko": "조용하지만 중요한 역할을 하다"
+            },
+            {
+              "phrase": "alive only when the right cells fire together",
+              "meaning_ko": "적절한 세포들이 함께 작동할 때만 살아 있다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How memory is stored in the brain",
+          "body": "Where exactly do your memories live in your brain? It sounds like a simple question, but the honest answer turns out to be surprisingly strange. There is no single drawer labeled \"My summer when I was nine\" that scientists can open and look inside. Memory does not work like a folder on a hard drive.\n\nInstead, every memory is built from a network of brain cells called neurons. When you experience something — the smell of fresh bread, the sound of a friend's laugh, the feeling of an exam — many neurons in different regions of the brain become active at the same time, and they connect with each other in a particular pattern. That coordinated pattern, distributed across visual, auditory, emotional, and other areas, is essentially what your memory of that moment is. Later, when something reminds you of the original experience, the same pattern partially lights up again, and you \"re-experience\" a version of it.\n\nEach time you recall a memory, the connections between those neurons grow slightly stronger and faster, making the memory easier to access in the future. Memories you never recall, on the other hand, slowly fade as the connections weaken.\n\nSleep plays a quiet but crucial role in this whole process. During certain stages of sleep, the brain replays the day's experiences, selects the ones that seem important, and gradually transfers them from short-term storage into more permanent forms.\n\nSo strictly speaking, your memories are not in a place. They are patterns of activity, scattered across the whole brain, alive only when the right combination of cells fires together. That, in a way, is both wonderful and slightly unsettling — you are constantly rebuilding your past every time you remember it.",
+          "word_count": 287,
+          "estimated_read_seconds": 144,
+          "vocab": [
+            {
+              "word": "distributed",
+              "pos": "adjective",
+              "meaning_ko": "분산된, 곳곳에 흩어진"
+            },
+            {
+              "word": "coordinated",
+              "pos": "adjective",
+              "meaning_ko": "조율된, 협응된"
+            },
+            {
+              "word": "auditory",
+              "pos": "adjective",
+              "meaning_ko": "청각의"
+            },
+            {
+              "word": "unsettling",
+              "pos": "adjective",
+              "meaning_ko": "마음을 어수선하게 하는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "drawer labeled X",
+              "meaning_ko": "X라고 적힌 서랍"
+            },
+            {
+              "phrase": "is essentially what your memory of that moment is",
+              "meaning_ko": "그것이 본질적으로 그 순간에 대한 너의 기억이다"
+            },
+            {
+              "phrase": "lights up again",
+              "meaning_ko": "다시 활성화된다"
+            },
+            {
+              "phrase": "scattered across the whole brain",
+              "meaning_ko": "뇌 전체에 흩어진"
+            },
+            {
+              "phrase": "in a way",
+              "meaning_ko": "어떻게 보면"
+            },
+            {
+              "phrase": "rebuilding your past every time you remember it",
+              "meaning_ko": "기억할 때마다 과거를 다시 만든다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How memory is stored in the brain",
+          "body": "Where, exactly, do your memories live inside your brain? It sounds like the kind of question a curious child might ask, but the honest answer turns out to be far stranger than most people expect. There is no neatly labeled drawer marked \"My ninth summer\" that a neuroscientist could open and inspect; memory simply does not work like a folder on a hard drive, however convenient that metaphor might be.\n\nInstead, every memory is constructed from the coordinated activity of vast networks of brain cells called neurons. When you originally experience something — the smell of fresh bread, the sound of a friend's laugh, the dull weight of an exam morning — neurons across many different regions of the brain become active simultaneously, and they connect with one another in a highly specific pattern. That distributed, multi-modal pattern — drawing on visual, auditory, emotional, and sometimes motor regions — is essentially what your memory of that moment is. When something later reminds you of the original experience, that same pattern partially reactivates, and you re-experience a version of the moment, however faded.\n\nEach time you recall a memory, the connections between the participating neurons grow slightly stronger and faster, making subsequent retrieval easier. Memories you almost never revisit, by contrast, slowly fade as their connections weaken — a process most of us experience as forgetting. Crucially, recalling a memory does not simply read it from storage; it temporarily reopens the network and makes it briefly malleable. That is why an honestly remembered moment can subtly shift over the years without anyone noticing.\n\nSleep plays a quiet but essential role in this whole architecture. During certain stages of the night, the brain replays the day's experiences, selectively reinforces the ones that seem important, prunes the rest, and gradually transfers significant memories from a short-term storage region called the hippocampus into more distributed long-term storage in the cortex.\n\nSo strictly speaking, your memories do not live in a place. They are dynamic patterns of activity, scattered across the entire brain, alive only when the right combination of neurons fires together at the right moment. There is something both marvelous and faintly unsettling about that. The \"past\" you carry with you is not a static archive at all, but a quiet, ongoing reconstruction — rebuilt, gently and imperfectly, every single time you remember it.",
+          "word_count": 391,
+          "estimated_read_seconds": 196,
+          "vocab": [
+            {
+              "word": "malleable",
+              "pos": "adjective",
+              "meaning_ko": "가단성 있는, 쉽게 변형되는"
+            },
+            {
+              "word": "retrieval",
+              "pos": "noun",
+              "meaning_ko": "인출, 검색"
+            },
+            {
+              "word": "hippocampus",
+              "pos": "noun",
+              "meaning_ko": "해마 (뇌의 부위)"
+            },
+            {
+              "word": "unsettling",
+              "pos": "adjective",
+              "meaning_ko": "마음이 편치 않은"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "however convenient that metaphor might be",
+              "meaning_ko": "그 비유가 아무리 편리하더라도"
+            },
+            {
+              "phrase": "in a highly specific pattern",
+              "meaning_ko": "매우 구체적인 패턴으로"
+            },
+            {
+              "phrase": "however faded",
+              "meaning_ko": "아무리 희미해졌더라도"
+            },
+            {
+              "phrase": "by contrast",
+              "meaning_ko": "반대로, 대조적으로"
+            },
+            {
+              "phrase": "strictly speaking",
+              "meaning_ko": "엄밀히 말하면"
+            },
+            {
+              "phrase": "an ongoing reconstruction",
+              "meaning_ko": "계속되는 재구성"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-30-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "인상주의는 왜 하나의 미술 사조로 등장했는가",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why impressionism emerged as a movement",
+          "body": "In the 1800s, art in France had strict rules. Paintings had to look real. Colors should be dark. Subjects should be important — kings, gods, or famous battles.\n\nThen a small group of young painters did something new. They painted ordinary life: a park on a Sunday, a busy train station, a quiet morning. They used short, fast brush strokes. The colors were bright.\n\nPeople laughed at first. The paintings looked unfinished. One critic called them \"impressions\", not real art. The name stuck.\n\nBut the idea was strong. Today, those \"impressions\" fill the most famous museums in the world.",
+          "word_count": 99,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "rule",
+              "pos": "noun",
+              "meaning_ko": "규칙"
+            },
+            {
+              "word": "bright",
+              "pos": "adjective",
+              "meaning_ko": "밝은"
+            },
+            {
+              "word": "critic",
+              "pos": "noun",
+              "meaning_ko": "비평가"
+            },
+            {
+              "word": "museum",
+              "pos": "noun",
+              "meaning_ko": "박물관"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "had strict rules",
+              "meaning_ko": "엄격한 규칙이 있었다"
+            },
+            {
+              "phrase": "did something new",
+              "meaning_ko": "새로운 것을 했다"
+            },
+            {
+              "phrase": "looked unfinished",
+              "meaning_ko": "완성되지 않은 것처럼 보였다"
+            },
+            {
+              "phrase": "the name stuck",
+              "meaning_ko": "그 이름이 굳어졌다"
+            },
+            {
+              "phrase": "around the world",
+              "meaning_ko": "세계 곳곳에서"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why impressionism emerged as a movement",
+          "body": "In nineteenth-century France, art followed very strict rules. To be taken seriously, a painting had to look extremely realistic, use dark and balanced colors, and show \"important\" subjects — gods, kings, religious scenes, or grand battles. The official Salon, the most powerful gallery in Paris, decided what counted as real art, and what did not.\n\nThen, in the 1860s and 1870s, a small group of young painters quietly broke all of these rules. Instead of painting heroes, they painted ordinary modern life: people having lunch in a park, dancers backstage, a train arriving at a station. Instead of careful, invisible brushwork, they used quick, visible strokes. Instead of dark and serious tones, they used bright, almost shocking colors to capture the way light actually behaves on a sunny afternoon.\n\nCritics laughed at first. One reviewer mocked a painting by Claude Monet titled \"Impression, Sunrise\", writing that it was nothing more than an \"impression\" — not a finished work. The painters quietly adopted the insult as their name.\n\nBut the new idea was powerful. Within a generation, those \"impressions\" had reshaped Western art forever, and today they hang in many of the world's most visited museums.",
+          "word_count": 195,
+          "estimated_read_seconds": 98,
+          "vocab": [
+            {
+              "word": "realistic",
+              "pos": "adjective",
+              "meaning_ko": "사실적인"
+            },
+            {
+              "word": "gallery",
+              "pos": "noun",
+              "meaning_ko": "미술관"
+            },
+            {
+              "word": "ordinary",
+              "pos": "adjective",
+              "meaning_ko": "평범한"
+            },
+            {
+              "word": "brushwork",
+              "pos": "noun",
+              "meaning_ko": "붓질"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to be taken seriously",
+              "meaning_ko": "진지하게 받아들여지려면"
+            },
+            {
+              "phrase": "broke all of these rules",
+              "meaning_ko": "이 모든 규칙을 깼다"
+            },
+            {
+              "phrase": "instead of X, they Y",
+              "meaning_ko": "X 대신 그들은 Y를 했다"
+            },
+            {
+              "phrase": "adopted the insult as their name",
+              "meaning_ko": "그 모욕을 자기들 이름으로 받아들였다"
+            },
+            {
+              "phrase": "the way light actually behaves",
+              "meaning_ko": "빛이 실제로 어떻게 움직이는가"
+            },
+            {
+              "phrase": "reshaped Western art forever",
+              "meaning_ko": "서양 미술을 영원히 바꿔놓았다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why impressionism emerged as a movement",
+          "body": "In nineteenth-century France, painting was governed by extraordinarily strict conventions. To be taken seriously as an artist, you needed to produce highly realistic work, use dark and carefully balanced colors, and depict so-called \"important\" subjects — gods, kings, biblical scenes, or famous historical battles. The official Salon, the all-powerful Parisian gallery, decided which works counted as real art and which were quietly rejected, and an artist's career often rested on its judgment.\n\nIn the 1860s and 1870s, however, a small group of young painters — including Monet, Renoir, Degas, and Morisot — began quietly breaking almost every one of these rules. Instead of grand heroes, they painted ordinary modern life: people having lunch in a Parisian park, dancers stretching backstage, a steam train pulling into a station. Instead of polished, invisible brushwork, they used quick, visible strokes. Instead of the dim brown tones approved by the Salon, they reached for bright, almost startling colors, trying to capture the way light actually behaves on a sunny afternoon, or how a shadow really looks across a wall.\n\nCritics did not respond kindly. A reviewer at one early exhibition mocked a small painting by Monet titled \"Impression, Sunrise\", complaining that it was nothing more than a vague \"impression\" — sketches, hardly finished works. The painters, with a certain dry humor, quietly adopted the insult as their movement's name.\n\nThe deeper reason this work emerged at exactly that moment is worth pausing on. Cheap, portable paint tubes had recently made it possible for artists to leave the studio and paint outdoors. Photography had taken over the job of strict realism, freeing painters to ask different questions. And industrial Paris, with its trains, cafés, and crowds, simply demanded a new kind of attention.\n\nWithin a generation, those once-mocked \"impressions\" had reshaped Western art forever.",
+          "word_count": 299,
+          "estimated_read_seconds": 150,
+          "vocab": [
+            {
+              "word": "convention",
+              "pos": "noun",
+              "meaning_ko": "관습, 관례"
+            },
+            {
+              "word": "depict",
+              "pos": "verb",
+              "meaning_ko": "묘사하다"
+            },
+            {
+              "word": "startling",
+              "pos": "adjective",
+              "meaning_ko": "깜짝 놀라게 하는"
+            },
+            {
+              "word": "portable",
+              "pos": "adjective",
+              "meaning_ko": "휴대 가능한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "governed by extraordinarily strict conventions",
+              "meaning_ko": "대단히 엄격한 관습들로 통제되는"
+            },
+            {
+              "phrase": "an artist's career often rested on its judgment",
+              "meaning_ko": "화가의 경력이 그 판단에 달려 있었다"
+            },
+            {
+              "phrase": "with a certain dry humor",
+              "meaning_ko": "어떤 건조한 유머로"
+            },
+            {
+              "phrase": "is worth pausing on",
+              "meaning_ko": "잠시 멈춰 생각해 볼 가치가 있다"
+            },
+            {
+              "phrase": "within a generation",
+              "meaning_ko": "한 세대 안에"
+            },
+            {
+              "phrase": "demanded a new kind of attention",
+              "meaning_ko": "새로운 종류의 관심을 요구했다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why impressionism emerged as a movement",
+          "body": "In nineteenth-century France, painting was governed by extraordinarily strict conventions. To be taken seriously as an artist, you were expected to produce meticulously realistic work, use dark and carefully balanced palettes, and depict so-called \"noble\" subjects — gods, monarchs, biblical scenes, or famous historical battles. The official Salon, the all-powerful Parisian gallery, decided which paintings counted as real art and which would be quietly rejected, and an entire career often rested on its judgment.\n\nIn the 1860s and 1870s, however, a small and rather stubborn group of young painters — Monet, Renoir, Degas, Morisot, Pissarro, among others — began breaking almost every one of these conventions. Instead of grand heroes, they painted the ordinary texture of modern urban life: people having lunch in a Parisian park, dancers stretching backstage at the opera, a steam train pulling into a brand-new station. Instead of polished, invisible brushwork, they used quick, visible strokes that left the paint itself plainly on the surface. Instead of the dim brown tones approved by the Salon, they reached for bright, almost shocking colors, attempting to capture the way light actually behaves on a sunlit afternoon, or how a shadow on a wall might be neither black nor brown but a luminous, surprising blue.\n\nCritics responded with a kind of incredulous dismay. One reviewer at an early exhibition mocked a small work by Monet titled \"Impression, Sunrise\", complaining that it amounted to nothing more than a vague \"impression\" — a sketch, hardly a finished painting. With a certain dry humor, the painters quietly adopted the insult and made it the name of their movement.\n\nWhat is genuinely worth pausing on, however, is why this break occurred at precisely that moment. A series of practical changes had quietly converged. The recent invention of cheap, portable paint tubes had finally allowed artists to leave the controlled environment of the studio and work directly outdoors, in front of the light they were trying to capture. The rise of photography had begun to take over painting's old job of strict, mirror-like realism, leaving painters free to ask deeper and stranger questions about perception. And industrial Paris, with its trains, boulevards, and crowds, simply demanded a new kind of attention — a way of seeing that could keep up with a city that was no longer standing still.\n\nWithin a single generation, those once-ridiculed \"impressions\" had reshaped Western art forever, and today the same canvases that were laughed out of nineteenth-century salons hang in many of the world's most visited museums.",
+          "word_count": 418,
+          "estimated_read_seconds": 209,
+          "vocab": [
+            {
+              "word": "meticulously",
+              "pos": "adverb",
+              "meaning_ko": "세심하게"
+            },
+            {
+              "word": "incredulous",
+              "pos": "adjective",
+              "meaning_ko": "의아해하는, 믿기 어려운"
+            },
+            {
+              "word": "luminous",
+              "pos": "adjective",
+              "meaning_ko": "환하게 빛나는"
+            },
+            {
+              "word": "converged",
+              "pos": "verb",
+              "meaning_ko": "한데 모였다, 수렴했다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "an entire career often rested on its judgment",
+              "meaning_ko": "경력 전체가 그 판단에 달려 있었다"
+            },
+            {
+              "phrase": "with a kind of incredulous dismay",
+              "meaning_ko": "믿기지 않는다는 듯한 당혹감으로"
+            },
+            {
+              "phrase": "is genuinely worth pausing on",
+              "meaning_ko": "정말 한번 멈춰 생각해 볼 가치가 있다"
+            },
+            {
+              "phrase": "had quietly converged",
+              "meaning_ko": "조용히 한데 모였다"
+            },
+            {
+              "phrase": "freed painters to ask deeper and stranger questions",
+              "meaning_ko": "화가들이 더 깊고 낯선 질문을 할 수 있게 해주었다"
+            },
+            {
+              "phrase": "a city that was no longer standing still",
+              "meaning_ko": "더 이상 가만히 있지 않는 도시"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-30-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "이진 탐색은 어떻게 동작하는가",
+      "source_url": null,
+      "source_name": "Generated · CS 핵심 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How binary search works",
+          "body": "Imagine you have a long book of names. The names are sorted in order, from A to Z. You want to find one name fast.\n\nThe slow way is to read every page. But there is a much faster way called binary search.\n\nOpen the book in the middle. Look at the name there. If your name comes before, throw away the right half. If it comes after, throw away the left half. Then open the middle of what is left, and do it again.\n\nYou cut the book in half each time. Even with one million names, you only need about twenty checks.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "book",
+              "pos": "noun",
+              "meaning_ko": "책"
+            },
+            {
+              "word": "sorted",
+              "pos": "adjective",
+              "meaning_ko": "정렬된"
+            },
+            {
+              "word": "half",
+              "pos": "noun",
+              "meaning_ko": "절반"
+            },
+            {
+              "word": "check",
+              "pos": "noun",
+              "meaning_ko": "확인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in order, from A to Z",
+              "meaning_ko": "A부터 Z까지 순서대로"
+            },
+            {
+              "phrase": "open the book in the middle",
+              "meaning_ko": "책을 중간에서 펴라"
+            },
+            {
+              "phrase": "throw away",
+              "meaning_ko": "버리다, 제외하다"
+            },
+            {
+              "phrase": "do it again",
+              "meaning_ko": "다시 한 번 한다"
+            },
+            {
+              "phrase": "even with one million",
+              "meaning_ko": "백만 개가 있어도"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How binary search works",
+          "body": "Imagine you have a phone book with one million names, sorted in alphabetical order, and you need to find one specific name as fast as possible. The slow way is to start at page one and check every entry. With one million names, that is one million checks. It works, but it is painful.\n\nThere is a much smarter way called binary search. The idea is simple. Open the book in the middle and look at the name on that page. If the name you want comes before this one alphabetically, you know it must be in the left half. So you ignore the right half completely. If it comes after, you ignore the left half. Then you open the middle of whatever is left and do it again.\n\nEach step throws away half of the remaining pages. That sounds modest, but it adds up incredibly fast. After about twenty steps, even one million names have been cut down to just one. With a billion names, you only need about thirty steps.\n\nThe key requirement is that your list must already be sorted. Once it is, binary search is one of the most powerful tools in all of computer science — a tiny idea with an enormous payoff.",
+          "word_count": 208,
+          "estimated_read_seconds": 104,
+          "vocab": [
+            {
+              "word": "alphabetical",
+              "pos": "adjective",
+              "meaning_ko": "알파벳순의"
+            },
+            {
+              "word": "painful",
+              "pos": "adjective",
+              "meaning_ko": "고통스러운"
+            },
+            {
+              "word": "modest",
+              "pos": "adjective",
+              "meaning_ko": "작은, 사소한"
+            },
+            {
+              "word": "payoff",
+              "pos": "noun",
+              "meaning_ko": "결실, 보상"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "as fast as possible",
+              "meaning_ko": "가능한 한 빠르게"
+            },
+            {
+              "phrase": "the slow way",
+              "meaning_ko": "느린 방법"
+            },
+            {
+              "phrase": "a much smarter way",
+              "meaning_ko": "훨씬 더 영리한 방법"
+            },
+            {
+              "phrase": "ignore the right half",
+              "meaning_ko": "오른쪽 절반은 무시한다"
+            },
+            {
+              "phrase": "adds up incredibly fast",
+              "meaning_ko": "놀랍도록 빠르게 누적된다"
+            },
+            {
+              "phrase": "a tiny idea with an enormous payoff",
+              "meaning_ko": "엄청난 결실을 가져다주는 작은 아이디어"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How binary search works",
+          "body": "Imagine you have a phone book with one million names, sorted alphabetically, and you need to find one specific name as quickly as possible. The most obvious method is to start at page one and check every single entry until you find the right name. This is what computer scientists call a linear search. It works, but with a million entries, it is painfully slow.\n\nThere is a far more elegant approach called binary search, and it is one of the foundational ideas of computer science. The basic procedure is surprisingly simple. You open the book in the middle and read the name on that page. If the name you are looking for comes alphabetically before this middle name, you know with certainty that the name you want must lie in the left half of the book. You can simply ignore the right half from then on. If your target comes after the middle name, you ignore the left half. Either way, you have just thrown away half of the remaining work in a single step.\n\nYou then repeat the process on whatever half is left. Open the middle of that half, compare, throw away one quarter. Open the middle of what remains, compare, throw away one eighth. And so on.\n\nThe mathematical power of this approach is striking. Each step doubles your speed, or equivalently, halves the problem. After about twenty steps, even a million names have been narrowed down to exactly one. After thirty steps, you can search a billion entries.\n\nBinary search has one strict requirement: your list must already be sorted. Once that condition is met, however, it gives you one of the largest free gains in performance available anywhere in computing — a tiny idea with disproportionately enormous practical payoff.",
+          "word_count": 295,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "linear",
+              "pos": "adjective",
+              "meaning_ko": "선형의, 한 줄로 된"
+            },
+            {
+              "word": "foundational",
+              "pos": "adjective",
+              "meaning_ko": "토대가 되는, 근본적인"
+            },
+            {
+              "word": "equivalently",
+              "pos": "adverb",
+              "meaning_ko": "동등하게"
+            },
+            {
+              "word": "disproportionately",
+              "pos": "adverb",
+              "meaning_ko": "불균형적으로"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "the most obvious method",
+              "meaning_ko": "가장 명백한 방법"
+            },
+            {
+              "phrase": "with certainty",
+              "meaning_ko": "확신을 가지고"
+            },
+            {
+              "phrase": "throw away half of the remaining work",
+              "meaning_ko": "남은 일의 절반을 버리다"
+            },
+            {
+              "phrase": "either way",
+              "meaning_ko": "어느 쪽이든"
+            },
+            {
+              "phrase": "the mathematical power of this approach",
+              "meaning_ko": "이 접근의 수학적 위력"
+            },
+            {
+              "phrase": "once that condition is met",
+              "meaning_ko": "그 조건이 충족되면"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How binary search works",
+          "body": "Imagine you have a phone book with one million names, sorted in alphabetical order, and you need to find one specific name as quickly as possible. The most obvious method is to start at the very first page and check each entry in turn until you stumble upon the right one. This brute-force approach, which computer scientists call a linear search, certainly works. With a million entries, however, it is painfully slow — and with a billion entries it is essentially hopeless.\n\nThere is a far more elegant approach known as binary search, and it is rightly considered one of the foundational ideas of computer science. The basic procedure is surprisingly simple to describe. You open the book in the middle and read the name on that page. If the name you are searching for comes alphabetically before the middle name, you know with absolute certainty that it must lie somewhere in the left half of the book, and you can immediately ignore the right half from then on. If your target comes after the middle name, you ignore the left half instead. Either way, you have just thrown away half of the remaining work in a single, almost effortless step.\n\nYou then repeat the process recursively on whatever half is still in play. Open the middle of that half, compare, discard one quarter. Open the middle of what remains, compare, discard one eighth. And so on, halving and halving, until only the target — or its absence — remains.\n\nThe mathematical character of this approach is genuinely striking. The number of comparisons grows only with the logarithm of the input size, not with the size itself. In practical terms, twenty or so comparisons are enough to locate any entry in a million, and roughly thirty are enough to search a billion. The same problem that took a million steps with linear search now finishes before you have time to notice.\n\nBinary search does come with one strict precondition: the underlying collection must already be sorted. Once that condition is satisfied, however, it offers one of the largest essentially free gains in performance available anywhere in computing — a deceptively small idea with a disproportionately enormous practical payoff, quietly underpinning databases, libraries, and countless lookup operations you depend on every day without ever thinking about them.",
+          "word_count": 386,
+          "estimated_read_seconds": 193,
+          "vocab": [
+            {
+              "word": "brute-force",
+              "pos": "adjective",
+              "meaning_ko": "무차별 대입의"
+            },
+            {
+              "word": "recursively",
+              "pos": "adverb",
+              "meaning_ko": "재귀적으로"
+            },
+            {
+              "word": "logarithm",
+              "pos": "noun",
+              "meaning_ko": "로그"
+            },
+            {
+              "word": "precondition",
+              "pos": "noun",
+              "meaning_ko": "전제 조건"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "with absolute certainty",
+              "meaning_ko": "절대적인 확신을 가지고"
+            },
+            {
+              "phrase": "almost effortless step",
+              "meaning_ko": "거의 힘들이지 않는 한 걸음"
+            },
+            {
+              "phrase": "still in play",
+              "meaning_ko": "아직 후보로 남아 있는"
+            },
+            {
+              "phrase": "in practical terms",
+              "meaning_ko": "실질적으로 말하면"
+            },
+            {
+              "phrase": "essentially free gains in performance",
+              "meaning_ko": "사실상 공짜로 얻는 성능 향상"
+            },
+            {
+              "phrase": "without ever thinking about them",
+              "meaning_ko": "한 번도 생각해 보지 않은 채"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-30-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "CDN(콘텐츠 전송망)이란 무엇인가",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 실무",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is a CDN (Content Delivery Network)",
+          "body": "When you watch a video online, where does it really come from? You may think it comes from one big computer far away. But that would be very slow.\n\nMost websites use something called a CDN. CDN means Content Delivery Network. It is a group of small servers, placed in many cities around the world.\n\nWhen you click on a video, your computer finds the closest CDN server. It gets the video from there, not from the main computer. The trip is much shorter, so the video starts faster.\n\nCDNs are why the modern internet feels fast, almost everywhere.",
+          "word_count": 99,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "video",
+              "pos": "noun",
+              "meaning_ko": "비디오, 동영상"
+            },
+            {
+              "word": "computer",
+              "pos": "noun",
+              "meaning_ko": "컴퓨터"
+            },
+            {
+              "word": "city",
+              "pos": "noun",
+              "meaning_ko": "도시"
+            },
+            {
+              "word": "trip",
+              "pos": "noun",
+              "meaning_ko": "이동, 여정"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "where does it really come from",
+              "meaning_ko": "그것은 정말로 어디에서 오는가"
+            },
+            {
+              "phrase": "far away",
+              "meaning_ko": "먼 곳에"
+            },
+            {
+              "phrase": "around the world",
+              "meaning_ko": "전 세계에"
+            },
+            {
+              "phrase": "the closest server",
+              "meaning_ko": "가장 가까운 서버"
+            },
+            {
+              "phrase": "much shorter",
+              "meaning_ko": "훨씬 짧은"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is a CDN (Content Delivery Network)",
+          "body": "When you watch a video on YouTube or open a popular website, where does that data actually come from? You might imagine one big computer somewhere — perhaps in California — sending the video all the way to your phone. But that would be far too slow for billions of people watching at the same time.\n\nInstead, most large websites quietly rely on something called a CDN, which stands for Content Delivery Network. A CDN is a network of smaller servers, placed in data centers all around the world — in Seoul, Tokyo, Frankfurt, São Paulo, and hundreds of other cities.\n\nWhen you click on a video, your device does not really fetch it from the original server. Instead, the system finds the CDN server geographically closest to you and asks for the video from there. The data only has to travel a short distance, often within your own country, so it arrives in a few milliseconds instead of a few seconds.\n\nThe original servers stay calmer too, because they do not have to serve every request directly. They only push new or updated content out to the CDN edges.\n\nThe result is the internet we now take for granted — fast, responsive, and roughly the same speed almost everywhere in the world.",
+          "word_count": 213,
+          "estimated_read_seconds": 106,
+          "vocab": [
+            {
+              "word": "data",
+              "pos": "noun",
+              "meaning_ko": "데이터"
+            },
+            {
+              "word": "millisecond",
+              "pos": "noun",
+              "meaning_ko": "밀리초"
+            },
+            {
+              "word": "edge",
+              "pos": "noun",
+              "meaning_ko": "가장자리, (네트워크의) 변두리"
+            },
+            {
+              "word": "responsive",
+              "pos": "adjective",
+              "meaning_ko": "반응이 빠른"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "rely on something called",
+              "meaning_ko": "~라는 것에 의존하다"
+            },
+            {
+              "phrase": "geographically closest to you",
+              "meaning_ko": "당신과 지리적으로 가장 가까운"
+            },
+            {
+              "phrase": "a few milliseconds instead of a few seconds",
+              "meaning_ko": "몇 초가 아닌 몇 밀리초"
+            },
+            {
+              "phrase": "stay calmer",
+              "meaning_ko": "더 한가해지다, 부담이 줄다"
+            },
+            {
+              "phrase": "the internet we now take for granted",
+              "meaning_ko": "우리가 이제 당연하게 여기는 인터넷"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is a CDN (Content Delivery Network)",
+          "body": "When you stream a video on YouTube or load a popular news site, where does that content actually come from? Many people quietly assume that one big server somewhere — perhaps in California — is sending the data all the way to their phone. But that simple picture is almost never accurate. With hundreds of millions of users hitting the same site at the same time, no single machine could possibly keep up, and the data would be agonizingly slow to arrive from the other side of the planet.\n\nThe clever solution, used by almost every large website in the world, is called a CDN — short for Content Delivery Network. A CDN is essentially a fleet of caching servers strategically placed in data centers all around the globe — in Seoul, Tokyo, Frankfurt, São Paulo, and hundreds of other cities. Each of these servers holds copies of the website's most frequently requested content, such as images, scripts, and video segments.\n\nWhen you click on a video or open a webpage, the system quietly routes your request to whichever CDN server is geographically closest to you. The data only has to travel a relatively short distance, often staying within your own country, which is why pages and videos now feel almost instant even when the original company is half a world away.\n\nCDNs also protect the original \"origin\" servers from being overwhelmed. The expensive work of serving billions of requests is spread across the CDN's edge nodes, while the origin only needs to push out new or updated content occasionally. This makes large websites both faster for users and dramatically cheaper to operate.\n\nIn a quiet but important sense, CDNs are what allow the modern internet to feel roughly the same speed nearly everywhere in the world.",
+          "word_count": 297,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "fleet",
+              "pos": "noun",
+              "meaning_ko": "(서버 등의) 무리"
+            },
+            {
+              "word": "strategically",
+              "pos": "adverb",
+              "meaning_ko": "전략적으로"
+            },
+            {
+              "word": "cache",
+              "pos": "verb",
+              "meaning_ko": "캐시에 저장하다"
+            },
+            {
+              "word": "overwhelmed",
+              "pos": "adjective",
+              "meaning_ko": "과부하 걸린"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "many people quietly assume",
+              "meaning_ko": "많은 사람들이 은연중에 가정한다"
+            },
+            {
+              "phrase": "agonizingly slow",
+              "meaning_ko": "애타게 느린"
+            },
+            {
+              "phrase": "the clever solution",
+              "meaning_ko": "영리한 해법"
+            },
+            {
+              "phrase": "spread across",
+              "meaning_ko": "~에 분산되어"
+            },
+            {
+              "phrase": "dramatically cheaper to operate",
+              "meaning_ko": "훨씬 더 저렴하게 운영할 수 있는"
+            },
+            {
+              "phrase": "in a quiet but important sense",
+              "meaning_ko": "조용하지만 중요한 의미에서"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is a CDN (Content Delivery Network)",
+          "body": "When you stream a video on YouTube or load a major news website, where does that content actually come from? Many people quietly assume that one large server somewhere — perhaps in California — is dutifully sending the data all the way across the planet to their phone. That mental picture is almost never accurate, and for very good reason. With hundreds of millions of users hitting the same service at the same moment, no single machine could conceivably keep up, and the data would arrive agonizingly slowly from halfway around the world even if it could.\n\nThe clever solution, now used by essentially every large website on the public internet, is called a CDN — short for Content Delivery Network. A CDN is, in essence, a globally distributed fleet of caching servers strategically positioned in data centers in cities all over the world: Seoul, Tokyo, Frankfurt, São Paulo, Lagos, and hundreds of others besides. Each of these so-called edge servers holds copies of the website's most frequently requested static content, including images, scripts, stylesheets, and increasingly, video segments.\n\nWhen you click on a video or load a webpage, the system quietly directs your request to whichever CDN edge is geographically closest to you. The bulk of the data therefore travels only a relatively short distance, often staying entirely within your own country, which is why videos and pages now feel almost instantaneous even when the company hosting them is on the other side of the planet.\n\nCDNs offer a second, less visible benefit. They shield the original \"origin\" servers from the relentless pressure of serving every individual request directly. The expensive, high-volume work of delivering content to end users is absorbed by the CDN's edge nodes, while the origin only has to push freshly updated content out to the edges occasionally. This makes large websites both noticeably faster for users and dramatically cheaper to operate at scale.\n\nIn a quiet but rather important sense, CDNs are a substantial part of what allows the modern internet to feel roughly uniformly fast almost anywhere in the world. They are one of those pieces of invisible infrastructure most users have never heard of, but which they rely on every time they open a browser or a video app — yet another quiet layer doing its work in the background so the rest of the system can pretend that distance no longer matters.",
+          "word_count": 400,
+          "estimated_read_seconds": 200,
+          "vocab": [
+            {
+              "word": "dutifully",
+              "pos": "adverb",
+              "meaning_ko": "충실히"
+            },
+            {
+              "word": "conceivably",
+              "pos": "adverb",
+              "meaning_ko": "상상할 수 있을 만한 방식으로"
+            },
+            {
+              "word": "uniformly",
+              "pos": "adverb",
+              "meaning_ko": "균일하게"
+            },
+            {
+              "word": "absorbed",
+              "pos": "verb",
+              "meaning_ko": "흡수된"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "for very good reason",
+              "meaning_ko": "그럴 만한 이유로"
+            },
+            {
+              "phrase": "in essence",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "the bulk of the data",
+              "meaning_ko": "데이터의 대부분"
+            },
+            {
+              "phrase": "feel almost instantaneous",
+              "meaning_ko": "거의 즉각적으로 느껴진다"
+            },
+            {
+              "phrase": "absorbed by the CDN's edge nodes",
+              "meaning_ko": "CDN의 엣지 노드에 의해 흡수된다"
+            },
+            {
+              "phrase": "pretend that distance no longer matters",
+              "meaning_ko": "거리가 더 이상 중요하지 않은 척하다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-30-speaking-01",
+      "category": "speaking",
+      "title_ko": "[IELTS P2] 당신에게 영향을 준 책을 묘사하세요",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 2",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Describe a book that influenced you. You should say: what the book was, when you read it, what it was about, and explain how it influenced you.",
+          "body": "I want to talk about a book that influenced me. It is called The Little Prince. I read it when I was twelve years old.\n\nThe book is about a young prince. He visits many planets. On each one, he meets a strange grown-up. The story is short and simple. But the message is big.\n\nI learned a lot from it. The most important lesson is that what is really important cannot be seen with your eyes. You must see with your heart.\n\nAfter I read it, I started to think differently about people. I tried to listen more. I tried to be kind, even when it was hard. When I see someone, I try to find what is inside them, not only what is outside. That is a small change, but a good one. The book is small, but it still helps me today.",
+          "word_count": 145,
+          "estimated_read_seconds": 72,
+          "vocab": [
+            {
+              "word": "book",
+              "pos": "noun",
+              "meaning_ko": "책"
+            },
+            {
+              "word": "prince",
+              "pos": "noun",
+              "meaning_ko": "왕자"
+            },
+            {
+              "word": "planet",
+              "pos": "noun",
+              "meaning_ko": "행성"
+            },
+            {
+              "word": "important",
+              "pos": "adjective",
+              "meaning_ko": "중요한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I want to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶다"
+            },
+            {
+              "phrase": "is called X",
+              "meaning_ko": "X라고 한다"
+            },
+            {
+              "phrase": "I read it when",
+              "meaning_ko": "~할 때 읽었다"
+            },
+            {
+              "phrase": "the most important lesson is",
+              "meaning_ko": "가장 중요한 교훈은"
+            },
+            {
+              "phrase": "after I read it",
+              "meaning_ko": "그것을 읽고 나서"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Describe a book that influenced you. You should say: what the book was, when you read it, what it was about, and explain how it influenced you.",
+          "body": "I would like to talk about a book that genuinely changed how I see the world. It is called The Little Prince, written by Antoine de Saint-Exupéry. I first read it when I was about twelve years old.\n\nThe book is short and looks like a children's story. It is about a small prince from a tiny planet who travels through space and visits many other planets. On each one, he meets a strange grown-up — a king, a businessman, a drunk — and slowly learns about what is wrong with the adult world.\n\nI wanted to read it because my mother bought it for me as a birthday present. At first, I thought it was a simple story. But the more I read, the more I felt that the book was secretly speaking to me, not just telling a children's tale.\n\nThe way I learned was very calm. I read it slowly, sometimes the same page twice, and I underlined the lines I liked. The most famous one — \"what is essential is invisible to the eye\" — stayed in my head for years.\n\nThis book influenced me in a quiet but lasting way. It taught me to pay more attention to people instead of things, and to be less impressed by grown-ups who are always \"too busy\". Even now, when I feel lost, I remember that small prince and try to look with my heart, not just my eyes.",
+          "word_count": 241,
+          "estimated_read_seconds": 120,
+          "vocab": [
+            {
+              "word": "genuinely",
+              "pos": "adverb",
+              "meaning_ko": "진정으로"
+            },
+            {
+              "word": "simple",
+              "pos": "adjective",
+              "meaning_ko": "단순한"
+            },
+            {
+              "word": "underline",
+              "pos": "verb",
+              "meaning_ko": "밑줄을 긋다"
+            },
+            {
+              "word": "lasting",
+              "pos": "adjective",
+              "meaning_ko": "오래가는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I would like to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶습니다"
+            },
+            {
+              "phrase": "at first, I thought",
+              "meaning_ko": "처음에는 ~라고 생각했다"
+            },
+            {
+              "phrase": "the more I read, the more",
+              "meaning_ko": "읽으면 읽을수록"
+            },
+            {
+              "phrase": "stayed in my head for years",
+              "meaning_ko": "수년간 머릿속에 남아 있었다"
+            },
+            {
+              "phrase": "in a quiet but lasting way",
+              "meaning_ko": "조용하지만 오래가는 방식으로"
+            },
+            {
+              "phrase": "look with my heart, not just my eyes",
+              "meaning_ko": "눈만이 아니라 마음으로 보다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Describe a book that influenced you. You should say: what the book was, when you read it, what it was about, and explain how it influenced you.",
+          "body": "I'd like to talk about a small book that genuinely changed how I see the world. It's called The Little Prince, written by the French author Antoine de Saint-Exupéry, and I first read it when I was about twelve years old.\n\nThe book itself is deceptively simple. On the surface, it looks like a children's story. A young prince from a tiny planet travels through space and meets a series of strange grown-ups — a king with no real subjects, a businessman who claims to own the stars, a drunk who drinks to forget he's a drunk. Slowly, through these encounters, he learns what's wrong with the adult world.\n\nThe reason I picked it up was rather random. My mother gave it to me as a birthday present, mostly because she thought it was a \"cute\" book. I almost left it on the shelf. But once I started, I quickly realized that this \"children's book\" was actually saying something quite serious, and that it was secretly addressed at me, not at a child.\n\nI read it slowly, sometimes the same passage twice, and I underlined any line that caught me. The most famous one — \"what is essential is invisible to the eye\" — stayed with me for years afterwards.\n\nLooking back, this book influenced me in quiet but lasting ways. It taught me to take people more seriously than things, and to be quietly suspicious of grown-ups who proudly describe themselves as \"too busy\". It also made me realize that the most important lessons in life are often hidden in surprisingly small, ordinary places. Even today, whenever I feel lost in the noise of work, I remember that little prince on his tiny planet and try to look with my heart, not just my eyes.",
+          "word_count": 296,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "deceptively",
+              "pos": "adverb",
+              "meaning_ko": "겉보기와 달리"
+            },
+            {
+              "word": "encounter",
+              "pos": "noun",
+              "meaning_ko": "마주침"
+            },
+            {
+              "word": "suspicious",
+              "pos": "adjective",
+              "meaning_ko": "의심스러운, 미덥잖은"
+            },
+            {
+              "word": "passage",
+              "pos": "noun",
+              "meaning_ko": "(책의) 구절, 단락"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶다"
+            },
+            {
+              "phrase": "on the surface, it looks like",
+              "meaning_ko": "겉으로 보기엔 ~처럼 보인다"
+            },
+            {
+              "phrase": "secretly addressed at me",
+              "meaning_ko": "사실 나에게 말하고 있는"
+            },
+            {
+              "phrase": "stayed with me for years afterwards",
+              "meaning_ko": "그 뒤로 수년간 내 안에 남아 있었다"
+            },
+            {
+              "phrase": "in quiet but lasting ways",
+              "meaning_ko": "조용하지만 오래 가는 방식으로"
+            },
+            {
+              "phrase": "the noise of work",
+              "meaning_ko": "일의 소음"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Describe a book that influenced you. You should say: what the book was, when you read it, what it was about, and explain how it influenced you.",
+          "body": "I'd like to talk about a small book that genuinely changed how I see the world. It's called The Little Prince, written by the French aviator and author Antoine de Saint-Exupéry, and I first read it when I was about twelve years old.\n\nThe book is deceptively simple. On the surface, it looks like a perfectly ordinary children's story. A young prince from a tiny asteroid travels through space, visits a string of small planets, and meets a series of strange grown-ups along the way — a king with no real subjects, a businessman who insists he owns all the stars, a drunk who drinks to forget he's a drunk. Through these brief, slightly absurd encounters, the prince gradually begins to understand what's quietly wrong with the adult world he eventually lands in.\n\nThe reason I picked it up was, honestly, quite random. My mother had given it to me as a birthday present, mostly because she thought it was a \"cute\" book that would suit my age. I almost left it on the shelf for months. But once I actually started reading, I quickly realized that this innocent-looking \"children's story\" was saying something rather serious, and that it was, in some quietly disconcerting way, addressed at me rather than at any imagined child.\n\nI read it slowly, sometimes the same passage two or three times, and I underlined any line that caught me. The most famous of them all — \"what is essential is invisible to the eye\" — lodged itself in my head and stayed there, in a way few sentences ever have, for years afterwards.\n\nLooking back as an adult, I'd say the book influenced me in quiet but genuinely lasting ways. It taught me to take people more seriously than things, and to be politely suspicious of any grown-up who proudly describes himself as \"too busy\" to be interested in anything. It also gave me, very early on, a small but durable sense that the most important lessons in life tend to hide in surprisingly modest, unspectacular places. Even today, whenever I find myself getting lost in the busy noise of work and adult life, I quietly remember that small prince on his tiny planet, and I try once again to look at the world with my heart — not only with my increasingly distracted eyes.",
+          "word_count": 390,
+          "estimated_read_seconds": 195,
+          "vocab": [
+            {
+              "word": "aviator",
+              "pos": "noun",
+              "meaning_ko": "비행사"
+            },
+            {
+              "word": "absurd",
+              "pos": "adjective",
+              "meaning_ko": "터무니없는, 부조리한"
+            },
+            {
+              "word": "disconcerting",
+              "pos": "adjective",
+              "meaning_ko": "당황스러운, 마음을 어지럽히는"
+            },
+            {
+              "word": "durable",
+              "pos": "adjective",
+              "meaning_ko": "오래 견디는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "deceptively simple",
+              "meaning_ko": "겉보기와 달리 단순하지 않은"
+            },
+            {
+              "phrase": "in some quietly disconcerting way",
+              "meaning_ko": "조용히 마음을 어지럽히는 어떤 방식으로"
+            },
+            {
+              "phrase": "lodged itself in my head",
+              "meaning_ko": "내 머릿속에 박혔다"
+            },
+            {
+              "phrase": "politely suspicious of",
+              "meaning_ko": "~에 대해 정중하게 의심스러운"
+            },
+            {
+              "phrase": "a small but durable sense that",
+              "meaning_ko": "~라는 작지만 오래 가는 감각"
+            },
+            {
+              "phrase": "with my increasingly distracted eyes",
+              "meaning_ko": "점점 더 산만해지는 내 눈으로"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
