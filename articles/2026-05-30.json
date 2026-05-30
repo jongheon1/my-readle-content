@@ -5,527 +5,756 @@
     {
       "topic_id": "2026-05-30-academic_science-01",
       "category": "academic_science",
-      "title_ko": "기억은 뇌에 어떻게 저장되는가",
+      "title_ko": "화산은 어떻게 분출되는가",
       "source_url": null,
       "source_name": "Generated · 자연과학",
       "image_url": null,
       "levels": {
         "A2": {
-          "title": "How memory is stored in the brain",
-          "body": "Have you ever wondered how your brain keeps memories? When you learn something new, tiny cells in your brain called neurons connect to each other. They send small signals back and forth. The more you think about something, the stronger these connections become. That is why repeating a song helps you remember it. Sleep also matters a lot. When you sleep, your brain quietly reviews the day. Some memories grow stronger, and others fade away. So your brain is not really like a camera. It builds memory slowly, piece by piece, every single day.",
-          "word_count": 94,
-          "estimated_read_seconds": 47,
+          "title": "How volcanoes erupt",
+          "body": "Have you ever seen a volcano on TV? It looks like a mountain that breathes fire. But why does it happen? Deep under the ground, it is very hot. So hot that rocks can melt. This melted rock is called magma. Magma is lighter than the rock around it, so it slowly rises. When it finds a weak spot, it pushes up and out. Then we call it lava. Sometimes gas inside the magma makes a big boom. That is why some eruptions are very loud and strong. After the eruption, the lava cools down and becomes new rock. Volcanoes are scary, but they also build new land.",
           "vocab": [
             {
-              "word": "neurons",
-              "pos": "noun",
-              "meaning_ko": "신경세포"
-            },
-            {
-              "word": "signals",
-              "pos": "noun",
-              "meaning_ko": "신호"
-            },
-            {
-              "word": "connections",
-              "pos": "noun",
-              "meaning_ko": "연결"
-            },
-            {
-              "word": "fade",
+              "word": "melt",
               "pos": "verb",
-              "meaning_ko": "희미해지다, 사라지다"
+              "meaning_ko": "녹다"
+            },
+            {
+              "word": "magma",
+              "pos": "noun",
+              "meaning_ko": "마그마, 용암(지하)"
+            },
+            {
+              "word": "lava",
+              "pos": "noun",
+              "meaning_ko": "용암(지상)"
+            },
+            {
+              "word": "scary",
+              "pos": "adjective",
+              "meaning_ko": "무서운"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "Have you ever wondered",
-              "meaning_ko": "~인지 궁금해본 적 있나요"
+              "phrase": "Have you ever seen",
+              "meaning_ko": "본 적이 있나요?"
             },
             {
-              "phrase": "back and forth",
-              "meaning_ko": "서로 주고받으며"
+              "phrase": "deep under the ground",
+              "meaning_ko": "땅 깊은 곳에"
             },
             {
-              "phrase": "the stronger these connections become",
-              "meaning_ko": "이 연결들이 더 강해진다"
+              "phrase": "lighter than",
+              "meaning_ko": "~보다 가벼운"
             },
             {
-              "phrase": "piece by piece",
-              "meaning_ko": "조금씩, 차근차근"
+              "phrase": "a weak spot",
+              "meaning_ko": "약한 지점"
             },
             {
-              "phrase": "every single day",
-              "meaning_ko": "하루도 빠짐없이"
+              "phrase": "cools down",
+              "meaning_ko": "식다"
             },
             {
-              "phrase": "is not really like a camera",
-              "meaning_ko": "사실 카메라 같은 게 아니다"
+              "phrase": "That is why",
+              "meaning_ko": "그것이 ~한 이유다"
             }
-          ]
+          ],
+          "word_count": 108,
+          "estimated_read_seconds": 54
         },
         "B1": {
-          "title": "How memory is stored in the brain",
-          "body": "Have you ever wondered where your memories actually live? Scientists used to imagine that the brain stored memories like files in a folder, but the reality is much more interesting. Memory is built into the connections between brain cells, called neurons. Every time you learn something, certain neurons fire together, and the link between them gets a little stronger. Over time, those repeated patterns become the memory itself. This is why practice works. The more often you walk through an idea, the more reliably your brain can rebuild it later. Sleep plays a surprisingly active role too. During the night, the brain replays the day's experiences and moves the important ones into long-term storage. Things that feel emotional or useful tend to stick, while small details often quietly disappear. So memory is not a recording. It is more like a path through a forest. The more you walk it, the clearer it becomes, and the easier it is to find next time.",
-          "word_count": 162,
-          "estimated_read_seconds": 81,
+          "title": "How volcanoes erupt",
+          "body": "A volcano may look quiet for years, but inside the Earth, things are always moving. Far below our feet, the rock is so hot that some of it melts into a thick liquid called magma. This magma sits in a kind of underground room, a magma chamber. Because magma is lighter than solid rock, it slowly tries to rise toward the surface. As it rises, gases that were trapped inside it start to escape, just like bubbles in a shaken bottle of soda. If the magma is thin, the gas comes out gently and lava flows quietly down the side of the mountain. But if the magma is thick and sticky, the gas cannot escape easily. Pressure builds up until the volcano explodes, throwing ash, rocks, and lava into the sky. Once the eruption ends, the lava cools and forms new rock. Over thousands of years, these eruptions can build whole islands.",
           "vocab": [
             {
-              "word": "neurons",
+              "word": "chamber",
               "pos": "noun",
-              "meaning_ko": "신경세포"
+              "meaning_ko": "방, 격실"
             },
             {
-              "word": "patterns",
+              "word": "pressure",
               "pos": "noun",
-              "meaning_ko": "패턴, 양식"
+              "meaning_ko": "압력"
             },
             {
-              "word": "replays",
-              "pos": "verb",
-              "meaning_ko": "재생하다, 다시 돌려보다"
+              "word": "trapped",
+              "pos": "adjective",
+              "meaning_ko": "갇힌"
             },
             {
-              "word": "stick",
-              "pos": "verb",
-              "meaning_ko": "(기억에) 남다, 달라붙다"
+              "word": "sticky",
+              "pos": "adjective",
+              "meaning_ko": "끈적한, 점성 있는"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "used to imagine",
-              "meaning_ko": "예전에는 ~라고 상상했다"
+              "phrase": "tries to rise",
+              "meaning_ko": "올라오려고 한다"
             },
             {
-              "phrase": "fire together",
-              "meaning_ko": "함께 활성화되다, 동시에 발화하다"
+              "phrase": "just like bubbles in a shaken bottle of soda",
+              "meaning_ko": "흔든 탄산음료 병의 거품처럼"
             },
             {
-              "phrase": "Over time",
-              "meaning_ko": "시간이 지나면서"
+              "phrase": "flows quietly",
+              "meaning_ko": "조용히 흐른다"
             },
             {
-              "phrase": "plays a surprisingly active role",
-              "meaning_ko": "놀라울 정도로 능동적인 역할을 한다"
+              "phrase": "build up",
+              "meaning_ko": "쌓이다"
             },
             {
-              "phrase": "tend to stick",
-              "meaning_ko": "잘 남는 경향이 있다"
+              "phrase": "throwing ash, rocks, and lava into the sky",
+              "meaning_ko": "재·돌·용암을 하늘로 뿜어내며"
             },
             {
-              "phrase": "more like a path through a forest",
-              "meaning_ko": "오히려 숲을 지나는 길에 더 가깝다"
+              "phrase": "Over thousands of years",
+              "meaning_ko": "수천 년에 걸쳐"
             }
-          ]
+          ],
+          "word_count": 152,
+          "estimated_read_seconds": 76
         },
         "B2": {
-          "title": "How memory is stored in the brain",
-          "body": "Imagine looking for a memory in your brain the way you look for a file on a computer. It sounds simple, but neuroscientists have learned that memory does not work that way at all. Instead of being stored in one neat place, a memory is spread across networks of brain cells. When something new happens, groups of neurons fire together, and the connections between them, called synapses, become slightly stronger. This process is known as long-term potentiation, and it is one of the foundations of learning. Each time you recall a memory, you are essentially rebuilding it by reactivating that same pattern of cells. The hippocampus, a small region deep inside the brain, plays a special role. It acts like a kind of indexing system, helping you bind together the sights, sounds, and emotions of an experience into a single coherent memory. Over time, important memories are gradually consolidated and moved into more permanent storage, while less useful ones quietly fade. Sleep is where much of the real magic happens. During slow-wave sleep, the brain replays recent activity at high speed, transferring important information from the hippocampus to the cortex, where long-term memories live. This is why pulling an all-nighter before an exam often backfires. Your brain simply has not had the time to file the day away properly. What is even more fascinating is that memory is not perfectly accurate. Every time you remember something, you slightly rewrite it, shaped by your current mood and beliefs. In a sense, your past is not fixed. It is something your brain quietly reconstructs every single time you look back at it.",
-          "word_count": 270,
-          "estimated_read_seconds": 135,
+          "title": "How volcanoes erupt",
+          "body": "From the outside, a volcano can seem almost peaceful, but the story underneath it is much more dramatic. The Earth is built in layers, and the layer just below the crust is so hot that pockets of rock melt into a thick liquid called magma. This magma collects in a magma chamber, often several kilometers below the surface. Because magma is less dense than the solid rock around it, gravity actually works in its favor and slowly pushes it upward through cracks in the crust. What really drives an eruption, though, is gas. Magma contains dissolved gases like water vapor and carbon dioxide, kept under enormous pressure deep underground. As the magma rises and that pressure drops, the gases expand and form bubbles, just like opening a bottle of fizzy water. If the magma is runny, the gas escapes smoothly and the eruption is gentle, with rivers of lava sliding down the slopes. But when the magma is thick, the bubbles get trapped, pressure builds rapidly, and the volcano explodes violently. These powerful eruptions can send clouds of ash high into the atmosphere and even change global temperatures for a year or two. Scientists watch volcanoes closely, using ground sensors, satellites, and tiny shifts in gas chemistry to predict when an eruption might be on the way. It is not a perfect science, but it has already saved countless lives in places like Indonesia and Iceland. Once everything calms down, the lava cools, hardens, and slowly adds new layers to the volcano. In a sense, every eruption is both a destruction and an act of creation.",
           "vocab": [
             {
-              "word": "synapses",
+              "word": "dissolved",
+              "pos": "adjective",
+              "meaning_ko": "용해된"
+            },
+            {
+              "word": "viscosity",
               "pos": "noun",
-              "meaning_ko": "시냅스 (뉴런 간 연접부)"
+              "meaning_ko": "점성"
             },
             {
-              "word": "hippocampus",
+              "word": "violently",
+              "pos": "adverb",
+              "meaning_ko": "격렬하게"
+            },
+            {
+              "word": "atmosphere",
               "pos": "noun",
-              "meaning_ko": "해마 (기억 관련 뇌 부위)"
-            },
-            {
-              "word": "consolidated",
-              "pos": "verb",
-              "meaning_ko": "공고화하다, 굳히다"
-            },
-            {
-              "word": "reconstructs",
-              "pos": "verb",
-              "meaning_ko": "재구성하다"
+              "meaning_ko": "대기"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "the way you look for a file on a computer",
-              "meaning_ko": "컴퓨터에서 파일을 찾는 방식처럼"
+              "phrase": "less dense than",
+              "meaning_ko": "~보다 밀도가 낮다"
             },
             {
-              "phrase": "spread across networks",
-              "meaning_ko": "네트워크 전반에 흩어져 있는"
+              "phrase": "kept under enormous pressure",
+              "meaning_ko": "엄청난 압력 아래 유지되는"
             },
             {
-              "phrase": "long-term potentiation",
-              "meaning_ko": "장기 강화 (학습의 기초가 되는 메커니즘)"
+              "phrase": "as the pressure drops",
+              "meaning_ko": "압력이 떨어짐에 따라"
             },
             {
-              "phrase": "acts like a kind of indexing system",
-              "meaning_ko": "일종의 색인 시스템처럼 작동한다"
-            },
-            {
-              "phrase": "often backfires",
-              "meaning_ko": "오히려 역효과를 낸다"
+              "phrase": "slides down the slopes",
+              "meaning_ko": "비탈을 따라 흘러내리다"
             },
             {
               "phrase": "In a sense",
               "meaning_ko": "어떤 의미에서는"
+            },
+            {
+              "phrase": "both a destruction and an act of creation",
+              "meaning_ko": "파괴이자 동시에 창조 행위"
             }
-          ]
+          ],
+          "word_count": 266,
+          "estimated_read_seconds": 133
         },
         "C1": {
-          "title": "How memory is stored in the brain",
-          "body": "Have you ever paused to consider that the version of your past you carry in your head is not a recording at all, but a reconstruction? For most of the twentieth century, popular thinking treated memory as a kind of mental filing cabinet, with each event stored in its own neatly labelled drawer, waiting to be retrieved on demand. Modern neuroscience tells a very different story, and a far more interesting one. A memory does not sit in one location. It exists as a pattern of activity distributed across vast networks of neurons, encoded in the strength of the connections between them. When you learn something, the relevant neurons fire together, and the synapses linking them grow stronger through a process called long-term potentiation. Repeated exposure to the same information sharpens this pattern, while neglect lets it slowly fade. The hippocampus deserves special attention, because it acts almost like a librarian. It binds the sensory fragments of an experience, what you saw, heard, smelled and felt, into a single, retrievable episode. Over days and weeks, those episodes are gradually consolidated and transferred to the cortex, where they become part of your long-term knowledge. This transfer happens most efficiently while you sleep, particularly during deep slow-wave sleep, when the brain replays recent experiences at high speed and rewires itself accordingly. It is one reason why chronic sleep deprivation does not just leave you tired, it quietly erodes your ability to learn. Perhaps the most counterintuitive finding is that every act of remembering subtly changes the memory itself. Recall is not playback, it is reconstruction, influenced by your current emotions, beliefs, surroundings, and even the questions someone is asking you at that moment. This is why two siblings can describe the same childhood event in completely different ways, and why eyewitness testimony, despite feeling certain to the witness, can drift over time and quietly absorb later suggestions. In the end, memory is less like a static hard drive and far more like a living, breathing document, constantly being edited, gently refined, and occasionally rewritten by the slightly different person you happen to be today.",
-          "word_count": 352,
-          "estimated_read_seconds": 176,
+          "title": "How volcanoes erupt",
+          "body": "Looking at a snow-capped volcano on a calm day, it is hard to imagine that it is essentially a pressure cooker connected to the deep interior of our planet. Yet that is exactly what it is. The Earth's outer shell, the crust, sits on top of a hotter, partially molten layer called the mantle. Where tectonic plates pull apart or collide, conditions allow pockets of mantle rock to melt, producing magma that gathers in chambers a few kilometers below the surface. Magma is buoyant compared to the surrounding rock, so it inches upward through fractures and weak zones, often over hundreds or thousands of years. The decisive ingredient in any eruption, however, is the gas dissolved within that magma. Water, carbon dioxide, and sulfur compounds remain locked in solution as long as the pressure stays high. As the magma climbs and pressure falls, those gases come out of solution and form bubbles, in a process scientists call exsolution. The viscosity of the magma then determines what happens next. Low-viscosity basaltic magma, common in places like Hawaii, allows gas to escape easily, producing the relatively gentle, flowing eruptions that tourists can sometimes watch from a safe distance. High-viscosity rhyolitic or andesitic magma, by contrast, traps gas until pressure overwhelms the surrounding rock, and the result can be a catastrophic explosion that ejects ash, pumice, and pyroclastic flows at terrifying speeds. Modern volcanology relies on a layered defence to anticipate these events. Seismometers detect the tiny earthquakes that swarming magma produces, GPS instruments record the gradual swelling of the ground, and gas spectrometers track changes in the ratio of sulfur dioxide to carbon dioxide that often precede major activity. None of these signals are individually reliable, but together they have allowed volcanologists to issue useful warnings before several recent eruptions, saving thousands of lives. The aftermath is just as significant as the eruption itself. Cooled lava and ash gradually build new land, fertile volcanic soils support some of the world's most productive agriculture, and sulfur aerosols injected into the stratosphere can subtly cool the planet for months. Volcanoes are, in this sense, both architects and disrupters, continually reshaping the surface we walk on.",
           "vocab": [
             {
-              "word": "consolidated",
-              "pos": "verb",
-              "meaning_ko": "공고화된, 굳혀진"
-            },
-            {
-              "word": "counterintuitive",
+              "word": "buoyant",
               "pos": "adjective",
-              "meaning_ko": "직관에 반하는"
+              "meaning_ko": "부력이 있는, 잘 떠오르는"
             },
             {
-              "word": "reconstruction",
+              "word": "exsolution",
               "pos": "noun",
-              "meaning_ko": "재구성, 복원"
+              "meaning_ko": "용질이 용액에서 빠져나옴(석출)"
             },
             {
-              "word": "encoded",
-              "pos": "verb",
-              "meaning_ko": "부호화된, 새겨진"
+              "word": "pyroclastic",
+              "pos": "adjective",
+              "meaning_ko": "화쇄성의, 화산 분출물의"
+            },
+            {
+              "word": "aerosol",
+              "pos": "noun",
+              "meaning_ko": "에어로졸, 부유 입자"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "Have you ever paused to consider",
-              "meaning_ko": "~을 곰곰이 생각해본 적 있는가"
+              "phrase": "essentially a pressure cooker",
+              "meaning_ko": "본질적으로 압력솥이다"
             },
             {
-              "phrase": "For most of the twentieth century",
-              "meaning_ko": "20세기 대부분의 기간 동안"
+              "phrase": "come out of solution",
+              "meaning_ko": "용액에서 빠져나오다"
             },
             {
-              "phrase": "deserves special attention",
-              "meaning_ko": "특별히 주목할 만하다"
+              "phrase": "overwhelms the surrounding rock",
+              "meaning_ko": "주변 암석을 압도하다"
             },
             {
-              "phrase": "Perhaps the most counterintuitive finding is",
-              "meaning_ko": "아마 가장 직관에 반하는 발견은"
+              "phrase": "at terrifying speeds",
+              "meaning_ko": "무시무시한 속도로"
             },
             {
-              "phrase": "drift over time",
-              "meaning_ko": "시간이 지나며 변형되다"
+              "phrase": "just as significant as",
+              "meaning_ko": "~만큼이나 중요한"
             },
             {
-              "phrase": "In the end",
-              "meaning_ko": "결국에는"
+              "phrase": "continually reshaping",
+              "meaning_ko": "끊임없이 다시 빚어내는"
             }
-          ]
+          ],
+          "word_count": 361,
+          "estimated_read_seconds": 180
         }
       }
     },
     {
       "topic_id": "2026-05-30-academic_humanities-01",
       "category": "academic_humanities",
-      "title_ko": "인상주의는 왜 등장했는가",
+      "title_ko": "인쇄기는 어떻게 세상을 바꿨는가",
       "source_url": null,
       "source_name": "Generated · 인문사회",
       "image_url": null,
       "levels": {
         "A2": {
-          "title": "Why impressionism emerged",
-          "body": "Have you ever seen a painting full of bright dots and soft light? That style is called Impressionism. It started in France in the 1860s and 1870s. Before that time, most paintings were dark and very serious. They showed kings, history, and religion. A small group of painters wanted something new. They went outside to paint the sun, the sky, and people in cafés. They painted fast and used loud colors. At first many people laughed at their work. Today, those same paintings are some of the most loved pictures in the world.",
-          "word_count": 93,
-          "estimated_read_seconds": 46,
+          "title": "How the printing press changed the world",
+          "body": "Long ago, books were very rare. People had to copy every book by hand. It took months or even years to make just one book. Because of this, only rich people and priests had books. Most people could not read at all. Then a man named Gutenberg made a new machine in Germany. It was called the printing press. With this machine, one worker could print many pages in a day. Soon, books became cheaper. More people learned to read. New ideas spread very fast from one city to another. Many people say this machine changed the world forever.",
           "vocab": [
             {
-              "word": "painting",
-              "pos": "noun",
-              "meaning_ko": "그림, 회화"
-            },
-            {
-              "word": "serious",
+              "word": "rare",
               "pos": "adjective",
-              "meaning_ko": "진지한, 엄숙한"
+              "meaning_ko": "드문, 희귀한"
             },
             {
-              "word": "religion",
+              "word": "copy",
+              "pos": "verb",
+              "meaning_ko": "베끼다, 복사하다"
+            },
+            {
+              "word": "priest",
               "pos": "noun",
-              "meaning_ko": "종교"
+              "meaning_ko": "사제, 성직자"
             },
             {
-              "word": "loud",
-              "pos": "adjective",
-              "meaning_ko": "(색이) 강렬한"
+              "word": "spread",
+              "pos": "verb",
+              "meaning_ko": "퍼지다"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "Have you ever seen",
-              "meaning_ko": "~을 본 적 있나요"
+              "phrase": "Long ago",
+              "meaning_ko": "옛날에"
             },
             {
-              "phrase": "That style is called",
-              "meaning_ko": "그 스타일은 ~라고 불린다"
+              "phrase": "by hand",
+              "meaning_ko": "손으로"
             },
             {
-              "phrase": "Before that time",
-              "meaning_ko": "그 전에는"
+              "phrase": "Because of this",
+              "meaning_ko": "이것 때문에"
             },
             {
-              "phrase": "something new",
-              "meaning_ko": "새로운 무언가"
+              "phrase": "Most people",
+              "meaning_ko": "대부분의 사람들"
             },
             {
-              "phrase": "At first",
-              "meaning_ko": "처음에는"
+              "phrase": "from one city to another",
+              "meaning_ko": "한 도시에서 다른 도시로"
             },
             {
-              "phrase": "some of the most loved",
-              "meaning_ko": "가장 사랑받는 ~ 중 일부"
+              "phrase": "changed the world forever",
+              "meaning_ko": "세상을 영원히 바꿨다"
             }
-          ]
+          ],
+          "word_count": 99,
+          "estimated_read_seconds": 50
         },
         "B1": {
-          "title": "Why impressionism emerged",
-          "body": "Why did so many people suddenly want to paint sunlight in the late 1800s? Impressionism did not appear out of nowhere. France was changing rapidly. Trains, gas lights, and big new boulevards transformed Paris into a modern city, and the old style of painting felt out of date. The official art world wanted polished historical scenes, but a young group of artists, including Monet, Renoir, and Degas, wanted to capture real life. They were also helped by new technology. Paint became available in small metal tubes, which meant artists could carry it outside. So they did exactly that. They went to gardens, train stations, and riversides, and tried to catch the fleeting effect of light on water and skin. The official salons rejected them at first, so they organized their own shows. Their loose brushstrokes shocked viewers used to smooth surfaces, but the movement spread quickly. Impressionism was not just a new style, it was a new attitude. It said that an ordinary moment, painted honestly, was worth more than a perfect historical scene.",
-          "word_count": 174,
-          "estimated_read_seconds": 87,
+          "title": "How the printing press changed the world",
+          "body": "Before the 15th century, every book in Europe was written by hand. Monks worked for months in quiet rooms, copying page after page. Because the process was so slow, books were extremely expensive, and most ordinary people could not even read. Knowledge was something that stayed inside churches, palaces, and a few rich families. Then, around 1440, a German craftsman called Johannes Gutenberg invented a new kind of machine: the printing press with movable metal letters. Suddenly, the same page could be printed hundreds of times in a single day. Within fifty years, millions of books had been printed all across Europe. Bibles, science books, poems, and political pamphlets traveled from city to city much faster than before. More people learned to read, and ordinary citizens started to discuss ideas that used to belong only to experts. In a way, the printing press was the first information technology, and it set off a wave of change that we can still feel today.",
           "vocab": [
             {
-              "word": "boulevards",
+              "word": "monk",
               "pos": "noun",
-              "meaning_ko": "대로, 가로수길"
+              "meaning_ko": "수도사"
             },
             {
-              "word": "polished",
+              "word": "ordinary",
               "pos": "adjective",
-              "meaning_ko": "잘 다듬어진, 세련된"
+              "meaning_ko": "평범한"
             },
             {
-              "word": "fleeting",
-              "pos": "adjective",
-              "meaning_ko": "찰나의, 순식간에 지나가는"
-            },
-            {
-              "word": "brushstrokes",
+              "word": "pamphlet",
               "pos": "noun",
-              "meaning_ko": "붓 터치, 붓자국"
+              "meaning_ko": "팸플릿, 소책자"
+            },
+            {
+              "word": "invented",
+              "pos": "verb",
+              "meaning_ko": "발명했다"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "did not appear out of nowhere",
-              "meaning_ko": "갑자기 등장한 것이 아니었다"
+              "phrase": "page after page",
+              "meaning_ko": "한 페이지씩 계속"
             },
             {
-              "phrase": "felt out of date",
-              "meaning_ko": "시대에 뒤떨어져 보였다"
+              "phrase": "stayed inside churches",
+              "meaning_ko": "교회 안에 머물러 있었다"
             },
             {
-              "phrase": "wanted to capture real life",
-              "meaning_ko": "실제 삶을 포착하고 싶었다"
+              "phrase": "Within fifty years",
+              "meaning_ko": "50년 안에"
             },
             {
-              "phrase": "at first",
-              "meaning_ko": "처음에는"
+              "phrase": "used to belong only to experts",
+              "meaning_ko": "예전에는 전문가들만의 것이었던"
             },
             {
-              "phrase": "spread quickly",
-              "meaning_ko": "빠르게 퍼졌다"
+              "phrase": "In a way",
+              "meaning_ko": "어떤 면에서는"
             },
             {
-              "phrase": "was worth more than",
-              "meaning_ko": "~보다 더 가치 있었다"
+              "phrase": "set off a wave of change",
+              "meaning_ko": "변화의 물결을 일으켰다"
             }
-          ]
+          ],
+          "word_count": 162,
+          "estimated_read_seconds": 81
         },
         "B2": {
-          "title": "Why impressionism emerged",
-          "body": "Imagine walking into a Paris gallery in 1874 and seeing what looked like a half-finished painting of a misty harbor. That painting was Claude Monet's Impression, Sunrise, and a sarcastic critic used the title to mock the whole group as mere impressionists. The name stuck, and so did one of the most influential art movements in history. To understand why Impressionism appeared exactly when it did, you have to picture mid-nineteenth century France. Paris was being rebuilt by Baron Haussmann into a city of wide boulevards and bright cafés. Trains made the countryside accessible in an afternoon, and photography was challenging painters to ask what their craft was even for, if a camera could capture a face perfectly. At the same time, the official Salon held an iron grip on which artists could succeed, favoring grand historical and mythological scenes painted in smooth, controlled brushstrokes. A small circle of painters, including Monet, Renoir, Pissarro, and Degas, refused to play that game. They were fascinated by ordinary people, by weekend boating parties, ballet rehearsals, and steam rising off train platforms. Crucially, the invention of paint sold in collapsible metal tubes let them work outdoors and chase the changing light. Their canvases were full of quick, broken strokes that the public initially found unfinished and even disrespectful. By organizing their own independent exhibitions, they bypassed the Salon entirely. Impressionism, then, was not only about color and light. It was a quiet rebellion against the idea that art must look polished and tell a noble story. It argued that the shimmer of a single afternoon, honestly observed, was worth its own place on the wall.",
-          "word_count": 272,
-          "estimated_read_seconds": 136,
+          "title": "How the printing press changed the world",
+          "body": "It is hard for us today, surrounded by phones and laptops, to picture a world where almost no one could read. Yet that was the reality across most of Europe before the middle of the 15th century. Every single book had to be copied by hand, usually by monks in monasteries, and a single Bible could take more than a year to produce. Books were so rare and costly that they were chained to library shelves, and knowledge was effectively locked away from the general population. Then, around 1440, a goldsmith named Johannes Gutenberg combined several existing technologies in a new way. He cast individual metal letters that could be arranged into words, lines, and pages, and then pressed onto paper using a modified wine press. What made this revolutionary was the speed and the consistency. A single workshop could print in a day what a monk used to copy in months, and every copy was almost identical. By 1500, only sixty years after Gutenberg's invention, an estimated twenty million books were circulating in Europe. This sudden flood of cheap printed material reshaped religion, science, and politics in ways that nobody had predicted. Martin Luther's reform ideas spread across the continent within weeks, scientists could finally read and build on one another's work, and ordinary citizens began to form opinions on public matters. Universities expanded, literacy rates climbed, and even popular entertainment shifted as cheap novels and pamphlets reached wider audiences. Looking back, the printing press is often seen as the first true mass medium, and its effects laid the foundation for the modern world.",
           "vocab": [
             {
-              "word": "sarcastic",
-              "pos": "adjective",
-              "meaning_ko": "비꼬는, 냉소적인"
-            },
-            {
-              "word": "collapsible",
-              "pos": "adjective",
-              "meaning_ko": "접을 수 있는"
-            },
-            {
-              "word": "rebellion",
+              "word": "monastery",
               "pos": "noun",
-              "meaning_ko": "반란, 반발"
+              "meaning_ko": "수도원"
             },
             {
-              "word": "shimmer",
+              "word": "consistency",
               "pos": "noun",
-              "meaning_ko": "은은한 빛, 어른거림"
+              "meaning_ko": "일관성"
+            },
+            {
+              "word": "circulating",
+              "pos": "verb",
+              "meaning_ko": "유통되고 있는"
+            },
+            {
+              "word": "reshaped",
+              "pos": "verb",
+              "meaning_ko": "재형성하다, 새로 빚다"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "Imagine walking into",
-              "meaning_ko": "~로 걸어 들어간다고 상상해 보라"
+              "phrase": "It is hard for us today",
+              "meaning_ko": "오늘날의 우리로서는 ~하기 어렵다"
             },
             {
-              "phrase": "The name stuck",
-              "meaning_ko": "그 이름이 그대로 자리잡았다"
+              "phrase": "locked away from",
+              "meaning_ko": "~로부터 잠겨있던"
             },
             {
-              "phrase": "held an iron grip on",
-              "meaning_ko": "~를 철권으로 쥐고 있었다"
+              "phrase": "What made this revolutionary was",
+              "meaning_ko": "이것을 혁명적으로 만든 것은"
             },
             {
-              "phrase": "refused to play that game",
-              "meaning_ko": "그 게임에 동참하기를 거부했다"
+              "phrase": "by 1500",
+              "meaning_ko": "1500년 무렵에는"
             },
             {
-              "phrase": "bypassed the Salon entirely",
-              "meaning_ko": "살롱을 완전히 우회했다"
+              "phrase": "build on one another's work",
+              "meaning_ko": "서로의 작업 위에 쌓아 올리다"
             },
             {
-              "phrase": "It was a quiet rebellion against",
-              "meaning_ko": "그것은 ~에 대한 조용한 반란이었다"
+              "phrase": "laid the foundation for",
+              "meaning_ko": "~의 토대를 마련했다"
             }
-          ]
+          ],
+          "word_count": 265,
+          "estimated_read_seconds": 132
         },
         "C1": {
-          "title": "Why impressionism emerged",
-          "body": "Picture a small, disgruntled crowd gathered in front of a hazy seascape in a Paris exhibition in 1874. The painting was Claude Monet's Impression, Sunrise, and a critic, hunting for a clever insult, mocked the group as nothing more than impressionists. The label, intended to wound, became the banner of one of the most consequential movements in the history of European art. To understand why Impressionism crystallized precisely when it did, one has to look beyond aesthetics and consider the broader transformation of nineteenth-century France. Paris was in the middle of Baron Haussmann's radical redesign, its medieval lanes replaced by sweeping boulevards, gas-lit cafés, and glittering shop windows. Railways had collapsed the distance between city and countryside, while the emergence of photography quietly destabilized painting's traditional claim to representational truth. If a camera could fix a likeness in seconds, what was a painter actually for? A circle of young artists, among them Monet, Renoir, Pissarro, Sisley, Morisot, and Degas, answered that question by turning their gaze toward the texture of contemporary life. They abandoned mythological tableaux in favor of dancers, laundresses, weekend rowers, and the trembling reflections on the Seine. The Académie's Salon, with its taste for polished historical pieces, repeatedly rejected their work, so they staged their own independent exhibitions, an act of institutional defiance whose significance is easy to overlook today. Technological change quietly accelerated their experiments. Industrially produced pigments in collapsible tubes liberated painters from the studio and let them chase shifting light in real time, which is precisely what Impressionism set out to capture. Their broken, vibrating brushwork, dismissed by early critics as unfinished, was in fact a careful attempt to render the way the eye truly experiences a sunlit moment, full of flicker and imprecision. In retrospect, Impressionism was less a single style than a reorientation of priorities. It insisted that fleeting sensation was a legitimate subject, that ordinary modern life deserved monumental treatment, and that artists, not institutions, should decide what counted as art. Almost every subsequent movement, from Post-Impressionism through Cubism and on into the bold experiments of early twentieth-century abstraction, would build directly on that quiet but transformative claim.",
-          "word_count": 357,
-          "estimated_read_seconds": 178,
+          "title": "How the printing press changed the world",
+          "body": "Few inventions in human history have produced such a sweeping transformation in such a short time as the printing press. To appreciate just how radical the change was, it helps to remember the world it replaced. Throughout the medieval period in Europe, books were luxury objects, painstakingly copied by hand in monastic scriptoria, often illuminated with delicate paintings, and stored under lock and key. Literacy rates among the general population were vanishingly small, and the production of new knowledge was bottlenecked by sheer physical labor. Around 1440, Johannes Gutenberg of Mainz brought together several existing techniques, including movable metal type, oil-based ink, and a screw-driven press adapted from winemaking, and arrived at a system whose productivity dwarfed everything that came before it. The economic implications were profound almost immediately. The cost of producing a book fell by roughly two orders of magnitude over the following decades, and historians estimate that more books were produced in the fifty years after Gutenberg than in the entire previous millennium of European history. Cheap, identical copies meant that ideas could now travel without being distorted by individual scribes, which had enormous consequences for science. Researchers could finally read the same diagrams, refer to the same page numbers, and build cumulatively on shared evidence, a precondition for what we now call the Scientific Revolution. Politically, the press undermined the monopoly that the Church and aristocracy had long held over information. Martin Luther's Ninety-Five Theses circulated across Europe within weeks, sparking the Reformation, and pamphlets eventually became a central tool of every political movement from the English Civil War to the American and French Revolutions. Culturally, the standardization of texts helped consolidate national vernacular languages, gradually displacing Latin as the universal language of learning, which in turn nurtured the sense of shared identity on which modern nation-states would later be built. There were costs as well as benefits. The same printing networks that spread reformist ideas also distributed propaganda, conspiracy theories, and accusations of witchcraft on an unprecedented scale. In retrospect, the printing press did not merely make existing knowledge cheaper to distribute; it changed who was allowed to participate in public conversation, and it set the basic pattern of every later information revolution, from the telegraph to the internet.",
           "vocab": [
             {
-              "word": "consequential",
-              "pos": "adjective",
-              "meaning_ko": "지대한 영향을 미치는, 중요한"
+              "word": "scriptoria",
+              "pos": "noun",
+              "meaning_ko": "필사실(중세 수도원의)"
             },
             {
-              "word": "destabilized",
+              "word": "bottlenecked",
               "pos": "verb",
-              "meaning_ko": "불안정하게 만들었다"
+              "meaning_ko": "병목으로 제한된"
             },
             {
-              "word": "tableaux",
+              "word": "monopoly",
               "pos": "noun",
-              "meaning_ko": "(회화의) 정경, 타블로"
+              "meaning_ko": "독점"
             },
             {
-              "word": "reorientation",
-              "pos": "noun",
-              "meaning_ko": "방향 재설정, 재정립"
+              "word": "vernacular",
+              "pos": "adjective",
+              "meaning_ko": "토속어의, 자국어의"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "intended to wound",
-              "meaning_ko": "상처를 주려는 의도였던"
+              "phrase": "such a sweeping transformation",
+              "meaning_ko": "그토록 광범위한 변화"
             },
             {
-              "phrase": "one has to look beyond aesthetics",
-              "meaning_ko": "미학을 넘어서 봐야 한다"
+              "phrase": "dwarfed everything that came before it",
+              "meaning_ko": "그 이전의 모든 것을 무색하게 만들었다"
             },
             {
-              "phrase": "collapsed the distance",
-              "meaning_ko": "거리를 좁혔다"
+              "phrase": "two orders of magnitude",
+              "meaning_ko": "100배(자릿수 두 단계)"
             },
             {
-              "phrase": "easy to overlook today",
-              "meaning_ko": "오늘날에는 간과하기 쉬운"
+              "phrase": "build cumulatively on shared evidence",
+              "meaning_ko": "공유된 증거 위에 누적적으로 쌓아 올리다"
             },
             {
               "phrase": "In retrospect",
               "meaning_ko": "돌이켜 보면"
             },
             {
-              "phrase": "less a single style than",
-              "meaning_ko": "단일한 양식이라기보다는"
+              "phrase": "set the basic pattern of every later",
+              "meaning_ko": "이후의 모든 ~의 기본 패턴을 정립했다"
             }
-          ]
+          ],
+          "word_count": 374,
+          "estimated_read_seconds": 187
         }
       }
     },
     {
       "topic_id": "2026-05-30-cs_concepts-01",
       "category": "cs_concepts",
-      "title_ko": "B-tree란 무엇인가",
+      "title_ko": "재귀(Recursion)는 어떻게 동작하는가",
       "source_url": null,
       "source_name": "Generated · CS 개념",
       "image_url": null,
       "levels": {
         "A2": {
-          "title": "What is a B-tree",
-          "body": "Have you ever opened a huge book and used the table of contents to jump to a chapter? A B-tree is something like that, but for data on a computer. Imagine you have one million names and you need to find one quickly. Looking at them one by one would be far too slow. A B-tree organizes the names into a small number of big pages. Each page tells you which page to check next. After only a few jumps, you arrive at the right place. Databases love B-trees because hard drives are slow, and big jumps save a lot of time.",
-          "word_count": 102,
-          "estimated_read_seconds": 51,
+          "title": "How recursion works",
+          "body": "Recursion is a special idea in programming. It means a function that calls itself. That sounds strange, but it is useful for some problems. Imagine you have a big box, and inside it there are smaller boxes. To open them all, you open one box, then do the same thing with the box inside. Each step is the same job, just with a smaller box. A recursive function works in the same way. It also needs a stop rule. Without a stop rule, it would never end and the program would crash. Many tasks like counting, searching, and walking through a tree use this idea.",
           "vocab": [
             {
-              "word": "organizes",
+              "word": "function",
+              "pos": "noun",
+              "meaning_ko": "함수"
+            },
+            {
+              "word": "useful",
+              "pos": "adjective",
+              "meaning_ko": "유용한"
+            },
+            {
+              "word": "crash",
               "pos": "verb",
-              "meaning_ko": "정리하다, 구성하다"
+              "meaning_ko": "충돌하다, 다운되다"
             },
             {
-              "word": "pages",
+              "word": "tree",
               "pos": "noun",
-              "meaning_ko": "(저장의) 페이지"
-            },
-            {
-              "word": "jumps",
-              "pos": "noun",
-              "meaning_ko": "점프, 이동"
-            },
-            {
-              "word": "databases",
-              "pos": "noun",
-              "meaning_ko": "데이터베이스"
+              "meaning_ko": "트리 (자료구조)"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "Have you ever opened",
-              "meaning_ko": "~을 열어본 적 있나요"
+              "phrase": "calls itself",
+              "meaning_ko": "스스로를 호출하다"
             },
             {
-              "phrase": "something like that",
-              "meaning_ko": "그것과 비슷한 무언가"
+              "phrase": "That sounds strange",
+              "meaning_ko": "이상하게 들린다"
             },
             {
-              "phrase": "one by one",
-              "meaning_ko": "하나씩 하나씩"
+              "phrase": "Imagine you have",
+              "meaning_ko": "~을 가지고 있다고 상상해 보세요"
             },
             {
-              "phrase": "After only a few jumps",
-              "meaning_ko": "단 몇 번의 점프만으로"
+              "phrase": "the same job",
+              "meaning_ko": "같은 일"
             },
             {
-              "phrase": "love B-trees because",
-              "meaning_ko": "B-tree를 좋아한다, 왜냐하면"
+              "phrase": "a stop rule",
+              "meaning_ko": "멈춤 규칙"
             },
             {
-              "phrase": "save a lot of time",
-              "meaning_ko": "많은 시간을 절약한다"
+              "phrase": "in the same way",
+              "meaning_ko": "같은 방식으로"
             }
-          ]
+          ],
+          "word_count": 105,
+          "estimated_read_seconds": 52
         },
         "B1": {
-          "title": "What is a B-tree",
-          "body": "Why do almost all databases use something called a B-tree under the hood? The answer comes down to how disks actually work. Reading from a disk is hundreds of times slower than reading from memory, but each read brings back a large chunk of data at once. A B-tree is designed to make the most of that fact. It is a balanced tree where every node holds many keys, not just one or two. Because each node is wide and full, the tree stays very shallow even when it stores millions of rows. Searching becomes a small number of disk reads instead of dozens. Inserts and deletes still work in roughly logarithmic time, since the tree rebalances itself by splitting full nodes or merging empty ones. The result is a data structure that behaves well at every size, supports range queries naturally, and keeps performance predictable. That is exactly what a database needs. So when you create an index in PostgreSQL or MySQL, you are almost certainly building a B-tree behind the scenes.",
-          "word_count": 173,
-          "estimated_read_seconds": 86,
+          "title": "How recursion works",
+          "body": "Recursion is a programming technique where a function calls itself to solve a smaller version of the same problem. It can feel a little strange at first, because it seems like the function never finishes. But the trick is that every recursive function has two parts. First, there is a base case, which tells the function when to stop. Second, there is a recursive case, which calls the same function with a smaller input. A classic example is calculating factorials. To find the factorial of five, the function multiplies five by the factorial of four, and the factorial of four multiplies four by the factorial of three, and so on. Each call waits for its smaller call to finish, and the answers travel back up the chain. If you forget the base case, the function will keep calling itself until your computer runs out of memory. Used carefully, recursion can make complex problems much shorter and easier to read.",
           "vocab": [
             {
-              "word": "shallow",
+              "word": "technique",
+              "pos": "noun",
+              "meaning_ko": "기법, 기술"
+            },
+            {
+              "word": "factorial",
+              "pos": "noun",
+              "meaning_ko": "팩토리얼, 계승"
+            },
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "메모리"
+            },
+            {
+              "word": "complex",
               "pos": "adjective",
-              "meaning_ko": "얕은 (트리 깊이가 낮은)"
+              "meaning_ko": "복잡한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "at first",
+              "meaning_ko": "처음에는"
+            },
+            {
+              "phrase": "the base case",
+              "meaning_ko": "기저 사례, 종료 조건"
+            },
+            {
+              "phrase": "and so on",
+              "meaning_ko": "기타 등등, 계속해서"
+            },
+            {
+              "phrase": "back up the chain",
+              "meaning_ko": "호출 사슬을 따라 거슬러 올라가며"
+            },
+            {
+              "phrase": "runs out of memory",
+              "meaning_ko": "메모리가 부족해진다"
+            },
+            {
+              "phrase": "Used carefully",
+              "meaning_ko": "조심해서 쓰면"
+            }
+          ],
+          "word_count": 159,
+          "estimated_read_seconds": 80
+        },
+        "B2": {
+          "title": "How recursion works",
+          "body": "Recursion is one of those programming ideas that looks almost magical at first glance, but becomes much clearer once you understand what is happening behind the scenes. At its core, a recursive function is simply a function that solves a problem by calling itself on a smaller version of that same problem. Every well-written recursive function has two essential parts. The base case is the simplest version of the problem, the one the function can answer directly without any further calls. The recursive case breaks the bigger problem into a smaller one and delegates that smaller piece to another call of the same function. Behind the scenes, the computer uses something called the call stack. Every time a function is called, the computer pushes a new frame onto the stack with the local variables and the current position. When the function returns, that frame is popped off, and execution continues where the previous call left off. Recursion is a natural fit for problems with a recursive structure, like traversing trees, navigating folders, or implementing divide-and-conquer algorithms such as merge sort. It also leads to remarkably short code: a binary tree traversal that would take dozens of lines with explicit loops often fits in three or four lines when written recursively. However, if you forget the base case, the stack keeps growing until you hit the dreaded stack overflow error. Many languages also offer iterative alternatives, and for very deep problems an explicit loop with a stack can be more memory-friendly. Still, when the structure of the problem matches, recursion often produces code that is shorter and closer to how we would describe the solution in words.",
+          "vocab": [
+            {
+              "word": "delegate",
+              "pos": "verb",
+              "meaning_ko": "위임하다, 맡기다"
+            },
+            {
+              "word": "traverse",
+              "pos": "verb",
+              "meaning_ko": "순회하다"
+            },
+            {
+              "word": "iterative",
+              "pos": "adjective",
+              "meaning_ko": "반복적인 (루프 기반의)"
+            },
+            {
+              "word": "overflow",
+              "pos": "noun",
+              "meaning_ko": "넘침, 오버플로우"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "looks almost magical at first glance",
+              "meaning_ko": "처음 보면 마치 마법 같다"
+            },
+            {
+              "phrase": "behind the scenes",
+              "meaning_ko": "내부적으로, 보이지 않는 곳에서"
+            },
+            {
+              "phrase": "a natural fit for",
+              "meaning_ko": "~에 자연스럽게 맞는"
+            },
+            {
+              "phrase": "the dreaded stack overflow",
+              "meaning_ko": "악명 높은 스택 오버플로우"
+            },
+            {
+              "phrase": "more memory-friendly",
+              "meaning_ko": "메모리 측면에서 더 효율적인"
+            },
+            {
+              "phrase": "closer to how we would describe",
+              "meaning_ko": "우리가 설명하는 방식에 더 가까운"
+            }
+          ],
+          "word_count": 276,
+          "estimated_read_seconds": 138
+        },
+        "C1": {
+          "title": "How recursion works",
+          "body": "Few concepts divide beginners and experienced developers as sharply as recursion. To a newcomer it can feel almost circular, while to an experienced programmer it is often the most natural way to express a certain class of problems. At its heart, a recursive function is one that defines its solution in terms of itself, but always on a strictly smaller input that is closer to a known base case. Two ingredients are non-negotiable. The base case anchors the recursion, providing a directly computable answer for the simplest input, and the recursive case must make measurable progress toward that base case. Skip either ingredient and you have invited an infinite chain of calls that will eventually exhaust your runtime. What happens at the machine level is worth understanding. Every function call allocates a stack frame containing parameters, local variables, and the return address. When a function calls itself, a new frame is layered on top of the old one, so the call stack grows in lockstep with recursion depth. When each call returns, its frame is popped and control resumes precisely where it left off, allowing the partial results to ripple back up the chain. This elegant mechanism comes with a real cost. Deep recursion can blow the stack, and in languages without tail-call optimization, even logically tail-recursive functions consume linear stack space. That is why divide-and-conquer algorithms like quicksort or merge sort, recursive descent parsers, and traversals over tree and graph structures benefit so much from recursion, while problems that are naturally iterative are usually better written as loops. There is also a subtler performance concern. Naive recursive solutions to problems with overlapping subproblems, such as a textbook Fibonacci, can be exponentially slow, which is exactly why techniques like memoisation and dynamic programming were invented. Functional languages take recursion further still, often using it as the primary control structure and relying on compiler optimizations to keep the cost manageable. In the end, mastering recursion is less about memorizing patterns than about learning to see problems through a particular lens: ask what the smallest instance looks like, ask how a larger instance can be reduced to a smaller one, and trust the function to handle the rest.",
+          "vocab": [
+            {
+              "word": "anchor",
+              "pos": "verb",
+              "meaning_ko": "고정시키다, 닻을 내리다"
+            },
+            {
+              "word": "non-negotiable",
+              "pos": "adjective",
+              "meaning_ko": "타협할 수 없는, 필수적인"
+            },
+            {
+              "word": "frame",
+              "pos": "noun",
+              "meaning_ko": "(스택) 프레임"
+            },
+            {
+              "word": "lens",
+              "pos": "noun",
+              "meaning_ko": "렌즈, 관점"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "divide beginners and experienced developers",
+              "meaning_ko": "초보자와 숙련 개발자를 가른다"
+            },
+            {
+              "phrase": "in terms of itself",
+              "meaning_ko": "자기 자신을 이용해서"
+            },
+            {
+              "phrase": "in lockstep with",
+              "meaning_ko": "~와 보조를 맞춰"
+            },
+            {
+              "phrase": "ripple back up the chain",
+              "meaning_ko": "호출 사슬을 따라 거슬러 전파되다"
+            },
+            {
+              "phrase": "blow the stack",
+              "meaning_ko": "스택을 터뜨리다"
+            },
+            {
+              "phrase": "through a particular lens",
+              "meaning_ko": "특정 관점으로"
+            }
+          ],
+          "word_count": 366,
+          "estimated_read_seconds": 183
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-30-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "데이터베이스 인덱스는 어떻게 쿼리를 빠르게 만드는가",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How database indexes speed up queries",
+          "body": "Imagine a very long book with no table of contents. If you want to find one word, you have to read every page. That is very slow. Now imagine the same book has a list at the end with all the important words and the page numbers. You can jump straight to the right page. Much faster, right? A database index works in the same way. Without an index, the database checks every single row to find what you want. With an index, it knows exactly where to look. That is why a good index can make a slow query feel almost instant.",
+          "vocab": [
+            {
+              "word": "index",
+              "pos": "noun",
+              "meaning_ko": "색인, 인덱스"
+            },
+            {
+              "word": "row",
+              "pos": "noun",
+              "meaning_ko": "행, 한 줄의 데이터"
+            },
+            {
+              "word": "query",
+              "pos": "noun",
+              "meaning_ko": "쿼리, 데이터 요청"
+            },
+            {
+              "word": "instant",
+              "pos": "adjective",
+              "meaning_ko": "즉각적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "table of contents",
+              "meaning_ko": "목차"
+            },
+            {
+              "phrase": "read every page",
+              "meaning_ko": "모든 페이지를 읽다"
+            },
+            {
+              "phrase": "jump straight to",
+              "meaning_ko": "곧장 ~로 건너뛰다"
+            },
+            {
+              "phrase": "Much faster, right?",
+              "meaning_ko": "훨씬 빠르죠?"
+            },
+            {
+              "phrase": "in the same way",
+              "meaning_ko": "같은 방식으로"
+            },
+            {
+              "phrase": "knows exactly where to look",
+              "meaning_ko": "정확히 어디를 봐야 할지 안다"
+            }
+          ],
+          "word_count": 103,
+          "estimated_read_seconds": 52
+        },
+        "B1": {
+          "title": "How database indexes speed up queries",
+          "body": "When a database has only a few rows, every query is fast. But once a table grows to millions of rows, finding the right one can become surprisingly slow. Without help, the database has to read every row from beginning to end. Engineers call this a full table scan, and it is the main reason your app suddenly feels sluggish. An index is a separate, well-organized data structure that lives next to the table. It usually stores the values of one or more columns together with pointers back to the actual rows. Most databases use a B-tree for this, which means the index is sorted and balanced. When you ask for a user with a specific email, the database walks down the B-tree, skipping huge parts of the data, and lands on the right pointer in just a few steps. Indexes are not free, though. They take up extra disk space, and they have to be updated every time you insert, update, or delete a row. The art of indexing is choosing the few columns where the speed gain is worth the cost.",
+          "vocab": [
+            {
+              "word": "sluggish",
+              "pos": "adjective",
+              "meaning_ko": "굼뜬, 느린"
+            },
+            {
+              "word": "pointer",
+              "pos": "noun",
+              "meaning_ko": "포인터"
             },
             {
               "word": "balanced",
@@ -533,602 +762,373 @@
               "meaning_ko": "균형 잡힌"
             },
             {
+              "word": "column",
+              "pos": "noun",
+              "meaning_ko": "열, 컬럼"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "from beginning to end",
+              "meaning_ko": "처음부터 끝까지"
+            },
+            {
+              "phrase": "the main reason",
+              "meaning_ko": "주된 이유"
+            },
+            {
+              "phrase": "walks down the B-tree",
+              "meaning_ko": "B-트리를 따라 내려가다"
+            },
+            {
+              "phrase": "in just a few steps",
+              "meaning_ko": "단 몇 단계 만에"
+            },
+            {
+              "phrase": "not free",
+              "meaning_ko": "공짜가 아닌, 비용이 든다"
+            },
+            {
+              "phrase": "the art of indexing",
+              "meaning_ko": "인덱싱의 기예"
+            }
+          ],
+          "word_count": 183,
+          "estimated_read_seconds": 92
+        },
+        "B2": {
+          "title": "How database indexes speed up queries",
+          "body": "If you have ever watched a query slow down as your data grew, you have probably already met the main reason for adding indexes. Without any helping structure, a relational database answers a question like 'find the user with this email' by reading the entire users table from top to bottom. That is called a full table scan, and for a small table it is harmless, but for a table with tens of millions of rows it can take seconds, which is an eternity for a user waiting on a screen. An index is essentially a smaller, carefully ordered copy of selected columns, kept in sync with the main table. Most relational databases implement this with a B-tree, a balanced tree structure that lets the engine find any value in roughly log n steps instead of n. When a query arrives, the planner decides whether the index can help, walks down the tree until it lands on the matching key, and then jumps to the actual row using a pointer stored in the leaf. Indexes also accelerate range queries, sorting, and certain join strategies, which is why a single well-chosen index can transform the performance of an entire application. The trade-off, of course, is that indexes are not free. They occupy extra disk space, and they have to be maintained on every insert, update, or delete, which slows write traffic and can amplify lock contention. Good database design is therefore not about adding as many indexes as possible, but about choosing the few that match your real query patterns and removing the ones nobody uses.",
+          "vocab": [
+            {
+              "word": "planner",
+              "pos": "noun",
+              "meaning_ko": "쿼리 플래너, 실행 계획기"
+            },
+            {
               "word": "logarithmic",
               "pos": "adjective",
-              "meaning_ko": "로그적인"
+              "meaning_ko": "로그(시간) 복잡도의"
             },
             {
-              "word": "rebalances",
-              "pos": "verb",
-              "meaning_ko": "재균형을 맞추다"
+              "word": "trade-off",
+              "pos": "noun",
+              "meaning_ko": "트레이드오프, 절충"
+            },
+            {
+              "word": "contention",
+              "pos": "noun",
+              "meaning_ko": "경합"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "under the hood",
-              "meaning_ko": "내부적으로, 보이지 않는 곳에서"
+              "phrase": "an eternity for a user",
+              "meaning_ko": "사용자에게는 영원처럼 느껴지는 시간"
             },
             {
-              "phrase": "comes down to",
-              "meaning_ko": "결국 ~로 귀결된다"
+              "phrase": "kept in sync with",
+              "meaning_ko": "~와 동기화된 상태로 유지되는"
             },
             {
-              "phrase": "make the most of",
-              "meaning_ko": "~를 최대한 활용하다"
+              "phrase": "in roughly log n steps",
+              "meaning_ko": "대략 log n 단계 만에"
             },
             {
-              "phrase": "splitting full nodes or merging empty ones",
-              "meaning_ko": "꽉 찬 노드를 쪼개거나 빈 노드를 합치며"
+              "phrase": "transform the performance of an entire application",
+              "meaning_ko": "애플리케이션 전체의 성능을 바꿔놓다"
             },
             {
-              "phrase": "supports range queries naturally",
-              "meaning_ko": "범위 질의를 자연스럽게 지원한다"
+              "phrase": "The trade-off, of course, is",
+              "meaning_ko": "물론 트레이드오프는"
             },
             {
-              "phrase": "behind the scenes",
-              "meaning_ko": "보이지 않는 곳에서, 뒤에서"
-            }
-          ]
-        },
-        "B2": {
-          "title": "What is a B-tree",
-          "body": "If you have ever wondered why every major relational database, from PostgreSQL to SQLite, defaults to the same index type, the answer is the B-tree. To appreciate the design, it helps to remember a basic fact about hardware. Pulling a single byte off a spinning disk is dramatically slower than pulling that byte from memory, but the disk happily returns several kilobytes at a time once the read head is in position. A good on-disk data structure should therefore prefer wide nodes and few levels, rather than the deep, thin shapes of a classic binary search tree. The B-tree was invented in the early 1970s with exactly that hardware asymmetry in mind. Each node stores many sorted keys and many child pointers, often hundreds, sized to match a disk page. To find a value, you start at the root, do a quick binary search inside that node, and follow a single pointer to the next level. Because each step branches so widely, even a tree with a hundred million rows is typically only three or four levels deep, which translates into three or four disk reads at most. Insertions and deletions preserve balance through carefully designed split and merge operations, so the tree never gets lopsided. A small but important variant, the B-plus tree, links all the leaves together and keeps the actual data only at the bottom, which makes range scans extremely efficient. So when your query plan says index scan, you can picture a structure quietly designed around the physical reality of storage. It is a beautiful example of an algorithm shaped by its hardware.",
-          "word_count": 267,
-          "estimated_read_seconds": 134,
-          "vocab": [
-            {
-              "word": "asymmetry",
-              "pos": "noun",
-              "meaning_ko": "비대칭"
-            },
-            {
-              "word": "lopsided",
-              "pos": "adjective",
-              "meaning_ko": "한쪽으로 기울어진"
-            },
-            {
-              "word": "variant",
-              "pos": "noun",
-              "meaning_ko": "변형, 변종"
-            },
-            {
-              "word": "binary",
-              "pos": "adjective",
-              "meaning_ko": "이진의"
+              "phrase": "match your real query patterns",
+              "meaning_ko": "실제 쿼리 패턴에 맞춰서"
             }
           ],
-          "key_phrases": [
-            {
-              "phrase": "defaults to the same index type",
-              "meaning_ko": "동일한 인덱스 타입을 기본값으로 쓴다"
-            },
-            {
-              "phrase": "with exactly that hardware asymmetry in mind",
-              "meaning_ko": "바로 그 하드웨어 비대칭을 염두에 두고"
-            },
-            {
-              "phrase": "match a disk page",
-              "meaning_ko": "디스크 페이지에 맞춰진"
-            },
-            {
-              "phrase": "three or four levels deep",
-              "meaning_ko": "3~4단계 깊이의"
-            },
-            {
-              "phrase": "extremely efficient",
-              "meaning_ko": "매우 효율적인"
-            },
-            {
-              "phrase": "shaped by its hardware",
-              "meaning_ko": "하드웨어에 의해 형성된"
-            }
-          ]
+          "word_count": 265,
+          "estimated_read_seconds": 132
         },
         "C1": {
-          "title": "What is a B-tree",
-          "body": "Few data structures sit at the heart of so much practical software as the humble B-tree. Open the source of PostgreSQL, MySQL's InnoDB, SQLite, or virtually any traditional relational database, and you will find a B-tree, or its close relative the B-plus tree, quietly supporting nearly every index. To understand why, it helps to set algorithmic intuition aside for a moment and think about hardware. A spinning disk, and to a lesser extent a solid state drive, has high latency for any read but returns a large block of data per access. Memory, meanwhile, is fast but limited. Any on-disk data structure that ignores this asymmetry will struggle, no matter how elegant it looks on paper. Rudolf Bayer and Edward McCreight introduced the B-tree in 1972 with precisely this asymmetry in mind. A B-tree is a perfectly balanced search tree in which each node stores many sorted keys and many child pointers, often hundreds. The node size is deliberately matched to the underlying storage block, so a single disk read fetches a full node's worth of routing information. As a consequence, the tree's height grows logarithmically not in some abstract base two sense, but in base several hundred, meaning that even datasets of hundreds of millions of rows fit comfortably in three or four levels. Lookups, insertions, and deletions all remain logarithmic, and the tree maintains balance through carefully orchestrated split and merge operations whenever a node becomes too full or too empty. The B-plus tree, the variant actually used in most databases, pushes all real data into the leaves and links those leaves into a sorted list, which makes range scans trivially fast and turns ordered iteration into a simple pointer walk. None of this prevents alternative structures from competing in specialized roles. Log-structured merge trees, for instance, win when write throughput dominates, which is why systems like Cassandra and RocksDB prefer them. But for general-purpose, read-heavy, range-friendly workloads, the B-tree's combination of predictability, low height, and disk-aware design remains genuinely hard to beat. It is one of the cleanest examples we have of an algorithm that earns its place not by theoretical complexity alone, but by being deeply respectful of the machine it actually runs on.",
-          "word_count": 368,
-          "estimated_read_seconds": 184,
+          "title": "How database indexes speed up queries",
+          "body": "Indexing sits at the heart of relational database performance, and yet it is one of the areas where intuition tends to fail engineers most often. The fundamental problem an index solves is straightforward. Without any auxiliary structure, the engine answers a predicate like 'where email equals x' by performing a full table scan, an operation whose cost grows linearly with the size of the table. When your table holds a few thousand rows that is invisible, but once you reach tens or hundreds of millions of rows, the linear scan becomes the dominant cost of nearly every read. An index is, conceptually, a separate sorted data structure that maps indexed column values to pointers, called row identifiers or tuple IDs, that locate the underlying row in the heap. In most relational systems, the structure of choice is the B-tree, which guarantees logarithmic time access by keeping the tree shallow and balanced, while still supporting efficient range scans because the leaves are linked in sorted order. When the query planner sees a candidate index, it estimates the cost of using it against the cost of a sequential scan, taking into account selectivity, the expected number of matching rows, and the additional cost of fetching from the heap. A highly selective predicate on a small table can sometimes still favor a sequential scan, which is why DBAs spend so much time looking at execution plans rather than guessing. Indexes also enable patterns beyond point lookups, including ordered iteration, index-only scans when all required columns are covered, and certain merge and hash join strategies. The cost side of the ledger is equally important. Every index multiplies write amplification, since the engine has to maintain the structure on every insert, update, and delete, and that maintenance can become a serious bottleneck under heavy write traffic, especially when combined with hot keys and concurrent transactions. Indexes also occupy non-trivial storage and can pollute the buffer cache if they are rarely used. Mature teams therefore treat indexes as a deliberately curated set rather than a defensive sprinkle, regularly auditing usage statistics, removing dead indexes, and considering more specialized structures like partial, expression, or BRIN indexes when the access pattern justifies the complexity.",
           "vocab": [
             {
-              "word": "asymmetry",
-              "pos": "noun",
-              "meaning_ko": "비대칭"
-            },
-            {
-              "word": "orchestrated",
-              "pos": "verb",
-              "meaning_ko": "조율된, 짜인"
-            },
-            {
-              "word": "throughput",
-              "pos": "noun",
-              "meaning_ko": "처리량"
-            },
-            {
-              "word": "predictability",
-              "pos": "noun",
-              "meaning_ko": "예측 가능성"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "sit at the heart of",
-              "meaning_ko": "~의 핵심에 자리하다"
-            },
-            {
-              "phrase": "set algorithmic intuition aside for a moment",
-              "meaning_ko": "잠시 알고리즘적 직관을 옆에 두고"
-            },
-            {
-              "phrase": "no matter how elegant it looks on paper",
-              "meaning_ko": "이론상 아무리 우아해 보여도"
-            },
-            {
-              "phrase": "As a consequence",
-              "meaning_ko": "그 결과로"
-            },
-            {
-              "phrase": "competing in specialized roles",
-              "meaning_ko": "특화된 역할에서 경쟁하는"
-            },
-            {
-              "phrase": "genuinely hard to beat",
-              "meaning_ko": "정말로 이기기 어려운"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "topic_id": "2026-05-30-backend_systems-01",
-      "category": "backend_systems",
-      "title_ko": "Rate limiting은 어떻게 동작하는가",
-      "source_url": null,
-      "source_name": "Generated · 백엔드 시스템",
-      "image_url": null,
-      "levels": {
-        "A2": {
-          "title": "How rate limiting works",
-          "body": "Imagine that a small shop suddenly has a thousand customers banging on the door at the same time. The shop cannot serve them all and will probably break. Online systems face the same problem every day. Rate limiting is the rule that says, this user can send only this many requests per minute. If they go over the limit, the server politely returns an error and asks them to slow down. It protects the system from sudden traffic, bots, and bugs in client code. It is a simple idea, but it keeps many large services alive every single day.",
-          "word_count": 99,
-          "estimated_read_seconds": 50,
-          "vocab": [
-            {
-              "word": "requests",
-              "pos": "noun",
-              "meaning_ko": "요청"
-            },
-            {
-              "word": "server",
-              "pos": "noun",
-              "meaning_ko": "서버"
-            },
-            {
-              "word": "traffic",
-              "pos": "noun",
-              "meaning_ko": "트래픽, 통신량"
-            },
-            {
-              "word": "bots",
-              "pos": "noun",
-              "meaning_ko": "봇, 자동화 프로그램"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "Imagine that",
-              "meaning_ko": "~라고 상상해 보라"
-            },
-            {
-              "phrase": "at the same time",
-              "meaning_ko": "동시에"
-            },
-            {
-              "phrase": "face the same problem",
-              "meaning_ko": "같은 문제를 마주한다"
-            },
-            {
-              "phrase": "asks them to slow down",
-              "meaning_ko": "속도를 늦춰 달라고 요청한다"
-            },
-            {
-              "phrase": "It is a simple idea, but",
-              "meaning_ko": "단순한 아이디어지만"
-            },
-            {
-              "phrase": "every single day",
-              "meaning_ko": "하루도 빠짐없이"
-            }
-          ]
-        },
-        "B1": {
-          "title": "How rate limiting works",
-          "body": "Why do almost all production APIs have some form of rate limit? Without one, a single misbehaving client, a buggy script, or an aggressive scraper can flood your servers and ruin the experience for everyone else. Rate limiting solves this by setting a cap on how often a given key, usually a user ID, an API key, or an IP address, is allowed to call you in a fixed window of time. The two most common approaches are the token bucket and the fixed window. Token bucket gives each user a bucket of tokens that refills at a steady rate. Each request takes one token, and when the bucket is empty, the user is throttled. Fixed window simply counts requests inside, say, each one-minute slot. Both are usually implemented in Redis because it is fast and shared across servers. When a user exceeds their limit, the API returns HTTP 429, often with a Retry-After header that says how long to wait. The goal is never to punish users, but to keep the system stable under unexpected load.",
-          "word_count": 177,
-          "estimated_read_seconds": 88,
-          "vocab": [
-            {
-              "word": "scraper",
-              "pos": "noun",
-              "meaning_ko": "스크래퍼 (수집 봇)"
-            },
-            {
-              "word": "throttled",
-              "pos": "verb",
-              "meaning_ko": "조절된, 차단된"
-            },
-            {
-              "word": "exceeds",
-              "pos": "verb",
-              "meaning_ko": "초과하다"
-            },
-            {
-              "word": "implemented",
-              "pos": "verb",
-              "meaning_ko": "구현된"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "have some form of rate limit",
-              "meaning_ko": "어떤 형태든 rate limit을 두고 있다"
-            },
-            {
-              "phrase": "setting a cap on",
-              "meaning_ko": "~에 상한선을 두는"
-            },
-            {
-              "phrase": "refills at a steady rate",
-              "meaning_ko": "일정한 속도로 다시 채워진다"
-            },
-            {
-              "phrase": "under unexpected load",
-              "meaning_ko": "예상치 못한 부하 하에서"
-            },
-            {
-              "phrase": "shared across servers",
-              "meaning_ko": "여러 서버에 걸쳐 공유되는"
-            },
-            {
-              "phrase": "The goal is never to punish",
-              "meaning_ko": "목표는 결코 처벌이 아니다"
-            }
-          ]
-        },
-        "B2": {
-          "title": "How rate limiting works",
-          "body": "If you have ever seen an HTTP 429 Too Many Requests response, you have met rate limiting in action. Behind that polite error is a small but important defense layer that keeps APIs from collapsing under their own popularity. The core idea is straightforward. You pick a key, typically a user ID, an API key, or a client IP, and you decide how many requests that key may issue in a given window. The interesting question is how to enforce that cleanly across many servers. The simplest approach, the fixed window counter, just keeps a count per key per minute. It is cheap, but it allows ugly bursts at the boundary, since a client can fire all of its quota at the end of one window and again at the start of the next. The sliding window log fixes that by recording exact request timestamps, but it is memory-hungry. Token bucket, the algorithm most large systems actually use, gives each key a bucket with a fixed capacity that refills at a steady rate. Every request removes a token, and when the bucket runs dry, the request is rejected, queued, or simply shed. Token bucket allows short bursts up to capacity while smoothing the long-term rate, which feels natural to real users. In practice, these counters live in Redis or a similar fast shared store, because the limiter must work consistently across many application servers. When a request is throttled, returning a clear 429 with a Retry-After header lets clients back off cleanly instead of hammering harder. Done well, rate limiting is invisible to good users and merciful to bad ones. It is one of the simplest and most consequential pieces of any public API.",
-          "word_count": 284,
-          "estimated_read_seconds": 142,
-          "vocab": [
-            {
-              "word": "quota",
-              "pos": "noun",
-              "meaning_ko": "할당량, 쿼터"
-            },
-            {
-              "word": "timestamps",
-              "pos": "noun",
-              "meaning_ko": "타임스탬프, 시각 기록"
-            },
-            {
-              "word": "shed",
-              "pos": "verb",
-              "meaning_ko": "버리다, 제거하다"
-            },
-            {
-              "word": "consistently",
-              "pos": "adverb",
-              "meaning_ko": "일관되게"
-            }
-          ],
-          "key_phrases": [
-            {
-              "phrase": "have met rate limiting in action",
-              "meaning_ko": "rate limiting이 실제로 동작하는 것을 본 셈이다"
-            },
-            {
-              "phrase": "across many servers",
-              "meaning_ko": "여러 서버에 걸쳐"
-            },
-            {
-              "phrase": "at the boundary",
-              "meaning_ko": "경계 지점에서"
-            },
-            {
-              "phrase": "feels natural to real users",
-              "meaning_ko": "실제 사용자에게 자연스럽게 느껴진다"
-            },
-            {
-              "phrase": "back off cleanly",
-              "meaning_ko": "깔끔하게 물러나다, 재시도 간격을 두다"
-            },
-            {
-              "phrase": "invisible to good users and merciful to bad ones",
-              "meaning_ko": "선량한 사용자에게는 보이지 않고 악성에게는 관대한"
-            }
-          ]
-        },
-        "C1": {
-          "title": "How rate limiting works",
-          "body": "Few patterns in backend engineering deliver as much stability per line of code as rate limiting. A well-designed limiter quietly protects an API from buggy clients, runaway scripts, malicious traffic, and the inevitable thundering herd that follows every viral moment, while remaining nearly invisible to the well-behaved majority. The idea is deceptively simple. You choose a key, often a user ID, an API key, or a client IP, and you enforce a maximum request rate per key over some window of time. The engineering challenge lies in choosing an algorithm whose behavior under load actually matches user expectations, and in implementing it efficiently across a fleet of servers. The fixed window counter is the most naive approach. It buckets time into one-minute or one-second slots and increments a counter per key per slot. It is trivial to build, but its weakness is the boundary effect. A client can fire its entire quota in the final second of one window and again in the first second of the next, effectively doubling its rate at exactly the wrong moment. The sliding window log eliminates this artifact by storing the timestamp of each request, but it pays for that precision with memory. Token bucket, the algorithm most production systems converge on, strikes a more graceful balance. Each key owns a virtual bucket with a fixed capacity, refilled at a constant rate. A request consumes one token, and when the bucket is empty, the request is rejected, delayed, or shed. Crucially, token bucket allows brief bursts up to the bucket's capacity while strictly bounding the long-term rate, which mirrors how humans and reasonable clients actually behave. The state, whether a counter or a token count, is almost always kept in a fast in-memory store such as Redis, accessed through atomic scripts to avoid race conditions across multiple application servers. When a request is throttled, the limiter should respond with a clear HTTP 429 Too Many Requests, along with headers like Retry-After and ideally X-RateLimit-Remaining and X-RateLimit-Reset, so well-behaved clients can back off gracefully rather than retry blindly. The deepest lesson here is that rate limiting is less a defense against attackers than a contract with your callers. It communicates, in machine-readable form, how generous the system can afford to be, and gently teaches every client to live within that envelope.",
-          "word_count": 386,
-          "estimated_read_seconds": 193,
-          "vocab": [
-            {
-              "word": "herd",
-              "pos": "noun",
-              "meaning_ko": "무리, 떼"
-            },
-            {
-              "word": "naive",
+              "word": "auxiliary",
               "pos": "adjective",
-              "meaning_ko": "순진한, 단순한"
+              "meaning_ko": "보조의"
             },
             {
-              "word": "atomic",
-              "pos": "adjective",
-              "meaning_ko": "원자적인 (분할 불가능한)"
-            },
-            {
-              "word": "envelope",
+              "word": "selectivity",
               "pos": "noun",
-              "meaning_ko": "한계, 범위"
+              "meaning_ko": "선택도(인덱스 효율 지표)"
+            },
+            {
+              "word": "amplification",
+              "pos": "noun",
+              "meaning_ko": "증폭"
+            },
+            {
+              "word": "curated",
+              "pos": "adjective",
+              "meaning_ko": "엄선된, 큐레이션된"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "deliver as much stability per line of code",
-              "meaning_ko": "코드 한 줄당 그만큼의 안정성을 제공하다"
+              "phrase": "sits at the heart of",
+              "meaning_ko": "~의 핵심에 자리잡다"
             },
             {
-              "phrase": "thundering herd",
-              "meaning_ko": "썬더링 허드 (한꺼번에 몰려드는 요청 폭주)"
+              "phrase": "intuition tends to fail engineers",
+              "meaning_ko": "직관이 엔지니어들을 자주 배신한다"
             },
             {
-              "phrase": "deceptively simple",
-              "meaning_ko": "겉보기에는 단순한"
+              "phrase": "the dominant cost of",
+              "meaning_ko": "~의 지배적인 비용"
             },
             {
-              "phrase": "the boundary effect",
-              "meaning_ko": "경계 효과"
+              "phrase": "rather than guessing",
+              "meaning_ko": "추측하는 대신에"
             },
             {
-              "phrase": "strikes a more graceful balance",
-              "meaning_ko": "더 우아한 균형을 이룬다"
+              "phrase": "the cost side of the ledger",
+              "meaning_ko": "비용 쪽의 측면"
             },
             {
-              "phrase": "a contract with your callers",
-              "meaning_ko": "호출자와의 계약"
+              "phrase": "a defensive sprinkle",
+              "meaning_ko": "방어적으로 여기저기 뿌려대는 식의 접근"
             }
-          ]
+          ],
+          "word_count": 366,
+          "estimated_read_seconds": 183
         }
       }
     },
     {
       "topic_id": "2026-05-30-speaking-01",
       "category": "speaking",
-      "title_ko": "[IELTS P2] 당신에게 영향을 준 책에 대해 말해보세요",
+      "title_ko": "[IELTS P3] 기술은 사람들의 독서 방식을 어떻게 바꿨는가",
       "source_url": null,
-      "source_name": "Generated · IELTS Speaking Part 2",
+      "source_name": "Generated · IELTS Speaking Part 3",
       "image_url": null,
       "levels": {
         "A2": {
-          "title": "Describe a book that has influenced you",
-          "body": "OK, I want to talk about a book that really stayed with me. It is called Atomic Habits, by James Clear. I read it about two years ago. A friend gave it to me when I was feeling a bit lost about my goals. The book is not about big plans. It is mainly about small habits. The writer says that if you get one percent better every day, after a year you become much better. He gives many simple examples. For example, if you want to read more, just read one page a day. That sounds easy, and it actually works for me. After reading it, I started writing for ten minutes every morning. It is a small thing, but my writing has improved a lot. So I would say this book really changed how I think about progress. Big changes feel scary, but small ones feel possible.",
-          "word_count": 149,
-          "estimated_read_seconds": 74,
+          "title": "How has technology changed the way people read books?",
+          "body": "I think technology has changed reading a lot. In the past, people read paper books only. Now many people read on their phone or a tablet. It is easier to carry. You can have many books in one small device. Also, you can read in bed at night because the screen has light. But some people still love paper books. They like the smell and the feeling. So I would say technology gave us more choice.",
           "vocab": [
             {
-              "word": "lost",
-              "pos": "adjective",
-              "meaning_ko": "(방향을) 잃은, 막막한"
-            },
-            {
-              "word": "habits",
+              "word": "tablet",
               "pos": "noun",
-              "meaning_ko": "습관"
+              "meaning_ko": "태블릿"
             },
             {
-              "word": "improved",
+              "word": "carry",
               "pos": "verb",
-              "meaning_ko": "개선되었다"
+              "meaning_ko": "들고 다니다"
             },
             {
-              "word": "progress",
+              "word": "device",
               "pos": "noun",
-              "meaning_ko": "발전, 진전"
+              "meaning_ko": "기기"
+            },
+            {
+              "word": "feeling",
+              "pos": "noun",
+              "meaning_ko": "느낌"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "OK, I want to talk about",
-              "meaning_ko": "음, ~에 대해 이야기하고 싶다 (자연스러운 서두)"
+              "phrase": "I think",
+              "meaning_ko": "내 생각에는"
             },
             {
-              "phrase": "a bit lost",
-              "meaning_ko": "약간 막막한"
+              "phrase": "In the past",
+              "meaning_ko": "과거에는"
             },
             {
-              "phrase": "It is mainly about",
-              "meaning_ko": "주로 ~에 관한 것이다"
+              "phrase": "in one small device",
+              "meaning_ko": "작은 기기 하나에"
             },
             {
-              "phrase": "For example",
-              "meaning_ko": "예를 들어"
-            },
-            {
-              "phrase": "it actually works for me",
-              "meaning_ko": "실제로 나에게 효과가 있다"
+              "phrase": "But some people still",
+              "meaning_ko": "하지만 어떤 사람들은 여전히"
             },
             {
               "phrase": "I would say",
-              "meaning_ko": "내 생각엔, ~라고 말하고 싶다"
+              "meaning_ko": "~라고 말하고 싶다"
+            },
+            {
+              "phrase": "more choice",
+              "meaning_ko": "더 많은 선택"
             }
-          ]
+          ],
+          "word_count": 76,
+          "estimated_read_seconds": 38
         },
         "B1": {
-          "title": "Describe a book that has influenced you",
-          "body": "Actually, the book I want to talk about is Atomic Habits by James Clear, and it is a book that genuinely changed how I think about everyday life. I first read it about two years ago, when I was feeling stuck. I had big ambitions but very little discipline, and a close friend recommended it to me, almost like a small intervention. The book is not really about productivity, although it is shelved that way. It is about how identity is built out of tiny, repeated actions. Clear argues that you do not rise to the level of your goals, you fall to the level of your systems, and that one percent improvements compound powerfully over time. The examples are very concrete. He talks about leaving a guitar in the middle of the room so you actually practice, or wearing your running shoes the night before to make a morning run easier. What influenced me most was the idea of identity-based habits. Instead of saying I want to write a book, I tried saying I am the kind of person who writes a little every day. To be honest, that shift sounds small, but it has stuck. I now write for fifteen minutes every morning. So yes, this is the book that really shaped how I think about long-term change.",
-          "word_count": 220,
-          "estimated_read_seconds": 110,
+          "title": "How has technology changed the way people read books?",
+          "body": "To be honest, I think technology has changed reading in some pretty big ways. A generation ago, if you wanted to read a book, you basically had to go to a bookshop or a library and bring a paper book home. Now, with a phone or an e-reader, you can buy and start a book in less than a minute, and you can carry hundreds of them in your bag. Audiobooks are another thing. A lot of my friends listen to books while commuting or doing the dishes, which they would never have done before. On the other hand, I do feel that reading on a phone is more distracting, because notifications keep pulling you out of the story. So I would say technology has made reading more flexible, but maybe also a bit shallower for some people.",
           "vocab": [
             {
-              "word": "discipline",
+              "word": "e-reader",
               "pos": "noun",
-              "meaning_ko": "자기 통제, 규율"
+              "meaning_ko": "전자책 리더기"
             },
             {
-              "word": "intervention",
-              "pos": "noun",
-              "meaning_ko": "개입"
-            },
-            {
-              "word": "identity",
-              "pos": "noun",
-              "meaning_ko": "정체성"
-            },
-            {
-              "word": "compound",
+              "word": "commute",
               "pos": "verb",
-              "meaning_ko": "복리로 쌓이다, 누적되다"
+              "meaning_ko": "통근하다"
+            },
+            {
+              "word": "distracting",
+              "pos": "adjective",
+              "meaning_ko": "주의를 흩뜨리는"
+            },
+            {
+              "word": "shallow",
+              "pos": "adjective",
+              "meaning_ko": "얕은, 피상적인"
             }
           ],
           "key_phrases": [
-            {
-              "phrase": "Actually, the book I want to talk about",
-              "meaning_ko": "사실, 이야기하고 싶은 책은"
-            },
-            {
-              "phrase": "almost like a small intervention",
-              "meaning_ko": "마치 작은 개입처럼"
-            },
-            {
-              "phrase": "you do not rise to the level of your goals",
-              "meaning_ko": "목표의 수준까지 올라가는 게 아니다"
-            },
-            {
-              "phrase": "What influenced me most was",
-              "meaning_ko": "가장 큰 영향을 준 것은"
-            },
             {
               "phrase": "To be honest",
               "meaning_ko": "솔직히 말하면"
             },
             {
-              "phrase": "So yes, this is the book that",
-              "meaning_ko": "그래서, 이 책이 바로"
+              "phrase": "A generation ago",
+              "meaning_ko": "한 세대 전에는"
+            },
+            {
+              "phrase": "in less than a minute",
+              "meaning_ko": "1분도 안 걸려서"
+            },
+            {
+              "phrase": "On the other hand",
+              "meaning_ko": "반면에"
+            },
+            {
+              "phrase": "pulling you out of the story",
+              "meaning_ko": "이야기 밖으로 끌어내다"
+            },
+            {
+              "phrase": "a bit shallower",
+              "meaning_ko": "조금 더 얕은"
             }
-          ]
+          ],
+          "word_count": 138,
+          "estimated_read_seconds": 69
         },
         "B2": {
-          "title": "Describe a book that has influenced you",
-          "body": "There is a book I find myself recommending to people almost every month, and that is Atomic Habits by James Clear. I first read it roughly two years ago, during a period when I felt I was working hard but going nowhere in particular. A friend, who could see this more clearly than I could, more or less handed it to me and told me to take it seriously. On the surface, it is a practical book about how to build good habits and break bad ones, but I think what makes it so popular is something deeper. Clear's central claim is that progress is far less about willpower or motivation than people imagine. It is about designing your environment and your identity so that the desired behaviour becomes the easiest, most obvious thing to do. He frames this with the famous one percent better every day idea, which sounds almost trivial until you do the maths and realise how dramatically small daily gains compound over a year. What I took away most strongly was the emphasis on identity. Instead of focusing on what I wanted to achieve, he encouraged readers to ask what kind of person they want to become, and then prove it with small, daily actions. That shift sounds subtle, but for me it has been quietly transformative. I went from telling myself I should exercise more, to thinking of myself as someone who simply does not skip a workout on weekdays. I write a little every morning, not because I am chasing a particular book, but because, well, that is who I am now. So this is the book I would describe as the one that has most influenced how I think about long-term change.",
-          "word_count": 289,
-          "estimated_read_seconds": 144,
+          "title": "How has technology changed the way people read books?",
+          "body": "I would say technology has changed reading in ways that are easy to underestimate. Twenty years ago, reading basically meant a paper book, a magazine, or maybe a newspaper. Now, the same person might read on a phone during their commute, on an e-reader before bed, and listen to an audiobook while cooking dinner. The most obvious change is access. With a few taps, you can buy a book that used to take a trip to a bookshop, and free public libraries now let you borrow e-books without ever leaving home. I think this has genuinely helped people read more in absolute terms, especially busy adults who do not have time to browse shelves. Honestly, though, I think there is a downside too. Reading on a phone means competing with messages, social media, and an endless stream of notifications, and that constant interruption can make it harder to stay with a long, complex book. Some studies suggest people remember less from screen reading than from paper, although the effect is not huge. Overall, I think technology has democratised reading, but it has also reshaped what we mean by reading, often making it more fragmented and more visual at the same time.",
           "vocab": [
             {
-              "word": "willpower",
-              "pos": "noun",
-              "meaning_ko": "의지력"
-            },
-            {
-              "word": "compound",
+              "word": "underestimate",
               "pos": "verb",
-              "meaning_ko": "누적되다, 복리로 쌓이다"
+              "meaning_ko": "과소평가하다"
             },
             {
-              "word": "transformative",
-              "pos": "adjective",
-              "meaning_ko": "변혁적인, 크게 바꾸는"
+              "word": "browse",
+              "pos": "verb",
+              "meaning_ko": "둘러보다"
             },
             {
-              "word": "subtle",
+              "word": "democratise",
+              "pos": "verb",
+              "meaning_ko": "대중화하다, 민주화하다"
+            },
+            {
+              "word": "fragmented",
               "pos": "adjective",
-              "meaning_ko": "미묘한"
+              "meaning_ko": "파편화된"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "I find myself recommending",
-              "meaning_ko": "내가 자주 추천하게 되는"
+              "phrase": "I would say",
+              "meaning_ko": "저는 ~라고 말하고 싶습니다"
             },
             {
-              "phrase": "more or less handed it to me",
-              "meaning_ko": "사실상 그것을 내 손에 쥐어 주었다"
+              "phrase": "in absolute terms",
+              "meaning_ko": "절대적인 수치로 보면"
             },
             {
-              "phrase": "On the surface",
-              "meaning_ko": "표면적으로는"
+              "phrase": "Honestly, though",
+              "meaning_ko": "솔직히 말해서"
             },
             {
-              "phrase": "What I took away most strongly was",
-              "meaning_ko": "내가 가장 강하게 얻어낸 것은"
+              "phrase": "competing with messages",
+              "meaning_ko": "메시지와 경쟁하며"
             },
             {
-              "phrase": "quietly transformative",
-              "meaning_ko": "조용히 변혁적인"
+              "phrase": "stay with a long, complex book",
+              "meaning_ko": "길고 복잡한 책을 끝까지 붙들고 가다"
             },
             {
-              "phrase": "well, that is who I am now",
-              "meaning_ko": "음, 지금은 그게 바로 나니까"
+              "phrase": "more visual at the same time",
+              "meaning_ko": "동시에 더 시각적이기도 한"
             }
-          ]
+          ],
+          "word_count": 201,
+          "estimated_read_seconds": 100
         },
         "C1": {
-          "title": "Describe a book that has influenced you",
-          "body": "The book I would like to talk about is Atomic Habits by James Clear, and I would describe it as the one that has most quietly reshaped the way I approach long-term change. I first picked it up about two years ago, in a stretch of life where I felt perpetually busy without actually moving forward on anything I truly cared about. A close friend, who had clearly noticed this before I had, pressed it into my hands and told me, in no uncertain terms, to give it a proper read. On the surface, Atomic Habits is shelved as productivity, and Clear does provide an unusually clean framework for designing habits, with his four laws of making behaviour obvious, attractive, easy and satisfying. But I think the reason it has resonated so widely, and certainly with me, is that it reframes change as an architectural problem rather than a motivational one. The argument is not that you need more willpower, but that you need to redesign your environment and your sense of self so that the desired behaviour becomes the path of least resistance. The line that has stayed with me most is that you do not rise to the level of your goals, you fall to the level of your systems. What truly influenced me, though, was the emphasis on identity-based habits. Clear argues that every action you take is essentially a vote for the kind of person you wish to become, and that durable change happens when the behaviour and the identity start reinforcing each other. That subtle reframing has had an outsized effect on me. Rather than declaring grand intentions, I started running tiny, identity-anchored experiments. I write for fifteen minutes every morning, not to finish any particular project, but because I have decided I am a person who writes daily. I exercise in modest, almost embarrassingly small sessions, but I do so consistently. Over two years, those compounded micro-decisions have produced changes I would have thought required some dramatic burst of motivation. So if I had to name a book that genuinely altered the texture of my daily life, this would be it. It did not give me a new goal. It gave me a new way of becoming.",
-          "word_count": 373,
-          "estimated_read_seconds": 186,
+          "title": "How has technology changed the way people read books?",
+          "body": "I think technology has changed reading in ways that are both more profound and more subtle than most people realise. The most visible shift is obviously the move from paper to screens, and from owning physical objects to streaming content from cloud services. On the surface, that just looks like a change of medium, but I would argue it has quietly reshaped the whole experience. Take access, for example. A generation ago, reading something obscure or in a foreign language could be genuinely difficult, but now almost any book is a few taps away, often in multiple formats, and digital libraries have made high-quality reading material available to people who would previously have been priced out. I think that is an enormous democratising force, even if it is rarely discussed in those terms. On the other hand, the same devices that give us all this access are also brilliantly engineered to fragment our attention. Reading a long, demanding book on a phone means constantly resisting notifications and the temptation to switch tabs, and I think that has trained a lot of us, myself included, to skim rather than to read deeply. Audiobooks and podcasts have grown enormously, which is wonderful for people who never had time for traditional reading, but I do wonder whether listening engages the brain in quite the same way, especially for complex argument. What I find most interesting, though, is that the definition of reading itself seems to be shifting. For younger readers, reading often blends text, images, video, and discussion threads, which is closer to a multimedia conversation than to the solitary, linear experience that previous generations grew up with. So overall, I would say technology has made reading more accessible and more varied, but also more shallow and more distracted, and the long-term effects on how we think are probably only beginning to show.",
           "vocab": [
             {
-              "word": "perpetually",
-              "pos": "adverb",
-              "meaning_ko": "끊임없이"
-            },
-            {
-              "word": "resonated",
-              "pos": "verb",
-              "meaning_ko": "공감을 불러일으켰다, 울림을 주었다"
-            },
-            {
-              "word": "reframes",
-              "pos": "verb",
-              "meaning_ko": "재구성하다, 관점을 바꾸다"
-            },
-            {
-              "word": "durable",
+              "word": "profound",
               "pos": "adjective",
-              "meaning_ko": "지속적인, 오래 가는"
+              "meaning_ko": "심오한, 깊은"
+            },
+            {
+              "word": "obscure",
+              "pos": "adjective",
+              "meaning_ko": "잘 알려지지 않은, 모호한"
+            },
+            {
+              "word": "engineered",
+              "pos": "verb",
+              "meaning_ko": "설계된"
+            },
+            {
+              "word": "solitary",
+              "pos": "adjective",
+              "meaning_ko": "혼자만의, 고독한"
             }
           ],
           "key_phrases": [
             {
-              "phrase": "I would describe it as",
-              "meaning_ko": "나는 그것을 ~라고 표현하고 싶다"
+              "phrase": "more profound and more subtle than most people realise",
+              "meaning_ko": "대부분의 사람들이 깨닫는 것보다 더 깊고 미묘한"
             },
             {
-              "phrase": "pressed it into my hands",
-              "meaning_ko": "내 손에 그것을 꾹 쥐어 주었다"
+              "phrase": "I would argue",
+              "meaning_ko": "저는 ~라고 주장하고 싶다"
             },
             {
-              "phrase": "in no uncertain terms",
-              "meaning_ko": "단호하게, 분명한 말로"
+              "phrase": "priced out",
+              "meaning_ko": "비용 때문에 배제된"
             },
             {
-              "phrase": "the path of least resistance",
-              "meaning_ko": "가장 저항이 적은 길"
+              "phrase": "an enormous democratising force",
+              "meaning_ko": "엄청난 대중화의 힘"
             },
             {
-              "phrase": "an outsized effect on me",
-              "meaning_ko": "내게 지나칠 정도로 큰 영향을 미친"
+              "phrase": "myself included",
+              "meaning_ko": "저 자신을 포함해서"
             },
             {
-              "phrase": "a new way of becoming",
-              "meaning_ko": "되어 가는 새로운 방식"
+              "phrase": "only beginning to show",
+              "meaning_ko": "이제 막 드러나기 시작한"
             }
-          ]
+          ],
+          "word_count": 310,
+          "estimated_read_seconds": 155
         }
       }
     }

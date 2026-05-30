@@ -4,29 +4,34 @@
     "academic_science": [
       "science-how-coral-reefs-are-formed",
       "science-why-we-need-to-sleep",
-      "science-how-memory-is-stored-in-the-brain"
+      "science-how-memory-is-stored-in-the-brain",
+      "science-how-volcanoes-erupt"
     ],
     "academic_humanities": [
       "humanities-how-writing-was-invented",
       "humanities-how-money-was-invented",
-      "humanities-why-impressionism-emerged"
+      "humanities-why-impressionism-emerged",
+      "humanities-how-the-printing-press-changed-the-world"
     ],
     "cs_concepts": [
       "cs-why-hash-table-lookup-is-o1-on-average",
       "cs-how-tcp-guarantees-reliable-delivery",
       "cs-how-binary-search-works",
-      "cs-what-is-a-b-tree"
+      "cs-what-is-a-b-tree",
+      "cs-how-recursion-works"
     ],
     "backend_systems": [
       "backend-what-is-consistent-hashing",
       "backend-what-is-an-idempotency-key",
       "backend-what-is-a-cdn",
-      "backend-how-rate-limiting-works"
+      "backend-how-rate-limiting-works",
+      "backend-how-database-indexes-speed-up-queries"
     ],
     "speaking": [
       "behavioral-disagreed-technical-decision",
       "ielts-p1-what-do-you-do-on-weekends",
-      "ielts-p2-describe-a-book-that-influenced-you"
+      "ielts-p2-describe-a-book-that-influenced-you",
+      "ielts-p3-how-technology-changed-reading"
     ]
   },
   "speaking_subtype_history": [
@@ -35,7 +40,8 @@
     "ielts_p2",
     "ielts_p2",
     "ielts_p2",
-    "ielts_p2"
+    "ielts_p2",
+    "ielts_p3"
   ],
-  "updated_at": "2026-05-30T00:17:25.799895+00:00"
+  "updated_at": "2026-05-30T11:14:36.720931+00:00"
 }
