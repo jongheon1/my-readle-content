@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-31",
+  "topics": [
+    {
+      "topic_id": "2026-05-31-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "오로라(북극광)는 어떻게 만들어질까?",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How auroras are made",
+          "body": "Have you ever seen a night sky in green or pink? Those lights are called auroras. They look like soft curtains in the sky. So how do they happen? It starts at the Sun. The Sun sends tiny bits of energy into space. These bits travel a long way and reach Earth. Earth has an invisible shield around it. The shield pulls the energy to the top and bottom of our planet. There, the energy hits the air, and the air starts to glow. Different gases make different colors. Oxygen makes green. Nitrogen makes purple. That is why the sky looks like a painting.",
+          "vocab": [
+            {
+              "word": "glow",
+              "pos": "verb",
+              "meaning_ko": "은은히 빛나다"
+            },
+            {
+              "word": "shield",
+              "pos": "noun",
+              "meaning_ko": "방패, 보호막"
+            },
+            {
+              "word": "energy",
+              "pos": "noun",
+              "meaning_ko": "에너지"
+            },
+            {
+              "word": "invisible",
+              "pos": "adjective",
+              "meaning_ko": "보이지 않는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever seen",
+              "meaning_ko": "본 적이 있나요?"
+            },
+            {
+              "phrase": "a long way",
+              "meaning_ko": "먼 거리"
+            },
+            {
+              "phrase": "the top and bottom of our planet",
+              "meaning_ko": "지구의 위쪽과 아래쪽 (극지방)"
+            },
+            {
+              "phrase": "starts to glow",
+              "meaning_ko": "빛나기 시작하다"
+            },
+            {
+              "phrase": "different gases make different colors",
+              "meaning_ko": "다른 기체가 다른 색을 만든다"
+            },
+            {
+              "phrase": "looks like a painting",
+              "meaning_ko": "그림처럼 보이다"
+            }
+          ],
+          "word_count": 104,
+          "estimated_read_seconds": 52
+        },
+        "B1": {
+          "title": "How auroras form in the polar sky",
+          "body": "If you have ever seen photos of the northern lights, you know how magical they look. Bright green ribbons dance across the sky, and sometimes pink or purple joins in. But what is actually happening up there? The story begins on the Sun. Our Sun is constantly throwing out a stream of tiny charged particles. Scientists call this the solar wind. When the solar wind reaches Earth, it does not just pass through us. Earth has a magnetic field, a kind of invisible bubble that wraps around the planet. This field bends the path of the particles and pulls many of them toward the North and South Poles. Once the particles hit the upper atmosphere, they crash into atoms of oxygen and nitrogen. The collision makes those atoms gain extra energy, and they release that energy as light. Oxygen tends to produce green and a deep red, while nitrogen adds blue and purple. The colors mix and shift, which is why the lights seem to move. It is a quiet reminder that our planet is constantly interacting with the Sun.",
+          "vocab": [
+            {
+              "word": "particle",
+              "pos": "noun",
+              "meaning_ko": "입자"
+            },
+            {
+              "word": "atmosphere",
+              "pos": "noun",
+              "meaning_ko": "대기"
+            },
+            {
+              "word": "collision",
+              "pos": "noun",
+              "meaning_ko": "충돌"
+            },
+            {
+              "word": "release",
+              "pos": "verb",
+              "meaning_ko": "방출하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "how magical they look",
+              "meaning_ko": "얼마나 신비로워 보이는지"
+            },
+            {
+              "phrase": "a stream of",
+              "meaning_ko": "~의 흐름"
+            },
+            {
+              "phrase": "wraps around",
+              "meaning_ko": "~을 감싸다"
+            },
+            {
+              "phrase": "bends the path of",
+              "meaning_ko": "~의 경로를 휘게 하다"
+            },
+            {
+              "phrase": "crash into",
+              "meaning_ko": "~에 충돌하다"
+            },
+            {
+              "phrase": "is constantly interacting with",
+              "meaning_ko": "끊임없이 상호작용하고 있다"
+            }
+          ],
+          "word_count": 180,
+          "estimated_read_seconds": 90
+        },
+        "B2": {
+          "title": "The physics behind the northern and southern lights",
+          "body": "Auroras are among the most beautiful natural phenomena on Earth, but the physics behind them is just as fascinating as the view itself. The whole process actually begins ninety-three million miles away on the surface of the Sun. Our star continuously releases a flow of charged particles, mostly electrons and protons, that scientists call the solar wind. Occasionally, large solar flares or coronal mass ejections release even denser bursts of this material into space. When these particles travel across the void and reach Earth, they encounter our planet's magnetosphere, a vast magnetic envelope generated by the swirling motion of molten iron in Earth's outer core. The magnetosphere acts like a giant funnel. It deflects most of the particles around the planet entirely, but it channels some of them along magnetic field lines that converge near the geographic poles. As these particles spiral down into the upper atmosphere, roughly between 100 and 300 kilometres above the ground, they collide with oxygen and nitrogen atoms. Each collision excites the atom, briefly pushing one of its electrons into a higher energy level. When the electron falls back, the atom emits a photon of a very specific colour. Oxygen produces the characteristic green at lower altitudes and a deep crimson at higher ones, while nitrogen contributes blue and violet hues. What we see as gentle, waving curtains is actually a constant rain of subatomic particles painting the sky in real time, and the show can shift in seconds as the upstream solar wind speeds up or slows down. On a busy night, the patterns can grow so bright that they cast shadows on the snow below, which is why people travel thousands of miles to witness them in person.",
+          "vocab": [
+            {
+              "word": "phenomena",
+              "pos": "noun",
+              "meaning_ko": "현상들 (phenomenon의 복수)"
+            },
+            {
+              "word": "magnetosphere",
+              "pos": "noun",
+              "meaning_ko": "자기권"
+            },
+            {
+              "word": "deflect",
+              "pos": "verb",
+              "meaning_ko": "굴절시키다, 방향을 바꾸다"
+            },
+            {
+              "word": "emit",
+              "pos": "verb",
+              "meaning_ko": "방출하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "just as fascinating as",
+              "meaning_ko": "~만큼이나 흥미로운"
+            },
+            {
+              "phrase": "a flow of charged particles",
+              "meaning_ko": "전하를 띤 입자의 흐름"
+            },
+            {
+              "phrase": "acts like a giant funnel",
+              "meaning_ko": "거대한 깔때기처럼 작용하다"
+            },
+            {
+              "phrase": "spiral down into",
+              "meaning_ko": "~안으로 나선형으로 내려가다"
+            },
+            {
+              "phrase": "pushing one of its electrons into a higher energy level",
+              "meaning_ko": "전자를 더 높은 에너지 준위로 밀어올리다"
+            },
+            {
+              "phrase": "a constant rain of subatomic particles",
+              "meaning_ko": "끊임없이 쏟아지는 아원자 입자의 비"
+            }
+          ],
+          "word_count": 285,
+          "estimated_read_seconds": 142
+        },
+        "C1": {
+          "title": "Auroras: a window into the Sun-Earth connection",
+          "body": "For most observers, the aurora borealis is simply a spectacle, a shimmering veil of green and pink that drapes itself across high-latitude skies on cold, clear nights. For physicists, however, it is a working laboratory that reveals how our planet is electrically coupled to its host star in real time. The chain of events begins in the Sun's corona, the searing outer atmosphere where temperatures climb above a million degrees and ordinary matter exists only as plasma, an ionised soup of electrons and protons. This plasma streams outward as the solar wind, and during periods of heightened solar activity, sudden eruptions known as coronal mass ejections can hurl billions of tonnes of charged material toward Earth in a single burst. When this turbulent flow arrives at our planet, it meets the magnetosphere, the vast magnetic cocoon generated by convective currents in Earth's molten iron core. The interaction is anything but passive. The solar wind compresses the dayside of the magnetosphere and stretches its nightside into a long magnetotail, where reconnection events periodically release stored magnetic energy and accelerate particles back toward the planet at remarkable speeds. Those particles spiral along magnetic field lines that converge at the polar regions, plunging into the ionosphere at altitudes between roughly one hundred and three hundred kilometres. There they collide with neutral oxygen and nitrogen atoms, transferring kinetic energy and exciting electrons to higher quantum states. As those electrons cascade back to their ground states, they emit photons at sharply defined wavelengths: the familiar atomic oxygen green at 557.7 nanometres, the rare high-altitude red at 630.0 nanometres, and the bluish purple bands from molecular nitrogen. Studying these emissions tells us not only about atmospheric chemistry but also about the underlying state of space weather, which increasingly affects satellites in orbit, terrestrial power grids, and high-latitude aviation routes. Some of the most damaging solar storms in modern memory, such as the 1989 Quebec blackout, were preceded by exactly the kind of dramatic auroral displays that would now be ranked as scientific warning signs as much as tourist attractions. The aurora, in other words, is both art and instrument: an emergent show overhead and a diagnostic readout of the larger physical conversation going on between our planet and our star.",
+          "vocab": [
+            {
+              "word": "plasma",
+              "pos": "noun",
+              "meaning_ko": "플라스마 (전리된 기체)"
+            },
+            {
+              "word": "reconnection",
+              "pos": "noun",
+              "meaning_ko": "(자기력선의) 재결합"
+            },
+            {
+              "word": "ionosphere",
+              "pos": "noun",
+              "meaning_ko": "전리층"
+            },
+            {
+              "word": "cascade",
+              "pos": "verb",
+              "meaning_ko": "단계적으로 떨어지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "is electrically coupled to",
+              "meaning_ko": "전기적으로 연결되어 있다"
+            },
+            {
+              "phrase": "anything but passive",
+              "meaning_ko": "결코 수동적이지 않은"
+            },
+            {
+              "phrase": "hurl billions of tonnes of charged material",
+              "meaning_ko": "수십억 톤의 전하 물질을 쏟아내다"
+            },
+            {
+              "phrase": "plunging into the ionosphere",
+              "meaning_ko": "전리층 안으로 곤두박질치며 들어가다"
+            },
+            {
+              "phrase": "transferring kinetic energy",
+              "meaning_ko": "운동 에너지를 전달하며"
+            },
+            {
+              "phrase": "both art and instrument",
+              "meaning_ko": "예술이자 도구인"
+            }
+          ],
+          "word_count": 374,
+          "estimated_read_seconds": 187
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-31-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "실크로드는 세계사를 어떻게 바꾸었는가?",
+      "source_url": null,
+      "source_name": "Generated · 인문사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How the Silk Road shaped the world",
+          "body": "Long ago, there were no planes and no big ships. But people still wanted to trade. So they used a long road across Asia. We call it the Silk Road. The road had many paths. Some went through hot deserts. Others went over high mountains. The trip was slow. Why did people go? Because there were things to sell. China made silk and tea. India sent spices. Europe wanted all of these. So caravans of camels walked from town to town. The road also carried ideas. New foods, new words, and new religions moved along it. Far places became a little closer.",
+          "vocab": [
+            {
+              "word": "trade",
+              "pos": "verb",
+              "meaning_ko": "거래하다, 무역하다"
+            },
+            {
+              "word": "desert",
+              "pos": "noun",
+              "meaning_ko": "사막"
+            },
+            {
+              "word": "caravan",
+              "pos": "noun",
+              "meaning_ko": "대상(隊商)"
+            },
+            {
+              "word": "spices",
+              "pos": "noun",
+              "meaning_ko": "향신료"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "long ago",
+              "meaning_ko": "오래 전에"
+            },
+            {
+              "phrase": "across Asia",
+              "meaning_ko": "아시아를 가로질러"
+            },
+            {
+              "phrase": "from town to town",
+              "meaning_ko": "마을에서 마을로"
+            },
+            {
+              "phrase": "caravans of camels",
+              "meaning_ko": "낙타로 이루어진 대상(隊商)"
+            },
+            {
+              "phrase": "moved along it",
+              "meaning_ko": "그 길을 따라 이동했다"
+            },
+            {
+              "phrase": "far places became a little closer",
+              "meaning_ko": "먼 곳들이 조금 더 가까워졌다"
+            }
+          ],
+          "word_count": 102,
+          "estimated_read_seconds": 51
+        },
+        "B1": {
+          "title": "How the Silk Road shaped world history",
+          "body": "Imagine a journey of more than seven thousand kilometres, on foot or on the back of a camel, through deserts and mountain passes. That is what merchants did for centuries on the Silk Road. The name sounds like a single highway, but the Silk Road was actually a network of trade routes that connected China with Central Asia, India, the Middle East, and eventually the cities of Europe. Chinese silk, which was light, valuable, and impossible to make elsewhere, gave the network its name. But silk was only one of many things on the move. Spices from India, glassware from Rome, horses from Central Asia, and paper from China all changed hands along the way. The traders rarely travelled the whole distance. Instead, goods passed through many middlemen, and prices grew higher with every stop. What makes the Silk Road truly important, though, is what it carried besides goods. Buddhism spread from India into China through these roads. Later, Islam moved eastward the same way. Technologies such as papermaking, gunpowder, and the compass slowly travelled to the West, while new crops, music, and stories moved in the other direction. The Silk Road shows us that even in a slow, dangerous age, the world was already deeply connected.",
+          "vocab": [
+            {
+              "word": "merchant",
+              "pos": "noun",
+              "meaning_ko": "상인"
+            },
+            {
+              "word": "network",
+              "pos": "noun",
+              "meaning_ko": "망, 네트워크"
+            },
+            {
+              "word": "middleman",
+              "pos": "noun",
+              "meaning_ko": "중개인"
+            },
+            {
+              "word": "eastward",
+              "pos": "adverb",
+              "meaning_ko": "동쪽으로"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "on the back of a camel",
+              "meaning_ko": "낙타 등에 올라"
+            },
+            {
+              "phrase": "a network of trade routes",
+              "meaning_ko": "무역로의 네트워크"
+            },
+            {
+              "phrase": "changed hands",
+              "meaning_ko": "주인이 바뀌었다"
+            },
+            {
+              "phrase": "with every stop",
+              "meaning_ko": "정거장마다"
+            },
+            {
+              "phrase": "moved in the other direction",
+              "meaning_ko": "반대 방향으로 이동했다"
+            },
+            {
+              "phrase": "deeply connected",
+              "meaning_ko": "깊이 연결된"
+            }
+          ],
+          "word_count": 207,
+          "estimated_read_seconds": 104
+        },
+        "B2": {
+          "title": "The Silk Road and the making of a connected world",
+          "body": "Long before container ships and trans-Pacific flights, the Silk Road quietly stitched together the great civilisations of Eurasia in ways that we still feel today. It was not, strictly speaking, a single road, nor was silk its only cargo. From around the second century BCE until the early modern period, a shifting web of caravan routes linked the Chinese capital of Chang'an with the markets of Samarkand, Baghdad, Constantinople, and many smaller towns beyond. Merchants seldom travelled the entire length of any of these routes. Instead, goods moved in relays, passing through Sogdian traders, Persian intermediaries, and Arab caravanners, each adding their margin to the final price. Each leg added cost and risk, which is part of why imported silk in Rome was famously worth its weight in gold for a long stretch of history. But the Silk Road's real legacy is not what people bought and sold. It is what they exchanged without quite meaning to. Religions used the routes as missionary highways: Buddhism reached China and eventually Japan, Nestorian Christianity reached the steppes, and Islam spread across Central Asia. Technologies followed the same paths. Papermaking left China for the Islamic world, where it transformed scholarship and bureaucracy before reaching Europe. Gunpowder, the compass, and printing techniques travelled the same way, while horses, melons, and grapes moved in the opposite direction. The routes also carried less welcome passengers, including the bubonic plague, which in the fourteenth century devastated entire populations on both ends of the network. The Silk Road is therefore a reminder that connection is double-edged: it spreads knowledge and disease, art and ambition, often at exactly the same speed.",
+          "vocab": [
+            {
+              "word": "civilisation",
+              "pos": "noun",
+              "meaning_ko": "문명"
+            },
+            {
+              "word": "intermediary",
+              "pos": "noun",
+              "meaning_ko": "중개자"
+            },
+            {
+              "word": "missionary",
+              "pos": "adjective",
+              "meaning_ko": "선교의"
+            },
+            {
+              "word": "devastate",
+              "pos": "verb",
+              "meaning_ko": "황폐화시키다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "stitched together",
+              "meaning_ko": "엮어 붙였다"
+            },
+            {
+              "phrase": "a shifting web of",
+              "meaning_ko": "끊임없이 모양을 바꾸는 ~의 망"
+            },
+            {
+              "phrase": "worth its weight in gold",
+              "meaning_ko": "금만큼 값나가는"
+            },
+            {
+              "phrase": "without quite meaning to",
+              "meaning_ko": "딱히 의도하지 않고서도"
+            },
+            {
+              "phrase": "in the opposite direction",
+              "meaning_ko": "반대 방향으로"
+            },
+            {
+              "phrase": "connection is double-edged",
+              "meaning_ko": "연결은 양날의 검이다"
+            }
+          ],
+          "word_count": 272,
+          "estimated_read_seconds": 136
+        },
+        "C1": {
+          "title": "Reading the Silk Road as a long experiment in globalisation",
+          "body": "It is tempting to treat the Silk Road as a romantic relic, all camel bells and desert sunsets, but historians increasingly read it as a sober case study in what we now call globalisation. The system was not a single road, not a single era, and not even predominantly about silk. From the late centuries BCE through the seventeenth century, a constantly reorganising network of overland and maritime routes linked the Han and later Chinese empires with Central Asian khanates, the Persian and Byzantine worlds, the Indian subcontinent, and ultimately the Mediterranean. Few merchants traversed the full distance. Trade instead operated as a relay, with Sogdian, Persian, Indian, Armenian, and Arab middlemen each adding their margins, their dialects, and their letters of credit to the cargo that crossed their hands. The economic logic was straightforward enough: distance amplified scarcity, scarcity inflated price, and the resulting profit margins justified the risks of bandits, blizzards, and bureaucracies. What is harder to capture in ledgers is the cultural arbitrage that travelled in parallel. Mahayana Buddhism, with its scriptures, iconography, and monastic institutions, reached the Chinese heartland via Gandhara and the Tarim oases over several centuries. Nestorian Christianity established communities as far east as the Tang capital at Xi'an. Islamic mathematics and astronomy absorbed Indian numerals and Greek geometry before re-exporting them to a Europe still struggling with Roman numerals and clumsy fractions. Material technologies, papermaking above all, migrated steadily westward and detonated quiet revolutions in administration and learning wherever they landed. The same arteries that carried these innovations also carried pathogens, most notoriously the Yersinia pestis bacterium that erupted into the Black Death and rewrote demographic history at both ends of Eurasia. The decline of the overland routes, often blamed on Ottoman tariffs or Mongol fragmentation, owed at least as much to the rise of Atlantic shipping and Europe's hunger for direct access to Asian markets. Reading the Silk Road today, then, is less an exercise in nostalgia than a useful corrective to the assumption that interconnection is a modern invention. Globalisation, the record suggests, has always been bundled with both prosperity and contagion, and the lesson has lost none of its relevance.",
+          "vocab": [
+            {
+              "word": "relic",
+              "pos": "noun",
+              "meaning_ko": "유물, 잔재"
+            },
+            {
+              "word": "khanate",
+              "pos": "noun",
+              "meaning_ko": "칸국 (몽골·튀르크계 국가)"
+            },
+            {
+              "word": "arbitrage",
+              "pos": "noun",
+              "meaning_ko": "차익 거래, 차익"
+            },
+            {
+              "word": "pathogen",
+              "pos": "noun",
+              "meaning_ko": "병원체"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a sober case study in",
+              "meaning_ko": "~에 대한 진지한 사례 연구"
+            },
+            {
+              "phrase": "constantly reorganising network",
+              "meaning_ko": "끊임없이 재편되는 네트워크"
+            },
+            {
+              "phrase": "distance amplified scarcity",
+              "meaning_ko": "거리는 희소성을 증폭시켰다"
+            },
+            {
+              "phrase": "cultural arbitrage",
+              "meaning_ko": "문화적 차익(다른 문화 간 격차에서 발생한 이득)"
+            },
+            {
+              "phrase": "detonated quiet revolutions",
+              "meaning_ko": "조용한 혁명을 촉발했다"
+            },
+            {
+              "phrase": "bundled with both prosperity and contagion",
+              "meaning_ko": "번영과 전염을 함께 끌고 다니는"
+            }
+          ],
+          "word_count": 360,
+          "estimated_read_seconds": 180
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-31-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "해시 맵은 충돌을 어떻게 처리할까?",
+      "source_url": null,
+      "source_name": "Generated · 컴퓨터과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How hash maps handle collisions",
+          "body": "A hash map is like a wall of small boxes. Each box has a number. When you want to save something, the map looks at your key. It uses a math trick called a hash. The hash gives a box number. You put the value in that box. Later you can find it fast. But sometimes two keys give the same number. We call this a collision. So the map needs a plan. One plan is to keep a small list in each box. Both keys sit in the list. Another plan is to move to the next free box. Either way, the map can still find your value.",
+          "vocab": [
+            {
+              "word": "box",
+              "pos": "noun",
+              "meaning_ko": "상자, 칸"
+            },
+            {
+              "word": "hash",
+              "pos": "noun",
+              "meaning_ko": "해시 (값을 숫자로 바꾸는 함수)"
+            },
+            {
+              "word": "collision",
+              "pos": "noun",
+              "meaning_ko": "충돌"
+            },
+            {
+              "word": "list",
+              "pos": "noun",
+              "meaning_ko": "리스트, 목록"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "is like a wall of small boxes",
+              "meaning_ko": "작은 상자가 쭉 늘어선 벽 같다"
+            },
+            {
+              "phrase": "a math trick",
+              "meaning_ko": "수학적인 트릭"
+            },
+            {
+              "phrase": "the same number",
+              "meaning_ko": "같은 숫자"
+            },
+            {
+              "phrase": "a small list in each box",
+              "meaning_ko": "각 칸에 들어가는 작은 리스트"
+            },
+            {
+              "phrase": "the next free box",
+              "meaning_ko": "다음 빈 칸"
+            },
+            {
+              "phrase": "either way",
+              "meaning_ko": "어느 쪽이든"
+            }
+          ],
+          "word_count": 109,
+          "estimated_read_seconds": 54
+        },
+        "B1": {
+          "title": "How a hash map handles collisions",
+          "body": "A hash map is a clever data structure that lets you look up a value almost instantly using a key. The trick is a hash function. The function takes your key, mixes it up with some math, and returns a number. That number is reduced to fit the size of an internal array, called the bucket array. The value is then stored in the matching bucket. To get it back, the map runs the same calculation and goes straight to the right slot. The problem is that the hash function maps a huge number of possible keys into a small number of buckets. Sooner or later, two different keys will end up with the same index. That situation is called a collision. The most common strategy for it is called chaining. Each bucket holds a small linked list. When a collision happens, the new key-value pair is simply added to the list in that bucket. To find a key later, you go to the bucket and walk the list until you find a match. Another approach is open addressing: when the chosen bucket is full, the map probes the next bucket until it finds an empty one. As long as the table is not too full, both strategies keep lookups very fast on average.",
+          "vocab": [
+            {
+              "word": "bucket",
+              "pos": "noun",
+              "meaning_ko": "버킷 (해시 테이블의 한 칸)"
+            },
+            {
+              "word": "index",
+              "pos": "noun",
+              "meaning_ko": "색인, 인덱스"
+            },
+            {
+              "word": "chaining",
+              "pos": "noun",
+              "meaning_ko": "체이닝 (연결 리스트로 충돌 해결)"
+            },
+            {
+              "word": "probe",
+              "pos": "verb",
+              "meaning_ko": "탐색하다, 살펴보다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "look up a value almost instantly",
+              "meaning_ko": "값을 거의 즉시 찾아내다"
+            },
+            {
+              "phrase": "mixes it up with some math",
+              "meaning_ko": "수학으로 뒤섞다"
+            },
+            {
+              "phrase": "goes straight to the right slot",
+              "meaning_ko": "곧장 알맞은 자리로 간다"
+            },
+            {
+              "phrase": "sooner or later",
+              "meaning_ko": "조만간, 결국에는"
+            },
+            {
+              "phrase": "walk the list",
+              "meaning_ko": "리스트를 따라 훑어보다"
+            },
+            {
+              "phrase": "as long as the table is not too full",
+              "meaning_ko": "테이블이 너무 가득 차지 않는 한"
+            }
+          ],
+          "word_count": 214,
+          "estimated_read_seconds": 107
+        },
+        "B2": {
+          "title": "Collision resolution in hash maps",
+          "body": "A hash map promises constant-time access on average, but that promise rests entirely on how it deals with collisions. The basic idea is simple: a hash function turns each key into an integer, the integer is taken modulo the size of an internal array, and the resulting index tells the map which bucket should hold the key-value pair. Because the space of possible keys is almost always vastly larger than the number of buckets, two different keys will inevitably hash to the same index. How the map responds to that situation defines its performance and even its security. The classical strategy is separate chaining. Each bucket stores a linked list, or in modern implementations sometimes a balanced tree, of all the entries that hash to that index. Lookups go to the bucket and walk the structure, comparing keys with equality. Java's HashMap, for example, switches from a list to a red-black tree once a bucket grows beyond a threshold, so a pathological collision attack cannot turn lookups into linear scans. The alternative family is open addressing. Here every entry lives directly in the array, and when a collision occurs the algorithm probes for the next available slot using linear probing, quadratic probing, or double hashing. Open addressing is cache-friendly because nearby probes touch nearby memory, but it degrades sharply as the load factor approaches one, which is why hash maps resize themselves when occupancy crosses a threshold like 0.75. Both families assume the hash function distributes keys uniformly. If an attacker can craft inputs that all hash to the same bucket, performance collapses, which is why production hash maps now use randomised, keyed hash functions.",
+          "vocab": [
+            {
+              "word": "modulo",
+              "pos": "preposition",
+              "meaning_ko": "~로 나눈 나머지"
+            },
+            {
+              "word": "threshold",
+              "pos": "noun",
+              "meaning_ko": "임계값"
+            },
+            {
+              "word": "pathological",
+              "pos": "adjective",
+              "meaning_ko": "병적인, 극단적인 경우의"
+            },
+            {
+              "word": "occupancy",
+              "pos": "noun",
+              "meaning_ko": "점유율, 사용 비율"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "rests entirely on",
+              "meaning_ko": "전적으로 ~에 달려 있다"
+            },
+            {
+              "phrase": "vastly larger than",
+              "meaning_ko": "~보다 훨씬 큰"
+            },
+            {
+              "phrase": "switches from a list to a red-black tree",
+              "meaning_ko": "리스트에서 레드-블랙 트리로 전환한다"
+            },
+            {
+              "phrase": "degrades sharply",
+              "meaning_ko": "급격히 성능이 떨어지다"
+            },
+            {
+              "phrase": "the load factor approaches one",
+              "meaning_ko": "적재율이 1에 가까워지다"
+            },
+            {
+              "phrase": "distributes keys uniformly",
+              "meaning_ko": "키를 균등하게 분포시키다"
+            }
+          ],
+          "word_count": 275,
+          "estimated_read_seconds": 138
+        },
+        "C1": {
+          "title": "Why collision handling is the soul of a hash map",
+          "body": "It is a small irony of computer science that hash maps, perhaps the single most relied-upon container in modern software, owe their reputation for instant lookup almost entirely to how gracefully they handle a problem that should not exist in theory but is unavoidable in practice: collisions. The contract on offer is well known. A hash function maps each key into an integer, that integer is reduced modulo the size of an underlying array, and the key-value pair lives in the resulting bucket. Average-case constant-time access follows from the simple uniform hashing assumption, namely that the function spreads keys evenly across the address space. Reality is messier. The set of possible keys vastly exceeds the number of buckets, so by the pigeonhole principle, distinct keys will collide. Worse, real-world keys are not chosen uniformly at random, and adversaries can deliberately craft inputs to force pathological behaviour. Two broad families of strategies have grown up to address this. Separate chaining stores, at each bucket, an auxiliary structure of all entries hashing there: traditionally a linked list, increasingly a self-balancing tree once the list grows beyond a threshold. The hybrid approach taken by modern Java HashMaps, for instance, guarantees worst-case logarithmic lookup even under collision attacks, at the cost of slightly more pointer chasing and memory overhead. Open addressing inlines every entry directly in the bucket array and resolves collisions by probing: linear probing offers excellent cache locality but suffers from primary clustering, quadratic probing softens the clusters at the cost of more complex resizing, and double hashing essentially makes every key follow its own pseudo-random probe sequence. Whichever strategy a map adopts, two operational realities dominate engineering decisions. First, the load factor must be controlled, which is why production maps resize and rehash once occupancy exceeds something like 0.75 for chaining or 0.5 for aggressive open addressing. Second, the hash function itself must be resistant to adversarial inputs, which is why modern languages have largely abandoned simple polynomial hashes in favour of randomised, keyed constructions such as SipHash. Studying hash map collisions, in short, is a quick way to appreciate how much of the elegance we credit to data structures actually lives in the unglamorous edge cases.",
+          "vocab": [
+            {
+              "word": "pigeonhole principle",
+              "pos": "noun",
+              "meaning_ko": "비둘기집 원리"
+            },
+            {
+              "word": "auxiliary",
+              "pos": "adjective",
+              "meaning_ko": "보조의, 부가적인"
+            },
+            {
+              "word": "adversarial",
+              "pos": "adjective",
+              "meaning_ko": "적대적인, 악의적인"
+            },
+            {
+              "word": "rehash",
+              "pos": "verb",
+              "meaning_ko": "재해시하다 (다시 해싱하다)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "owe their reputation to",
+              "meaning_ko": "명성을 ~에 빚지고 있다"
+            },
+            {
+              "phrase": "the simple uniform hashing assumption",
+              "meaning_ko": "단순 균등 해싱 가정"
+            },
+            {
+              "phrase": "force pathological behaviour",
+              "meaning_ko": "병적인 동작을 유발하다"
+            },
+            {
+              "phrase": "at the cost of",
+              "meaning_ko": "~을 대가로"
+            },
+            {
+              "phrase": "suffers from primary clustering",
+              "meaning_ko": "1차 군집화로 고통받다"
+            },
+            {
+              "phrase": "lives in the unglamorous edge cases",
+              "meaning_ko": "화려하지 않은 엣지 케이스에 깃들어 있다"
+            }
+          ],
+          "word_count": 366,
+          "estimated_read_seconds": 183
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-31-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "CAP 정리는 무엇이며 왜 중요한가?",
+      "source_url": null,
+      "source_name": "Generated · 백엔드/분산시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is the CAP theorem?",
+          "body": "Think about a system that runs on many computers. We call this a distributed system. When you save data, the system copies it to more than one machine. If one machine breaks, the data is still there. But there is a hard rule called the CAP theorem. CAP means three things. C is consistency. Every machine should show the same answer. A is availability. The system should always reply. P is partition tolerance. The system should still work when machines cannot talk. The rule says you can only pick two. So you have to choose what matters most.",
+          "vocab": [
+            {
+              "word": "distributed",
+              "pos": "adjective",
+              "meaning_ko": "분산된"
+            },
+            {
+              "word": "consistency",
+              "pos": "noun",
+              "meaning_ko": "일관성"
+            },
+            {
+              "word": "availability",
+              "pos": "noun",
+              "meaning_ko": "가용성"
+            },
+            {
+              "word": "partition",
+              "pos": "noun",
+              "meaning_ko": "분할, 분리"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "runs on many computers",
+              "meaning_ko": "여러 컴퓨터에서 동작한다"
+            },
+            {
+              "phrase": "more than one machine",
+              "meaning_ko": "둘 이상의 머신"
+            },
+            {
+              "phrase": "a hard rule",
+              "meaning_ko": "엄격한 규칙"
+            },
+            {
+              "phrase": "the same answer",
+              "meaning_ko": "같은 답"
+            },
+            {
+              "phrase": "pick two",
+              "meaning_ko": "두 가지를 고르다"
+            },
+            {
+              "phrase": "what matters most",
+              "meaning_ko": "가장 중요한 것"
+            }
+          ],
+          "word_count": 98,
+          "estimated_read_seconds": 49
+        },
+        "B1": {
+          "title": "Understanding the CAP theorem",
+          "body": "When you store data on a single computer, life is simple. The problem starts when you spread the data across many machines, which is exactly what large web services do. To make a distributed database useful, engineers want three things at once: consistency, availability, and partition tolerance. Consistency means that every node returns the same up-to-date answer. Availability means that every request gets a response, never a timeout. Partition tolerance means that the system keeps running even when the network between nodes is broken. In 2000, Eric Brewer proposed the CAP theorem, which says you cannot have all three at the same moment. Here is the catch. Network partitions are not optional. Cables fail, switches die, packets get lost. So in any real system, partition tolerance is a must. The real choice is between consistency and availability when a partition happens. A CP system, like a strict relational database, will refuse some requests rather than return stale data. An AP system, like many NoSQL stores, will keep answering, even if different nodes show slightly different values for a while. Knowing which trade-off your application can tolerate is one of the first questions in any backend design.",
+          "vocab": [
+            {
+              "word": "node",
+              "pos": "noun",
+              "meaning_ko": "노드 (분산 시스템의 한 대)"
+            },
+            {
+              "word": "timeout",
+              "pos": "noun",
+              "meaning_ko": "타임아웃"
+            },
+            {
+              "word": "trade-off",
+              "pos": "noun",
+              "meaning_ko": "트레이드오프, 절충"
+            },
+            {
+              "word": "stale",
+              "pos": "adjective",
+              "meaning_ko": "오래된, 신선하지 않은"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "spread the data across many machines",
+              "meaning_ko": "데이터를 여러 머신에 분산시키다"
+            },
+            {
+              "phrase": "all three at the same moment",
+              "meaning_ko": "세 가지를 한꺼번에"
+            },
+            {
+              "phrase": "are not optional",
+              "meaning_ko": "선택 사항이 아니다"
+            },
+            {
+              "phrase": "refuse some requests",
+              "meaning_ko": "일부 요청을 거부하다"
+            },
+            {
+              "phrase": "for a while",
+              "meaning_ko": "한동안"
+            },
+            {
+              "phrase": "which trade-off your application can tolerate",
+              "meaning_ko": "당신의 애플리케이션이 어떤 트레이드오프를 감수할 수 있는지"
+            }
+          ],
+          "word_count": 196,
+          "estimated_read_seconds": 98
+        },
+        "B2": {
+          "title": "CAP theorem: a practical reading",
+          "body": "The CAP theorem is one of those ideas that has been simultaneously overused and misunderstood in the backend world. The clean version says that any distributed data store can guarantee at most two of three properties: consistency, availability, and partition tolerance. Consistency here is the strong, linearizable kind, where every read returns the latest committed write. Availability means every non-failing node returns a response within a finite time. Partition tolerance means the system keeps functioning even if the network drops messages or splits nodes into isolated groups. The pragmatic reading flips the framing. In any real network, partitions will happen. Cables get cut, switches reboot, cloud zones lose connectivity. Therefore partition tolerance is not really an option you choose; it is a fact you accept. The interesting choice is what to do during a partition. A CP system, such as a strongly consistent key-value store like etcd or a single-leader SQL database, will sacrifice availability on the minority side of the partition rather than return potentially stale data. An AP system, such as Dynamo-style databases like Cassandra, will continue accepting reads and writes everywhere, then reconcile divergent versions when the partition heals, often using techniques such as vector clocks, last-writer-wins, or application-level merge functions. A more refined model, PACELC, extends this by noting that even when there is no partition, the system still trades consistency against latency. Real engineering rarely comes down to choosing two letters; it comes down to deciding which guarantees you owe each kind of request and being honest with users when those guarantees relax.",
+          "vocab": [
+            {
+              "word": "linearizable",
+              "pos": "adjective",
+              "meaning_ko": "선형화 가능한 (강한 일관성)"
+            },
+            {
+              "word": "reconcile",
+              "pos": "verb",
+              "meaning_ko": "조정하다, 화해시키다"
+            },
+            {
+              "word": "divergent",
+              "pos": "adjective",
+              "meaning_ko": "갈라진, 발산하는"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "simultaneously overused and misunderstood",
+              "meaning_ko": "동시에 남용되고 오해받는"
+            },
+            {
+              "phrase": "at most two of three",
+              "meaning_ko": "셋 중 최대 두 가지"
+            },
+            {
+              "phrase": "flips the framing",
+              "meaning_ko": "관점을 뒤집다"
+            },
+            {
+              "phrase": "sacrifice availability on the minority side",
+              "meaning_ko": "소수 쪽의 가용성을 희생하다"
+            },
+            {
+              "phrase": "when the partition heals",
+              "meaning_ko": "분할이 해소될 때"
+            },
+            {
+              "phrase": "being honest with users",
+              "meaning_ko": "사용자에게 솔직해지는 것"
+            }
+          ],
+          "word_count": 258,
+          "estimated_read_seconds": 129
+        },
+        "C1": {
+          "title": "Rereading CAP: from a slogan to a design discipline",
+          "body": "Few ideas in distributed systems have been quoted as often, or as carelessly, as the CAP theorem. Stated formally by Brewer and later proved by Gilbert and Lynch, it asserts that a distributed data store cannot simultaneously provide all three of linearizable consistency, availability for every request to a non-failing node, and tolerance to arbitrary network partitions. The result is sometimes presented as a stark menu, pick two of three, which is true only in the narrowest reading. Engineers who treat the theorem that way tend to spend a remarkable amount of energy solving problems that the formal model never claimed to address. A more productive reading begins by acknowledging that partition tolerance is not really a design choice. Networks fail, switches reboot, availability zones lose connectivity to one another, and any system that pretends otherwise is one bad afternoon away from data loss. The substantive question is what semantics the system promises during a partition and during recovery. A CP system, exemplified by single-leader databases and consensus-backed stores like etcd or ZooKeeper, will reject writes on the minority side rather than expose stale or divergent state. An AP system, exemplified by Dynamo-style stores like Cassandra or Riak, will continue to accept operations on both sides and reconcile the divergence later, typically by means of vector clocks, application-defined merge functions, or last-writer-wins heuristics with synchronised clocks. Each posture exacts a price. The CP posture trades a portion of availability and forces clients to handle errors during failovers; the AP posture trades the comforting illusion of a single global truth and forces developers to reason explicitly about conflict resolution. Daniel Abadi's PACELC formulation sharpens the picture further by pointing out that even in the absence of a partition, the system must choose between latency and consistency: tighter consistency requires more coordination, and more coordination buys you longer tail latencies. Modern designs lean heavily on this insight. They expose tunable consistency levels per request, employ leases and read indexes to bound staleness, and pair strongly consistent metadata layers with eventually consistent data planes. Read this way, CAP is less a theorem you must obey than a discipline you must internalise: every interesting decision in a distributed system is a negotiation between coordination and freedom, and the best architectures make that negotiation explicit rather than accidental.",
+          "vocab": [
+            {
+              "word": "consensus",
+              "pos": "noun",
+              "meaning_ko": "합의 (분산 합의)"
+            },
+            {
+              "word": "heuristic",
+              "pos": "noun",
+              "meaning_ko": "휴리스틱, 경험적 규칙"
+            },
+            {
+              "word": "tunable",
+              "pos": "adjective",
+              "meaning_ko": "조절 가능한"
+            },
+            {
+              "word": "staleness",
+              "pos": "noun",
+              "meaning_ko": "오래됨, 낡음"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "as carelessly as",
+              "meaning_ko": "~만큼이나 부주의하게"
+            },
+            {
+              "phrase": "a stark menu",
+              "meaning_ko": "냉정한 메뉴(둘 중 골라야 하는)"
+            },
+            {
+              "phrase": "one bad afternoon away from data loss",
+              "meaning_ko": "데이터 손실까지 운 나쁜 오후 하루 거리"
+            },
+            {
+              "phrase": "exacts a price",
+              "meaning_ko": "대가를 치르게 한다"
+            },
+            {
+              "phrase": "the comforting illusion of a single global truth",
+              "meaning_ko": "단일한 전역 진실이라는 위안 어린 환상"
+            },
+            {
+              "phrase": "tunable consistency levels per request",
+              "meaning_ko": "요청별로 조절 가능한 일관성 수준"
+            }
+          ],
+          "word_count": 383,
+          "estimated_read_seconds": 192
+        }
+      }
+    },
+    {
+      "topic_id": "2026-05-31-speaking-01",
+      "category": "speaking",
+      "title_ko": "[OPIc] Tell me about a typical weekend in detail",
+      "source_url": null,
+      "source_name": "Generated · OPIc",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Tell me about a typical weekend",
+          "body": "On weekends I like to take it easy. On Saturday morning I sleep a little longer. After I wake up, I have coffee and toast. I read the news on my phone. In the afternoon I go for a walk in the park. I enjoy watching people with their dogs. In the evening I cook dinner. I usually cook pasta because it is easy. After dinner I watch a movie. On Sunday I clean my room and do the laundry. I also go to a cafe. I bring my laptop and study a little. Sunday night I go to bed early. That is my normal weekend.",
+          "vocab": [
+            {
+              "word": "weekend",
+              "pos": "noun",
+              "meaning_ko": "주말"
+            },
+            {
+              "word": "laundry",
+              "pos": "noun",
+              "meaning_ko": "빨래"
+            },
+            {
+              "word": "cafe",
+              "pos": "noun",
+              "meaning_ko": "카페"
+            },
+            {
+              "word": "normal",
+              "pos": "adjective",
+              "meaning_ko": "보통의, 평범한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "take it easy",
+              "meaning_ko": "여유롭게 쉬다"
+            },
+            {
+              "phrase": "go for a walk",
+              "meaning_ko": "산책하러 가다"
+            },
+            {
+              "phrase": "a little",
+              "meaning_ko": "조금"
+            },
+            {
+              "phrase": "do the laundry",
+              "meaning_ko": "빨래를 하다"
+            },
+            {
+              "phrase": "go to bed early",
+              "meaning_ko": "일찍 잠자리에 들다"
+            },
+            {
+              "phrase": "that is my normal weekend",
+              "meaning_ko": "그게 제 평범한 주말이에요"
+            }
+          ],
+          "word_count": 106,
+          "estimated_read_seconds": 53
+        },
+        "B1": {
+          "title": "Describing my typical weekend",
+          "body": "Honestly, my weekends are pretty relaxed, but they follow a kind of rhythm. On Saturday I usually let myself sleep in until about nine. I make a slow breakfast, just coffee and something simple, and I sit by the window for a while just to wake up properly. After that I try to do at least one thing that is good for my body, so I either go for a long walk in a park near my place or do a short workout at home. Around lunchtime I often meet a friend or two. We grab a cheap meal somewhere and just catch up. In the afternoon I might run a couple of errands, like grocery shopping or picking up a package. In the evening I cook a simple dinner and watch a series on Netflix. Sundays are quieter. I do the laundry, clean the apartment a bit, and then I go to my favourite cafe with a book or my laptop. I do a little bit of studying, but I try not to push myself, because I really want to start Monday feeling rested. That, more or less, is my standard weekend.",
+          "vocab": [
+            {
+              "word": "rhythm",
+              "pos": "noun",
+              "meaning_ko": "리듬, 일정한 흐름"
+            },
+            {
+              "word": "errand",
+              "pos": "noun",
+              "meaning_ko": "심부름, 볼일"
+            },
+            {
+              "word": "push myself",
+              "pos": "phrase",
+              "meaning_ko": "스스로를 몰아붙이다"
+            },
+            {
+              "word": "standard",
+              "pos": "adjective",
+              "meaning_ko": "표준의, 보통의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "pretty relaxed",
+              "meaning_ko": "꽤 여유로운"
+            },
+            {
+              "phrase": "sleep in",
+              "meaning_ko": "늦잠 자다"
+            },
+            {
+              "phrase": "grab a cheap meal",
+              "meaning_ko": "저렴한 식사를 가볍게 하다"
+            },
+            {
+              "phrase": "run a couple of errands",
+              "meaning_ko": "볼일 몇 가지를 보다"
+            },
+            {
+              "phrase": "more or less",
+              "meaning_ko": "대체로, 거의"
+            },
+            {
+              "phrase": "feeling rested",
+              "meaning_ko": "쉬고 난 듯한 컨디션으로"
+            }
+          ],
+          "word_count": 193,
+          "estimated_read_seconds": 96
+        },
+        "B2": {
+          "title": "A typical weekend, in some detail",
+          "body": "To be honest, my weekends do not look very dramatic, but I really value them, so I try to keep them gently structured rather than just letting them disappear. Saturday usually starts late. I let myself sleep in until about nine, and once I am up I take my time with breakfast, which is normally just a long coffee and something I do not have to think about, like toast or a bowl of yoghurt. While I eat I scroll through the news or whatever podcast I am following that week. After breakfast I try to get out of the house for a couple of hours, because if I stay in, the whole day just sort of slides by. Most weekends I go for a long walk around a park near my apartment, and sometimes I meet a friend there for lunch afterwards. We usually pick a casual place, nothing fancy, and we just catch up on work and life. The afternoon is for small chores, things like grocery shopping or finally answering messages that have been sitting in my inbox. In the evening I cook something simple, often pasta or a stir-fry, and I watch a show. Sunday is quieter and more focused on resetting for the week. I clean my apartment, do the laundry, and then I usually head to my favourite cafe with a book or my laptop. I do a little studying or planning, but I try hard not to overdo it. By Sunday night I am usually back home, in bed by eleven, hoping to wake up on Monday feeling like a person again.",
+          "vocab": [
+            {
+              "word": "structured",
+              "pos": "adjective",
+              "meaning_ko": "체계가 잡힌"
+            },
+            {
+              "word": "chore",
+              "pos": "noun",
+              "meaning_ko": "잡일, 집안일"
+            },
+            {
+              "word": "inbox",
+              "pos": "noun",
+              "meaning_ko": "수신함"
+            },
+            {
+              "word": "overdo",
+              "pos": "verb",
+              "meaning_ko": "지나치게 하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "gently structured",
+              "meaning_ko": "부담 없이 짜인"
+            },
+            {
+              "phrase": "the whole day just sort of slides by",
+              "meaning_ko": "하루가 그냥 슬그머니 지나가버린다"
+            },
+            {
+              "phrase": "catch up on work and life",
+              "meaning_ko": "일과 일상에 대해 이야기 나누다"
+            },
+            {
+              "phrase": "reset for the week",
+              "meaning_ko": "다음 한 주를 위해 재정비하다"
+            },
+            {
+              "phrase": "feeling like a person again",
+              "meaning_ko": "다시 사람처럼 느껴지는 기분으로"
+            }
+          ],
+          "word_count": 269,
+          "estimated_read_seconds": 134
+        },
+        "C1": {
+          "title": "What a typical weekend really looks like for me",
+          "body": "If I am being honest, my weekends are not glamorous, but I have come to treat them as a kind of small, deliberate project, because if I do not give them at least some structure, the two days tend to evaporate and I end up on Monday morning feeling like I never actually stopped working. Saturday usually opens at a slow tempo. I let myself sleep in until around nine, mostly because the alarm clock has been ordering me around all week and weekends are when I take that small piece of authority back. Breakfast is intentionally low effort: a long pour of coffee, something I do not have to assemble, and ten or fifteen minutes of staring out the window before I touch my phone. After that I try to step outside for a couple of hours, because I have learned the hard way that an indoor weekend disappears almost without trace. Usually I take a long walk through a park near my apartment, and on a good day I meet a friend for an unhurried lunch, somewhere casual where the goal is conversation rather than the food. The afternoon goes to the small administrative debris of life, the grocery run, the laundry, the messages that have been quietly piling up in my inbox. Evenings tend to be quiet. I cook something simple, often pasta or a stir-fry, and watch a series. Sunday is more of a deliberate reset. I tidy the apartment, do another small batch of laundry, and head to a cafe with a book or my laptop. I will admit I am tempted to overschedule it, to turn it into a productivity sprint, but the version of me that has been doing this for a few years has learned that Monday goes much better when Sunday evening is genuinely calm. So I read for an hour, plan the week loosely, and try to be in bed by eleven. It is not a thrilling answer, I know, but the predictability is sort of the point.",
+          "vocab": [
+            {
+              "word": "glamorous",
+              "pos": "adjective",
+              "meaning_ko": "화려한"
+            },
+            {
+              "word": "deliberate",
+              "pos": "adjective",
+              "meaning_ko": "의도적인, 신중한"
+            },
+            {
+              "word": "evaporate",
+              "pos": "verb",
+              "meaning_ko": "증발하다, 사라지다"
+            },
+            {
+              "word": "unhurried",
+              "pos": "adjective",
+              "meaning_ko": "서두르지 않는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "if I am being honest",
+              "meaning_ko": "솔직히 말하자면"
+            },
+            {
+              "phrase": "a kind of small, deliberate project",
+              "meaning_ko": "일종의 작고 의도적인 프로젝트"
+            },
+            {
+              "phrase": "take that small piece of authority back",
+              "meaning_ko": "그 작은 권한을 되찾다"
+            },
+            {
+              "phrase": "learned the hard way",
+              "meaning_ko": "어렵게 배웠다"
+            },
+            {
+              "phrase": "the small administrative debris of life",
+              "meaning_ko": "삶의 자잘한 행정 잔해"
+            },
+            {
+              "phrase": "the predictability is sort of the point",
+              "meaning_ko": "예측 가능하다는 게 어떻게 보면 핵심이다"
+            }
+          ],
+          "word_count": 338,
+          "estimated_read_seconds": 169
+        }
+      }
+    }
+  ]
+}
