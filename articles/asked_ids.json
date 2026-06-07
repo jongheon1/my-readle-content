@@ -7,7 +7,9 @@
       "science-how-memory-is-stored-in-the-brain",
       "science-how-volcanoes-erupt",
       "science-how-auroras-form",
-      "science-how-photosynthesis-works"
+      "science-how-photosynthesis-works",
+      "science-why-the-sky-is-blue",
+      "science-how-vaccines-train-the-immune-system"
     ],
     "academic_humanities": [
       "humanities-how-writing-was-invented",
@@ -15,7 +17,9 @@
       "humanities-why-impressionism-emerged",
       "humanities-how-the-printing-press-changed-the-world",
       "humanities-how-the-silk-road-shaped-world-history",
-      "humanities-how-democracy-began-in-athens"
+      "humanities-how-democracy-began-in-athens",
+      "humanities-why-the-renaissance-began",
+      "humanities-how-the-industrial-revolution-changed-work"
     ],
     "cs_concepts": [
       "cs-why-hash-table-lookup-is-o1-on-average",
@@ -24,7 +28,9 @@
       "cs-what-is-a-b-tree",
       "cs-how-recursion-works",
       "cs-how-hash-maps-handle-collisions",
-      "cs-how-garbage-collection-works"
+      "cs-how-garbage-collection-works",
+      "cs-how-quicksort-works",
+      "cs-how-a-compiler-works"
     ],
     "backend_systems": [
       "backend-what-is-consistent-hashing",
@@ -33,7 +39,9 @@
       "backend-how-rate-limiting-works",
       "backend-how-database-indexes-speed-up-queries",
       "backend-what-is-the-cap-theorem",
-      "backend-what-is-database-sharding"
+      "backend-what-is-database-sharding",
+      "backend-what-is-a-load-balancer",
+      "backend-what-is-database-replication"
     ],
     "speaking": [
       "behavioral-disagreed-technical-decision",
@@ -41,7 +49,9 @@
       "ielts-p2-describe-a-book-that-influenced-you",
       "ielts-p3-how-technology-changed-reading",
       "opic-tell-me-about-a-typical-weekend",
-      "behavioral-difficult-bug-debugged"
+      "behavioral-difficult-bug-debugged",
+      "ielts-p1-do-you-enjoy-cooking",
+      "ielts-p2-describe-a-place-you-like-to-relax"
     ]
   },
   "speaking_subtype_history": [
@@ -53,7 +63,9 @@
     "ielts_p2",
     "ielts_p3",
     "opic",
-    "behavioral"
+    "behavioral",
+    "ielts_p1",
+    "ielts_p2"
   ],
-  "updated_at": "2026-06-07T02:52:50.369850+00:00"
+  "updated_at": "2026-06-07T11:25:13.878138+00:00"
 }

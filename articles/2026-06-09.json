@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-09",
+  "topics": [
+    {
+      "topic_id": "2026-06-09-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "백신은 어떻게 면역계를 훈련시킬까?",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How Vaccines Train the Immune System",
+          "body": "Have you ever wondered how a small shot can stop a big disease? The answer is your body's defense team, called the immune system. A vaccine works like a practice game. It shows your body a safe, weak piece of a germ. Your body sees this piece and learns to fight it. It also makes special soldiers that remember the germ. Later, if the real germ enters your body, your immune system already knows what to do. Because of this, you get sick less, or not at all. A vaccine teaches your body before the danger comes.",
+          "word_count": 97,
+          "estimated_read_seconds": 48,
+          "vocab": [
+            {
+              "word": "shot",
+              "pos": "noun",
+              "meaning_ko": "주사"
+            },
+            {
+              "word": "disease",
+              "pos": "noun",
+              "meaning_ko": "질병"
+            },
+            {
+              "word": "germ",
+              "pos": "noun",
+              "meaning_ko": "세균, 병원체"
+            },
+            {
+              "word": "defense",
+              "pos": "noun",
+              "meaning_ko": "방어"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "your body's defense team",
+              "meaning_ko": "몸의 방어 부대"
+            },
+            {
+              "phrase": "works like a practice game",
+              "meaning_ko": "연습 경기처럼 작동한다"
+            },
+            {
+              "phrase": "learns to fight it",
+              "meaning_ko": "그것과 싸우는 법을 배운다"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "before the danger comes",
+              "meaning_ko": "위험이 오기 전에"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Vaccines Train the Immune System",
+          "body": "Have you ever wondered how a single injection can protect you from a serious illness for years? The secret lies in how vaccines train your immune system, the body's natural defense against germs.\n\nNormally, when a harmful germ enters your body, your immune system has to learn how to fight it from scratch. This takes time, and during that time you can become very sick. A vaccine solves this problem cleverly. It introduces a harmless version of the germ, or just a small part of it, so there is no real danger.\n\nYour immune system treats this as a practice battle. It studies the invader and builds special proteins called antibodies that can destroy it. More importantly, it creates memory cells that store the lesson. As a result, your body remembers the germ long after the vaccine is gone.\n\nSo if the real germ ever attacks, your defenses respond almost instantly. In other words, a vaccine does not fight the disease for you. Instead, it prepares your own body to win the fight quickly and safely.",
+          "word_count": 176,
+          "estimated_read_seconds": 88,
+          "vocab": [
+            {
+              "word": "injection",
+              "pos": "noun",
+              "meaning_ko": "주사"
+            },
+            {
+              "word": "immune system",
+              "pos": "noun",
+              "meaning_ko": "면역계"
+            },
+            {
+              "word": "antibody",
+              "pos": "noun",
+              "meaning_ko": "항체"
+            },
+            {
+              "word": "invader",
+              "pos": "noun",
+              "meaning_ko": "침입자"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "The secret lies in",
+              "meaning_ko": "비밀은 ~에 있다"
+            },
+            {
+              "phrase": "from scratch",
+              "meaning_ko": "처음부터, 맨바닥에서"
+            },
+            {
+              "phrase": "treats this as a practice battle",
+              "meaning_ko": "이것을 연습 전투로 여긴다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How Vaccines Train the Immune System",
+          "body": "Have you ever wondered how a vaccine you received as a child can still protect you decades later? The answer lies in the remarkable memory of the immune system, and in how cleverly a vaccine exploits it.\n\nWhen a real pathogen invades for the first time, your immune system is caught off guard. It must identify the threat, design a weapon against it, and mass-produce that weapon, all while the infection spreads. This delay is why first-time infections can be so dangerous. A vaccine removes the danger from this learning process. It presents the immune system with something that looks like the pathogen, a weakened microbe, a dead one, or merely a fragment such as a surface protein, but which cannot cause disease.\n\nFooled into action, the immune system mounts a full response. It produces antibodies, proteins precisely shaped to latch onto that specific invader, and it refines them through trial and error. Crucially, it also generates memory cells, long-lived cells that quietly patrol the body for years. As a result, the knowledge gained in this rehearsal is not lost when the threat disappears. It is, in effect, banked away for the future.\n\nThe payoff comes later. If the genuine pathogen ever arrives, the memory cells recognize it at once and trigger a response so fast and strong that the infection is often crushed before symptoms appear. In short, a vaccine does not do the fighting itself; it turns your body into a soldier that has already trained for a battle it has never fought.",
+          "word_count": 255,
+          "estimated_read_seconds": 128,
+          "vocab": [
+            {
+              "word": "pathogen",
+              "pos": "noun",
+              "meaning_ko": "병원체"
+            },
+            {
+              "word": "microbe",
+              "pos": "noun",
+              "meaning_ko": "미생물"
+            },
+            {
+              "word": "latch onto",
+              "pos": "phrasal verb",
+              "meaning_ko": "들러붙다"
+            },
+            {
+              "word": "rehearsal",
+              "pos": "noun",
+              "meaning_ko": "예행연습"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "The answer lies in",
+              "meaning_ko": "답은 ~에 있다"
+            },
+            {
+              "phrase": "caught off guard",
+              "meaning_ko": "허를 찔린, 무방비 상태인"
+            },
+            {
+              "phrase": "Fooled into action",
+              "meaning_ko": "속아서 움직이게 되어"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How Vaccines Train the Immune System",
+          "body": "Have you ever wondered how an injection given in infancy can stand guard over your health for the rest of your life? The explanation rests on one of biology's most elegant features: the immune system's capacity to learn, remember, and respond faster the second time around. A vaccine is, in essence, a carefully staged rehearsal that exploits this capacity without ever exposing you to real danger.\n\nConsider what happens during a natural first infection. A pathogen slips past the body's outer defenses and begins to multiply. The adaptive immune system, which produces precisely targeted weapons, has never encountered this particular invader before, so it must improvise from scratch: recognizing the threat, selecting cells whose receptors happen to fit it, and amplifying them into an army. All of this takes days, and in that window the pathogen may inflict serious harm. The fundamental problem, then, is one of timing.\n\nA vaccine attacks this problem directly by decoupling learning from risk. It introduces an antigen, something bearing the molecular signature of the pathogen, whether a weakened or inactivated microbe, a purified protein, or instructions that prompt your own cells to display such a protein. To the immune system, this looks like a genuine threat, and it responds in earnest. B cells manufacture antibodies tuned to the antigen, while the whole apparatus undergoes a process of refinement that sharpens the response. Most importantly, a population of memory cells is left behind once the mock battle subsides.\n\nHerein lies the durability of immunity. These memory cells persist for years, sometimes for a lifetime, circulating quietly until they are needed. Should the real pathogen ever breach the body's defenses, they recognize it immediately and unleash a secondary response that is dramatically swifter and more potent than the first. The infection is frequently neutralized before it can establish itself, which is why a vaccinated person may never even feel ill.\n\nIt is worth emphasizing what this means: the vaccine itself confers no direct protection. It heals nothing and attacks nothing. What it does is far subtler, educating the body so that its own defenses are primed and waiting. In that sense, vaccination is less a medicine than a form of biological tuition, and it ranks among the most consequential ideas in the history of medicine.",
+          "word_count": 379,
+          "estimated_read_seconds": 190,
+          "vocab": [
+            {
+              "word": "adaptive",
+              "pos": "adjective",
+              "meaning_ko": "적응(면역)의"
+            },
+            {
+              "word": "antigen",
+              "pos": "noun",
+              "meaning_ko": "항원"
+            },
+            {
+              "word": "inactivated",
+              "pos": "adjective",
+              "meaning_ko": "불활성화된"
+            },
+            {
+              "word": "confer",
+              "pos": "verb",
+              "meaning_ko": "부여하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "in essence",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "from scratch",
+              "meaning_ko": "맨바닥에서, 처음부터"
+            },
+            {
+              "phrase": "decoupling learning from risk",
+              "meaning_ko": "학습을 위험에서 분리하기"
+            },
+            {
+              "phrase": "Herein lies",
+              "meaning_ko": "여기에 ~이 있다"
+            },
+            {
+              "phrase": "In that sense",
+              "meaning_ko": "그런 의미에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-09-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "산업혁명은 일하는 방식을 어떻게 바꿨을까?",
+      "source_url": null,
+      "source_name": "Generated · 인문사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How the Industrial Revolution Changed Work",
+          "body": "Imagine a time when almost everyone worked on a farm or made things by hand at home. About two hundred years ago, this changed fast. New machines, powered by steam, could make cloth and goods much quicker than people could. These machines were big, so they were placed in large buildings called factories. People left their farms and moved to cities to work in them. Now they worked fixed hours, watched the clock, and did one small job again and again. Life became faster and more crowded. This huge change is called the Industrial Revolution.",
+          "word_count": 95,
+          "estimated_read_seconds": 48,
+          "vocab": [
+            {
+              "word": "machine",
+              "pos": "noun",
+              "meaning_ko": "기계"
+            },
+            {
+              "word": "steam",
+              "pos": "noun",
+              "meaning_ko": "증기"
+            },
+            {
+              "word": "factory",
+              "pos": "noun",
+              "meaning_ko": "공장"
+            },
+            {
+              "word": "crowded",
+              "pos": "adjective",
+              "meaning_ko": "붐비는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine a time when",
+              "meaning_ko": "~한 시대를 상상해 보라"
+            },
+            {
+              "phrase": "this changed fast",
+              "meaning_ko": "이것이 빠르게 바뀌었다"
+            },
+            {
+              "phrase": "by hand at home",
+              "meaning_ko": "집에서 손으로"
+            },
+            {
+              "phrase": "moved to cities",
+              "meaning_ko": "도시로 이주했다"
+            },
+            {
+              "phrase": "again and again",
+              "meaning_ko": "반복해서"
+            },
+            {
+              "phrase": "is called the Industrial Revolution",
+              "meaning_ko": "산업혁명이라 불린다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How the Industrial Revolution Changed Work",
+          "body": "Have you ever thought about how different work was before factories existed? For most of history, people made goods slowly, by hand, often in their own homes. Then, beginning in Britain around 1760, the Industrial Revolution transformed everything.\n\nThe key was the machine. Inventions powered by water and steam could spin thread and weave cloth far faster than any human. Because these machines were large and expensive, they were gathered together in factories. As a result, work moved out of the home and into a single, central place.\n\nThis shift changed daily life completely. Millions of people left the countryside and moved to growing cities to find jobs. Instead of following the rhythm of the seasons, workers now followed the clock, arriving at fixed times and repeating the same task for long hours.\n\nThere were real costs. Early factories were often noisy, dangerous, and poorly paid, and even children worked in them. Yet over time, this new system also produced more goods, lower prices, and eventually higher wages. In other words, the Industrial Revolution reshaped not just how we work, but how we live.",
+          "word_count": 184,
+          "estimated_read_seconds": 92,
+          "vocab": [
+            {
+              "word": "transform",
+              "pos": "verb",
+              "meaning_ko": "변모시키다"
+            },
+            {
+              "word": "weave",
+              "pos": "verb",
+              "meaning_ko": "(천을) 짜다"
+            },
+            {
+              "word": "countryside",
+              "pos": "noun",
+              "meaning_ko": "시골"
+            },
+            {
+              "word": "wages",
+              "pos": "noun",
+              "meaning_ko": "임금"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever thought about",
+              "meaning_ko": "~에 대해 생각해 본 적 있나요"
+            },
+            {
+              "phrase": "The key was the machine",
+              "meaning_ko": "핵심은 기계였다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "followed the clock",
+              "meaning_ko": "시계를 따랐다"
+            },
+            {
+              "phrase": "There were real costs",
+              "meaning_ko": "실제 대가가 있었다"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How the Industrial Revolution Changed Work",
+          "body": "Have you ever wondered why we go 'to work' at all, leaving home to spend the day somewhere else? That everyday habit was largely invented during the Industrial Revolution, a transformation that began in Britain in the late eighteenth century and reshaped human labor forever.\n\nBefore it, most production was domestic and small in scale. Families farmed the land or practiced crafts in their cottages, working at a pace set by daylight and the seasons. The arrival of powered machinery shattered this arrangement. Devices driven by water wheels and then steam engines could spin and weave at speeds no human hand could match, but they were too large and costly to keep at home. As a result, production was concentrated into factories, and workers had to come to the machines rather than the other way around.\n\nThe consequences rippled through society. A vast migration emptied the countryside and swelled the cities, creating crowded industrial towns almost overnight. Time itself was redefined: the factory clock replaced the rhythm of nature, and punctuality became a virtue. Labor was divided into narrow, repetitive tasks, so that a worker might perform a single motion all day rather than craft a whole product.\n\nNot all of this was progress. Early factories were frequently dangerous and exhausting, wages were low, and child labor was common. Over the longer term, however, the system generated unprecedented wealth, cheaper goods, and eventually movements for shorter hours and better conditions. In short, the Industrial Revolution did not merely change what people produced; it rewrote the very meaning of a working day.",
+          "word_count": 261,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "domestic",
+              "pos": "adjective",
+              "meaning_ko": "가정의, 집안의"
+            },
+            {
+              "word": "migration",
+              "pos": "noun",
+              "meaning_ko": "이주"
+            },
+            {
+              "word": "punctuality",
+              "pos": "noun",
+              "meaning_ko": "시간 엄수"
+            },
+            {
+              "word": "unprecedented",
+              "pos": "adjective",
+              "meaning_ko": "전례 없는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered why",
+              "meaning_ko": "왜 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "Before it",
+              "meaning_ko": "그 이전에는"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "The consequences rippled through",
+              "meaning_ko": "그 여파가 ~에 퍼졌다"
+            },
+            {
+              "phrase": "Not all of this was progress",
+              "meaning_ko": "이 모두가 진보는 아니었다"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How the Industrial Revolution Changed Work",
+          "body": "Have you ever paused to consider why the modern day is split so neatly into 'work' and 'home', two separate places governed by two different clocks? This division feels timeless, yet it is largely an invention of the Industrial Revolution, the sweeping economic transformation that began in Britain around 1760 and went on to remake the texture of everyday labor across the world.\n\nTo appreciate the magnitude of the change, one must first picture what preceded it. For most of human history, production was overwhelmingly domestic and decentralized. Peasants worked the fields, and artisans plied their trades in cottages, often combining work with family life and pacing their efforts by daylight, weather, and the agricultural calendar. Output was modest, and the boundary between labor and leisure was porous.\n\nThe introduction of powered machinery overturned this world. Mechanical spinners and looms, driven first by water and later by steam, could produce textiles at volumes and speeds that manual labor could never approach. Because such machinery was bulky and expensive, it could not be distributed among scattered households; instead it had to be housed under one roof, and workers had to assemble around it. From this simple logistical fact emerged the factory, and with the factory came a wholly new organization of human time and effort.\n\nThe ramifications were profound and far-reaching. Enormous numbers of people abandoned the countryside for the rising industrial cities, producing urban concentrations of a scale never seen before. The natural rhythms that had always structured work gave way to the discipline of the clock, so that punctuality, the shift, and the wage hour became the new coordinates of life. Labor was subdivided through the principle of the division of labor, reducing complex crafts to simple, repeated motions that demanded little skill but yielded great efficiency.\n\nIt would be sentimental to mourn the old order uncritically, for it too was marked by poverty and hardship. Yet the early industrial system exacted a heavy human price: brutal hours, perilous conditions, meager pay, and the widespread employment of children. Only gradually, through reform and collective action, did wages rise and conditions improve. What endured was something deeper than any particular factory or trade, namely a redefinition of work itself, transformed from a household activity woven into the fabric of family life into a separate, timed, and disciplined sphere. We still inhabit that legacy every time we commute.",
+          "word_count": 397,
+          "estimated_read_seconds": 198,
+          "vocab": [
+            {
+              "word": "decentralized",
+              "pos": "adjective",
+              "meaning_ko": "분산된"
+            },
+            {
+              "word": "artisan",
+              "pos": "noun",
+              "meaning_ko": "장인"
+            },
+            {
+              "word": "ramification",
+              "pos": "noun",
+              "meaning_ko": "파급 효과"
+            },
+            {
+              "word": "legacy",
+              "pos": "noun",
+              "meaning_ko": "유산"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever paused to consider",
+              "meaning_ko": "~을 한번 생각해 본 적 있나요"
+            },
+            {
+              "phrase": "To appreciate the magnitude",
+              "meaning_ko": "그 규모를 이해하려면"
+            },
+            {
+              "phrase": "From this simple logistical fact",
+              "meaning_ko": "이 단순한 물리적 사실에서"
+            },
+            {
+              "phrase": "The ramifications were profound",
+              "meaning_ko": "그 파급 효과는 깊었다"
+            },
+            {
+              "phrase": "It would be sentimental to",
+              "meaning_ko": "~하는 것은 감상적일 것이다"
+            },
+            {
+              "phrase": "What endured was",
+              "meaning_ko": "끝까지 남은 것은"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-09-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "컴파일러는 어떻게 동작할까?",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How a Compiler Works",
+          "body": "Imagine you write a letter in English, but your friend only reads Korean. You need a translator to change your words so your friend understands. A computer has the same problem. People write programs in languages that are easy for humans, like Python or C. But a computer only understands very simple number codes. A compiler is the translator in the middle. It reads the whole program you wrote and turns it into the number codes the machine can run. Because of this, you can write in friendly words, and the computer still knows exactly what to do.",
+          "word_count": 98,
+          "estimated_read_seconds": 49,
+          "vocab": [
+            {
+              "word": "translator",
+              "pos": "noun",
+              "meaning_ko": "번역기, 통역사"
+            },
+            {
+              "word": "program",
+              "pos": "noun",
+              "meaning_ko": "프로그램"
+            },
+            {
+              "word": "language",
+              "pos": "noun",
+              "meaning_ko": "언어"
+            },
+            {
+              "word": "code",
+              "pos": "noun",
+              "meaning_ko": "코드"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine you write",
+              "meaning_ko": "당신이 ~을 쓴다고 상상해 보라"
+            },
+            {
+              "phrase": "the same problem",
+              "meaning_ko": "같은 문제"
+            },
+            {
+              "phrase": "easy for humans",
+              "meaning_ko": "사람에게 쉬운"
+            },
+            {
+              "phrase": "the translator in the middle",
+              "meaning_ko": "중간의 번역기"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "knows exactly what to do",
+              "meaning_ko": "무엇을 할지 정확히 안다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How a Compiler Works",
+          "body": "Have you ever wondered how the code a programmer types actually makes a computer do anything? After all, a computer chip only understands tiny instructions made of numbers, not words like 'print' or 'if'. The bridge between the two is a program called a compiler.\n\nA compiler is a translator. It takes source code, written in a human-friendly language such as C or Rust, and converts it into machine code that the processor can run directly. But it does not translate word by word. Instead, it works in several careful stages.\n\nFirst, it breaks the code into small pieces and checks that the grammar is correct, much like checking a sentence for mistakes. Next, it builds a structured model of what the program means. Then it improves this model, removing waste to make the program faster. Finally, it produces the machine code.\n\nAs a result, the programmer can write in a clear, readable language, while the computer receives exactly the low-level instructions it needs. In other words, the compiler lets humans and machines meet in the middle, each working in the form that suits them best.",
+          "word_count": 186,
+          "estimated_read_seconds": 93,
+          "vocab": [
+            {
+              "word": "source code",
+              "pos": "noun",
+              "meaning_ko": "소스 코드"
+            },
+            {
+              "word": "convert",
+              "pos": "verb",
+              "meaning_ko": "변환하다"
+            },
+            {
+              "word": "processor",
+              "pos": "noun",
+              "meaning_ko": "프로세서, 처리기"
+            },
+            {
+              "word": "stage",
+              "pos": "noun",
+              "meaning_ko": "단계"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "After all",
+              "meaning_ko": "어쨌든, 따지고 보면"
+            },
+            {
+              "phrase": "The bridge between the two",
+              "meaning_ko": "둘 사이의 다리"
+            },
+            {
+              "phrase": "it works in several careful stages",
+              "meaning_ko": "여러 단계로 신중하게 작동한다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How a Compiler Works",
+          "body": "Have you ever wondered what really happens between the moment you write a line of code and the moment a program runs? The code you type is comfortable for a human to read, but a processor understands only raw machine instructions encoded as numbers. A compiler is the sophisticated translator that bridges this gap, and it does so through a pipeline of distinct stages.\n\nThe journey begins with lexical analysis, where the compiler scans your source code and chops it into meaningful tokens, the keywords, names, and symbols that make up the language. Next comes parsing, which arranges those tokens into a tree that captures the grammatical structure of the program. If the code breaks the rules of the language, this is where the error surfaces.\n\nOnce the structure is understood, the compiler performs semantic analysis, checking that the program actually makes sense, for example that you are not adding a number to a piece of text. After that, many compilers translate the program into an intermediate representation, a simplified internal form that is easier to manipulate. Here the optimizer goes to work, rewriting the code to run faster or use less memory without changing its behavior. Nothing the program actually does should look any different to the person using it.\n\nFinally, the code generator emits machine code tailored to the target processor. As a result, a single readable program can be transformed into fast, low-level instructions. In short, a compiler is not a simple dictionary lookup but a careful, multi-stage craftsman that turns human intention into something a machine can execute.",
+          "word_count": 262,
+          "estimated_read_seconds": 131,
+          "vocab": [
+            {
+              "word": "token",
+              "pos": "noun",
+              "meaning_ko": "토큰, 의미 단위"
+            },
+            {
+              "word": "parsing",
+              "pos": "noun",
+              "meaning_ko": "구문 분석"
+            },
+            {
+              "word": "semantic",
+              "pos": "adjective",
+              "meaning_ko": "의미의, 의미론적"
+            },
+            {
+              "word": "optimizer",
+              "pos": "noun",
+              "meaning_ko": "최적화기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered what",
+              "meaning_ko": "무엇이 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "The journey begins with",
+              "meaning_ko": "그 여정은 ~로 시작된다"
+            },
+            {
+              "phrase": "Next comes",
+              "meaning_ko": "다음으로 ~이 온다"
+            },
+            {
+              "phrase": "Here the optimizer goes to work",
+              "meaning_ko": "여기서 최적화기가 작동한다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How a Compiler Works",
+          "body": "Have you ever wondered what mysterious process transforms the readable lines of a program into something a silicon chip can actually obey? The gap is wider than it first appears. A processor comprehends nothing but streams of binary instructions, each a terse command to move, add, or compare numbers, whereas the languages we write in are rich with names, structures, and abstractions designed for human minds. The compiler is the elaborate machinery that closes this gap, and it does so not in a single leap but through a disciplined sequence of phases.\n\nThe first phase, lexical analysis, treats the source code as raw text and segments it into tokens, the atomic units of meaning such as identifiers, keywords, operators, and literals. These tokens then flow into the parser, which assembles them according to the grammar of the language into a hierarchical structure known as an abstract syntax tree. This tree is the compiler's first genuine understanding of the program's shape, and any violation of the language's syntax is caught precisely here.\n\nStructure alone, however, does not guarantee sense. During semantic analysis the compiler enforces the deeper rules of meaning, verifying that types match, that variables are declared before use, and that operations are legitimate. Only once a program survives this scrutiny does the compiler typically lower it into an intermediate representation, a deliberately simplified form that is independent of both the source language and the target hardware. This neutral middle ground is where much of a compiler's intelligence resides.\n\nIt is in this intermediate stage that optimization unfolds. The optimizer applies a battery of transformations, eliminating redundant computations, unrolling loops, folding constants, and reordering instructions, all while rigorously preserving the program's observable behavior. The art lies in making the code faster or leaner without ever altering what it actually does.\n\nThe final phase, code generation, translates the optimized intermediate form into machine code aimed at a specific processor architecture, allocating registers and selecting concrete instructions. The result is an executable that runs at native speed. Viewed as a whole, a compiler is far more than a translator; it is an analyst, a logician, and an optimizing engineer rolled into one, and it embodies decades of accumulated insight into how to bridge the chasm between human thought and machine execution.",
+          "word_count": 379,
+          "estimated_read_seconds": 190,
+          "vocab": [
+            {
+              "word": "abstraction",
+              "pos": "noun",
+              "meaning_ko": "추상화"
+            },
+            {
+              "word": "hierarchical",
+              "pos": "adjective",
+              "meaning_ko": "계층적인"
+            },
+            {
+              "word": "intermediate representation",
+              "pos": "noun",
+              "meaning_ko": "중간 표현"
+            },
+            {
+              "word": "register",
+              "pos": "noun",
+              "meaning_ko": "레지스터"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered what",
+              "meaning_ko": "무엇이 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "not in a single leap",
+              "meaning_ko": "단번에가 아니라"
+            },
+            {
+              "phrase": "Structure alone, however",
+              "meaning_ko": "그러나 구조만으로는"
+            },
+            {
+              "phrase": "It is in this intermediate stage",
+              "meaning_ko": "바로 이 중간 단계에서"
+            },
+            {
+              "phrase": "The art lies in",
+              "meaning_ko": "그 묘미는 ~에 있다"
+            },
+            {
+              "phrase": "Viewed as a whole",
+              "meaning_ko": "전체로 보면"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-09-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "데이터베이스 복제(replication)란 무엇일까?",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What Is Database Replication?",
+          "body": "Imagine you keep all your important notes in one notebook. If you lose it, everything is gone. So you decide to make copies and keep them in different places. Now you are safe. Databases do the same thing. A database stores a company's important data, like users and orders. Database replication means keeping live copies of that data on more than one server. If one server breaks, another copy is ready. Copies also help speed: many users can read from different copies at the same time. Because of this, the system stays safe and fast.",
+          "word_count": 95,
+          "estimated_read_seconds": 48,
+          "vocab": [
+            {
+              "word": "notebook",
+              "pos": "noun",
+              "meaning_ko": "공책, 노트"
+            },
+            {
+              "word": "copy",
+              "pos": "noun",
+              "meaning_ko": "사본, 복사본"
+            },
+            {
+              "word": "data",
+              "pos": "noun",
+              "meaning_ko": "데이터, 자료"
+            },
+            {
+              "word": "store",
+              "pos": "verb",
+              "meaning_ko": "저장하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine you keep",
+              "meaning_ko": "~을 보관한다고 상상해 보라"
+            },
+            {
+              "phrase": "make copies",
+              "meaning_ko": "사본을 만들다"
+            },
+            {
+              "phrase": "do the same thing",
+              "meaning_ko": "같은 일을 한다"
+            },
+            {
+              "phrase": "more than one server",
+              "meaning_ko": "둘 이상의 서버"
+            },
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What Is Database Replication?",
+          "body": "Have you ever wondered what happens to a website's data if its database server suddenly fails? If there were only one copy, everything could be lost, and the site would go down. To prevent this, engineers use a technique called database replication.\n\nReplication simply means keeping copies of the same data on several servers at once. Usually, one server is the 'primary' and handles all the writes, meaning new or changed data. Whenever the primary is updated, it sends those changes to the other servers, called 'replicas', so they stay in sync.\n\nThis setup brings two big benefits. The first is safety: if the primary fails, a replica can take over, and little or no data is lost. The second is speed. Reading data is very common, so the system can spread read requests across many replicas instead of overloading a single machine.\n\nThere is a small trade-off, though. It takes a tiny moment for changes to reach every replica, so a replica might be slightly out of date. In most cases this delay is harmless. As a result, replication makes systems both more reliable and more scalable.",
+          "word_count": 188,
+          "estimated_read_seconds": 94,
+          "vocab": [
+            {
+              "word": "primary",
+              "pos": "noun",
+              "meaning_ko": "주(主) 서버, 프라이머리"
+            },
+            {
+              "word": "replica",
+              "pos": "noun",
+              "meaning_ko": "복제본"
+            },
+            {
+              "word": "in sync",
+              "pos": "phrase",
+              "meaning_ko": "동기화된"
+            },
+            {
+              "word": "trade-off",
+              "pos": "noun",
+              "meaning_ko": "절충, 트레이드오프"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered what",
+              "meaning_ko": "무엇이 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "To prevent this",
+              "meaning_ko": "이를 막기 위해"
+            },
+            {
+              "phrase": "stay in sync",
+              "meaning_ko": "동기화 상태를 유지하다"
+            },
+            {
+              "phrase": "two big benefits",
+              "meaning_ko": "두 가지 큰 이점"
+            },
+            {
+              "phrase": "There is a small trade-off, though",
+              "meaning_ko": "하지만 작은 절충이 있다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What Is Database Replication?",
+          "body": "Have you ever wondered how a major online service keeps running even when one of its database servers dies in the middle of the night? A large part of the answer is database replication, the practice of maintaining multiple live copies of the same data across different machines.\n\nThe basic arrangement is straightforward. One server, the primary, accepts all writes, the operations that create or change data. Every time it commits a change, it streams that change to one or more replicas, which apply the same change to their own copies. In this way, the replicas continually mirror the primary, ready to step in at a moment's notice. Crucially, this copying happens continuously, not just once a day as an old-fashioned backup would.\n\nThis design delivers two major advantages. The first is durability and availability: should the primary fail, one of the replicas can be promoted to take its place, so the system survives hardware failures with minimal data loss. The second is read scalability. Because most applications read far more often than they write, queries can be distributed across many replicas, dramatically increasing the volume of traffic the system can serve.\n\nThere is, however, a subtle catch known as replication lag. Changes take a brief moment to propagate, so a replica may momentarily return slightly stale data. For many use cases this is perfectly acceptable, but for operations that demand the very latest value, requests must be routed to the primary. In short, replication is a powerful tool for reliability and scale, provided engineers understand and design around its trade-offs.",
+          "word_count": 261,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "commit",
+              "pos": "verb",
+              "meaning_ko": "(변경을) 확정하다"
+            },
+            {
+              "word": "mirror",
+              "pos": "verb",
+              "meaning_ko": "그대로 반영하다"
+            },
+            {
+              "word": "propagate",
+              "pos": "verb",
+              "meaning_ko": "전파되다"
+            },
+            {
+              "word": "stale",
+              "pos": "adjective",
+              "meaning_ko": "오래된, 최신이 아닌"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "The basic arrangement is straightforward",
+              "meaning_ko": "기본 구조는 간단하다"
+            },
+            {
+              "phrase": "two major advantages",
+              "meaning_ko": "두 가지 주요 이점"
+            },
+            {
+              "phrase": "There is, however, a subtle catch",
+              "meaning_ko": "하지만 미묘한 함정이 있다"
+            },
+            {
+              "phrase": "For many use cases",
+              "meaning_ko": "많은 경우에"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What Is Database Replication?",
+          "body": "Have you ever wondered how a global service can promise that your data is safe and your queries are fast, even as individual servers inevitably crash, reboot, or fall behind? One of the foundational answers is database replication, the discipline of keeping several synchronized copies of the same dataset on separate machines so that the failure of any one of them need not become a failure of the whole.\n\nThe canonical pattern is leader-follower replication. A single node, the leader or primary, is designated to accept all write operations. Whenever it durably records a change, it transmits a description of that change, often as an ordered log of events, to its followers, which replay the same operations against their own copies. The followers thus track the leader's state continuously, lagging behind only by the brief interval it takes for updates to travel and be applied.\n\nThe benefits of this arrangement are twofold and substantial. The first concerns resilience. Because the data exists in multiple places, the sudden loss of the primary need not be catastrophic; a follower can be promoted to leader, and service resumes with little or no data lost. The second concerns scalability of reads. In the overwhelming majority of applications, reads vastly outnumber writes, so directing read traffic across a fleet of followers multiplies the throughput the system can sustain without touching the primary at all.\n\nYet replication is not without its complications, and the most important of these is replication lag. Since followers apply changes a moment after the leader, a client reading from a follower may observe data that is slightly out of date, an apparent violation of the intuitive expectation that you can always read what you just wrote. Systems address this in various ways, from routing latency-sensitive reads to the primary, to offering tunable consistency guarantees that let each application choose its own balance between freshness and performance. There is also the delicate matter of failover: deciding when a leader has truly died, electing a successor, and ensuring that two nodes never believe themselves to be leader at once, a dangerous condition known as split-brain.\n\nSeen in full, replication is far more than a backup strategy. It is a deliberate trade among consistency, availability, and performance, and mastering it is one of the central challenges of building systems that remain both trustworthy and fast at scale.",
+          "word_count": 393,
+          "estimated_read_seconds": 196,
+          "vocab": [
+            {
+              "word": "canonical",
+              "pos": "adjective",
+              "meaning_ko": "표준적인, 정석의"
+            },
+            {
+              "word": "resilience",
+              "pos": "noun",
+              "meaning_ko": "회복력, 복원력"
+            },
+            {
+              "word": "throughput",
+              "pos": "noun",
+              "meaning_ko": "처리량"
+            },
+            {
+              "word": "failover",
+              "pos": "noun",
+              "meaning_ko": "장애 조치, 페일오버"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "The canonical pattern is",
+              "meaning_ko": "표준적인 패턴은 ~이다"
+            },
+            {
+              "phrase": "twofold and substantial",
+              "meaning_ko": "두 가지이며 상당하다"
+            },
+            {
+              "phrase": "Yet replication is not without its complications",
+              "meaning_ko": "그러나 복제에도 복잡함이 따른다"
+            },
+            {
+              "phrase": "There is also the delicate matter of",
+              "meaning_ko": "또한 ~라는 미묘한 문제가 있다"
+            },
+            {
+              "phrase": "Seen in full",
+              "meaning_ko": "전체적으로 보면"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-09-speaking-01",
+      "category": "speaking",
+      "title_ko": "[IELTS P2] 휴식하기 좋아하는 장소를 묘사하세요",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 2",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Describe a place you like to relax.",
+          "body": "I'd like to talk about a place where I love to relax. It is a small park near my apartment. It takes only ten minutes to walk there, so I go quite often.\n\nThe park is not big, but it is very green. There are tall trees, a small pond, and a few wooden benches. In spring, there are many flowers, and the air smells fresh. I usually go there in the early evening, after work.\n\nWhat do I do there? Most of the time, I just sit on a bench and listen to music. Sometimes I bring a book and read for a while. On weekends, I walk slowly around the pond and watch the ducks.\n\nI like this place because it is quiet and calm. There are not many people, so it feels peaceful. After a busy day, sitting under the trees helps me forget my stress. To be honest, just twenty minutes there makes me feel much better. That is why this little park is my favorite place to relax.",
+          "word_count": 173,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "park",
+              "pos": "noun",
+              "meaning_ko": "공원"
+            },
+            {
+              "word": "bench",
+              "pos": "noun",
+              "meaning_ko": "벤치"
+            },
+            {
+              "word": "pond",
+              "pos": "noun",
+              "meaning_ko": "연못"
+            },
+            {
+              "word": "peaceful",
+              "pos": "adjective",
+              "meaning_ko": "평화로운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶다"
+            },
+            {
+              "phrase": "I go quite often",
+              "meaning_ko": "꽤 자주 간다"
+            },
+            {
+              "phrase": "What do I do there?",
+              "meaning_ko": "거기서 뭘 하냐면"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "helps me forget my stress",
+              "meaning_ko": "스트레스를 잊게 해준다"
+            },
+            {
+              "phrase": "That is why",
+              "meaning_ko": "그래서 ~이다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Describe a place you like to relax.",
+          "body": "I'd like to describe a place where I really enjoy relaxing, which is a small rooftop cafe in my neighborhood. It's only about a ten-minute walk from my home, so I drop by whenever I need a break.\n\nThe cafe is on the top floor of an old building, and the best part is the open terrace. From there, you can see the whole city and, on clear days, the mountains in the distance. It's decorated in a simple way, with wooden tables, lots of green plants, and soft music playing in the background.\n\nI usually go there in the late afternoon, especially on weekends. To be honest, my routine is pretty simple: I order a cup of coffee, find a seat by the railing, and just watch the city move below me. Sometimes I read or write in my journal, and other times I meet a close friend for a long chat.\n\nWhat makes this place so relaxing is the atmosphere. It's high above the noisy streets, so it feels calm and a little private, almost like a small escape. The view also helps me put things in perspective when I'm stressed about work. After an hour up there, I always come down feeling lighter and more clear-headed. That's why, whenever life gets too busy, this rooftop cafe is the first place I think of.",
+          "word_count": 226,
+          "estimated_read_seconds": 113,
+          "vocab": [
+            {
+              "word": "rooftop",
+              "pos": "noun",
+              "meaning_ko": "옥상"
+            },
+            {
+              "word": "terrace",
+              "pos": "noun",
+              "meaning_ko": "테라스"
+            },
+            {
+              "word": "railing",
+              "pos": "noun",
+              "meaning_ko": "난간"
+            },
+            {
+              "word": "atmosphere",
+              "pos": "noun",
+              "meaning_ko": "분위기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to describe",
+              "meaning_ko": "~을 묘사하고 싶다"
+            },
+            {
+              "phrase": "the best part is",
+              "meaning_ko": "가장 좋은 점은"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "What makes this place so relaxing",
+              "meaning_ko": "이곳을 편안하게 만드는 것은"
+            },
+            {
+              "phrase": "put things in perspective",
+              "meaning_ko": "상황을 객관적으로 보다"
+            },
+            {
+              "phrase": "That's why",
+              "meaning_ko": "그래서 ~이다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Describe a place you like to relax.",
+          "body": "I'd like to talk about a place that I always turn to when I need to unwind, and that's a quiet beach about an hour's drive from where I live. It isn't a famous tourist spot, which is exactly why I love it; even in summer, it never gets too crowded.\n\nTo set the scene, it's a long stretch of pale sand backed by low pine trees, with the sea usually calm and a soft grey-blue. There's a small wooden boardwalk leading down to the water, and apart from a tiny cafe at one end, there's very little development. The first thing that hits you when you arrive is the sound, just waves and wind, with none of the noise of the city. It's the kind of deep quiet that you can almost feel settling over you.\n\nI tend to go there every few weeks, usually on a Sunday morning when I want to escape my routine. What I do is fairly low-key. I'll take a long walk along the shoreline, sometimes for an hour or more, and then sit on the sand with a coffee and simply watch the waves. On warmer days I might swim, but honestly, I'm just as happy doing nothing at all.\n\nWhat makes it so relaxing, I think, is the sense of space and distance. Being next to something as vast as the ocean has a way of shrinking my worries and putting daily stress into perspective. The repetitive sound of the waves is almost hypnotic, and after a couple of hours there, I feel completely reset. That's why, whenever I've had a difficult week, this beach is the place I find myself driving to without even thinking about it.",
+          "word_count": 286,
+          "estimated_read_seconds": 143,
+          "vocab": [
+            {
+              "word": "unwind",
+              "pos": "verb",
+              "meaning_ko": "긴장을 풀다"
+            },
+            {
+              "word": "boardwalk",
+              "pos": "noun",
+              "meaning_ko": "(해변) 산책로"
+            },
+            {
+              "word": "shoreline",
+              "pos": "noun",
+              "meaning_ko": "해안선"
+            },
+            {
+              "word": "hypnotic",
+              "pos": "adjective",
+              "meaning_ko": "최면을 거는 듯한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶다"
+            },
+            {
+              "phrase": "To set the scene",
+              "meaning_ko": "분위기를 설명하자면"
+            },
+            {
+              "phrase": "What I do is fairly low-key",
+              "meaning_ko": "내가 하는 것은 꽤 소박하다"
+            },
+            {
+              "phrase": "putting daily stress into perspective",
+              "meaning_ko": "일상의 스트레스를 객관적으로 보게 한다"
+            },
+            {
+              "phrase": "completely reset",
+              "meaning_ko": "완전히 재충전된"
+            },
+            {
+              "phrase": "That's why",
+              "meaning_ko": "그래서 ~이다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Describe a place you like to relax.",
+          "body": "I'd like to describe a place that has become something of a personal sanctuary for me, and that's a small mountain cabin that belongs to my uncle, tucked away in a forested valley a few hours north of the city. I've been going there since I was a child, so it carries a lot of meaning beyond just being a pretty location.\n\nTo paint a picture, the cabin itself is modest, just a wooden structure with a porch, a fireplace, and big windows that look straight out onto the trees. There's no proper internet signal, which sounds inconvenient but is actually the whole point. In the morning you wake up to birdsong and mist hanging over the pines, and at night the sky is absolutely thick with stars, far more than you could ever see in the city.\n\nI try to escape there a few times a year, usually when I feel I've been running on empty for too long. What I do once I arrive is deliberately unstructured. I'll go for long walks along the forest trails, chop a bit of firewood, read books I've been meaning to get to, and cook slow meals without watching the clock. To be honest, half the appeal is everything I don't do; no emails, no notifications, no sense of being constantly available. For those few days, the endless to-do list that usually runs in the back of my mind simply goes quiet, and I rediscover how pleasant it is to be a little bored in the best possible way.\n\nWhat makes it so deeply restorative, I'd say, is the complete change of pace. Being cut off from technology forces me to slow down in a way I never manage at home, and the quiet of the forest seems to reset something in my head. There's also a strong emotional pull, since the place is bound up with childhood memories and family. By the time I leave, I always feel as though I've stepped out of my ordinary life for a while and come back as a slightly calmer version of myself. That's precisely why, whenever the pressure builds up, this little cabin in the mountains is the first place my mind escapes to.",
+          "word_count": 371,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "sanctuary",
+              "pos": "noun",
+              "meaning_ko": "안식처, 피난처"
+            },
+            {
+              "word": "modest",
+              "pos": "adjective",
+              "meaning_ko": "소박한, 아담한"
+            },
+            {
+              "word": "restorative",
+              "pos": "adjective",
+              "meaning_ko": "회복시켜 주는"
+            },
+            {
+              "word": "unstructured",
+              "pos": "adjective",
+              "meaning_ko": "짜여 있지 않은, 자유로운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to describe",
+              "meaning_ko": "~을 묘사하고 싶다"
+            },
+            {
+              "phrase": "To paint a picture",
+              "meaning_ko": "그림을 그리듯 설명하자면"
+            },
+            {
+              "phrase": "running on empty",
+              "meaning_ko": "방전된, 에너지가 바닥난"
+            },
+            {
+              "phrase": "What I do once I arrive",
+              "meaning_ko": "도착하면 내가 하는 것은"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "That's precisely why",
+              "meaning_ko": "바로 그래서 ~이다"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

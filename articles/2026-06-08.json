@@ -1,0 +1,1108 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-08",
+  "topics": [
+    {
+      "topic_id": "2026-06-08-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "하늘은 왜 파란색일까?",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why the Sky Is Blue",
+          "body": "Have you ever looked up and wondered why the sky is blue? The answer is hidden inside sunlight. Sunlight looks white, but it is really made of many colors mixed together. Red, orange, yellow, green, and blue are all there. When sunlight enters the air, it hits tiny bits of gas. These tiny bits push the light in every direction. Blue light is small and easy to bounce, so it spreads the most. Because of this, blue light fills the sky above your head. So when you look up, you see blue almost everywhere.",
+          "word_count": 94,
+          "estimated_read_seconds": 47,
+          "vocab": [
+            {
+              "word": "sunlight",
+              "pos": "noun",
+              "meaning_ko": "햇빛"
+            },
+            {
+              "word": "color",
+              "pos": "noun",
+              "meaning_ko": "색"
+            },
+            {
+              "word": "bounce",
+              "pos": "verb",
+              "meaning_ko": "튀다, 반사되다"
+            },
+            {
+              "word": "spread",
+              "pos": "verb",
+              "meaning_ko": "퍼지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever",
+              "meaning_ko": "~해 본 적 있나요"
+            },
+            {
+              "phrase": "hidden inside",
+              "meaning_ko": "~안에 숨어 있는"
+            },
+            {
+              "phrase": "made of many colors",
+              "meaning_ko": "여러 색으로 이루어진"
+            },
+            {
+              "phrase": "in every direction",
+              "meaning_ko": "사방으로"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "So when you look up",
+              "meaning_ko": "그래서 위를 올려다보면"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why the Sky Is Blue",
+          "body": "Have you ever wondered why the sky looks blue during the day? The secret lies in sunlight and the air around us. Although sunlight seems white, it actually contains every color of the rainbow mixed together. As this light travels through the atmosphere, it bumps into tiny molecules of gas, mainly nitrogen and oxygen.\n\nWhen light hits these molecules, it scatters, which means it bounces off in many directions. However, not all colors scatter in the same way. Blue light travels in short waves, and short waves scatter much more strongly than long ones. Because of this, blue light gets spread all across the sky.\n\nThat is why, no matter which direction you look, the sky glows with soft blue light. At sunset, something different happens. The sunlight must pass through much more air before it reaches your eyes. By then, most of the blue has scattered away, and the warmer reds and oranges are left behind. In other words, the same sunlight can paint a blue noon and a red evening.",
+          "word_count": 172,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "atmosphere",
+              "pos": "noun",
+              "meaning_ko": "대기"
+            },
+            {
+              "word": "scatter",
+              "pos": "verb",
+              "meaning_ko": "산란하다, 흩어지다"
+            },
+            {
+              "word": "molecule",
+              "pos": "noun",
+              "meaning_ko": "분자"
+            },
+            {
+              "word": "glow",
+              "pos": "verb",
+              "meaning_ko": "은은히 빛나다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "The secret lies in",
+              "meaning_ko": "비밀은 ~에 있다"
+            },
+            {
+              "phrase": "As this light travels",
+              "meaning_ko": "이 빛이 이동하면서"
+            },
+            {
+              "phrase": "However",
+              "meaning_ko": "하지만"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "That is why",
+              "meaning_ko": "그래서 ~이다"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why the Sky Is Blue",
+          "body": "Have you ever stopped to ask why the sky is blue, while sunsets burn orange and red? The explanation is one of the most elegant in everyday physics, and it begins with the nature of light itself.\n\nSunlight appears white, but it is a blend of all the colors of the spectrum, each traveling as a wave of a different length. Red and orange move in long, lazy waves, while blue and violet move in short, tight ones. When this mixed light enters the atmosphere, it collides with countless molecules of nitrogen and oxygen, far smaller than the wavelength of light itself.\n\nThese tiny molecules scatter short wavelengths far more efficiently than long ones, a process known as Rayleigh scattering. As a result, blue light is thrown across the sky in every direction, reaching your eyes from all angles at once. The effect is so thorough that the blue appears to come from the air itself rather than from any single point. This is why the dome above you appears to glow blue rather than the color of the Sun.\n\nYou might expect violet, with its even shorter waves, to dominate. However, the Sun emits less violet, and our eyes are far more sensitive to blue, so blue wins out. At sunrise and sunset, the light travels a much longer path through the atmosphere. Along the way the blue is almost entirely scattered out before it reaches you, leaving the warm reds and oranges to color the horizon. In short, the very same scattering that makes a midday sky blue is what sets the evening on fire.",
+          "word_count": 267,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "spectrum",
+              "pos": "noun",
+              "meaning_ko": "스펙트럼, 색의 띠"
+            },
+            {
+              "word": "wavelength",
+              "pos": "noun",
+              "meaning_ko": "파장"
+            },
+            {
+              "word": "collide",
+              "pos": "verb",
+              "meaning_ko": "충돌하다"
+            },
+            {
+              "word": "efficiently",
+              "pos": "adverb",
+              "meaning_ko": "효율적으로"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever stopped to ask",
+              "meaning_ko": "~을 한번 물어본 적 있나요"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "This is why",
+              "meaning_ko": "이것이 ~인 이유다"
+            },
+            {
+              "phrase": "You might expect",
+              "meaning_ko": "~라고 예상할 수 있다"
+            },
+            {
+              "phrase": "However",
+              "meaning_ko": "하지만"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why the Sky Is Blue",
+          "body": "Have you ever wondered why the sky overhead is a calm, even blue, yet the Sun's light at dusk spills across the horizon in fierce reds and golds? The answer lies in a subtle interaction between sunlight and the air, and once you understand it, the changing colors of the sky read like a daily physics lesson written across the heavens.\n\nSunlight, despite appearing white, is a superposition of every visible color, and each color corresponds to a wave of a particular length. The reds and oranges travel as long, gentle undulations, whereas the blues and violets oscillate in short, rapid steps. The atmosphere is filled with molecules of nitrogen and oxygen that are vastly smaller than these wavelengths, and herein lies the key to the whole phenomenon.\n\nWhen light encounters particles this small, it undergoes what physicists call Rayleigh scattering, an effect whose strength rises dramatically as wavelength shrinks. Shorter waves are scattered roughly sixteen times more strongly than waves twice their length. Consequently, blue light is deflected again and again, ricocheting between molecules until it arrives at your eyes from every patch of the sky at once. The Sun's disc keeps its direct white-yellow glare, but the rest of the dome takes on the diffuse blue of scattered light.\n\nA natural objection arises: if shorter is stronger, why is the sky not violet? Two factors conspire against it. The Sun radiates somewhat less energy in the violet band, and the human eye, with its three types of color receptors, responds more readily to blue. The perceived color is therefore a negotiation between physics and physiology.\n\nThe same mechanism, viewed at a different angle, explains the drama of sunset. As the Sun sinks, its light grazes through a far thicker slice of atmosphere. By the time it reaches you, nearly all the blue has been scattered away in other directions, and only the long-wavelength reds and oranges survive the journey. What you are watching, in essence, is the residue of a sky that has filtered out its own blue. In this sense, the gentle blue of noon and the blaze of evening are not two phenomena but one, seen from two vantage points.",
+          "word_count": 364,
+          "estimated_read_seconds": 182,
+          "vocab": [
+            {
+              "word": "superposition",
+              "pos": "noun",
+              "meaning_ko": "중첩"
+            },
+            {
+              "word": "undulation",
+              "pos": "noun",
+              "meaning_ko": "파동, 너울"
+            },
+            {
+              "word": "deflect",
+              "pos": "verb",
+              "meaning_ko": "휘게 하다, 굴절시키다"
+            },
+            {
+              "word": "physiology",
+              "pos": "noun",
+              "meaning_ko": "생리(학)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "The answer lies in",
+              "meaning_ko": "답은 ~에 있다"
+            },
+            {
+              "phrase": "herein lies the key",
+              "meaning_ko": "여기에 핵심이 있다"
+            },
+            {
+              "phrase": "Consequently",
+              "meaning_ko": "따라서"
+            },
+            {
+              "phrase": "A natural objection arises",
+              "meaning_ko": "자연스러운 반론이 생긴다"
+            },
+            {
+              "phrase": "in essence",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "In this sense",
+              "meaning_ko": "이런 의미에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-08-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "르네상스는 왜 시작되었을까?",
+      "source_url": null,
+      "source_name": "Generated · 인문사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why the Renaissance Began",
+          "body": "Imagine that for hundreds of years, most people in Europe never read a book or saw a great painting. Then, about six hundred years ago, something changed in Italy. Artists, writers, and thinkers became very excited about old Greek and Roman ideas. This time is called the Renaissance, a word that means 'rebirth'. People started to paint real-looking faces, build beautiful buildings, and ask new questions about the world. Rich cities like Florence had money to pay artists. Because of this, art and learning grew quickly. The Renaissance changed how people saw life.",
+          "word_count": 93,
+          "estimated_read_seconds": 46,
+          "vocab": [
+            {
+              "word": "artist",
+              "pos": "noun",
+              "meaning_ko": "예술가"
+            },
+            {
+              "word": "rebirth",
+              "pos": "noun",
+              "meaning_ko": "재탄생, 부활"
+            },
+            {
+              "word": "painting",
+              "pos": "noun",
+              "meaning_ko": "그림"
+            },
+            {
+              "word": "thinker",
+              "pos": "noun",
+              "meaning_ko": "사상가"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine that",
+              "meaning_ko": "~라고 상상해 보라"
+            },
+            {
+              "phrase": "something changed",
+              "meaning_ko": "무언가가 바뀌었다"
+            },
+            {
+              "phrase": "is called the Renaissance",
+              "meaning_ko": "르네상스라고 불린다"
+            },
+            {
+              "phrase": "ask new questions",
+              "meaning_ko": "새로운 질문을 던지다"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "grew quickly",
+              "meaning_ko": "빠르게 성장했다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why the Renaissance Began",
+          "body": "Imagine living in a time when very few people could read, and most art showed flat, stiff figures. Then, around the year 1400, a remarkable change began in the cities of Italy. We call this period the Renaissance, a word meaning 'rebirth'.\n\nWhy did it start in Italy? One big reason was money. Cities like Florence and Venice had grown rich through trade, and wealthy families were willing to pay artists and scholars. At the same time, people rediscovered the writings of ancient Greece and Rome, which had been forgotten for centuries.\n\nThese old books were full of ideas about beauty, science, and human nature. As a result, painters began to show realistic bodies and real emotions, while thinkers asked bold new questions. The invention of the printing press soon helped these ideas spread far beyond Italy.\n\nIn other words, the Renaissance was not a single discovery but a meeting of wealth, curiosity, and rediscovered knowledge. That mix gave us some of the most famous art and ideas in history.",
+          "word_count": 170,
+          "estimated_read_seconds": 85,
+          "vocab": [
+            {
+              "word": "trade",
+              "pos": "noun",
+              "meaning_ko": "무역, 교역"
+            },
+            {
+              "word": "scholar",
+              "pos": "noun",
+              "meaning_ko": "학자"
+            },
+            {
+              "word": "realistic",
+              "pos": "adjective",
+              "meaning_ko": "사실적인"
+            },
+            {
+              "word": "curiosity",
+              "pos": "noun",
+              "meaning_ko": "호기심"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine living in a time",
+              "meaning_ko": "~한 시대에 산다고 상상해 보라"
+            },
+            {
+              "phrase": "Why did it start",
+              "meaning_ko": "왜 시작되었을까"
+            },
+            {
+              "phrase": "At the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            },
+            {
+              "phrase": "not a single discovery but",
+              "meaning_ko": "하나의 발견이 아니라 ~"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why the Renaissance Began",
+          "body": "Have you ever wondered why a sudden burst of art, science, and ambition appeared in Italy around 1400, after centuries of relative quiet? The Renaissance, whose name means 'rebirth', did not fall from the sky. It grew from a particular set of conditions that came together at the right time and place.\n\nThe first ingredient was wealth. Italian city-states such as Florence, Venice, and Genoa had grown prosperous through banking and Mediterranean trade. Powerful families, most famously the Medici, used their fortunes to sponsor painters, architects, and writers. Money, in effect, bought the freedom to create. Without such steady support, few artists could have devoted their entire lives to their craft.\n\nThe second ingredient was rediscovery. Scholars began collecting ancient Greek and Roman texts that had survived in monasteries and in the libraries of the Islamic world. These works celebrated human reason and the beauty of the natural form. As a result, a new outlook called humanism took hold, placing human experience at the center of inquiry.\n\nGeography played its part too. Italy sat at the crossroads of trade between Europe, Africa, and Asia, so ideas and goods flowed through its ports. When the printing press arrived in the late 1400s, these ideas could finally spread at speed. Printing turned a local awakening into a movement that no border could easily contain.\n\nIn short, the Renaissance was less a single spark than a fortunate collision of money, recovered knowledge, and open trade routes. Take away any one of these, and the explosion of genius we remember might never have happened.",
+          "word_count": 260,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "prosperous",
+              "pos": "adjective",
+              "meaning_ko": "번영하는, 부유한"
+            },
+            {
+              "word": "sponsor",
+              "pos": "verb",
+              "meaning_ko": "후원하다"
+            },
+            {
+              "word": "humanism",
+              "pos": "noun",
+              "meaning_ko": "인본주의, 휴머니즘"
+            },
+            {
+              "word": "inquiry",
+              "pos": "noun",
+              "meaning_ko": "탐구"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered why",
+              "meaning_ko": "왜 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "did not fall from the sky",
+              "meaning_ko": "하늘에서 뚝 떨어진 게 아니다"
+            },
+            {
+              "phrase": "in effect",
+              "meaning_ko": "사실상"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "played its part",
+              "meaning_ko": "제 몫을 했다"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why the Renaissance Began",
+          "body": "Have you ever wondered why an extraordinary flowering of art, science, and self-confidence erupted in the Italian peninsula around the turn of the fifteenth century, seemingly out of the long quiet of the medieval world? The Renaissance, a term coined later to mean 'rebirth', was not the work of a single genius or a lucky accident. It emerged from a convergence of economic, intellectual, and geographic forces that happened to align in a handful of crowded Italian cities.\n\nConsider first the matter of wealth. The city-states of Florence, Venice, and Genoa had grown immensely rich through banking and long-distance commerce. Dynasties such as the Medici converted financial power into cultural patronage, commissioning frescoes, palaces, and manuscripts. Patronage mattered enormously, for it freed talented individuals from the daily struggle for survival and allowed them to pursue beauty and knowledge as a vocation.\n\nEqually decisive was the recovery of antiquity. Throughout the so-called Dark Ages, classical texts had been preserved in European monasteries and, crucially, in the scholarly centers of the Islamic world. As these works re-entered circulation, they carried with them a worldview that prized human reason, civic life, and the dignity of the individual. From this soil grew humanism, an intellectual movement that shifted attention from the heavens toward the achievements and potential of human beings themselves.\n\nGeography reinforced both currents. Italy lay astride the trade routes linking Europe with the eastern Mediterranean, so merchandise, manuscripts, and ideas passed continually through its harbors. The arrival of movable-type printing in the latter half of the century then acted as an accelerant, multiplying texts and carrying Renaissance thought across the Alps within a generation.\n\nIt would be a mistake, however, to treat these factors as separate streams. Wealth funded the scholars who recovered the texts; trade carried both the money and the manuscripts; printing amplified whatever the others produced. The Renaissance, in this light, was an emergent property of a whole system rather than the gift of any single cause. Remove the patronage, the recovered learning, or the open routes, and the brilliant chapter we celebrate today would likely have remained unwritten.",
+          "word_count": 350,
+          "estimated_read_seconds": 175,
+          "vocab": [
+            {
+              "word": "convergence",
+              "pos": "noun",
+              "meaning_ko": "수렴, 한데 모임"
+            },
+            {
+              "word": "patronage",
+              "pos": "noun",
+              "meaning_ko": "후원, 지원"
+            },
+            {
+              "word": "antiquity",
+              "pos": "noun",
+              "meaning_ko": "고대(古代)"
+            },
+            {
+              "word": "emergent",
+              "pos": "adjective",
+              "meaning_ko": "창발적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered why",
+              "meaning_ko": "왜 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "not the work of a single genius",
+              "meaning_ko": "한 천재의 작품이 아니다"
+            },
+            {
+              "phrase": "Consider first",
+              "meaning_ko": "먼저 ~을 생각해 보라"
+            },
+            {
+              "phrase": "Equally decisive",
+              "meaning_ko": "마찬가지로 결정적인"
+            },
+            {
+              "phrase": "It would be a mistake, however",
+              "meaning_ko": "그러나 ~은 잘못일 것이다"
+            },
+            {
+              "phrase": "in this light",
+              "meaning_ko": "이런 관점에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-08-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "퀵소트(quicksort)는 어떻게 동작할까?",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How Quicksort Works",
+          "body": "Imagine you have a messy pile of numbered cards and you want to put them in order. Quicksort is a clever trick that computers use to do this fast. First, you pick one card and call it the 'pivot'. Then you split the other cards into two groups: smaller than the pivot on the left, and bigger on the right. Now the pivot is already in the right place! Next, you do the same trick again inside each group. You keep splitting until every small group has only one card. When you put them back together, the whole pile is sorted.",
+          "word_count": 101,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "pile",
+              "pos": "noun",
+              "meaning_ko": "더미"
+            },
+            {
+              "word": "order",
+              "pos": "noun",
+              "meaning_ko": "순서"
+            },
+            {
+              "word": "pivot",
+              "pos": "noun",
+              "meaning_ko": "기준값, 피벗"
+            },
+            {
+              "word": "split",
+              "pos": "verb",
+              "meaning_ko": "나누다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine you have",
+              "meaning_ko": "~을 가지고 있다고 상상해 보라"
+            },
+            {
+              "phrase": "in order",
+              "meaning_ko": "순서대로"
+            },
+            {
+              "phrase": "call it the 'pivot'",
+              "meaning_ko": "그것을 '피벗'이라 부른다"
+            },
+            {
+              "phrase": "two groups",
+              "meaning_ko": "두 그룹"
+            },
+            {
+              "phrase": "do the same trick again",
+              "meaning_ko": "같은 방법을 다시 한다"
+            },
+            {
+              "phrase": "keep splitting until",
+              "meaning_ko": "~할 때까지 계속 나눈다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Quicksort Works",
+          "body": "Have you ever needed to sort a long list of numbers? Computers face this problem constantly, and one of their favorite tools is an algorithm called quicksort.\n\nQuicksort works by a simple but powerful idea: divide and conquer. First, it picks one element from the list, called the pivot. Then it rearranges the list so that every number smaller than the pivot sits on its left, and every larger number sits on its right. At this point, the pivot has reached its final position.\n\nNext, quicksort repeats the same steps on the left group and the right group separately. Because each group is smaller than the one before, the problem keeps shrinking. This repeating process is called recursion. Eventually, every tiny group holds just one element, and the whole list is sorted.\n\nWhat makes quicksort popular is its speed. On average, it sorts very large lists much faster than simple methods. However, the choice of pivot matters: a poor choice can slow it down, so good versions pick the pivot carefully.",
+          "word_count": 171,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "algorithm",
+              "pos": "noun",
+              "meaning_ko": "알고리즘"
+            },
+            {
+              "word": "rearrange",
+              "pos": "verb",
+              "meaning_ko": "재배열하다"
+            },
+            {
+              "word": "recursion",
+              "pos": "noun",
+              "meaning_ko": "재귀"
+            },
+            {
+              "word": "element",
+              "pos": "noun",
+              "meaning_ko": "원소, 요소"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever needed to",
+              "meaning_ko": "~할 필요가 있었던 적 있나요"
+            },
+            {
+              "phrase": "divide and conquer",
+              "meaning_ko": "분할 정복"
+            },
+            {
+              "phrase": "At this point",
+              "meaning_ko": "이 시점에서"
+            },
+            {
+              "phrase": "repeats the same steps",
+              "meaning_ko": "같은 단계를 반복한다"
+            },
+            {
+              "phrase": "However",
+              "meaning_ko": "하지만"
+            },
+            {
+              "phrase": "the choice of pivot matters",
+              "meaning_ko": "피벗 선택이 중요하다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How Quicksort Works",
+          "body": "Have you ever wondered how a computer sorts a million numbers in the blink of an eye? One of the most widely used answers is quicksort, an algorithm celebrated for being both fast and elegant.\n\nQuicksort rests on a strategy known as divide and conquer. It begins by choosing one element from the list, called the pivot. It then partitions the remaining elements into two parts: those smaller than the pivot and those larger. After this single pass, the pivot is guaranteed to occupy its correct final position, even though nothing else is sorted yet.\n\nThe clever part is what happens next. Quicksort calls itself on each of the two partitions, treating them as smaller sorting problems. This recursive process continues until every partition contains at most one element, at which point the entire list is in order. Because the work splits in half again and again, the algorithm typically runs in time proportional to n log n, which is remarkably efficient. To put that in perspective, doubling the size of the list barely increases the work, which is exactly the property large-scale systems need.\n\nThere is, however, a catch. If the pivot is chosen badly, for instance always the smallest element, the partitions become lopsided and performance degrades sharply. To guard against this, practical implementations choose the pivot smartly, often by sampling several elements or picking one at random. As a result, quicksort remains fast across almost any input, which is why it underpins the sorting routines built into many programming languages.",
+          "word_count": 253,
+          "estimated_read_seconds": 126,
+          "vocab": [
+            {
+              "word": "partition",
+              "pos": "verb",
+              "meaning_ko": "분할하다"
+            },
+            {
+              "word": "recursive",
+              "pos": "adjective",
+              "meaning_ko": "재귀적인"
+            },
+            {
+              "word": "proportional",
+              "pos": "adjective",
+              "meaning_ko": "비례하는"
+            },
+            {
+              "word": "degrade",
+              "pos": "verb",
+              "meaning_ko": "나빠지다, 저하되다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "divide and conquer",
+              "meaning_ko": "분할 정복"
+            },
+            {
+              "phrase": "The clever part is",
+              "meaning_ko": "기발한 부분은 ~이다"
+            },
+            {
+              "phrase": "There is, however, a catch",
+              "meaning_ko": "하지만 함정이 있다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "which is why",
+              "meaning_ko": "그래서 ~인 것이다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How Quicksort Works",
+          "body": "Have you ever wondered how a programming language sorts an enormous array almost instantly, without you ever seeing the gears turn? More often than not, the engine doing the work is quicksort, an algorithm that has endured since 1960 because it pairs conceptual simplicity with formidable speed.\n\nAt its heart lies the principle of divide and conquer. Quicksort selects a single element, the pivot, and then partitions the array around it, shuffling values so that everything smaller lies to the left and everything larger to the right. This partitioning step, though it sorts nothing fully, accomplishes something subtle yet crucial: the pivot is now locked into the exact slot it will occupy in the finished array. Everything that follows merely sorts the two regions on either side.\n\nHerein lies the recursive elegance. The algorithm invokes itself on the left partition and on the right, and each of those calls partitions again, spawning still smaller subproblems. The recursion bottoms out when a partition holds zero or one element, since such a fragment is trivially sorted. Unwinding all these calls leaves the original array in perfect order, assembled from the bottom up.\n\nThe performance story is where quicksort grows interesting. When the pivot repeatedly splits its array into two roughly equal halves, the recursion has a depth of about log n, and since each level touches every element once, the total cost is on the order of n log n. In practice this makes it one of the fastest comparison sorts available, with the added virtue that it sorts in place, requiring little extra memory.\n\nYet the same flexibility that makes quicksort fast can betray it. Should the pivot consistently land at an extreme, the partitions become wildly unbalanced, the recursion deepens to n levels, and the running time deteriorates to n squared, no better than the naive methods it was meant to replace. Engineers counter this vulnerability by randomizing the pivot or choosing the median of a small sample, strategies that make pathological cases astronomically unlikely. It is this blend of average-case brilliance and practical safeguards that keeps quicksort at the core of real-world software decades after its invention.",
+          "word_count": 358,
+          "estimated_read_seconds": 179,
+          "vocab": [
+            {
+              "word": "formidable",
+              "pos": "adjective",
+              "meaning_ko": "가공할, 만만찮은"
+            },
+            {
+              "word": "invoke",
+              "pos": "verb",
+              "meaning_ko": "호출하다"
+            },
+            {
+              "word": "deteriorate",
+              "pos": "verb",
+              "meaning_ko": "악화되다"
+            },
+            {
+              "word": "pathological",
+              "pos": "adjective",
+              "meaning_ko": "병적인, 극단적 예외의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "At its heart lies",
+              "meaning_ko": "그 핵심에는 ~이 있다"
+            },
+            {
+              "phrase": "Herein lies",
+              "meaning_ko": "여기에 ~이 있다"
+            },
+            {
+              "phrase": "In practice",
+              "meaning_ko": "실제로는"
+            },
+            {
+              "phrase": "Yet the same",
+              "meaning_ko": "그러나 바로 그"
+            },
+            {
+              "phrase": "It is this blend",
+              "meaning_ko": "바로 이 조합이"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-08-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "로드 밸런서(load balancer)란 무엇일까?",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What Is a Load Balancer?",
+          "body": "Imagine a popular shop with only one cashier. When many people come, the line gets very long and slow. Now imagine the shop opens five cashiers and a helper who sends each person to a free one. The work is shared, and everyone is served faster. A load balancer does the same job for websites. When many users visit at once, it spreads their requests across several computers, called servers. Because of this, no single server gets too busy. If one server stops working, the load balancer simply sends users to the others. So the website stays fast and online.",
+          "word_count": 100,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "cashier",
+              "pos": "noun",
+              "meaning_ko": "계산원"
+            },
+            {
+              "word": "share",
+              "pos": "verb",
+              "meaning_ko": "나누다, 분담하다"
+            },
+            {
+              "word": "server",
+              "pos": "noun",
+              "meaning_ko": "서버"
+            },
+            {
+              "word": "request",
+              "pos": "noun",
+              "meaning_ko": "요청"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine a popular shop",
+              "meaning_ko": "인기 있는 가게를 상상해 보라"
+            },
+            {
+              "phrase": "The work is shared",
+              "meaning_ko": "일이 나눠진다"
+            },
+            {
+              "phrase": "does the same job",
+              "meaning_ko": "같은 일을 한다"
+            },
+            {
+              "phrase": "spreads their requests",
+              "meaning_ko": "요청을 분산시킨다"
+            },
+            {
+              "phrase": "Because of this",
+              "meaning_ko": "이 때문에"
+            },
+            {
+              "phrase": "stays fast and online",
+              "meaning_ko": "빠르고 계속 작동한다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What Is a Load Balancer?",
+          "body": "Have you ever wondered how a huge website serves millions of people at the same time without crashing? A big part of the answer is a tool called a load balancer.\n\nThink of a single server as one worker. No matter how strong that worker is, there is a limit to how many requests it can handle. If too many users arrive at once, the server slows down or fails. To solve this, companies run many servers together. But now there is a new question: which server should handle each user?\n\nThat is the load balancer's job. It sits in front of the servers and decides where to send every incoming request. It might pass requests around in turn, or send each one to whichever server is least busy. As a result, the work is shared evenly, and no single machine is overwhelmed.\n\nA load balancer also improves reliability. If one server goes down, it simply stops sending traffic there and uses the healthy ones instead. In other words, users keep browsing smoothly, even when something breaks behind the scenes.",
+          "word_count": 180,
+          "estimated_read_seconds": 90,
+          "vocab": [
+            {
+              "word": "handle",
+              "pos": "verb",
+              "meaning_ko": "처리하다"
+            },
+            {
+              "word": "overwhelmed",
+              "pos": "adjective",
+              "meaning_ko": "과부하된"
+            },
+            {
+              "word": "reliability",
+              "pos": "noun",
+              "meaning_ko": "신뢰성"
+            },
+            {
+              "word": "traffic",
+              "pos": "noun",
+              "meaning_ko": "트래픽, 통신량"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "Think of a single server",
+              "meaning_ko": "서버 하나를 ~로 생각해 보라"
+            },
+            {
+              "phrase": "That is the load balancer's job",
+              "meaning_ko": "그것이 로드 밸런서의 일이다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            },
+            {
+              "phrase": "behind the scenes",
+              "meaning_ko": "뒤에서, 보이지 않는 곳에서"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What Is a Load Balancer?",
+          "body": "Have you ever wondered how a service like a streaming site stays responsive when millions of people log on at once? Behind the scenes, one of the quiet heroes is the load balancer, a component that decides which server should handle each incoming request.\n\nThe need arises from a simple limit. Any single server, however powerful, can only process so many requests per second before it slows to a crawl. The standard solution is to run a fleet of identical servers, but that immediately raises a question: how should incoming traffic be distributed among them? A load balancer answers this by sitting in front of the fleet and routing each request to an appropriate server.\n\nThere are several strategies it can use. Round robin simply cycles through the servers in turn. Least connections sends each request to whichever server is currently handling the fewest. More advanced setups consider response times or even the geographic location of the user. As a result, the workload spreads evenly and no single machine becomes a bottleneck. The user, of course, sees none of this and simply enjoys a fast, steady response.\n\nJust as importantly, a load balancer performs health checks. It regularly tests each server, and the moment one stops responding, it quietly removes that server from rotation and routes traffic only to healthy ones. This is what allows a system to survive hardware failures without users noticing. In short, the load balancer is both a traffic director and a safety net, and it is fundamental to building services that scale.",
+          "word_count": 257,
+          "estimated_read_seconds": 128,
+          "vocab": [
+            {
+              "word": "fleet",
+              "pos": "noun",
+              "meaning_ko": "(서버) 무리, 집합"
+            },
+            {
+              "word": "route",
+              "pos": "verb",
+              "meaning_ko": "경로를 정해 보내다"
+            },
+            {
+              "word": "bottleneck",
+              "pos": "noun",
+              "meaning_ko": "병목"
+            },
+            {
+              "word": "rotation",
+              "pos": "noun",
+              "meaning_ko": "순환, 로테이션"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "어떻게 ~하는지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "Behind the scenes",
+              "meaning_ko": "보이지 않는 곳에서"
+            },
+            {
+              "phrase": "The need arises from",
+              "meaning_ko": "그 필요는 ~에서 생긴다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "Just as importantly",
+              "meaning_ko": "그에 못지않게 중요하게"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What Is a Load Balancer?",
+          "body": "Have you ever wondered what stands between millions of simultaneous users and the handful of machines actually serving them? More often than not, the answer is a load balancer, an unglamorous but indispensable component that quietly determines which server will handle each request that arrives.\n\nThe motivation is rooted in a hard physical limit. A single server, no matter how much memory or how many cores it has, can sustain only a finite rate of requests before latency climbs and the experience degrades. The natural remedy is horizontal scaling, running many interchangeable servers in parallel. But scaling out introduces a coordination problem: incoming traffic must be apportioned among these servers intelligently, or some will sit idle while others buckle under load. The load balancer exists precisely to solve this distribution problem.\n\nHow it decides is a matter of policy. The simplest approach, round robin, hands requests to each server in turn. Least-connections routing favors whichever server currently carries the lightest load, which adapts better when requests vary in cost. Latency-aware and geographic strategies go further, steering users toward the server that can answer them fastest. Whatever the policy, the goal is the same: to keep the workload balanced so that no individual machine becomes a bottleneck while others remain underused.\n\nDistribution, however, is only half the story. A load balancer also functions as the system's circulatory monitor, continuously issuing health checks to every server behind it. When a server fails a check, the balancer removes it from the pool within seconds and redirects its share of traffic to the survivors. Users, meanwhile, notice nothing; the failure is absorbed silently. Many balancers add further duties, terminating encrypted connections, maintaining session affinity so a user keeps talking to the same server, and shielding the fleet from sudden floods of traffic.\n\nSeen in this light, the load balancer is far more than a passive switch. It is at once a traffic director, a fault detector, and a first line of defense, and it is one of the foundational building blocks that make modern, always-on services possible. Strip it away, and the elegant illusion of a single, infinitely capable server collapses into a fragile cluster that no one can use reliably.",
+          "word_count": 367,
+          "estimated_read_seconds": 184,
+          "vocab": [
+            {
+              "word": "indispensable",
+              "pos": "adjective",
+              "meaning_ko": "없어서는 안 될"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간"
+            },
+            {
+              "word": "apportion",
+              "pos": "verb",
+              "meaning_ko": "배분하다"
+            },
+            {
+              "word": "affinity",
+              "pos": "noun",
+              "meaning_ko": "친화성, (세션) 고정"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered what",
+              "meaning_ko": "무엇이 ~인지 궁금한 적 있나요"
+            },
+            {
+              "phrase": "More often than not",
+              "meaning_ko": "대개, 십중팔구"
+            },
+            {
+              "phrase": "The motivation is rooted in",
+              "meaning_ko": "그 동기는 ~에 뿌리를 둔다"
+            },
+            {
+              "phrase": "Whatever the policy",
+              "meaning_ko": "정책이 무엇이든"
+            },
+            {
+              "phrase": "is only half the story",
+              "meaning_ko": "이야기의 절반에 불과하다"
+            },
+            {
+              "phrase": "Seen in this light",
+              "meaning_ko": "이런 관점에서 보면"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-08-speaking-01",
+      "category": "speaking",
+      "title_ko": "[IELTS P1] 요리하는 것을 좋아하나요?",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 1",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I quite enjoy cooking. I usually cook simple meals at home, like pasta or fried rice. To be honest, I am not a great cook, but I find it relaxing after work. On weekends, I sometimes try a new recipe with my family.",
+          "word_count": 44,
+          "estimated_read_seconds": 22,
+          "vocab": [
+            {
+              "word": "cook",
+              "pos": "verb",
+              "meaning_ko": "요리하다"
+            },
+            {
+              "word": "meal",
+              "pos": "noun",
+              "meaning_ko": "식사, 끼니"
+            },
+            {
+              "word": "recipe",
+              "pos": "noun",
+              "meaning_ko": "요리법, 레시피"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I quite enjoy",
+              "meaning_ko": "꽤 즐긴다"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "I find it relaxing",
+              "meaning_ko": "마음이 편해진다"
+            },
+            {
+              "phrase": "On weekends",
+              "meaning_ko": "주말에는"
+            },
+            {
+              "phrase": "try a new recipe",
+              "meaning_ko": "새 요리법을 시도하다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I'd say I really enjoy cooking. To be honest, it started as a necessity when I moved out, but over time it became a hobby. During the week I keep things simple, usually rice with some vegetables and meat. On weekends, though, I like to experiment with recipes I find online. What I enjoy most is sharing the food with friends afterwards.",
+          "word_count": 63,
+          "estimated_read_seconds": 32,
+          "vocab": [
+            {
+              "word": "necessity",
+              "pos": "noun",
+              "meaning_ko": "필요(에 의한 것)"
+            },
+            {
+              "word": "experiment",
+              "pos": "verb",
+              "meaning_ko": "실험하다, 시도하다"
+            },
+            {
+              "word": "afterwards",
+              "pos": "adverb",
+              "meaning_ko": "그 후에"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd say",
+              "meaning_ko": "~인 것 같다"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "over time it became a hobby",
+              "meaning_ko": "시간이 지나면서 취미가 되었다"
+            },
+            {
+              "phrase": "keep things simple",
+              "meaning_ko": "단순하게 한다"
+            },
+            {
+              "phrase": "What I enjoy most",
+              "meaning_ko": "내가 가장 즐기는 것은"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I really do enjoy cooking, and I'd say it's become one of my favorite ways to unwind. To be honest, I wasn't always keen on it; when I was younger I saw it as a chore. But once I started living on my own, I had no choice but to learn, and somewhere along the way it turned into a real pleasure. These days, I cook most of my meals from scratch. On weekends in particular, I'll spend an hour or two trying out a dish I've never made before, which I find surprisingly satisfying.",
+          "word_count": 96,
+          "estimated_read_seconds": 48,
+          "vocab": [
+            {
+              "word": "unwind",
+              "pos": "verb",
+              "meaning_ko": "긴장을 풀다"
+            },
+            {
+              "word": "chore",
+              "pos": "noun",
+              "meaning_ko": "하기 싫은 일, 잡일"
+            },
+            {
+              "word": "satisfying",
+              "pos": "adjective",
+              "meaning_ko": "만족스러운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd say",
+              "meaning_ko": "~인 것 같다"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "wasn't always keen on it",
+              "meaning_ko": "늘 좋아했던 건 아니다"
+            },
+            {
+              "phrase": "somewhere along the way",
+              "meaning_ko": "어느 순간엔가"
+            },
+            {
+              "phrase": "from scratch",
+              "meaning_ko": "처음부터, 재료부터"
+            },
+            {
+              "phrase": "which I find surprisingly satisfying",
+              "meaning_ko": "의외로 만족스럽다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Do you enjoy cooking?",
+          "body": "Yes, I'm quite passionate about cooking, to the point where it's become a small ritual rather than just a daily task. To be honest, it wasn't always that way. Growing up, I barely set foot in the kitchen, and it was only when I moved abroad for work that necessity forced me to learn. What started as survival gradually evolved into something I truly look forward to. During the week, I tend to keep things efficient, since time is tight. On weekends, however, I treat cooking almost as a creative outlet. I'll browse for a recipe from a cuisine I've never attempted, take my time with it, and more often than not invite a few friends over to share the result. What I take away from it is that cooking isn't just about food; it's a way of slowing down and connecting with people.",
+          "word_count": 144,
+          "estimated_read_seconds": 72,
+          "vocab": [
+            {
+              "word": "ritual",
+              "pos": "noun",
+              "meaning_ko": "의식, 반복되는 일과"
+            },
+            {
+              "word": "outlet",
+              "pos": "noun",
+              "meaning_ko": "(감정·에너지의) 분출구"
+            },
+            {
+              "word": "cuisine",
+              "pos": "noun",
+              "meaning_ko": "요리, (특정 지역) 음식"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "to the point where",
+              "meaning_ko": "~할 정도로"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "necessity forced me to learn",
+              "meaning_ko": "필요가 나를 배우게 만들었다"
+            },
+            {
+              "phrase": "creative outlet",
+              "meaning_ko": "창의적 분출구"
+            },
+            {
+              "phrase": "more often than not",
+              "meaning_ko": "대개, 십중팔구"
+            },
+            {
+              "phrase": "What I take away from it is",
+              "meaning_ko": "내가 거기서 얻는 것은"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
