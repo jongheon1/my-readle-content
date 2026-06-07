@@ -1,0 +1,1121 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-07",
+  "topics": [
+    {
+      "topic_id": "2026-06-07-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "광합성은 어떻게 일어날까?",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How Photosynthesis Works",
+          "body": "Have you ever wondered how plants get their food? Plants do something amazing. They make their own food from sunlight. This is called photosynthesis.\n\nA plant uses three simple things: sunlight, water, and air. The roots pull water from the soil. The leaves take in a gas called carbon dioxide from the air. Sunlight gives the energy.\n\nInside the leaves, these things mix together. The plant makes sugar for food. It also makes oxygen, the gas we breathe.\n\nSo plants feed themselves and help us at the same time. Every time you see a green leaf, remember it is quietly working, turning light into life.",
+          "word_count": 105,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "photosynthesis",
+              "pos": "noun",
+              "meaning_ko": "광합성"
+            },
+            {
+              "word": "oxygen",
+              "pos": "noun",
+              "meaning_ko": "산소"
+            },
+            {
+              "word": "soil",
+              "pos": "noun",
+              "meaning_ko": "흙, 토양"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "make their own food",
+              "meaning_ko": "스스로 양분을 만들다"
+            },
+            {
+              "phrase": "pull water from the soil",
+              "meaning_ko": "흙에서 물을 빨아올리다"
+            },
+            {
+              "phrase": "take in",
+              "meaning_ko": "흡수하다, 받아들이다"
+            },
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "turning light into life",
+              "meaning_ko": "빛을 생명으로 바꾸는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Photosynthesis Works",
+          "body": "Have you ever stopped to think about where a plant's food comes from? Unlike us, plants don't eat. Instead, they make their own food using sunlight, and this clever process is called photosynthesis.\n\nHere is how it works. A plant's roots draw water up from the soil. At the same time, tiny holes in the leaves take in carbon dioxide, a gas that floats in the air around us. The green colour in leaves comes from something called chlorophyll, which captures energy from sunlight.\n\nInside the leaf, the plant uses that captured energy to combine water and carbon dioxide. The result is sugar, which feeds the plant and helps it grow. As a bonus, the plant releases oxygen into the air.\n\nThis is why plants matter so much. They turn sunlight into food, and they fill our atmosphere with the oxygen that almost every living thing needs. The next time you walk past a tree, think of it as a quiet, green factory powered entirely by the sun.",
+          "word_count": 168,
+          "estimated_read_seconds": 84,
+          "vocab": [
+            {
+              "word": "chlorophyll",
+              "pos": "noun",
+              "meaning_ko": "엽록소"
+            },
+            {
+              "word": "atmosphere",
+              "pos": "noun",
+              "meaning_ko": "대기"
+            },
+            {
+              "word": "oxygen",
+              "pos": "noun",
+              "meaning_ko": "산소"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever stopped to think",
+              "meaning_ko": "~을 생각해본 적 있나요"
+            },
+            {
+              "phrase": "Here is how it works",
+              "meaning_ko": "작동 방식은 이렇습니다"
+            },
+            {
+              "phrase": "At the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "The result is",
+              "meaning_ko": "그 결과는 ~이다"
+            },
+            {
+              "phrase": "As a bonus",
+              "meaning_ko": "덤으로, 게다가"
+            },
+            {
+              "phrase": "The next time you walk past",
+              "meaning_ko": "다음에 ~을 지나칠 때"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How Photosynthesis Works",
+          "body": "Have you ever wondered how a tall tree can build itself out of almost nothing but light, water, and air? The answer is photosynthesis, one of the most important chemical processes on the planet, and it happens silently inside every green leaf.\n\nThe story begins with chlorophyll, the pigment that gives plants their green colour. Chlorophyll sits inside tiny structures called chloroplasts, and its job is to capture energy from sunlight. Meanwhile, the roots pull water up from the soil, and small pores on the underside of the leaves, known as stomata, allow carbon dioxide to enter from the air.\n\nOnce these ingredients are in place, the real work begins. Using the energy captured from light, the plant splits water and rearranges the atoms, combining them with carbon dioxide to build glucose, a simple sugar. This sugar is the plant's food. It powers growth, and any extra is stored for later. Oxygen is released as a by-product, escaping through the same pores that let carbon dioxide in.\n\nWhat makes this process so remarkable is its scale. Across forests, grasslands, and oceans, plants and algae quietly convert sunlight into chemical energy every single day. This energy forms the base of nearly every food chain, since the animals that eat plants, and the animals that eat those animals, all ultimately depend on it.\n\nIn a sense, photosynthesis connects the sun to almost all life on Earth. A beam of light becomes a leaf, a leaf becomes food, and food becomes the energy that keeps ecosystems running.",
+          "word_count": 254,
+          "estimated_read_seconds": 127,
+          "vocab": [
+            {
+              "word": "chlorophyll",
+              "pos": "noun",
+              "meaning_ko": "엽록소"
+            },
+            {
+              "word": "chloroplasts",
+              "pos": "noun",
+              "meaning_ko": "엽록체"
+            },
+            {
+              "word": "stomata",
+              "pos": "noun",
+              "meaning_ko": "기공"
+            },
+            {
+              "word": "glucose",
+              "pos": "noun",
+              "meaning_ko": "포도당"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "The story begins with",
+              "meaning_ko": "이야기는 ~에서 시작된다"
+            },
+            {
+              "phrase": "Meanwhile",
+              "meaning_ko": "한편"
+            },
+            {
+              "phrase": "Once these ingredients are in place",
+              "meaning_ko": "이 재료들이 갖추어지면"
+            },
+            {
+              "phrase": "What makes this process so remarkable",
+              "meaning_ko": "이 과정을 놀랍게 만드는 것"
+            },
+            {
+              "phrase": "In a sense",
+              "meaning_ko": "어떤 의미에서는"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How Photosynthesis Works",
+          "body": "Have you ever paused to consider that the wood of an ancient oak, the sweetness of an apple, and the very air you are breathing all trace back to the same quiet chemical reaction? That reaction is photosynthesis, and although it unfolds invisibly inside leaves, it is arguably the process that makes complex life on Earth possible.\n\nAt its heart lies chlorophyll, the pigment responsible for the green of the living world. Chlorophyll is housed within chloroplasts, specialised compartments inside plant cells, where it absorbs particular wavelengths of sunlight while reflecting the green light we see. The energy it captures is not used directly to build sugar; instead, it first drives the splitting of water molecules into hydrogen and oxygen, releasing the oxygen we depend on as a by-product.\n\nThe second stage is where the plant truly constructs its food. Drawing on the energy harvested from light, it takes carbon dioxide absorbed through the stomata and, through a carefully orchestrated sequence of reactions, fixes that carbon into glucose. In effect, the plant is pulling carbon out of thin air and assembling it into solid matter. This is why a growing tree gains most of its mass not from the soil, as many people assume, but from the atmosphere itself.\n\nThe implications stretch far beyond any single leaf. Because photosynthesis converts the sun's energy into a chemical form that other organisms can consume, it underpins virtually every food chain on the planet. The herbivore grazing on grass, the predator hunting the herbivore, and the fungi breaking down what remains are all, in the end, living off energy that once arrived as sunlight. Remove the plants and algae, and the elaborate structure of life above them would collapse almost immediately, starved of the energy that sustains it.\n\nPerhaps most striking is the role photosynthesis plays in regulating the atmosphere. By absorbing carbon dioxide and releasing oxygen, plants and algae have shaped the very composition of the air over billions of years. What looks like a simple green leaf is, on reflection, a finely tuned engine linking the sun, the soil, and nearly every breath we take.",
+          "word_count": 354,
+          "estimated_read_seconds": 177,
+          "vocab": [
+            {
+              "word": "chlorophyll",
+              "pos": "noun",
+              "meaning_ko": "엽록소"
+            },
+            {
+              "word": "chloroplasts",
+              "pos": "noun",
+              "meaning_ko": "엽록체"
+            },
+            {
+              "word": "wavelengths",
+              "pos": "noun",
+              "meaning_ko": "파장"
+            },
+            {
+              "word": "glucose",
+              "pos": "noun",
+              "meaning_ko": "포도당"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever paused to consider",
+              "meaning_ko": "~을 곰곰이 생각해본 적 있나요"
+            },
+            {
+              "phrase": "At its heart lies",
+              "meaning_ko": "그 핵심에는 ~이 있다"
+            },
+            {
+              "phrase": "instead",
+              "meaning_ko": "그 대신"
+            },
+            {
+              "phrase": "In effect",
+              "meaning_ko": "사실상, 결국"
+            },
+            {
+              "phrase": "The implications stretch far beyond",
+              "meaning_ko": "그 함의는 ~을 훨씬 넘어선다"
+            },
+            {
+              "phrase": "Perhaps most striking is",
+              "meaning_ko": "아마 가장 인상적인 것은"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-07-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "민주주의는 어떻게 아테네에서 시작되었나",
+      "source_url": null,
+      "source_name": "Generated · 인문사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How Democracy Began in Athens",
+          "body": "Have you ever voted on something with your friends? Long ago, in a city called Athens, people did something new. They started to rule themselves. We call this democracy.\n\nBefore that, kings or a few rich men made all the rules. But in Athens, ordinary men could meet and speak. They talked about laws and the city. Then they raised their hands to vote.\n\nIt was not perfect. Women, slaves, and foreigners could not vote. Still, it was a big change. For the first time, normal citizens had a real voice.\n\nThis old idea from Athens is still alive today. Many countries now let their people choose and decide together.",
+          "word_count": 110,
+          "estimated_read_seconds": 55,
+          "vocab": [
+            {
+              "word": "democracy",
+              "pos": "noun",
+              "meaning_ko": "민주주의"
+            },
+            {
+              "word": "vote",
+              "pos": "verb",
+              "meaning_ko": "투표하다"
+            },
+            {
+              "word": "citizen",
+              "pos": "noun",
+              "meaning_ko": "시민"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever voted on",
+              "meaning_ko": "~에 투표해본 적 있나요"
+            },
+            {
+              "phrase": "made all the rules",
+              "meaning_ko": "모든 규칙을 정했다"
+            },
+            {
+              "phrase": "raised their hands to vote",
+              "meaning_ko": "손을 들어 투표했다"
+            },
+            {
+              "phrase": "It was not perfect",
+              "meaning_ko": "완벽하지는 않았다"
+            },
+            {
+              "phrase": "For the first time",
+              "meaning_ko": "처음으로"
+            },
+            {
+              "phrase": "still alive today",
+              "meaning_ko": "오늘날에도 살아 있는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Democracy Began in Athens",
+          "body": "Have you ever imagined a world where only kings made the rules? For most of history, that was normal. But about 2,500 years ago, the people of Athens, a city in ancient Greece, tried something bold. They began to govern themselves, and we still use their word for it today: democracy, which means \"rule by the people\".\n\nIn Athens, male citizens could gather in a large open space to discuss the city's problems. Anyone was allowed to stand up and share his opinion. After the debate, they voted, often simply by raising their hands. Important jobs were sometimes given out by lottery, so that power did not stay with the same few families.\n\nOf course, this early democracy had clear limits. Women could not take part, and neither could slaves or people born in other cities. Only a minority actually had the right to vote.\n\nEven so, the idea was revolutionary. Athens showed that ordinary citizens, not just rulers, could shape the laws they lived under. That powerful idea slowly spread, and centuries later it became one of the foundations of the modern world.",
+          "word_count": 184,
+          "estimated_read_seconds": 92,
+          "vocab": [
+            {
+              "word": "democracy",
+              "pos": "noun",
+              "meaning_ko": "민주주의"
+            },
+            {
+              "word": "citizen",
+              "pos": "noun",
+              "meaning_ko": "시민"
+            },
+            {
+              "word": "lottery",
+              "pos": "noun",
+              "meaning_ko": "추첨"
+            },
+            {
+              "word": "revolutionary",
+              "pos": "adjective",
+              "meaning_ko": "혁명적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever imagined",
+              "meaning_ko": "~을 상상해본 적 있나요"
+            },
+            {
+              "phrase": "about 2,500 years ago",
+              "meaning_ko": "약 2,500년 전에"
+            },
+            {
+              "phrase": "which means",
+              "meaning_ko": "즉, 그 뜻은"
+            },
+            {
+              "phrase": "Of course",
+              "meaning_ko": "물론"
+            },
+            {
+              "phrase": "had clear limits",
+              "meaning_ko": "분명한 한계가 있었다"
+            },
+            {
+              "phrase": "Even so",
+              "meaning_ko": "그럼에도 불구하고"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How Democracy Began in Athens",
+          "body": "Have you ever wondered where the idea of voting actually came from? It feels natural to us now, but for most of human history power belonged to kings, priests, or a handful of wealthy families. The notion that ordinary people could govern themselves was born, in a recognisable form, in the ancient Greek city of Athens around the fifth century BCE.\n\nThe Athenians called their system demokratia, from demos, meaning \"the people\", and kratos, meaning \"power\" or \"rule\". In practice, citizens met regularly in an assembly where any of them could speak, propose ideas, and vote on the laws and decisions that governed the city. Rather than electing a small group to rule on their behalf, the Athenians often participated directly. Many public officials were even chosen by lottery, on the principle that any citizen was capable of serving.\n\nIt would be a mistake, however, to imagine Athens as a model of equality. Citizenship was restricted to free adult men whose families were Athenian. Women, enslaved people, and foreigners, who together made up the majority of the population, were excluded entirely. By modern standards, this was a narrow democracy indeed.\n\nYet its significance is hard to overstate. For the first time, a society organised itself around the belief that political authority should rest with its citizens rather than with a single ruler. The debates, the public votes, and the idea of accountability to the people all took shape here. When later thinkers and revolutionaries searched for alternatives to monarchy, they returned again and again to the Athenian experiment for inspiration.",
+          "word_count": 260,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "assembly",
+              "pos": "noun",
+              "meaning_ko": "민회, 의회"
+            },
+            {
+              "word": "citizenship",
+              "pos": "noun",
+              "meaning_ko": "시민권"
+            },
+            {
+              "word": "monarchy",
+              "pos": "noun",
+              "meaning_ko": "군주제"
+            },
+            {
+              "word": "accountability",
+              "pos": "noun",
+              "meaning_ko": "책임, 설명 책임"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "It feels natural to us now",
+              "meaning_ko": "지금 우리에겐 당연하게 느껴진다"
+            },
+            {
+              "phrase": "In practice",
+              "meaning_ko": "실제로는"
+            },
+            {
+              "phrase": "Rather than",
+              "meaning_ko": "~하기보다는"
+            },
+            {
+              "phrase": "It would be a mistake, however",
+              "meaning_ko": "하지만 ~은 잘못된 생각일 것이다"
+            },
+            {
+              "phrase": "Yet its significance is hard to overstate",
+              "meaning_ko": "그러나 그 중요성은 아무리 강조해도 지나치지 않다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How Democracy Began in Athens",
+          "body": "Have you ever stopped to ask why we treat voting as a basic right rather than a strange experiment? The answer takes us back roughly two and a half thousand years, to the ancient city of Athens, where one of the most influential political ideas in human history first took practical shape.\n\nThe word itself tells the story. Demokratia combines demos, \"the people\", with kratos, \"power\", and the Athenians meant it quite literally. Rather than handing authority to a king or a narrow aristocracy, they built a system in which citizens themselves debated and decided. An assembly, open to all eligible citizens, met frequently on a hillside to argue over war, finance, and law. Any member could rise to speak, and decisions were settled by a show of hands. Strikingly, many offices were filled not by election but by lot, reflecting a radical conviction that ordinary citizens, chosen at random, were competent to run their own affairs.\n\nWe should resist romanticising this achievement. Athenian democracy rested on sharp exclusions: women had no political voice, a large enslaved population sustained the economy, and residents born elsewhere remained outsiders no matter how long they stayed. Participation was reserved for a free, male, native minority. Judged against modern ideals of universal suffrage, the system was profoundly limited.\n\nAnd yet the conceptual breakthrough endures. Athens introduced the idea that legitimate power flows upward from the governed, that public decisions should be made in the open, and that those who hold office can be questioned and held to account. These principles did not survive unbroken; democracy nearly vanished for long stretches of history. But the example remained, preserved in texts and arguments, waiting to be rediscovered. For long centuries, in fact, the very notion that the people might rule themselves survived only as a memory locked away in old books.\n\nWhen Enlightenment thinkers and later revolutionaries sought to challenge absolute monarchy, they reached back to this Athenian precedent for both vocabulary and justification. In that sense, every modern election carries a faint echo of citizens gathering on a Greek hillside, raising their hands, and insisting that the city belonged to them.",
+          "word_count": 356,
+          "estimated_read_seconds": 178,
+          "vocab": [
+            {
+              "word": "aristocracy",
+              "pos": "noun",
+              "meaning_ko": "귀족정, 귀족 계급"
+            },
+            {
+              "word": "suffrage",
+              "pos": "noun",
+              "meaning_ko": "참정권, 선거권"
+            },
+            {
+              "word": "legitimate",
+              "pos": "adjective",
+              "meaning_ko": "정당한, 합법적인"
+            },
+            {
+              "word": "assembly",
+              "pos": "noun",
+              "meaning_ko": "민회, 의회"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever stopped to ask",
+              "meaning_ko": "~을 물어본 적 있나요"
+            },
+            {
+              "phrase": "quite literally",
+              "meaning_ko": "말 그대로"
+            },
+            {
+              "phrase": "Strikingly",
+              "meaning_ko": "놀랍게도"
+            },
+            {
+              "phrase": "We should resist romanticising",
+              "meaning_ko": "미화하려는 유혹을 경계해야 한다"
+            },
+            {
+              "phrase": "And yet",
+              "meaning_ko": "그럼에도"
+            },
+            {
+              "phrase": "In that sense",
+              "meaning_ko": "그런 의미에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-07-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "가비지 컬렉션은 어떻게 동작하는가",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How Garbage Collection Works",
+          "body": "Have you ever cleaned your room after a busy week? Computer programs need cleaning too. When a program runs, it asks the computer for memory to store things. But after a while, some of those things are not needed anymore.\n\nIf no one cleans them up, the memory fills with junk. Soon the program slows down or stops. This is a real problem.\n\nMany programming languages solve it with a helper called a garbage collector. It looks at the memory and finds the parts that the program no longer uses. Then it frees that space so it can be used again.\n\nThanks to this helper, programmers do not have to clean up by hand. The computer quietly tidies up.",
+          "word_count": 119,
+          "estimated_read_seconds": 60,
+          "vocab": [
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "메모리"
+            },
+            {
+              "word": "program",
+              "pos": "noun",
+              "meaning_ko": "프로그램"
+            },
+            {
+              "word": "junk",
+              "pos": "noun",
+              "meaning_ko": "쓸모없는 것, 쓰레기"
+            },
+            {
+              "word": "free",
+              "pos": "verb",
+              "meaning_ko": "(메모리를) 해제하다, 비우다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever cleaned",
+              "meaning_ko": "~을 청소해본 적 있나요"
+            },
+            {
+              "phrase": "after a while",
+              "meaning_ko": "얼마 후"
+            },
+            {
+              "phrase": "not needed anymore",
+              "meaning_ko": "더 이상 필요하지 않은"
+            },
+            {
+              "phrase": "fills with junk",
+              "meaning_ko": "쓸모없는 것으로 가득 차다"
+            },
+            {
+              "phrase": "Thanks to this helper",
+              "meaning_ko": "이 도우미 덕분에"
+            },
+            {
+              "phrase": "by hand",
+              "meaning_ko": "수동으로, 직접"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Garbage Collection Works",
+          "body": "Have you ever left dishes piling up until there was no clean plate left? Computer programs can run into a similar problem with memory. While a program works, it constantly asks the computer for small pieces of memory to hold data. But once that data is no longer needed, something has to give the memory back.\n\nIn some older languages, the programmer had to do this by hand, carefully freeing each piece of memory at the right moment. This was powerful but dangerous. Forget to free memory, and the program slowly leaks until it crashes. Free it too early, and the program breaks in confusing ways.\n\nTo avoid these traps, many modern languages include a garbage collector. This is a part of the system that runs automatically in the background. Its job is to find data that the program can no longer reach or use, and then reclaim that memory so it becomes available again.\n\nThe clever part is how it decides what is still needed. The collector follows the links between pieces of data, starting from what the program is actively using. Anything it can reach is kept; anything it cannot reach is treated as garbage and removed. This lets programmers focus on their ideas instead of constant cleanup.",
+          "word_count": 210,
+          "estimated_read_seconds": 105,
+          "vocab": [
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "메모리"
+            },
+            {
+              "word": "leak",
+              "pos": "verb",
+              "meaning_ko": "새다, 누수되다"
+            },
+            {
+              "word": "reclaim",
+              "pos": "verb",
+              "meaning_ko": "회수하다, 되찾다"
+            },
+            {
+              "word": "garbage collector",
+              "pos": "noun",
+              "meaning_ko": "가비지 컬렉터"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever left",
+              "meaning_ko": "~을 그대로 둔 적 있나요"
+            },
+            {
+              "phrase": "by hand",
+              "meaning_ko": "수동으로, 직접"
+            },
+            {
+              "phrase": "In some older languages",
+              "meaning_ko": "일부 오래된 언어에서는"
+            },
+            {
+              "phrase": "To avoid these traps",
+              "meaning_ko": "이런 함정을 피하기 위해"
+            },
+            {
+              "phrase": "runs automatically in the background",
+              "meaning_ko": "백그라운드에서 자동으로 실행된다"
+            },
+            {
+              "phrase": "The clever part is",
+              "meaning_ko": "기발한 점은 ~이다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How Garbage Collection Works",
+          "body": "Have you ever wondered what happens to all the data a program creates but no longer needs? Every running program borrows memory from the computer to store its values, objects, and structures. The hard question is not how to borrow that memory, but how and when to give it back. This is the problem that garbage collection solves.\n\nIn languages like C, the programmer manages memory manually, explicitly requesting it and later releasing it. This offers fine control, but it is famously error-prone. Releasing memory too late causes leaks that gradually exhaust the system, while releasing it too early, or twice, can corrupt data and crash the program. Entire categories of serious bugs come from these mistakes.\n\nGarbage-collected languages take a different approach. A component of the runtime, the garbage collector, automatically identifies memory that is no longer in use and reclaims it. The central idea is reachability. The collector begins from a set of roots, such as local variables and global references that the program can currently access. From there it traces every reference, marking each object it can reach. Once tracing is complete, any object that was never marked is, by definition, unreachable: the program has no way to use it again. That memory is then freed.\n\nThis \"mark and sweep\" style of collection is one of several strategies, and real systems add many refinements for speed, such as dividing objects into generations based on how long they have survived. But the core insight remains elegant. Rather than tracking every allocation by hand, the system simply asks a single question: can the program still reach this data? If the answer is no, the space can safely be returned. The result is code that is both safer and easier to write.",
+          "word_count": 292,
+          "estimated_read_seconds": 146,
+          "vocab": [
+            {
+              "word": "reachability",
+              "pos": "noun",
+              "meaning_ko": "도달 가능성"
+            },
+            {
+              "word": "roots",
+              "pos": "noun",
+              "meaning_ko": "루트 (시작점)"
+            },
+            {
+              "word": "allocation",
+              "pos": "noun",
+              "meaning_ko": "할당"
+            },
+            {
+              "word": "runtime",
+              "pos": "noun",
+              "meaning_ko": "런타임"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "The hard question is not",
+              "meaning_ko": "어려운 문제는 ~이 아니다"
+            },
+            {
+              "phrase": "In languages like C",
+              "meaning_ko": "C 같은 언어에서는"
+            },
+            {
+              "phrase": "take a different approach",
+              "meaning_ko": "다른 접근법을 취하다"
+            },
+            {
+              "phrase": "The central idea is",
+              "meaning_ko": "핵심 개념은 ~이다"
+            },
+            {
+              "phrase": "by definition",
+              "meaning_ko": "정의상"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How Garbage Collection Works",
+          "body": "Have you ever considered that one of the quietest yet most consequential decisions in a programming language is what to do with memory after a program is finished using it? Every object a program creates occupies space, and unless that space is eventually reclaimed, even a modest application will exhaust the machine it runs on. Garbage collection is the automated answer to this problem, and understanding it reveals a surprising amount about how modern software stays both safe and fast.\n\nThe difficulty begins with a deceptively simple question: when is a piece of memory truly no longer needed? In manually managed languages, the programmer must answer this explicitly, freeing each allocation at precisely the right moment. The cost of getting it wrong is severe. Premature frees lead to dangling references and corruption, while forgotten frees cause leaks that accumulate silently until the system fails. Much of the history of memory-related security vulnerabilities traces back to exactly these errors.\n\nGarbage collectors replace this manual discipline with an automatic notion of reachability. The collector defines a set of roots, the references the program can directly access at a given moment, and then traverses the graph of objects that those roots point to. Any object reachable through some chain of references is assumed to be live; anything that cannot be reached is, with certainty, garbage, because the program has lost all means of touching it. The classic mark-and-sweep algorithm implements this directly, marking live objects in one pass and reclaiming the rest in another.\n\nNaive collection, however, can be costly, pausing the program while it works. This is why production collectors are far more sophisticated. Generational collectors exploit the empirical observation that most objects die young, concentrating effort on recently created objects and rarely examining long-lived ones. Concurrent and incremental collectors interleave their work with the running program to minimise noticeable pauses, a crucial property for interactive and real-time systems.\n\nWhat I find elegant about garbage collection is how it trades a hard, manual obligation for a single well-defined question that a machine can answer repeatedly and reliably: is this still reachable? By delegating that question to the runtime, languages free their users to reason about behaviour rather than bookkeeping, and in doing so eliminate an entire class of bugs at a stroke.",
+          "word_count": 380,
+          "estimated_read_seconds": 190,
+          "vocab": [
+            {
+              "word": "reachability",
+              "pos": "noun",
+              "meaning_ko": "도달 가능성"
+            },
+            {
+              "word": "dangling",
+              "pos": "adjective",
+              "meaning_ko": "허상의, 댕글링(가리키는 대상이 사라진)"
+            },
+            {
+              "word": "generational",
+              "pos": "adjective",
+              "meaning_ko": "세대별의"
+            },
+            {
+              "word": "concurrent",
+              "pos": "adjective",
+              "meaning_ko": "동시에 실행되는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever considered",
+              "meaning_ko": "~을 생각해본 적 있나요"
+            },
+            {
+              "phrase": "deceptively simple",
+              "meaning_ko": "보기보다 단순하지 않은"
+            },
+            {
+              "phrase": "In manually managed languages",
+              "meaning_ko": "수동으로 메모리를 관리하는 언어에서는"
+            },
+            {
+              "phrase": "with certainty",
+              "meaning_ko": "확실하게"
+            },
+            {
+              "phrase": "however",
+              "meaning_ko": "그러나"
+            },
+            {
+              "phrase": "What I find elegant about",
+              "meaning_ko": "내가 ~에서 우아하다고 느끼는 점은"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-07-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "데이터베이스 샤딩이란 무엇인가",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What Is Database Sharding?",
+          "body": "Have you ever shared one big pizza with many friends? It is easier when you cut it into pieces. Big databases work in a similar way.\n\nWhen an app has only a little data, one database is fine. But when millions of users join, one database can become too slow and too full. It cannot handle everything alone.\n\nSharding is a way to fix this. It cuts the data into smaller parts called shards. Each shard lives on its own server and holds only some of the data.\n\nNow the work is shared across many servers. Each one does less, so the whole system stays fast. Sharding helps big apps grow without slowing down.",
+          "word_count": 114,
+          "estimated_read_seconds": 57,
+          "vocab": [
+            {
+              "word": "database",
+              "pos": "noun",
+              "meaning_ko": "데이터베이스"
+            },
+            {
+              "word": "server",
+              "pos": "noun",
+              "meaning_ko": "서버"
+            },
+            {
+              "word": "shard",
+              "pos": "noun",
+              "meaning_ko": "샤드 (조각)"
+            },
+            {
+              "word": "data",
+              "pos": "noun",
+              "meaning_ko": "데이터"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever shared",
+              "meaning_ko": "~을 나눠본 적 있나요"
+            },
+            {
+              "phrase": "in a similar way",
+              "meaning_ko": "비슷한 방식으로"
+            },
+            {
+              "phrase": "too slow and too full",
+              "meaning_ko": "너무 느리고 너무 꽉 찬"
+            },
+            {
+              "phrase": "is a way to fix this",
+              "meaning_ko": "이를 해결하는 방법이다"
+            },
+            {
+              "phrase": "lives on its own server",
+              "meaning_ko": "자기만의 서버에 존재한다"
+            },
+            {
+              "phrase": "stays fast",
+              "meaning_ko": "빠르게 유지된다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What Is Database Sharding?",
+          "body": "Have you ever tried to carry all your shopping in one bag until it tore apart? A single database can face the same problem as an app becomes popular. At first, one database server easily handles every user and every request. But as data grows into millions of records, that one server starts to struggle. Queries slow down, and the disk fills up.\n\nSharding is one common solution. The idea is to split a large database into smaller pieces called shards, and to place each shard on a separate server. Instead of one machine holding everything, the data is spread across many machines, each responsible for only a portion of it.\n\nHow is the data divided? Usually a system chooses a \"shard key\", such as a user's ID. A rule then decides which shard each record belongs to, so the system always knows where to find a given piece of data. When a request arrives, it is sent only to the shard that holds the relevant records.\n\nThe benefit is that work is shared. Each server stores less data and answers fewer queries, so the whole system can handle far more users. The trade-off is added complexity, since the application must always track where each piece of data lives.",
+          "word_count": 209,
+          "estimated_read_seconds": 104,
+          "vocab": [
+            {
+              "word": "shard",
+              "pos": "noun",
+              "meaning_ko": "샤드 (조각)"
+            },
+            {
+              "word": "shard key",
+              "pos": "noun",
+              "meaning_ko": "샤드 키"
+            },
+            {
+              "word": "record",
+              "pos": "noun",
+              "meaning_ko": "레코드 (데이터 한 건)"
+            },
+            {
+              "word": "queries",
+              "pos": "noun",
+              "meaning_ko": "쿼리, 질의 (복수형)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever tried",
+              "meaning_ko": "~을 해본 적 있나요"
+            },
+            {
+              "phrase": "At first",
+              "meaning_ko": "처음에는"
+            },
+            {
+              "phrase": "is one common solution",
+              "meaning_ko": "흔한 해결책 중 하나이다"
+            },
+            {
+              "phrase": "The idea is to",
+              "meaning_ko": "핵심 아이디어는 ~하는 것이다"
+            },
+            {
+              "phrase": "How is the data divided?",
+              "meaning_ko": "데이터는 어떻게 나뉘는가?"
+            },
+            {
+              "phrase": "The trade-off is",
+              "meaning_ko": "그 대가는 ~이다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What Is Database Sharding?",
+          "body": "Have you ever wondered how a service with hundreds of millions of users keeps its database from collapsing under the load? For a small application, a single database server is more than enough. But data and traffic do not grow politely. Eventually one machine cannot store all the records or answer all the queries quickly enough, and simply buying a bigger server stops being practical. This is where sharding comes in.\n\nSharding means horizontally splitting a database into smaller, independent pieces called shards, each stored on its own server. Crucially, the shards share the same structure but hold different rows of data. One shard might store users whose IDs fall in one range, another a different range, and so on. Together they form the complete dataset, but no single server holds it all.\n\nThe heart of any sharding scheme is the shard key, the field used to decide where each record lives. A good shard key spreads data and traffic evenly across servers. A poor one creates \"hot shards\", where one server receives far more requests than the others, defeating the whole purpose. Common strategies include range-based sharding, which groups records by value, and hash-based sharding, which applies a hash function to the key for a more even spread.\n\nSharding brings real power, but it is not free. Queries that need data from several shards become more complicated, and operations that once touched a single table may now span multiple servers. Transactions across shards are notoriously difficult. For these reasons, teams usually treat sharding as a later-stage tool, reached for only when simpler options have been exhausted, because the scalability it offers comes hand in hand with lasting complexity.",
+          "word_count": 279,
+          "estimated_read_seconds": 140,
+          "vocab": [
+            {
+              "word": "shard key",
+              "pos": "noun",
+              "meaning_ko": "샤드 키"
+            },
+            {
+              "word": "horizontally",
+              "pos": "adverb",
+              "meaning_ko": "수평적으로"
+            },
+            {
+              "word": "hot shards",
+              "pos": "noun",
+              "meaning_ko": "핫 샤드 (과부하가 몰린 샤드)"
+            },
+            {
+              "word": "hash function",
+              "pos": "noun",
+              "meaning_ko": "해시 함수"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "This is where sharding comes in",
+              "meaning_ko": "바로 여기서 샤딩이 등장한다"
+            },
+            {
+              "phrase": "Crucially",
+              "meaning_ko": "결정적으로"
+            },
+            {
+              "phrase": "The heart of any sharding scheme is",
+              "meaning_ko": "모든 샤딩 방식의 핵심은 ~이다"
+            },
+            {
+              "phrase": "but it is not free",
+              "meaning_ko": "하지만 공짜는 아니다"
+            },
+            {
+              "phrase": "For these reasons",
+              "meaning_ko": "이런 이유로"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What Is Database Sharding?",
+          "body": "Have you ever wondered what actually happens behind the scenes when an application grows from thousands of users to hundreds of millions, yet its database somehow keeps responding in milliseconds? For modest workloads, a single well-tuned database server is remarkably capable. The trouble is that growth is rarely gentle. Storage requirements balloon, query volume climbs, and at some point vertical scaling, the strategy of simply buying a more powerful machine, runs into physical and financial limits. Sharding is the architectural response to that wall.\n\nAt its core, sharding is horizontal partitioning taken across machines. A large logical dataset is divided into subsets called shards, each living on its own server, and each shard holds the same schema but a distinct slice of the rows. No individual server stores the entire dataset; instead, the data is distributed so that the combined capacity of many ordinary machines stands in for one impossibly large one.\n\nThe decisive design choice is the shard key, the attribute that determines where any given record resides. Its quality governs whether the system thrives or suffers. An effective key distributes both storage and request traffic evenly, while a poorly chosen one produces hot shards that concentrate load on a single node and recreate the very bottleneck sharding was meant to remove. Range-based partitioning keeps related values together, which helps for range queries but risks uneven growth; hash-based partitioning scatters records to balance load, at the cost of making range scans expensive. Some systems add a directory or lookup layer so that shards can be rebalanced without rewriting application logic.\n\nWhat makes sharding genuinely hard, however, is everything that follows. Queries spanning multiple shards must be fanned out and their results recombined. Joins across shards may be impractical, pushing teams to denormalise their data. Above all, transactional guarantees that are trivial on one machine become formidable once they must hold across several, dragging in the difficult territory of distributed consensus. This is why experienced engineers regard sharding as a powerful but costly instrument, one to be adopted deliberately rather than reflexively, since the scalability it unlocks is permanently entangled with operational complexity.",
+          "word_count": 353,
+          "estimated_read_seconds": 176,
+          "vocab": [
+            {
+              "word": "vertical scaling",
+              "pos": "noun",
+              "meaning_ko": "수직 확장 (장비 성능 강화)"
+            },
+            {
+              "word": "partitioning",
+              "pos": "noun",
+              "meaning_ko": "분할, 파티셔닝"
+            },
+            {
+              "word": "consensus",
+              "pos": "noun",
+              "meaning_ko": "합의"
+            },
+            {
+              "word": "denormalise",
+              "pos": "verb",
+              "meaning_ko": "비정규화하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "At its core",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "The decisive design choice is",
+              "meaning_ko": "결정적인 설계 선택은 ~이다"
+            },
+            {
+              "phrase": "What makes sharding genuinely hard",
+              "meaning_ko": "샤딩을 정말 어렵게 만드는 것"
+            },
+            {
+              "phrase": "Above all",
+              "meaning_ko": "무엇보다도"
+            },
+            {
+              "phrase": "This is why",
+              "meaning_ko": "이것이 ~한 이유이다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-07-speaking-01",
+      "category": "speaking",
+      "title_ko": "[행동면접] 어렵게 디버깅했던 버그에 대해 말해보세요",
+      "source_url": null,
+      "source_name": "Generated · Behavioral interview",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Tell me about a difficult bug you debugged.",
+          "body": "Sure, I can share one. Last year, our app kept crashing, but only sometimes. It was hard because I could not make it happen on purpose.\n\nMy task was to find the cause and fix it fast. So I added extra logs to watch what the app was doing. Then I waited and read the logs carefully.\n\nAfter two days, I saw the pattern. The crash happened only when two users saved at the same moment. I fixed the code so it handled that case safely.\n\nAfter that, the crashes stopped. What I took away is that patience and good logs can solve even strange bugs.",
+          "word_count": 106,
+          "estimated_read_seconds": 53,
+          "vocab": [
+            {
+              "word": "crash",
+              "pos": "verb",
+              "meaning_ko": "(프로그램이) 멈추다, 충돌하다"
+            },
+            {
+              "word": "logs",
+              "pos": "noun",
+              "meaning_ko": "로그 (기록)"
+            },
+            {
+              "word": "cause",
+              "pos": "noun",
+              "meaning_ko": "원인"
+            },
+            {
+              "word": "pattern",
+              "pos": "noun",
+              "meaning_ko": "패턴, 규칙"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Sure, I can share one",
+              "meaning_ko": "네, 하나 말씀드릴게요"
+            },
+            {
+              "phrase": "It was hard because",
+              "meaning_ko": "~ 때문에 어려웠어요"
+            },
+            {
+              "phrase": "My task was to",
+              "meaning_ko": "제 역할은 ~하는 것이었어요"
+            },
+            {
+              "phrase": "So I added",
+              "meaning_ko": "그래서 ~을 추가했어요"
+            },
+            {
+              "phrase": "After two days",
+              "meaning_ko": "이틀 뒤에"
+            },
+            {
+              "phrase": "What I took away is",
+              "meaning_ko": "제가 배운 점은 ~이에요"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Tell me about a difficult bug you debugged.",
+          "body": "Sure, I'd be happy to. A while ago, the service I worked on had a bug that only appeared in production, never on my own machine. To be honest, that was really frustrating, because I couldn't reproduce it.\n\nMy task was to track it down without slowing the rest of the team. So I started by adding detailed logging around the part of the code that looked suspicious, and I set up an alert so I'd know the moment it happened again.\n\nWhen it finally appeared, the logs showed that two requests were updating the same record at once, which corrupted the data. I added a lock so only one update could run at a time, and wrote a test for that exact case.\n\nThe bug never came back. What I took away is that a problem you can't reproduce usually just means you don't have enough visibility yet, so the first job is to make it observable.",
+          "word_count": 158,
+          "estimated_read_seconds": 79,
+          "vocab": [
+            {
+              "word": "reproduce",
+              "pos": "verb",
+              "meaning_ko": "(문제를) 재현하다"
+            },
+            {
+              "word": "production",
+              "pos": "noun",
+              "meaning_ko": "운영 환경, 프로덕션"
+            },
+            {
+              "word": "lock",
+              "pos": "noun",
+              "meaning_ko": "락, 잠금"
+            },
+            {
+              "word": "visibility",
+              "pos": "noun",
+              "meaning_ko": "가시성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Sure, I'd be happy to",
+              "meaning_ko": "네, 기꺼이 말씀드릴게요"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "My task was to",
+              "meaning_ko": "제 역할은 ~하는 것이었어요"
+            },
+            {
+              "phrase": "So I started by",
+              "meaning_ko": "그래서 먼저 ~부터 시작했어요"
+            },
+            {
+              "phrase": "When it finally appeared",
+              "meaning_ko": "마침내 문제가 나타났을 때"
+            },
+            {
+              "phrase": "What I took away is",
+              "meaning_ko": "제가 배운 점은 ~이에요"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Tell me about a difficult bug you debugged.",
+          "body": "Sure, I can think of a good example. On a previous team, we had a bug that was almost a rite of passage, because it only showed up in production and seemed completely random. The app would occasionally return corrupted data, but never on demand, so for a while people just retried and moved on.\n\nMy task was to finally get to the bottom of it, ideally without disrupting everyone else's work. Honestly, the hardest part was that I couldn't reproduce it locally, so I decided the first step wasn't to fix anything, but to make the bug visible. I added structured logging around the suspect code path and set up an alert that would capture the full context the next time it occurred.\n\nWhen it triggered again, the logs told a clear story. Two requests were updating the same record at almost the same instant, and because there was no protection, one overwrote the other halfway through. It was a classic race condition. I introduced a lock around that critical section so the updates couldn't overlap, and I added a regression test that deliberately fired concurrent writes.\n\nThe result was that the corruption disappeared entirely, and the test gave us confidence it wouldn't quietly return. What I took away from the experience is that with intermittent bugs, the instinct to start changing code is usually a trap. The real work is improving observability first, because once you can actually see what the system is doing, the fix is often surprisingly small.",
+          "word_count": 252,
+          "estimated_read_seconds": 126,
+          "vocab": [
+            {
+              "word": "reproduce",
+              "pos": "verb",
+              "meaning_ko": "(문제를) 재현하다"
+            },
+            {
+              "word": "race condition",
+              "pos": "noun",
+              "meaning_ko": "경쟁 상태 (동시 접근 문제)"
+            },
+            {
+              "word": "regression test",
+              "pos": "noun",
+              "meaning_ko": "회귀 테스트"
+            },
+            {
+              "word": "observability",
+              "pos": "noun",
+              "meaning_ko": "관측 가능성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Sure, I can think of a good example",
+              "meaning_ko": "네, 좋은 예가 하나 떠오르네요"
+            },
+            {
+              "phrase": "My task was to",
+              "meaning_ko": "제 역할은 ~하는 것이었어요"
+            },
+            {
+              "phrase": "Honestly",
+              "meaning_ko": "솔직히"
+            },
+            {
+              "phrase": "the hardest part was that",
+              "meaning_ko": "가장 어려웠던 점은 ~이었어요"
+            },
+            {
+              "phrase": "When it triggered again",
+              "meaning_ko": "그게 다시 발생했을 때"
+            },
+            {
+              "phrase": "What I took away from the experience is",
+              "meaning_ko": "그 경험에서 제가 배운 점은 ~이에요"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Tell me about a difficult bug you debugged.",
+          "body": "Sure, one bug in particular still stands out to me. On a previous team, we had an issue that had quietly haunted the service for months: every so often it would return corrupted data, but only in production and never in any way we could trigger deliberately. People had grown used to simply retrying the request, which I saw as a warning sign that we'd stopped treating a real defect as a real defect.\n\nMy task was to resolve it properly, and to do so without derailing the rest of the team's roadmap. The central difficulty was reproducibility, or rather the complete lack of it. Instead of guessing at fixes, which I think is the most common mistake with bugs like this, I deliberately spent the first phase making the problem observable. I instrumented the suspicious code path with structured logging that captured the surrounding state, and configured an alert to preserve that context the instant the corruption recurred.\n\nWhen it finally fired, the evidence was unambiguous. Two concurrent requests were updating the same record almost simultaneously, and with no synchronisation in place, one silently clobbered the other mid-write. It was a textbook race condition, invisible under light load and exactly the kind of thing that hides from local testing. I addressed it by introducing a lock around the critical section, and, just as importantly, I wrote a regression test that intentionally issued overlapping writes so the failure mode was pinned down for good.\n\nThe outcome was that the corruption vanished completely and stayed gone. What I took away, and what I've carried into every debugging effort since, is that for intermittent bugs the urge to immediately change code is usually counterproductive. The leverage lies in visibility: once you can genuinely see what the system is doing, the fix itself is often almost trivial.",
+          "word_count": 304,
+          "estimated_read_seconds": 152,
+          "vocab": [
+            {
+              "word": "reproducibility",
+              "pos": "noun",
+              "meaning_ko": "재현성"
+            },
+            {
+              "word": "instrument",
+              "pos": "verb",
+              "meaning_ko": "(코드에) 계측 장치를 넣다"
+            },
+            {
+              "word": "race condition",
+              "pos": "noun",
+              "meaning_ko": "경쟁 상태 (동시 접근 문제)"
+            },
+            {
+              "word": "regression test",
+              "pos": "noun",
+              "meaning_ko": "회귀 테스트"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Sure, one bug in particular",
+              "meaning_ko": "네, 특히 한 버그가"
+            },
+            {
+              "phrase": "My task was to",
+              "meaning_ko": "제 역할은 ~하는 것이었어요"
+            },
+            {
+              "phrase": "or rather the complete lack of it",
+              "meaning_ko": "아니, 오히려 그것이 전혀 없다는 점이었죠"
+            },
+            {
+              "phrase": "It was a textbook",
+              "meaning_ko": "그것은 전형적인 ~이었어요"
+            },
+            {
+              "phrase": "The outcome was that",
+              "meaning_ko": "그 결과는 ~이었어요"
+            },
+            {
+              "phrase": "What I took away",
+              "meaning_ko": "제가 배운 점은"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

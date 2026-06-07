@@ -6,14 +6,16 @@
       "science-why-we-need-to-sleep",
       "science-how-memory-is-stored-in-the-brain",
       "science-how-volcanoes-erupt",
-      "science-how-auroras-form"
+      "science-how-auroras-form",
+      "science-how-photosynthesis-works"
     ],
     "academic_humanities": [
       "humanities-how-writing-was-invented",
       "humanities-how-money-was-invented",
       "humanities-why-impressionism-emerged",
       "humanities-how-the-printing-press-changed-the-world",
-      "humanities-how-the-silk-road-shaped-world-history"
+      "humanities-how-the-silk-road-shaped-world-history",
+      "humanities-how-democracy-began-in-athens"
     ],
     "cs_concepts": [
       "cs-why-hash-table-lookup-is-o1-on-average",
@@ -21,7 +23,8 @@
       "cs-how-binary-search-works",
       "cs-what-is-a-b-tree",
       "cs-how-recursion-works",
-      "cs-how-hash-maps-handle-collisions"
+      "cs-how-hash-maps-handle-collisions",
+      "cs-how-garbage-collection-works"
     ],
     "backend_systems": [
       "backend-what-is-consistent-hashing",
@@ -29,14 +32,16 @@
       "backend-what-is-a-cdn",
       "backend-how-rate-limiting-works",
       "backend-how-database-indexes-speed-up-queries",
-      "backend-what-is-the-cap-theorem"
+      "backend-what-is-the-cap-theorem",
+      "backend-what-is-database-sharding"
     ],
     "speaking": [
       "behavioral-disagreed-technical-decision",
       "ielts-p1-what-do-you-do-on-weekends",
       "ielts-p2-describe-a-book-that-influenced-you",
       "ielts-p3-how-technology-changed-reading",
-      "opic-tell-me-about-a-typical-weekend"
+      "opic-tell-me-about-a-typical-weekend",
+      "behavioral-difficult-bug-debugged"
     ]
   },
   "speaking_subtype_history": [
@@ -47,7 +52,8 @@
     "ielts_p2",
     "ielts_p2",
     "ielts_p3",
-    "opic"
+    "opic",
+    "behavioral"
   ],
-  "updated_at": "2026-05-31T11:18:41.140424+00:00"
+  "updated_at": "2026-06-07T02:52:50.369850+00:00"
 }
