@@ -1,0 +1,1046 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-11",
+  "topics": [
+    {
+      "topic_id": "2026-06-11-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "가을에 나뭇잎은 왜 색이 변할까",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why leaves change colour in autumn",
+          "body": "Have you ever seen trees turn red and yellow in autumn? In summer, leaves are green. The green colour comes from a thing called chlorophyll. It helps the tree make food from sunlight. But the yellow and orange colours are always there too. In summer we cannot see them because the green is so strong. When autumn comes, the days get shorter and the air gets colder. The tree slowly stops making chlorophyll. As the green fades away, the yellow and orange finally show. Some trees also make red colours at this time. Then the leaves fall, and the tree rests through the winter.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "leaf",
+              "pos": "noun",
+              "meaning_ko": "나뭇잎"
+            },
+            {
+              "word": "sunlight",
+              "pos": "noun",
+              "meaning_ko": "햇빛"
+            },
+            {
+              "word": "fade",
+              "pos": "verb",
+              "meaning_ko": "사라지다, 옅어지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever seen",
+              "meaning_ko": "~을 본 적 있나요"
+            },
+            {
+              "phrase": "make food from sunlight",
+              "meaning_ko": "햇빛으로 양분을 만들다"
+            },
+            {
+              "phrase": "are always there too",
+              "meaning_ko": "항상 거기 함께 있다"
+            },
+            {
+              "phrase": "the days get shorter",
+              "meaning_ko": "낮이 짧아지다"
+            },
+            {
+              "phrase": "fades away",
+              "meaning_ko": "점점 사라지다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "The science of autumn colours",
+          "body": "Have you ever wondered why green summer leaves suddenly burst into red, orange, and gold every autumn? The colours are not really new. They were hiding inside the leaf all along.\n\nDuring spring and summer, leaves are full of a green pigment called chlorophyll. This pigment captures sunlight and uses it to make sugar for the tree. Because there is so much chlorophyll, it covers up the other colours that are also present, the yellows and oranges produced by pigments called carotenoids.\n\nWhen autumn arrives, the nights grow longer and temperatures drop. These signals tell the tree to get ready for winter. It stops producing chlorophyll, and the green slowly breaks down. As it disappears, the yellow and orange pigments that were there all summer finally become visible. Some trees, such as maples, also create a red pigment in autumn, which gives the brightest displays.\n\nFinally, the tree seals off each leaf and lets it fall. This protects the tree from cold and saves water during the harsh months ahead.",
+          "word_count": 170,
+          "estimated_read_seconds": 85,
+          "vocab": [
+            {
+              "word": "pigment",
+              "pos": "noun",
+              "meaning_ko": "색소"
+            },
+            {
+              "word": "chlorophyll",
+              "pos": "noun",
+              "meaning_ko": "엽록소"
+            },
+            {
+              "word": "signal",
+              "pos": "noun",
+              "meaning_ko": "신호"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered why",
+              "meaning_ko": "왜 ~인지 궁금했나요"
+            },
+            {
+              "phrase": "hiding inside the leaf all along",
+              "meaning_ko": "줄곧 잎 속에 숨어 있던"
+            },
+            {
+              "phrase": "covers up the other colours",
+              "meaning_ko": "다른 색을 가리다"
+            },
+            {
+              "phrase": "get ready for winter",
+              "meaning_ko": "겨울을 준비하다"
+            },
+            {
+              "phrase": "the months ahead",
+              "meaning_ko": "앞으로의 몇 달"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What really happens when leaves turn",
+          "body": "Have you ever taken a walk in October and wondered where all those fiery colours come from, as if the trees had been hiding them? In a sense, that is exactly what has happened. The transformation we admire each autumn is less an act of creation than an act of revelation.\n\nThroughout the growing season, a leaf is dominated by chlorophyll, the green pigment that drives photosynthesis. It absorbs sunlight and powers the chemical reactions that turn carbon dioxide and water into sugar. Chlorophyll is so abundant and so vividly green that it masks the other pigments sharing the same leaf. Among these are the carotenoids, which produce yellows and oranges and are present the entire time.\n\nAs summer gives way to autumn, the shortening days and cooler nights act as a cue. The tree begins to dismantle its chlorophyll and reabsorb the valuable nutrients it contains, ready to store them for next spring. Once the green has drained away, the underlying yellows and oranges are finally exposed. Meanwhile, certain species, maples being the classic example, actively manufacture a fresh red pigment called anthocyanin, possibly to shield the leaf as it shuts down.\n\nAt the base of each leaf, the tree then forms a special layer of cells that gradually severs the connection. Eventually the leaf detaches and drifts to the ground. What looks like decay is in fact careful housekeeping: by shedding its leaves, the tree conserves water and protects itself from the freezing months to come. The blaze of colour we treasure each October is really just the visible trace of that quiet, practical preparation.",
+          "word_count": 267,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "photosynthesis",
+              "pos": "noun",
+              "meaning_ko": "광합성"
+            },
+            {
+              "word": "abundant",
+              "pos": "adjective",
+              "meaning_ko": "풍부한"
+            },
+            {
+              "word": "cue",
+              "pos": "noun",
+              "meaning_ko": "신호, 단서"
+            },
+            {
+              "word": "sever",
+              "pos": "verb",
+              "meaning_ko": "끊다, 절단하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "as if the trees had been hiding them",
+              "meaning_ko": "마치 나무가 그것을 숨겨온 것처럼"
+            },
+            {
+              "phrase": "In a sense",
+              "meaning_ko": "어떤 의미에서는"
+            },
+            {
+              "phrase": "gives way to",
+              "meaning_ko": "~에게 자리를 내주다"
+            },
+            {
+              "phrase": "act as a cue",
+              "meaning_ko": "신호로 작용하다"
+            },
+            {
+              "phrase": "What looks like decay is in fact",
+              "meaning_ko": "부패처럼 보이는 것이 사실은"
+            },
+            {
+              "phrase": "the months to come",
+              "meaning_ko": "다가올 몇 달"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Autumn colour as a story of revelation and retreat",
+          "body": "Have you ever paused beneath a blazing autumn tree and assumed the colour was something the leaf had just produced, a final flourish before the fall? It is a natural assumption, yet the truth is more interesting. Much of what we see in autumn is not painted on but uncovered, the result of a pigment being withdrawn rather than added.\n\nFor most of the year a leaf is overwhelmingly green, saturated with chlorophyll. This remarkable molecule is the engine of photosynthesis, harvesting light and using its energy to forge sugars from carbon dioxide and water. Chlorophyll is costly to maintain and is continuously broken down and replaced, so its vivid green dominates the leaf and conceals the carotenoids, the yellow and orange pigments that quietly coexist with it from the moment the leaf unfurls.\n\nThe turning point is triggered not by cold alone but chiefly by the lengthening nights of late summer. Sensing the approach of winter, a deciduous tree begins a deliberate retreat. It halts chlorophyll production and methodically dismantles what remains, salvaging nitrogen and other scarce nutrients to bank for the following spring. As the green recedes, the carotenoids that were present all along are at last laid bare. In certain species the display is heightened by anthocyanins, red pigments that, unlike the others, are freshly synthesised in autumn, possibly acting as a sunscreen that protects the delicate machinery of nutrient recovery.\n\nThe finale is a quiet feat of engineering. At the junction between leaf and twig the tree builds an abscission layer, a band of specialised cells that seals the wound even as it cuts the leaf loose. When the connection finally parts, the leaf falls, and the tree faces winter sealed and conserved. Nothing of value is wasted; even the timing is finely tuned, so that the most precious nutrients are reclaimed before the leaf is ever let go. Seen this way, autumn's splendour is not a celebration so much as a careful, frugal withdrawal, beauty arising as a by-product of a plant tidying up before the lean season ahead. There is, in other words, a hidden economy at work behind every falling leaf.",
+          "word_count": 358,
+          "estimated_read_seconds": 179,
+          "vocab": [
+            {
+              "word": "deciduous",
+              "pos": "adjective",
+              "meaning_ko": "낙엽성의"
+            },
+            {
+              "word": "salvage",
+              "pos": "verb",
+              "meaning_ko": "회수하다, 되찾다"
+            },
+            {
+              "word": "abscission",
+              "pos": "noun",
+              "meaning_ko": "탈리 (잎이 떨어지는 현상)"
+            },
+            {
+              "word": "frugal",
+              "pos": "adjective",
+              "meaning_ko": "검소한, 절약하는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a final flourish before the fall",
+              "meaning_ko": "떨어지기 전 마지막 화려함"
+            },
+            {
+              "phrase": "not painted on but uncovered",
+              "meaning_ko": "칠해진 것이 아니라 드러난"
+            },
+            {
+              "phrase": "The turning point is triggered by",
+              "meaning_ko": "전환점은 ~에 의해 촉발된다"
+            },
+            {
+              "phrase": "laid bare",
+              "meaning_ko": "고스란히 드러난"
+            },
+            {
+              "phrase": "a quiet feat of engineering",
+              "meaning_ko": "조용한 공학적 위업"
+            },
+            {
+              "phrase": "Seen this way",
+              "meaning_ko": "이렇게 보면"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-11-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "대공황은 왜 일어났을까",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What was the Great Depression?",
+          "body": "Have you ever heard of the Great Depression? It was a very hard time that began in 1929. In the years before, many people in America felt rich. Prices of company shares, called stocks, went up and up. People borrowed money to buy more stocks. But in October 1929, the stock market crashed. Prices fell very fast, and people lost a lot of money. Banks ran out of money and closed. Many workers lost their jobs. Families could not buy food or pay rent. The bad times spread to other countries too. It lasted about ten years, until the world slowly grew rich again.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "stock",
+              "pos": "noun",
+              "meaning_ko": "주식"
+            },
+            {
+              "word": "crash",
+              "pos": "verb",
+              "meaning_ko": "폭락하다"
+            },
+            {
+              "word": "borrow",
+              "pos": "verb",
+              "meaning_ko": "빌리다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever heard of",
+              "meaning_ko": "~에 대해 들어본 적 있나요"
+            },
+            {
+              "phrase": "a very hard time",
+              "meaning_ko": "매우 힘든 시기"
+            },
+            {
+              "phrase": "went up and up",
+              "meaning_ko": "계속 올라갔다"
+            },
+            {
+              "phrase": "ran out of money",
+              "meaning_ko": "돈이 바닥나다"
+            },
+            {
+              "phrase": "lost their jobs",
+              "meaning_ko": "일자리를 잃다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How the Great Depression began",
+          "body": "Have you ever wondered how an entire economy can suddenly fall apart? The Great Depression of the 1930s is one of the clearest examples, and it began with a famous crash.\n\nDuring the 1920s, the American economy was booming. Many people bought shares in companies, hoping to get rich quickly. Some even borrowed money to buy more, believing that prices would only keep rising. This pushed stock prices far above their real value.\n\nIn October 1929, confidence collapsed. Investors rushed to sell, prices plunged, and billions of dollars vanished in days. But the crash was only the trigger. The deeper problems were weak banks, falling farm prices, and people who already owed too much. When banks failed, ordinary families lost their savings overnight.\n\nWith less money to spend, people bought fewer goods. Factories cut production and laid off workers, which left even more people unable to spend. This vicious circle spread around the world. By the early 1930s, millions were jobless, and the hardship lasted for almost a decade.",
+          "word_count": 169,
+          "estimated_read_seconds": 84,
+          "vocab": [
+            {
+              "word": "boom",
+              "pos": "verb",
+              "meaning_ko": "호황을 누리다"
+            },
+            {
+              "word": "investor",
+              "pos": "noun",
+              "meaning_ko": "투자자"
+            },
+            {
+              "word": "plunge",
+              "pos": "verb",
+              "meaning_ko": "급락하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "fall apart",
+              "meaning_ko": "무너지다"
+            },
+            {
+              "phrase": "get rich quickly",
+              "meaning_ko": "빨리 부자가 되다"
+            },
+            {
+              "phrase": "above their real value",
+              "meaning_ko": "실제 가치보다 높이"
+            },
+            {
+              "phrase": "only the trigger",
+              "meaning_ko": "단지 방아쇠일 뿐"
+            },
+            {
+              "phrase": "a vicious circle",
+              "meaning_ko": "악순환"
+            }
+          ]
+        },
+        "B2": {
+          "title": "The tangled causes of the Great Depression",
+          "body": "Have you ever wondered why one stock market crash could plunge the entire world into a decade of misery? The Great Depression is often blamed on a single dramatic day in 1929, but the real story is a tangle of causes that had been building for years.\n\nThe 1920s in America were a time of dazzling optimism. Industry was expanding, new products like cars and radios were flooding the market, and ordinary people were pouring their savings into the stock market. Much of this buying was done on credit, with investors borrowing heavily in the belief that share prices could only climb. As a result, prices became wildly detached from the actual earnings of companies.\n\nWhen doubt finally crept in, the bubble burst. In late October 1929, panic selling wiped out fortunes within days. Yet the crash itself was more a symptom than the disease. Beneath it lay a fragile banking system, a long slump in agricultural prices, deep inequality, and far too much debt. As banks collapsed, terrified depositors withdrew their money, and thousands of banks went under, erasing the savings of millions.\n\nFrom there a downward spiral set in. Frightened consumers stopped spending, businesses cut output and dismissed workers, and the newly unemployed could spend even less. Government policies of the time, including a sharp rise in tariffs, often made matters worse rather than better. The slump rippled across the globe, and recovery would take most of the following decade. By the time it was over, the very meaning of economic security had been rewritten for an entire generation.",
+          "word_count": 261,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "optimism",
+              "pos": "noun",
+              "meaning_ko": "낙관"
+            },
+            {
+              "word": "credit",
+              "pos": "noun",
+              "meaning_ko": "신용, 외상"
+            },
+            {
+              "word": "tariff",
+              "pos": "noun",
+              "meaning_ko": "관세"
+            },
+            {
+              "word": "depositor",
+              "pos": "noun",
+              "meaning_ko": "예금자"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a tangle of causes",
+              "meaning_ko": "얽히고설킨 원인들"
+            },
+            {
+              "phrase": "done on credit",
+              "meaning_ko": "외상으로 이루어진"
+            },
+            {
+              "phrase": "detached from",
+              "meaning_ko": "~에서 동떨어진"
+            },
+            {
+              "phrase": "more a symptom than the disease",
+              "meaning_ko": "질병이라기보다 증상"
+            },
+            {
+              "phrase": "a downward spiral",
+              "meaning_ko": "하강 나선, 악순환"
+            },
+            {
+              "phrase": "made matters worse",
+              "meaning_ko": "상황을 악화시켰다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why one crash became a global catastrophe",
+          "body": "Have you ever wondered why historians refuse to pin the Great Depression on the Wall Street crash alone? The popular image is of a single catastrophic day in October 1929 dragging the world into ruin, yet that image mistakes a spark for the fire. The crash was real and devastating, but it ignited an economy already soaked in vulnerabilities.\n\nThe preceding decade had been intoxicating. American industry roared, mass production put cars and consumer goods within reach of millions, and a rising stock market seemed to promise effortless wealth. Crucially, much of this prosperity rested on borrowed money. Investors bought shares on margin, putting down a fraction of the price and financing the rest, on the assumption that values would keep climbing. By 1929 share prices bore little relation to the underlying profitability of the companies they represented, a textbook speculative bubble.\n\nWhen sentiment turned, the unwinding was brutal, but the deeper machinery of collapse lay elsewhere. The banking system was fragmented and lightly regulated, agriculture had been depressed throughout the 1920s, income inequality was acute, and household and corporate debt were dangerously high. As confidence evaporated, panicked depositors triggered waves of bank runs, and the resulting failures destroyed savings and choked off credit precisely when the economy needed it most.\n\nWhat transformed a severe recession into a decade-long depression was the self-reinforcing spiral that followed. Falling demand led firms to cut production and shed workers; rising unemployment further depressed demand. Policy missteps deepened the wound: a rigid adherence to the gold standard constrained governments, while protectionist measures such as steep new tariffs strangled international trade. Through these channels the American downturn was exported worldwide. Each link in this chain was individually understandable, yet together they formed a trap from which the ordinary forces of the market could not escape unaided. The lasting lesson, drawn painfully by later economists and policymakers, is that financial fragility, weak institutions, and misguided policy can turn an ordinary bust into a generational disaster, a lesson that continues to shape how central banks respond to crises today. It is no accident that the safeguards built in its aftermath, from deposit insurance to far more active monetary policy, were designed precisely to break such spirals before they gather momentum.",
+          "word_count": 373,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "vulnerability",
+              "pos": "noun",
+              "meaning_ko": "취약점"
+            },
+            {
+              "word": "speculative",
+              "pos": "adjective",
+              "meaning_ko": "투기적인"
+            },
+            {
+              "word": "fragmented",
+              "pos": "adjective",
+              "meaning_ko": "분열된, 파편화된"
+            },
+            {
+              "word": "protectionist",
+              "pos": "adjective",
+              "meaning_ko": "보호무역주의의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "mistakes a spark for the fire",
+              "meaning_ko": "불씨를 화재로 착각하다"
+            },
+            {
+              "phrase": "rested on borrowed money",
+              "meaning_ko": "빌린 돈에 기대어 있었다"
+            },
+            {
+              "phrase": "When sentiment turned",
+              "meaning_ko": "분위기가 돌아섰을 때"
+            },
+            {
+              "phrase": "the deeper machinery of collapse",
+              "meaning_ko": "붕괴의 더 깊은 기제"
+            },
+            {
+              "phrase": "self-reinforcing spiral",
+              "meaning_ko": "스스로 강화되는 악순환"
+            },
+            {
+              "phrase": "The lasting lesson is that",
+              "meaning_ko": "지속되는 교훈은 ~라는 것이다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-11-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "가상 메모리는 어떻게 동작할까",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is virtual memory?",
+          "body": "Have you ever run many programs on your computer at the same time? Each program needs memory to work. But there is only a limited amount of real memory, called RAM. So how can so many programs run together? The answer is virtual memory. The computer gives each program its own pretend memory space. The program thinks it has lots of room all to itself. Behind the scenes, the operating system maps this pretend memory to the real memory. If the real memory gets full, the computer can move some data to the hard disk for a while. This way, programs can run even when memory is tight.",
+          "word_count": 108,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "메모리"
+            },
+            {
+              "word": "program",
+              "pos": "noun",
+              "meaning_ko": "프로그램"
+            },
+            {
+              "word": "map",
+              "pos": "verb",
+              "meaning_ko": "대응시키다, 매핑하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "a limited amount of",
+              "meaning_ko": "제한된 양의"
+            },
+            {
+              "phrase": "its own pretend memory space",
+              "meaning_ko": "자기만의 가상 메모리 공간"
+            },
+            {
+              "phrase": "Behind the scenes",
+              "meaning_ko": "보이지 않는 곳에서"
+            },
+            {
+              "phrase": "when memory is tight",
+              "meaning_ko": "메모리가 부족할 때"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How virtual memory works",
+          "body": "Have you ever wondered how your computer can run a dozen apps at once without them stepping on each other? A big part of the answer is virtual memory, one of the cleverest ideas in operating systems.\n\nThe trick is to give every program its own private view of memory, called an address space. Inside this space, a program uses simple addresses starting from zero, as if it owned the whole machine. In reality, those addresses are not the real locations in RAM. The operating system, with help from the hardware, keeps a table that translates each virtual address into a real physical one.\n\nMemory is handled in small blocks called pages. The system can place a program's pages anywhere in RAM, and the program never notices, because the translation hides the details. This gives two big benefits. First, programs are isolated, so one cannot read or damage another's memory by accident. Second, the computer can pretend to have more memory than it really does. If RAM fills up, it can move pages that are not being used onto the disk, and bring them back later when needed. That is why programs keep running even when memory runs low.",
+          "word_count": 199,
+          "estimated_read_seconds": 100,
+          "vocab": [
+            {
+              "word": "address",
+              "pos": "noun",
+              "meaning_ko": "주소"
+            },
+            {
+              "word": "page",
+              "pos": "noun",
+              "meaning_ko": "페이지 (메모리 블록)"
+            },
+            {
+              "word": "isolate",
+              "pos": "verb",
+              "meaning_ko": "격리하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "stepping on each other",
+              "meaning_ko": "서로 간섭하다"
+            },
+            {
+              "phrase": "its own private view of",
+              "meaning_ko": "~에 대한 자기만의 사적인 관점"
+            },
+            {
+              "phrase": "as if it owned the whole machine",
+              "meaning_ko": "마치 기계 전체를 소유한 것처럼"
+            },
+            {
+              "phrase": "This gives two big benefits",
+              "meaning_ko": "이는 두 가지 큰 이점을 준다"
+            },
+            {
+              "phrase": "when memory runs low",
+              "meaning_ko": "메모리가 부족할 때"
+            }
+          ]
+        },
+        "B2": {
+          "title": "The illusion behind virtual memory",
+          "body": "Have you ever marvelled that your computer can juggle a browser, a music app, and a dozen background tasks, each behaving as though it had the machine to itself? That illusion is the work of virtual memory, a mechanism that sits at the heart of every modern operating system.\n\nThe core idea is a layer of indirection between the addresses a program uses and the actual locations in physical RAM. Each process is given its own virtual address space, a clean, continuous range of addresses that appears to belong to it alone. When the program reads or writes memory, the address it supplies is virtual. Specialised hardware called the memory management unit, guided by tables the operating system maintains, translates that virtual address into a physical one on the fly.\n\nMemory is divided into fixed-size chunks called pages, typically a few kilobytes each, and the mapping records where every page actually lives. This arrangement yields several powerful properties. Processes are isolated from one another, since each can only reach the physical memory its page tables permit, which is essential for both security and stability. Memory can also be allocated flexibly, because scattered physical pages can be stitched into a tidy virtual layout.\n\nPerhaps the most striking trick is the ability to over-commit. When RAM runs short, the system can evict pages that have not been used recently, writing them to disk in an area called swap, and reload them when they are next touched. The program is paused briefly during this page fault but otherwise carries on unaware. The cost is performance, since disk is far slower than RAM, which is why heavy swapping makes a machine crawl. Even so, this graceful illusion lets software treat memory as abundant and private, vastly simplifying how programs are written.",
+          "word_count": 297,
+          "estimated_read_seconds": 148,
+          "vocab": [
+            {
+              "word": "indirection",
+              "pos": "noun",
+              "meaning_ko": "간접 참조"
+            },
+            {
+              "word": "process",
+              "pos": "noun",
+              "meaning_ko": "프로세스"
+            },
+            {
+              "word": "allocate",
+              "pos": "verb",
+              "meaning_ko": "할당하다"
+            },
+            {
+              "word": "evict",
+              "pos": "verb",
+              "meaning_ko": "내쫓다, 축출하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "as though it had the machine to itself",
+              "meaning_ko": "마치 기계를 독차지한 것처럼"
+            },
+            {
+              "phrase": "a layer of indirection",
+              "meaning_ko": "간접 참조의 한 계층"
+            },
+            {
+              "phrase": "on the fly",
+              "meaning_ko": "실시간으로, 즉석에서"
+            },
+            {
+              "phrase": "yields several powerful properties",
+              "meaning_ko": "여러 강력한 특성을 낳는다"
+            },
+            {
+              "phrase": "the most striking trick",
+              "meaning_ko": "가장 인상적인 묘수"
+            },
+            {
+              "phrase": "carries on unaware",
+              "meaning_ko": "눈치채지 못한 채 계속하다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Virtual memory: the abstraction that frees the programmer",
+          "body": "Have you ever considered how astonishing it is that a programmer can write software without ever worrying about where, physically, their data will sit in the machine? That freedom is purchased by virtual memory, arguably one of the most consequential abstractions in all of computing. It dissolves a thorny problem, how to share scarce physical memory safely among many programs, into something each program can simply ignore.\n\nThe foundational move is to decouple the addresses a process uses from the addresses the hardware actually wires up. Every process receives a private virtual address space, a vast and uniform range it may treat as exclusively its own. Whenever it dereferences an address, the memory management unit consults a hierarchy of page tables, maintained by the kernel, and translates the virtual address into a physical frame. Because translation happens per access and entirely in hardware, the indirection is nearly invisible, accelerated further by a cache of recent translations called the translation lookaside buffer.\n\nFrom this single mechanism a cascade of benefits flows. Isolation is automatic, since a process can only name physical memory that its page tables expose, which underpins both security and fault containment. Memory becomes fungible, as physically scattered frames are presented to the process as one contiguous expanse. Sharing turns trivial, because two processes can map the same frame, the basis for shared libraries and efficient inter-process communication. And, most famously, the system may over-commit, lazily backing virtual pages with physical ones only when they are first touched, and evicting idle pages to disk when pressure mounts.\n\nNone of this is free, and the engineering tensions are instructive. A reference to a page currently on disk provokes a page fault, an expensive round trip that, if frequent, degenerates into thrashing and brings a machine to its knees. Page tables themselves consume memory and demand careful structuring to stay compact. The deeper point, though, is philosophical: virtual memory is a textbook illustration of how a well-chosen abstraction can hide ferocious complexity behind a simple, reliable interface, letting programmers reason about an idealised machine while the operating system quietly bends the messy real one to fit.",
+          "word_count": 355,
+          "estimated_read_seconds": 178,
+          "vocab": [
+            {
+              "word": "abstraction",
+              "pos": "noun",
+              "meaning_ko": "추상화"
+            },
+            {
+              "word": "dereference",
+              "pos": "verb",
+              "meaning_ko": "역참조하다"
+            },
+            {
+              "word": "fungible",
+              "pos": "adjective",
+              "meaning_ko": "대체 가능한"
+            },
+            {
+              "word": "thrashing",
+              "pos": "noun",
+              "meaning_ko": "스래싱 (과도한 페이지 교체)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "That freedom is purchased by",
+              "meaning_ko": "그 자유는 ~에 의해 얻어진다"
+            },
+            {
+              "phrase": "The foundational move is to",
+              "meaning_ko": "근본적인 수는 ~하는 것이다"
+            },
+            {
+              "phrase": "a cascade of benefits flows",
+              "meaning_ko": "이점들이 연쇄적으로 따라온다"
+            },
+            {
+              "phrase": "None of this is free",
+              "meaning_ko": "이 모든 것이 공짜는 아니다"
+            },
+            {
+              "phrase": "brings a machine to its knees",
+              "meaning_ko": "기계를 마비시키다"
+            },
+            {
+              "phrase": "The deeper point is philosophical",
+              "meaning_ko": "더 깊은 핵심은 철학적이다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-11-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "쓰기 전 로그(WAL)란 무엇일까",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is a write-ahead log?",
+          "body": "Imagine you are cooking and you write down each step before you do it. If the power goes out, you can read your notes and continue where you stopped. Databases do something similar. Before a database changes its real data, it first writes a short note about the change in a special file. This file is called a write-ahead log. The rule is simple: write the note first, then change the data. If the computer crashes in the middle, the database can read the log when it starts again. It uses the notes to finish or undo the changes. This way, no important data is lost.",
+          "word_count": 106,
+          "estimated_read_seconds": 53,
+          "vocab": [
+            {
+              "word": "note",
+              "pos": "noun",
+              "meaning_ko": "메모, 기록"
+            },
+            {
+              "word": "crash",
+              "pos": "verb",
+              "meaning_ko": "멈추다, 다운되다"
+            },
+            {
+              "word": "undo",
+              "pos": "verb",
+              "meaning_ko": "되돌리다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "before you do it",
+              "meaning_ko": "그것을 하기 전에"
+            },
+            {
+              "phrase": "continue where you stopped",
+              "meaning_ko": "멈춘 곳에서 이어가다"
+            },
+            {
+              "phrase": "The rule is simple",
+              "meaning_ko": "규칙은 간단하다"
+            },
+            {
+              "phrase": "in the middle",
+              "meaning_ko": "도중에"
+            },
+            {
+              "phrase": "no important data is lost",
+              "meaning_ko": "중요한 데이터가 손실되지 않는다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How a write-ahead log protects your data",
+          "body": "Have you ever lost work because an app crashed before you saved? Databases face the same danger constantly, and one of their main defences is the write-ahead log, often shortened to WAL.\n\nThe idea rests on a strict rule: never change the real data until you have first recorded what you are about to do. So before a database updates a row, it writes a small record describing the change into a log file, and makes sure that record is safely stored on disk. Only then does it apply the change to the actual data.\n\nWhy does this order matter so much? Imagine the power fails right in the middle of an update. When the database restarts, it reads the log from where it left off. If a change was logged but not finished, it can replay the log and complete it. If a change was started but never confirmed, it can roll it back. Either way, the database returns to a clean, consistent state.\n\nThis simple trick gives databases their reliability. It also makes writing faster, because adding to the end of a log is quicker than updating data scattered across the disk. The slower work can then happen safely in the background.",
+          "word_count": 204,
+          "estimated_read_seconds": 102,
+          "vocab": [
+            {
+              "word": "record",
+              "pos": "noun",
+              "meaning_ko": "기록, 레코드"
+            },
+            {
+              "word": "replay",
+              "pos": "verb",
+              "meaning_ko": "재실행하다"
+            },
+            {
+              "word": "consistent",
+              "pos": "adjective",
+              "meaning_ko": "일관된"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "face the same danger constantly",
+              "meaning_ko": "같은 위험에 끊임없이 직면하다"
+            },
+            {
+              "phrase": "rests on a strict rule",
+              "meaning_ko": "엄격한 규칙에 기반한다"
+            },
+            {
+              "phrase": "Only then does it",
+              "meaning_ko": "그제서야 비로소 ~한다"
+            },
+            {
+              "phrase": "from where it left off",
+              "meaning_ko": "멈췄던 지점부터"
+            },
+            {
+              "phrase": "roll it back",
+              "meaning_ko": "되돌리다, 롤백하다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why databases write the log first",
+          "body": "Have you ever wondered how a database can promise that, once it says your data is saved, it really is saved, even if the server loses power a millisecond later? The answer, in most systems, is a deceptively simple technique called write-ahead logging.\n\nThe principle is captured in its name. Before any change is made to the main data files, the database first appends a description of that change to a sequential log and forces it to durable storage. The actual data pages in memory may be modified soon after, but the log entry always comes first. This ordering is the whole point, and it is the contract on which crash recovery depends.\n\nConsider what happens when a system fails unexpectedly. Some changes may have been written to the data files, while others lived only in memory and were lost. On restart, the database consults the log and performs recovery in two conceptual phases. It redoes any committed changes that the log records but that may not have reached the data files, ensuring nothing acknowledged is forgotten. It then undoes any changes belonging to transactions that never committed, ensuring no half-finished work survives. The result is a database restored to a consistent state, honouring exactly the transactions it had promised.\n\nThere is a performance dividend too. Writing to a log is a sequential, append-only operation, which is far faster than updating data scattered randomly across the disk. The heavier task of flushing those changes into their final positions can be deferred and batched. In short, the write-ahead log turns the fragile act of modifying data into something both durable and efficient, which is why it underpins nearly every serious database and many file systems as well.",
+          "word_count": 286,
+          "estimated_read_seconds": 143,
+          "vocab": [
+            {
+              "word": "append",
+              "pos": "verb",
+              "meaning_ko": "덧붙이다, 추가하다"
+            },
+            {
+              "word": "sequential",
+              "pos": "adjective",
+              "meaning_ko": "순차적인"
+            },
+            {
+              "word": "transaction",
+              "pos": "noun",
+              "meaning_ko": "트랜잭션"
+            },
+            {
+              "word": "defer",
+              "pos": "verb",
+              "meaning_ko": "미루다, 연기하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a deceptively simple technique",
+              "meaning_ko": "겉보기에 단순한 기법"
+            },
+            {
+              "phrase": "is captured in its name",
+              "meaning_ko": "그 이름에 담겨 있다"
+            },
+            {
+              "phrase": "This ordering is the whole point",
+              "meaning_ko": "이 순서가 핵심 전부이다"
+            },
+            {
+              "phrase": "Consider what happens when",
+              "meaning_ko": "~일 때 무슨 일이 벌어지는지 생각해 보라"
+            },
+            {
+              "phrase": "a performance dividend",
+              "meaning_ko": "성능상의 이득"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "C1": {
+          "title": "The write-ahead log and the discipline of durability",
+          "body": "Have you ever wondered what gives the D in ACID, durability, its teeth? When a database tells you a transaction has committed, it is making a hard promise: that data will survive a crash, a power cut, even a kernel panic occurring an instant later. The mechanism that makes such a promise credible, across PostgreSQL, SQLite, and countless other systems, is write-ahead logging, a discipline as elegant as it is unforgiving.\n\nIts central commandment is an ordering constraint: the log record describing a modification must reach stable storage before the corresponding change to the main data is allowed to become permanent. In practice the database appends compact records to a sequential log and issues a flush, often an fsync, to guarantee they are truly on disk rather than lingering in a volatile buffer. Only once the log is secure may the system consider the work committed, and only later, at its leisure, need it propagate those changes to their final resting places in the data files.\n\nThis inversion, log first, data later, is precisely what makes recovery tractable. After an unclean shutdown the database scans the log and reconstructs a consistent world. In the redo phase it replays committed changes that may not yet have been persisted to the data files, so that nothing acknowledged is ever lost. In the undo phase it reverses the effects of transactions caught mid-flight, so that no partial work contaminates the state. Because each log record is idempotent in effect, replaying it more than once does no harm, which is what allows recovery itself to be safely interrupted and restarted.\n\nThe approach also pays a handsome efficiency dividend. Sequential appends are dramatically faster than the random writes that updating scattered data pages would require, and the expensive checkpointing of dirty pages can be batched and deferred to quiet moments. The trade-off is that every commit is gated on a durable log write, so the speed and honesty of that flush largely dictate a database's write throughput, which is why so much engineering effort goes into group commit and fast storage. Strip away the jargon and the lesson is almost moral: by forcing itself to record its intentions before acting on them, a database earns the right to make promises it can keep.",
+          "word_count": 378,
+          "estimated_read_seconds": 189,
+          "vocab": [
+            {
+              "word": "durability",
+              "pos": "noun",
+              "meaning_ko": "내구성, 지속성"
+            },
+            {
+              "word": "flush",
+              "pos": "noun",
+              "meaning_ko": "플러시 (디스크 강제 기록)"
+            },
+            {
+              "word": "tractable",
+              "pos": "adjective",
+              "meaning_ko": "다루기 쉬운"
+            },
+            {
+              "word": "checkpointing",
+              "pos": "noun",
+              "meaning_ko": "체크포인트 처리"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "what gives the D in ACID its teeth",
+              "meaning_ko": "ACID의 D에 실효성을 부여하는 것"
+            },
+            {
+              "phrase": "a hard promise",
+              "meaning_ko": "확고한 약속"
+            },
+            {
+              "phrase": "Its central commandment is",
+              "meaning_ko": "그 핵심 계율은 ~이다"
+            },
+            {
+              "phrase": "at its leisure",
+              "meaning_ko": "여유 있을 때"
+            },
+            {
+              "phrase": "caught mid-flight",
+              "meaning_ko": "진행 도중에 붙잡힌"
+            },
+            {
+              "phrase": "Strip away the jargon",
+              "meaning_ko": "전문 용어를 걷어내면"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-11-speaking-01",
+      "category": "speaking",
+      "title_ko": "[OPIc] 당신이 사는 동네를 묘사해 주세요",
+      "source_url": null,
+      "source_name": "Generated · OPIc",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Describe the neighbourhood you live in",
+          "body": "Okay, let me tell you about my neighbourhood. I live in a quiet area near the city, and I really like it. There is a small park close to my home, and I often walk there in the evening. Near the park, there are some shops, a few cafes, and a supermarket, so it is very convenient. The subway station is only ten minutes away on foot, which is great for going to work. My neighbours are friendly, and the streets are clean and safe. To be honest, it is not a fancy place, but it feels comfortable. That is why I am happy to live here.",
+          "word_count": 107,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "neighbourhood",
+              "pos": "noun",
+              "meaning_ko": "동네, 이웃"
+            },
+            {
+              "word": "convenient",
+              "pos": "adjective",
+              "meaning_ko": "편리한"
+            },
+            {
+              "word": "comfortable",
+              "pos": "adjective",
+              "meaning_ko": "편안한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "let me tell you about",
+              "meaning_ko": "~에 대해 말해볼게요"
+            },
+            {
+              "phrase": "close to my home",
+              "meaning_ko": "우리 집 가까이에"
+            },
+            {
+              "phrase": "only ten minutes away on foot",
+              "meaning_ko": "걸어서 10분 거리"
+            },
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "That is why",
+              "meaning_ko": "그래서 ~이다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Tell me about the area where you live",
+          "body": "Sure, I'd be happy to describe my neighbourhood. I live in a fairly quiet residential area, not far from the centre of the city. What I like most about it is the balance: it's peaceful, but everything I need is still close by.\n\nRight near my apartment, there's a small park with some trees and benches. I often go for a walk there after dinner, and on weekends people bring their kids and dogs, so it feels lively. Within a few minutes, there are also convenience stores, a couple of nice cafes, and a big supermarket, which makes daily life really easy.\n\nIn terms of transport, the subway station is about a ten-minute walk away, so getting to work or downtown is no trouble at all. The streets are clean and well lit, and to be honest, I feel quite safe even late at night.\n\nThe people are friendly too. I'm on good terms with a few neighbours, and the shopkeepers nearby recognise me. So all in all, it's a comfortable, convenient place, and I'm really glad I chose to live here.",
+          "word_count": 182,
+          "estimated_read_seconds": 91,
+          "vocab": [
+            {
+              "word": "residential",
+              "pos": "adjective",
+              "meaning_ko": "주거의"
+            },
+            {
+              "word": "lively",
+              "pos": "adjective",
+              "meaning_ko": "활기찬"
+            },
+            {
+              "word": "recognise",
+              "pos": "verb",
+              "meaning_ko": "알아보다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd be happy to describe",
+              "meaning_ko": "기꺼이 묘사해 보겠습니다"
+            },
+            {
+              "phrase": "What I like most about it is",
+              "meaning_ko": "제가 가장 좋아하는 점은 ~이다"
+            },
+            {
+              "phrase": "In terms of transport",
+              "meaning_ko": "교통 면에서는"
+            },
+            {
+              "phrase": "I'm on good terms with",
+              "meaning_ko": "~와 사이가 좋다"
+            },
+            {
+              "phrase": "all in all",
+              "meaning_ko": "전반적으로"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Describe your neighbourhood and what you like about it",
+          "body": "Sure, I'd love to tell you about my neighbourhood, because it's somewhere I've genuinely grown fond of over the years. I live in a quiet residential district that sits just on the edge of the busier part of the city, and honestly, that location is the best of both worlds for me.\n\nThe first thing people notice is how green it is. There's a decent-sized park just around the corner, with walking paths, a small pond, and plenty of benches. I tend to head there for a stroll in the evenings to clear my head, and at weekends it comes alive with families, joggers, and people walking their dogs. It really gives the area a friendly, community feel.\n\nIn terms of convenience, I can't complain at all. There's a cluster of cafes, bakeries, and small restaurants within a five-minute walk, along with a large supermarket for the weekly shopping. The subway is close by too, so commuting into the centre is quick and painless, which matters a lot to me.\n\nWhat I appreciate most, though, is the atmosphere. The streets are clean and safe, even at night, and there's a real sense of familiarity. The shop owners know me by now, and I'm on nodding terms with several of my neighbours. So if I had to sum it up, I'd say it's calm, practical, and welcoming. It may not be the trendiest part of town, but for me it feels exactly like home.",
+          "word_count": 243,
+          "estimated_read_seconds": 122,
+          "vocab": [
+            {
+              "word": "district",
+              "pos": "noun",
+              "meaning_ko": "지구, 구역"
+            },
+            {
+              "word": "stroll",
+              "pos": "noun",
+              "meaning_ko": "산책"
+            },
+            {
+              "word": "commute",
+              "pos": "verb",
+              "meaning_ko": "통근하다"
+            },
+            {
+              "word": "atmosphere",
+              "pos": "noun",
+              "meaning_ko": "분위기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "grown fond of",
+              "meaning_ko": "점점 좋아하게 된"
+            },
+            {
+              "phrase": "the best of both worlds",
+              "meaning_ko": "양쪽의 장점을 다 가진"
+            },
+            {
+              "phrase": "I can't complain at all",
+              "meaning_ko": "전혀 불만이 없다"
+            },
+            {
+              "phrase": "on nodding terms with",
+              "meaning_ko": "가볍게 인사하는 사이인"
+            },
+            {
+              "phrase": "if I had to sum it up",
+              "meaning_ko": "한마디로 요약하자면"
+            },
+            {
+              "phrase": "feels exactly like home",
+              "meaning_ko": "꼭 집처럼 느껴진다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Talk in detail about the neighbourhood you live in",
+          "body": "I'd genuinely enjoy describing my neighbourhood, partly because it's a place I've come to appreciate more and more the longer I've lived here. It's a quiet residential pocket perched right on the boundary between the city proper and its calmer outskirts, and that in-between quality is, for me, its greatest charm. I get the peace of a low-key area without sacrificing the convenience of being close to everything.\n\nThe defining feature, I'd say, is how leafy and walkable it is. There's a generously sized park barely two minutes from my door, with winding paths, a little pond, and benches tucked under the trees. I've fallen into the habit of taking an evening stroll there to unwind after work, and at weekends the place positively hums with families, joggers, and dog owners. That constant, gentle activity lends the whole district a warm, communal feel that I think is increasingly rare in big cities.\n\nWhen it comes to everyday practicality, I honestly couldn't ask for more. A tight cluster of cafes, bakeries, and family-run restaurants sits within a few minutes' walk, there's a well-stocked supermarket for the weekly shop, and the subway is close enough that commuting into the centre never feels like a chore. Everything seems to have been arranged with daily life in mind.\n\nWhat I value most, though, is intangible. There's a reassuring sense of safety, even late at night, and a familiarity that has crept up on me over time. The shopkeepers greet me by now, I'm on friendly terms with several neighbours, and the streets feel genuinely cared for. So if I were pressed to capture it in a sentence, I'd say my neighbourhood is unpretentious, convenient, and quietly welcoming. It's not the flashiest corner of the city by any stretch, but it suits me down to the ground, and I can't really imagine wanting to live anywhere else. If anything, I find myself quietly recommending it to friends whenever they happen to be house-hunting.",
+          "word_count": 328,
+          "estimated_read_seconds": 164,
+          "vocab": [
+            {
+              "word": "outskirts",
+              "pos": "noun",
+              "meaning_ko": "변두리, 교외"
+            },
+            {
+              "word": "communal",
+              "pos": "adjective",
+              "meaning_ko": "공동체의"
+            },
+            {
+              "word": "intangible",
+              "pos": "adjective",
+              "meaning_ko": "무형의, 손에 잡히지 않는"
+            },
+            {
+              "word": "unpretentious",
+              "pos": "adjective",
+              "meaning_ko": "잘난 체하지 않는, 수수한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "come to appreciate",
+              "meaning_ko": "진가를 알게 되다"
+            },
+            {
+              "phrase": "that in-between quality",
+              "meaning_ko": "그 중간적인 특성"
+            },
+            {
+              "phrase": "I've fallen into the habit of",
+              "meaning_ko": "~하는 습관이 들었다"
+            },
+            {
+              "phrase": "I honestly couldn't ask for more",
+              "meaning_ko": "정말 더 바랄 게 없다"
+            },
+            {
+              "phrase": "if I were pressed to capture it in a sentence",
+              "meaning_ko": "한 문장으로 표현하라면"
+            },
+            {
+              "phrase": "suits me down to the ground",
+              "meaning_ko": "나에게 더할 나위 없이 잘 맞는다"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

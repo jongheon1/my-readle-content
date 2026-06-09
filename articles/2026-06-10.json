@@ -1,0 +1,1037 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-10",
+  "topics": [
+    {
+      "topic_id": "2026-06-10-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "지진은 왜 일어날까",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How earthquakes happen",
+          "body": "Have you ever felt the ground shake under your feet? That is an earthquake. The surface of the Earth is not one solid piece. It is made of huge plates of rock. These plates float on hot, soft rock below them. The plates move very slowly, about as fast as your fingernails grow. Sometimes two plates push against each other and get stuck. Pressure builds up for many years. Then suddenly the rock breaks and the plates slip. All that energy is set free at once. It travels through the ground as waves, and we feel the shaking. Most earthquakes are small, but a few are very strong.",
+          "word_count": 108,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "plate",
+              "pos": "noun",
+              "meaning_ko": "(지각) 판"
+            },
+            {
+              "word": "pressure",
+              "pos": "noun",
+              "meaning_ko": "압력"
+            },
+            {
+              "word": "slip",
+              "pos": "verb",
+              "meaning_ko": "미끄러지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever felt",
+              "meaning_ko": "~을 느껴본 적 있나요"
+            },
+            {
+              "phrase": "push against each other",
+              "meaning_ko": "서로 밀어붙이다"
+            },
+            {
+              "phrase": "builds up",
+              "meaning_ko": "쌓이다, 축적되다"
+            },
+            {
+              "phrase": "set free at once",
+              "meaning_ko": "한꺼번에 방출되다"
+            },
+            {
+              "phrase": "travels through the ground",
+              "meaning_ko": "땅을 통해 전달되다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why the ground shakes",
+          "body": "Have you ever wondered why the ground sometimes shakes? The answer lies deep beneath our feet. The outer shell of the Earth is broken into giant pieces called tectonic plates. These plates are always moving, but they move so slowly that we never notice. They drift only a few centimetres each year.\n\nThe trouble starts where two plates meet. Sometimes they slide past each other smoothly, but often they get locked together. The plates keep pushing, and pressure builds up along the edge. The rock bends and stores energy, a bit like a spring that you squeeze tighter and tighter.\n\nAt some point the rock cannot hold any more. It snaps, and the two plates jerk into a new position. The stored energy is released in seconds and spreads outward as waves. When these waves reach the surface, the ground trembles. The place where the rock first breaks is called the focus, and the point right above it on the surface is the epicentre. Scientists use special instruments to measure how strong each earthquake is.",
+          "word_count": 175,
+          "estimated_read_seconds": 88,
+          "vocab": [
+            {
+              "word": "tectonic",
+              "pos": "adjective",
+              "meaning_ko": "지각 구조의"
+            },
+            {
+              "word": "drift",
+              "pos": "verb",
+              "meaning_ko": "서서히 이동하다"
+            },
+            {
+              "word": "epicentre",
+              "pos": "noun",
+              "meaning_ko": "진앙"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "lies deep beneath our feet",
+              "meaning_ko": "발밑 깊은 곳에 있다"
+            },
+            {
+              "phrase": "get locked together",
+              "meaning_ko": "서로 맞물려 고정되다"
+            },
+            {
+              "phrase": "a bit like",
+              "meaning_ko": "마치 ~처럼"
+            },
+            {
+              "phrase": "at some point",
+              "meaning_ko": "어느 순간"
+            }
+          ]
+        },
+        "B2": {
+          "title": "The science behind earthquakes",
+          "body": "Have you ever felt the ground move and wondered what was happening below you? Earthquakes are among the planet's most dramatic events, and they begin far beneath the surface. The outer layer of the Earth, called the crust, is not a single shell. Instead, it is divided into about a dozen large tectonic plates, along with many smaller ones. These plates rest on a layer of hot, slowly flowing rock, and they are constantly in motion.\n\nMost of the time this movement is far too slow to notice, only a few centimetres a year. The problem arises at the boundaries where plates meet. In some places they pull apart, in others they collide, and in others they grind past one another. Friction often locks the edges together while the rest of the plate keeps moving. As a result, stress accumulates in the rock, which bends and stores elastic energy like a compressed spring.\n\nEventually the rock reaches its breaking point. It ruptures along a fracture called a fault, and the two sides lurch suddenly into new positions. The energy that took centuries to build is released in a matter of seconds. It radiates outward as seismic waves, which shake everything they pass through. The point underground where the rupture begins is the focus, and the spot directly above it is the epicentre. By studying these waves, scientists can locate earthquakes and even learn about the hidden structure of the Earth's interior. This is why a sudden, terrifying jolt is, paradoxically, simply the release of forces that had been building up quietly for a very long time beforehand.",
+          "word_count": 267,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "boundary",
+              "pos": "noun",
+              "meaning_ko": "경계"
+            },
+            {
+              "word": "friction",
+              "pos": "noun",
+              "meaning_ko": "마찰"
+            },
+            {
+              "word": "rupture",
+              "pos": "verb",
+              "meaning_ko": "파열되다"
+            },
+            {
+              "word": "seismic",
+              "pos": "adjective",
+              "meaning_ko": "지진의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "among the planet's most dramatic events",
+              "meaning_ko": "지구에서 가장 극적인 사건 중 하나"
+            },
+            {
+              "phrase": "The problem arises at",
+              "meaning_ko": "문제는 ~에서 발생한다"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "reaches its breaking point",
+              "meaning_ko": "한계점에 도달하다"
+            },
+            {
+              "phrase": "in a matter of seconds",
+              "meaning_ko": "단 몇 초 만에"
+            },
+            {
+              "phrase": "radiates outward",
+              "meaning_ko": "바깥으로 퍼져나가다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What earthquakes reveal about a restless planet",
+          "body": "Have you ever stopped to think that the solid ground beneath you is, on a geological timescale, anything but still? Earthquakes remind us, often violently, that the surface of our planet is a restless mosaic of moving pieces. The Earth's rigid outer layer, known as the lithosphere, is fractured into tectonic plates that drift atop the hotter, partially molten rock of the mantle below. Driven by slow currents of heat rising from deep within, these plates creep along at no more than a few centimetres a year, roughly the rate at which our fingernails grow.\n\nThe drama unfolds at plate boundaries. Where plates converge, diverge, or slide laterally past one another, their edges rarely move smoothly. Instead, friction tends to lock them in place while the bulk of each plate continues its relentless motion. Stress therefore accumulates in the rock near the boundary, which deforms elastically, storing energy much as a bent bow does. This build-up can continue for decades or even centuries without any outward sign, which is precisely what makes large earthquakes so difficult to predict.\n\nSooner or later, however, the rock exceeds its strength and fails. It ruptures abruptly along a fault, and the opposing blocks snap into a new alignment. In a handful of seconds, energy that took generations to accumulate is unleashed and propagates outward as seismic waves. These waves come in several forms: faster primary waves that compress the ground, slower secondary waves that shake it from side to side, and surface waves that cause much of the destruction we associate with major quakes.\n\nThe location underground where rupture initiates is termed the focus, or hypocentre, while the point on the surface directly above is the epicentre. Seismologists, using networks of sensitive instruments, not only pinpoint these events but also exploit the waves as a kind of natural X-ray, revealing the otherwise inaccessible architecture of the Earth's deep interior. In fact, almost everything we know about the layering of the core and mantle has been inferred from the subtle way these waves bend, slow, and split as they journey through different materials. What feels like sudden chaos is, in truth, the predictable outcome of forces that have been quietly at work all along.",
+          "word_count": 369,
+          "estimated_read_seconds": 184,
+          "vocab": [
+            {
+              "word": "lithosphere",
+              "pos": "noun",
+              "meaning_ko": "암석권"
+            },
+            {
+              "word": "converge",
+              "pos": "verb",
+              "meaning_ko": "한데 모이다, 수렴하다"
+            },
+            {
+              "word": "relentless",
+              "pos": "adjective",
+              "meaning_ko": "끊임없는"
+            },
+            {
+              "word": "propagate",
+              "pos": "verb",
+              "meaning_ko": "전파되다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "anything but still",
+              "meaning_ko": "결코 정지해 있지 않은"
+            },
+            {
+              "phrase": "The drama unfolds at",
+              "meaning_ko": "극적인 일은 ~에서 펼쳐진다"
+            },
+            {
+              "phrase": "Sooner or later",
+              "meaning_ko": "머지않아, 조만간"
+            },
+            {
+              "phrase": "In a handful of seconds",
+              "meaning_ko": "불과 몇 초 만에"
+            },
+            {
+              "phrase": "much as a bent bow does",
+              "meaning_ko": "마치 휜 활처럼"
+            },
+            {
+              "phrase": "in truth",
+              "meaning_ko": "사실상, 실제로는"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-10-academic_humanities-01",
+      "category": "academic_humanities",
+      "title_ko": "알파벳은 어떻게 만들어졌을까",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How the alphabet was made",
+          "body": "Have you ever wondered where our letters came from? Long ago, people did not write with letters. They drew small pictures for words. But there are thousands of words, so this was very hard to learn. About 4,000 years ago, people near Egypt had a clever idea. They used a small set of signs for sounds, not for whole words. Each sign stood for one sound. When you put the sounds together, you got a word. This was the first alphabet. Later, the Phoenicians, who were traders, carried it around the sea. The Greeks and Romans changed it, and our letters today come from them.",
+          "word_count": 105,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "sign",
+              "pos": "noun",
+              "meaning_ko": "기호, 부호"
+            },
+            {
+              "word": "sound",
+              "pos": "noun",
+              "meaning_ko": "소리, 음"
+            },
+            {
+              "word": "trader",
+              "pos": "noun",
+              "meaning_ko": "상인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "a clever idea",
+              "meaning_ko": "기발한 생각"
+            },
+            {
+              "phrase": "not for whole words",
+              "meaning_ko": "단어 전체가 아니라"
+            },
+            {
+              "phrase": "put the sounds together",
+              "meaning_ko": "소리를 합치다"
+            },
+            {
+              "phrase": "come from them",
+              "meaning_ko": "그들에게서 비롯되다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "The story behind our letters",
+          "body": "Have you ever stopped to think how strange it is that just 26 letters can write almost anything? It was not always this easy. The earliest writing systems used pictures or hundreds of complex signs, one for each word or idea. Learning to read took years, so only a few people could do it.\n\nThe big change came about 4,000 years ago, near Egypt. Instead of drawing a sign for every word, some people started using a small number of signs to stand for sounds. This idea is the heart of an alphabet. With only a couple of dozen symbols, you could spell any word simply by combining sounds.\n\nThe Phoenicians, who were famous traders, spread this system across the Mediterranean. The Greeks borrowed it and added letters for vowels, which made it even clearer. The Romans then adapted the Greek letters, and that Roman alphabet is the one most of the Western world still uses today. In other words, the letters on your screen have travelled thousands of years to reach you.",
+          "word_count": 173,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "symbol",
+              "pos": "noun",
+              "meaning_ko": "기호, 상징"
+            },
+            {
+              "word": "vowel",
+              "pos": "noun",
+              "meaning_ko": "모음"
+            },
+            {
+              "word": "adapt",
+              "pos": "verb",
+              "meaning_ko": "개조하다, 변형하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever stopped to think",
+              "meaning_ko": "~을 생각해본 적 있나요"
+            },
+            {
+              "phrase": "It was not always this easy",
+              "meaning_ko": "항상 이렇게 쉬웠던 것은 아니다"
+            },
+            {
+              "phrase": "the heart of",
+              "meaning_ko": "~의 핵심"
+            },
+            {
+              "phrase": "a couple of dozen",
+              "meaning_ko": "스무남은 개의"
+            },
+            {
+              "phrase": "In other words",
+              "meaning_ko": "다시 말해"
+            }
+          ]
+        },
+        "B2": {
+          "title": "From pictures to sounds: the birth of the alphabet",
+          "body": "Have you ever paused to consider just how powerful a simple idea can be? The alphabet you are reading right now is one of the greatest inventions in human history, yet it began as a quiet shortcut. For most of the time that humans have written things down, writing was extraordinarily difficult to learn. Early systems, such as Egyptian hieroglyphs or Mesopotamian cuneiform, used hundreds or even thousands of signs, each standing for a word, a syllable, or an idea. Only a small class of trained scribes ever mastered them.\n\nThe breakthrough came roughly 4,000 years ago. Workers living in or near Egypt, possibly Semitic-speaking labourers, hit upon a radically simpler principle. Rather than inventing a sign for every word, they let a handful of signs represent individual sounds. With this approach, a few dozen symbols were enough to write any word in the language. This is the principle behind every alphabet in use today.\n\nThe Phoenicians, skilled merchants who sailed across the Mediterranean, carried this writing system from port to port. The Greeks adopted it but made a crucial improvement: they added separate letters for vowels, giving the script far greater precision. The Romans, in turn, reshaped the Greek letters into the forms we recognise now. What is striking is that such a world-changing tool was not handed down by kings or priests. It grew from ordinary people looking for an easier way to record their lives, and it has been passed from hand to hand for nearly four thousand years since.",
+          "word_count": 253,
+          "estimated_read_seconds": 126,
+          "vocab": [
+            {
+              "word": "scribe",
+              "pos": "noun",
+              "meaning_ko": "필경사, 서기"
+            },
+            {
+              "word": "syllable",
+              "pos": "noun",
+              "meaning_ko": "음절"
+            },
+            {
+              "word": "merchant",
+              "pos": "noun",
+              "meaning_ko": "상인, 무역상"
+            },
+            {
+              "word": "precision",
+              "pos": "noun",
+              "meaning_ko": "정밀함, 정확성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever paused to consider",
+              "meaning_ko": "~을 곰곰이 생각해본 적 있나요"
+            },
+            {
+              "phrase": "The breakthrough came",
+              "meaning_ko": "돌파구는 ~에 찾아왔다"
+            },
+            {
+              "phrase": "hit upon",
+              "meaning_ko": "우연히 떠올리다"
+            },
+            {
+              "phrase": "a crucial improvement",
+              "meaning_ko": "결정적인 개선"
+            },
+            {
+              "phrase": "What is striking is that",
+              "meaning_ko": "놀라운 점은 ~라는 것이다"
+            },
+            {
+              "phrase": "passed from hand to hand",
+              "meaning_ko": "이 손에서 저 손으로 전해진"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How a humble shortcut became the alphabet",
+          "body": "Have you ever considered that the script in front of you may be the most democratic technology ever invented? Unlike the monumental writing systems that preceded it, the alphabet was designed, whether deliberately or by accident, to be learnable by almost anyone. To appreciate why that matters, it helps to recall what writing was like before it existed.\n\nThe oldest full writing systems, Egyptian hieroglyphs and Mesopotamian cuneiform, were marvels of complexity. They combined signs for whole words with signs for syllables, amounting to hundreds of distinct characters that took years to master. Literacy was therefore the jealously guarded preserve of a small caste of scribes, and with literacy came considerable power. Writing, in this world, was less a public tool than a professional secret.\n\nThe decisive shift occurred around four thousand years ago, in the region between Egypt and the Levant. Semitic-speaking workers, exposed to Egyptian writing yet untrained in its intricacies, appear to have extracted a single, elegant principle from it: a sign need not stand for a whole word but can simply represent a sound. Once that idea took hold, the number of symbols required collapsed from hundreds to a few dozen. Spelling became a matter of stringing sounds together rather than memorising an enormous catalogue.\n\nFrom there, the alphabet travelled along trade routes. The Phoenicians, consummate seafarers and merchants, carried it across the Mediterranean, where the Greeks refined it by introducing dedicated vowel letters, an innovation that made the script remarkably faithful to speech. The Romans subsequently moulded the Greek characters into the letterforms that dominate the Western world today. It is worth pausing on how unlikely this chain of transmission was: a practical workaround devised by labourers became, through centuries of borrowing and adaptation, the common inheritance of much of humanity. The deeper lesson, perhaps, is that the alphabet did not descend from on high. It emerged from practical people seeking efficiency, and its very simplicity is what allowed reading and writing to spread far beyond the palace and the temple. That a tool born of mere convenience should end up reshaping who is permitted to read and write is one of history's quieter ironies.",
+          "word_count": 360,
+          "estimated_read_seconds": 180,
+          "vocab": [
+            {
+              "word": "literacy",
+              "pos": "noun",
+              "meaning_ko": "읽고 쓰는 능력"
+            },
+            {
+              "word": "intricacy",
+              "pos": "noun",
+              "meaning_ko": "복잡함, 정교함"
+            },
+            {
+              "word": "consummate",
+              "pos": "adjective",
+              "meaning_ko": "더할 나위 없는, 완벽한"
+            },
+            {
+              "word": "refine",
+              "pos": "verb",
+              "meaning_ko": "개선하다, 다듬다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever considered that",
+              "meaning_ko": "~라고 생각해본 적 있나요"
+            },
+            {
+              "phrase": "To appreciate why that matters",
+              "meaning_ko": "그것이 왜 중요한지 이해하려면"
+            },
+            {
+              "phrase": "The decisive shift occurred",
+              "meaning_ko": "결정적인 전환이 일어났다"
+            },
+            {
+              "phrase": "Once that idea took hold",
+              "meaning_ko": "그 생각이 자리잡자"
+            },
+            {
+              "phrase": "The deeper lesson, perhaps, is that",
+              "meaning_ko": "어쩌면 더 깊은 교훈은 ~라는 것이다"
+            },
+            {
+              "phrase": "far beyond the palace and the temple",
+              "meaning_ko": "궁전과 신전을 훨씬 넘어서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-10-cs_concepts-01",
+      "category": "cs_concepts",
+      "title_ko": "다익스트라 알고리즘은 어떻게 최단 경로를 찾을까",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Finding the shortest path",
+          "body": "Imagine you want to drive from your home to a friend's house. There are many roads, and each road takes a different amount of time. How do you find the fastest way? A computer can solve this with Dijkstra's algorithm. It starts at your home and looks at all the roads near it. It always picks the place it can reach in the least time so far. Then it checks the roads from that place. Step by step, it spreads out to closer places first. When it finally reaches your friend's house, it already knows the shortest time. This simple idea is used in maps and navigation apps every day.",
+          "word_count": 110,
+          "estimated_read_seconds": 55,
+          "vocab": [
+            {
+              "word": "path",
+              "pos": "noun",
+              "meaning_ko": "경로, 길"
+            },
+            {
+              "word": "reach",
+              "pos": "verb",
+              "meaning_ko": "도달하다"
+            },
+            {
+              "word": "spread",
+              "pos": "verb",
+              "meaning_ko": "퍼지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "a different amount of time",
+              "meaning_ko": "서로 다른 시간"
+            },
+            {
+              "phrase": "the least time so far",
+              "meaning_ko": "지금까지 가장 짧은 시간"
+            },
+            {
+              "phrase": "Step by step",
+              "meaning_ko": "단계별로"
+            },
+            {
+              "phrase": "spreads out to",
+              "meaning_ko": "~로 퍼져나가다"
+            },
+            {
+              "phrase": "used in maps",
+              "meaning_ko": "지도에 사용되는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How Dijkstra's algorithm works",
+          "body": "Have you ever wondered how a map app finds the fastest route in a second? One classic answer is Dijkstra's algorithm. Think of the road network as a set of points connected by roads, where each road has a cost, such as time or distance.\n\nThe algorithm begins at your starting point and gives it a cost of zero. Every other point starts with a cost of infinity, because we do not yet know how to reach it. Then the algorithm repeats one simple rule. It picks the unvisited point with the smallest known cost, and looks at its neighbours. For each neighbour, it checks whether going through the current point is cheaper than the best route found so far. If it is, the cost is updated.\n\nBecause the algorithm always expands the cheapest point first, once a point is finalised, its cost is guaranteed to be the shortest possible. It keeps going until the destination is reached. The clever part is that it never has to try every route by hand. By always being greedy in a careful way, it finds the best path efficiently.",
+          "word_count": 186,
+          "estimated_read_seconds": 93,
+          "vocab": [
+            {
+              "word": "network",
+              "pos": "noun",
+              "meaning_ko": "네트워크, 연결망"
+            },
+            {
+              "word": "infinity",
+              "pos": "noun",
+              "meaning_ko": "무한대"
+            },
+            {
+              "word": "neighbour",
+              "pos": "noun",
+              "meaning_ko": "이웃 (인접 노드)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered how",
+              "meaning_ko": "~이 어떻게 되는지 궁금했나요"
+            },
+            {
+              "phrase": "a cost of zero",
+              "meaning_ko": "비용 0"
+            },
+            {
+              "phrase": "the best route found so far",
+              "meaning_ko": "지금까지 찾은 최선의 경로"
+            },
+            {
+              "phrase": "is guaranteed to be",
+              "meaning_ko": "~임이 보장된다"
+            },
+            {
+              "phrase": "The clever part is that",
+              "meaning_ko": "기발한 점은 ~라는 것이다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "The greedy logic of Dijkstra's algorithm",
+          "body": "Have you ever asked how your phone calculates the quickest route almost instantly, even across a city with thousands of streets? A large part of the answer lies in a method published by Edsger Dijkstra in 1959. It solves what computer scientists call the single-source shortest path problem, and it does so with surprising elegance.\n\nWe model the map as a graph: a collection of nodes, which represent places, joined by edges, which represent roads. Each edge carries a weight, perhaps the time it takes to travel along it. The goal is to find the cheapest total path from one starting node to every other node.\n\nDijkstra's algorithm assigns the start node a tentative distance of zero and every other node a distance of infinity. It then maintains a set of nodes whose shortest distance is not yet confirmed. Repeatedly, it selects the unconfirmed node with the smallest tentative distance, declares that distance final, and relaxes its edges. Relaxing means checking each neighbour to see whether the path through the current node is shorter than the neighbour's recorded distance; if so, the value is lowered.\n\nThe key insight is that, as long as all weights are non-negative, the moment a node is selected, no cheaper route to it can ever be found later. This is why the greedy choice is safe. In practice, programmers speed the process up with a priority queue, which always hands back the smallest tentative distance quickly. The result is an algorithm that powers navigation systems, computer networks, and countless other applications where the shortest path matters.",
+          "word_count": 261,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "graph",
+              "pos": "noun",
+              "meaning_ko": "그래프 (노드와 간선의 구조)"
+            },
+            {
+              "word": "node",
+              "pos": "noun",
+              "meaning_ko": "노드, 정점"
+            },
+            {
+              "word": "tentative",
+              "pos": "adjective",
+              "meaning_ko": "잠정적인"
+            },
+            {
+              "word": "relax",
+              "pos": "verb",
+              "meaning_ko": "완화하다 (거리 갱신하다)"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "almost instantly",
+              "meaning_ko": "거의 즉시"
+            },
+            {
+              "phrase": "A large part of the answer lies in",
+              "meaning_ko": "답의 상당 부분은 ~에 있다"
+            },
+            {
+              "phrase": "with surprising elegance",
+              "meaning_ko": "놀라울 만큼 우아하게"
+            },
+            {
+              "phrase": "The key insight is that",
+              "meaning_ko": "핵심 통찰은 ~라는 것이다"
+            },
+            {
+              "phrase": "as long as",
+              "meaning_ko": "~하는 한"
+            },
+            {
+              "phrase": "In practice",
+              "meaning_ko": "실제로는"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why Dijkstra's greedy gamble always pays off",
+          "body": "Have you ever wondered why a navigation app can promise you the fastest route and actually be right? Behind that confidence sits one of the most celebrated algorithms in computer science, devised by Edsger Dijkstra in the late 1950s, reportedly in about twenty minutes while sitting at a café. Its purpose is to solve the single-source shortest path problem, and its enduring appeal comes from a guarantee that feels almost too good to be true: a sequence of locally greedy choices that nonetheless yields a globally optimal answer.\n\nTo see how, picture the road network as a weighted graph, where nodes stand for intersections and edges for roads, each labelled with a non-negative cost. The algorithm keeps a tentative distance for every node, initialised to zero at the source and to infinity everywhere else, and it gradually moves nodes from an unsettled set into a settled one. At each step it commits to the unsettled node with the smallest tentative distance, then relaxes every edge leaving it, lowering a neighbour's recorded distance whenever a cheaper route through the current node is discovered.\n\nThe crux is the safety of that commitment. Because no edge has a negative weight, any alternative path to a chosen node would have to pass through some other unsettled node whose tentative distance is already at least as large. Such a detour can therefore never be shorter, so the distance fixed at the moment of selection is provably final. This is the heart of why the greedy strategy succeeds where greed so often fails elsewhere.\n\nEfficiency depends on how quickly we can repeatedly extract the minimum. A naive scan over all nodes is workable but slow; a binary heap reduces the running time substantially, and a Fibonacci heap improves it further in theory. The trade-off, and the algorithm's one notable limitation, is that negative edge weights break the safety argument entirely, which is precisely why other algorithms exist for those cases. Within its domain, however, Dijkstra's method remains a quietly perfect example of how a well-chosen invariant turns a risky-looking shortcut into a rigorous proof. Few ideas in the whole field manage to combine such practical utility and such mathematical certainty so neatly.",
+          "word_count": 366,
+          "estimated_read_seconds": 183,
+          "vocab": [
+            {
+              "word": "optimal",
+              "pos": "adjective",
+              "meaning_ko": "최적의"
+            },
+            {
+              "word": "invariant",
+              "pos": "noun",
+              "meaning_ko": "불변 조건"
+            },
+            {
+              "word": "detour",
+              "pos": "noun",
+              "meaning_ko": "우회로"
+            },
+            {
+              "word": "naive",
+              "pos": "adjective",
+              "meaning_ko": "단순한, 소박한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "almost too good to be true",
+              "meaning_ko": "믿기 어려울 만큼 좋은"
+            },
+            {
+              "phrase": "To see how",
+              "meaning_ko": "어떻게 그런지 보자면"
+            },
+            {
+              "phrase": "The crux is",
+              "meaning_ko": "핵심은 ~이다"
+            },
+            {
+              "phrase": "This is the heart of why",
+              "meaning_ko": "이것이 ~인 이유의 핵심이다"
+            },
+            {
+              "phrase": "The trade-off is that",
+              "meaning_ko": "절충점은 ~라는 것이다"
+            },
+            {
+              "phrase": "Within its domain",
+              "meaning_ko": "그 적용 범위 안에서는"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-10-backend_systems-01",
+      "category": "backend_systems",
+      "title_ko": "메시지 큐란 무엇일까",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is a message queue?",
+          "body": "Imagine a busy coffee shop. When you order, the cashier writes your order on a ticket and puts it in a line. The baristas take tickets one by one and make the drinks. You do not have to wait at the counter, and the cashier can keep taking new orders. A message queue works in the same way for computer programs. One program puts a task, called a message, into a line. Another program picks it up later and does the work. This way, the two programs do not have to wait for each other. If many tasks come at once, they simply wait in line until someone is ready.",
+          "word_count": 110,
+          "estimated_read_seconds": 55,
+          "vocab": [
+            {
+              "word": "order",
+              "pos": "noun",
+              "meaning_ko": "주문"
+            },
+            {
+              "word": "ticket",
+              "pos": "noun",
+              "meaning_ko": "전표, 표"
+            },
+            {
+              "word": "task",
+              "pos": "noun",
+              "meaning_ko": "작업, 일"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "puts it in a line",
+              "meaning_ko": "줄에 넣다"
+            },
+            {
+              "phrase": "one by one",
+              "meaning_ko": "하나씩"
+            },
+            {
+              "phrase": "in the same way",
+              "meaning_ko": "같은 방식으로"
+            },
+            {
+              "phrase": "wait for each other",
+              "meaning_ko": "서로 기다리다"
+            },
+            {
+              "phrase": "wait in line",
+              "meaning_ko": "줄을 서서 기다리다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How a message queue helps systems",
+          "body": "Have you ever sent a photo to a friend and the app said it would upload in the background? Behind many features like this sits a tool called a message queue. It is a way for different parts of a system to talk without waiting for each other.\n\nThe idea is simple. One service, called the producer, creates a message and places it in the queue. Another service, called the consumer, takes messages out of the queue and processes them. The queue sits in the middle and holds messages until they are ready to be handled. Because the producer does not wait for the consumer to finish, it can keep working at full speed.\n\nThis design has real benefits. If a sudden burst of traffic arrives, the extra work piles up safely in the queue instead of crashing the system. If the consumer goes down for a moment, the messages are still there when it comes back. In short, a message queue makes a system more reliable and easier to scale, which is why so many large applications depend on one.",
+          "word_count": 181,
+          "estimated_read_seconds": 90,
+          "vocab": [
+            {
+              "word": "producer",
+              "pos": "noun",
+              "meaning_ko": "생산자 (메시지를 보내는 쪽)"
+            },
+            {
+              "word": "consumer",
+              "pos": "noun",
+              "meaning_ko": "소비자 (메시지를 받는 쪽)"
+            },
+            {
+              "word": "scale",
+              "pos": "verb",
+              "meaning_ko": "규모를 키우다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in the background",
+              "meaning_ko": "백그라운드에서"
+            },
+            {
+              "phrase": "sits in the middle",
+              "meaning_ko": "중간에 위치하다"
+            },
+            {
+              "phrase": "at full speed",
+              "meaning_ko": "전속력으로"
+            },
+            {
+              "phrase": "a sudden burst of traffic",
+              "meaning_ko": "갑작스러운 트래픽 급증"
+            },
+            {
+              "phrase": "In short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why message queues hold systems together",
+          "body": "Have you ever placed an online order and received a confirmation instantly, even though the warehouse, the payment system, and the email service all had work to do? That smooth experience is often made possible by a message queue, one of the quiet workhorses of modern backend design.\n\nAt its core, a message queue decouples the part of a system that generates work from the part that performs it. A producer writes a message, essentially a small package of data describing a task, and hands it to the queue. A consumer reads messages from the queue and acts on them at its own pace. Crucially, the two sides never call each other directly, which means neither has to be available at the exact same moment.\n\nThis indirection brings several advantages. First, it smooths out spikes: if requests arrive faster than they can be processed, the queue absorbs the surge and lets consumers catch up gradually, a pattern often called load levelling. Second, it improves resilience, because a message generally remains in the queue until it has been successfully handled, so a brief consumer failure does not lose work. Third, it makes scaling straightforward, since you can add more consumers to drain the queue faster when demand grows.\n\nThere are trade-offs to respect, of course. Queues introduce extra latency and operational complexity, and developers must think carefully about message ordering and about what happens if the same message is delivered twice. Even so, when a system needs to stay responsive under uneven load, a message queue is frequently the cleanest answer.",
+          "word_count": 260,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "decouple",
+              "pos": "verb",
+              "meaning_ko": "결합을 분리하다"
+            },
+            {
+              "word": "resilience",
+              "pos": "noun",
+              "meaning_ko": "회복력, 견고함"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간"
+            },
+            {
+              "word": "surge",
+              "pos": "noun",
+              "meaning_ko": "급증"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "one of the quiet workhorses of",
+              "meaning_ko": "~의 묵묵한 일꾼 중 하나"
+            },
+            {
+              "phrase": "At its core",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "at its own pace",
+              "meaning_ko": "자신의 속도로"
+            },
+            {
+              "phrase": "smooths out spikes",
+              "meaning_ko": "급증을 완만하게 만들다"
+            },
+            {
+              "phrase": "There are trade-offs to respect",
+              "meaning_ko": "고려해야 할 절충점이 있다"
+            },
+            {
+              "phrase": "the cleanest answer",
+              "meaning_ko": "가장 깔끔한 해법"
+            }
+          ]
+        },
+        "C1": {
+          "title": "The message queue as a system's shock absorber",
+          "body": "Have you ever marvelled that a large online service can accept a flood of requests during a sale, yet still respond to each user without buckling? A good deal of that composure is owed to message queues, the unglamorous middleware that lets distributed systems bend rather than break. To understand why they matter, it helps to think about what happens when two services talk directly.\n\nWhen one service calls another synchronously, the caller is held hostage to the callee's availability and speed. If the downstream service is slow, the caller stalls; if it is offline, the request fails outright. A message queue severs this rigid coupling. The producer deposits a message and moves on immediately, while a consumer retrieves and processes that message whenever it is able. The two components are now connected through time as well as space, communicating without having to be present simultaneously.\n\nThis asynchrony unlocks a family of valuable properties. The queue acts as a buffer, or shock absorber, that levels out bursts of traffic so that consumers see a steadier workload than the outside world actually produces. It provides durability, since most queues persist messages until they are acknowledged, allowing work to survive a crash. And it offers elasticity, because throughput can be raised simply by attaching more consumers to the same queue, a far easier adjustment than re-architecting a tightly bound call chain.\n\nNone of this comes for free, and a thoughtful engineer weighs the costs. Asynchronous flows are harder to reason about and to debug, end-to-end latency may rise, and the system must contend with subtle questions of ordering and duplicate delivery. Most queues, in fact, promise at-least-once delivery rather than exactly-once, which pushes the burden of idempotency onto the consumer. The art lies in deciding where this indirection genuinely earns its keep. A queue is therefore less a feature than a deliberate architectural stance, a decision to trade a little immediacy for a great deal of robustness. Used well, a message queue transforms a brittle chain of direct calls into a resilient, scalable pipeline, which is why it remains a cornerstone of serious backend architecture. In the end, it lets a system bend and fail in slow motion rather than shatter all at once.",
+          "word_count": 372,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "middleware",
+              "pos": "noun",
+              "meaning_ko": "미들웨어"
+            },
+            {
+              "word": "synchronously",
+              "pos": "adverb",
+              "meaning_ko": "동기적으로"
+            },
+            {
+              "word": "durability",
+              "pos": "noun",
+              "meaning_ko": "내구성 (데이터 보존성)"
+            },
+            {
+              "word": "idempotency",
+              "pos": "noun",
+              "meaning_ko": "멱등성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "without buckling",
+              "meaning_ko": "무너지지 않고"
+            },
+            {
+              "phrase": "held hostage to",
+              "meaning_ko": "~에 발목 잡힌"
+            },
+            {
+              "phrase": "severs this rigid coupling",
+              "meaning_ko": "이 경직된 결합을 끊다"
+            },
+            {
+              "phrase": "None of this comes for free",
+              "meaning_ko": "이 모든 것이 공짜는 아니다"
+            },
+            {
+              "phrase": "earns its keep",
+              "meaning_ko": "제값을 하다"
+            },
+            {
+              "phrase": "a cornerstone of",
+              "meaning_ko": "~의 초석"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-10-speaking-01",
+      "category": "speaking",
+      "title_ko": "[IELTS P3] 도시는 어떻게 변하고 있는가",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 3",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How are cities changing these days?",
+          "body": "I think cities are changing a lot these days. To be honest, the biggest change is that cities are getting bigger and more crowded. More people move from the countryside to find jobs. Also, there are more tall buildings than before. I'd say technology is another big change. Now we have apps for buses, taxis, and food, so daily life is easier. But cities are also more expensive, and that is a problem for young people. So overall, life in cities is more convenient but also harder in some ways.",
+          "word_count": 90,
+          "estimated_read_seconds": 45,
+          "vocab": [
+            {
+              "word": "crowded",
+              "pos": "adjective",
+              "meaning_ko": "붐비는"
+            },
+            {
+              "word": "countryside",
+              "pos": "noun",
+              "meaning_ko": "시골"
+            },
+            {
+              "word": "convenient",
+              "pos": "adjective",
+              "meaning_ko": "편리한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "To be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "I'd say",
+              "meaning_ko": "제 생각엔"
+            },
+            {
+              "phrase": "another big change",
+              "meaning_ko": "또 다른 큰 변화"
+            },
+            {
+              "phrase": "a problem for young people",
+              "meaning_ko": "젊은이들에게 문제"
+            },
+            {
+              "phrase": "in some ways",
+              "meaning_ko": "어떤 면에서는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "In what ways are cities changing?",
+          "body": "That's an interesting question. In my opinion, cities are changing in several ways. First of all, they are becoming much more crowded, because people keep moving from rural areas to look for better jobs and education. As a result, housing is getting expensive, and traffic is often terrible.\n\nAt the same time, I'd say technology has changed city life completely. These days you can pay, travel, and order almost anything with your phone. Another change is that some cities are trying to be greener, with more parks, bike lanes, and electric buses.\n\nOverall, I think cities are more convenient than before, but they also face real problems like pollution and the high cost of living. It really depends on how well the city is managed.",
+          "word_count": 125,
+          "estimated_read_seconds": 62,
+          "vocab": [
+            {
+              "word": "rural",
+              "pos": "adjective",
+              "meaning_ko": "시골의"
+            },
+            {
+              "word": "housing",
+              "pos": "noun",
+              "meaning_ko": "주거, 주택"
+            },
+            {
+              "word": "pollution",
+              "pos": "noun",
+              "meaning_ko": "오염"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "That's an interesting question",
+              "meaning_ko": "흥미로운 질문이네요"
+            },
+            {
+              "phrase": "First of all",
+              "meaning_ko": "우선"
+            },
+            {
+              "phrase": "As a result",
+              "meaning_ko": "그 결과"
+            },
+            {
+              "phrase": "At the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "It really depends on",
+              "meaning_ko": "~에 따라 다르다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How have cities changed in recent years?",
+          "body": "That's a really interesting topic. From what I've seen, cities are changing in quite a few ways at once. The most obvious one is sheer size: people continue to move from the countryside in search of work and opportunities, so urban areas keep expanding and becoming denser. This rapid growth puts huge pressure on housing, which is why property prices in many big cities have become almost unaffordable for ordinary people.\n\nOn top of that, I'd argue that technology has completely reshaped daily life. We now rely on apps for transport, payments, and deliveries, and that has made cities far more convenient than they used to be. At the same time, there's a growing awareness of environmental issues, so many cities are investing in public transport, cycling lanes, and green spaces, partly to cut pollution and partly to make urban life more pleasant.\n\nSo overall, I'd say the picture is rather mixed. Cities are smarter and more connected than ever, but they're also struggling with overcrowding, inequality, and the rising cost of living. Personally, I think how well a city balances those competing pressures will largely decide how livable it remains in the future.",
+          "word_count": 194,
+          "estimated_read_seconds": 97,
+          "vocab": [
+            {
+              "word": "dense",
+              "pos": "adjective",
+              "meaning_ko": "밀집한"
+            },
+            {
+              "word": "unaffordable",
+              "pos": "adjective",
+              "meaning_ko": "감당할 수 없는"
+            },
+            {
+              "word": "inequality",
+              "pos": "noun",
+              "meaning_ko": "불평등"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "From what I've seen",
+              "meaning_ko": "제가 본 바로는"
+            },
+            {
+              "phrase": "On top of that",
+              "meaning_ko": "게다가"
+            },
+            {
+              "phrase": "I'd argue that",
+              "meaning_ko": "저는 ~라고 주장하고 싶습니다"
+            },
+            {
+              "phrase": "the picture is rather mixed",
+              "meaning_ko": "상황은 다소 복합적이다"
+            },
+            {
+              "phrase": "Personally, I think",
+              "meaning_ko": "개인적으로는 ~라고 생각합니다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What are the most significant changes in modern cities?",
+          "body": "That's a fascinating question, and I think the changes are happening on several fronts simultaneously. The most fundamental shift, to my mind, is demographic. Across much of the world, people are continuing to migrate from rural areas into cities in pursuit of work, education, and a wider range of opportunities. This relentless urbanisation has made cities denser and, in many cases, has driven housing costs to levels that ordinary residents can barely sustain.\n\nLayered on top of that is the technological transformation, which I'd argue has been just as profound. Smartphones and digital platforms have woven themselves into the fabric of urban life, so that we now navigate, pay, and obtain almost anything at the tap of a screen. What strikes me is how this convenience has quietly raised our expectations of what a city should provide.\n\nThere's also a noticeable shift in priorities towards sustainability. Faced with congestion and pollution, a growing number of cities are rethinking how they are built, investing in public transit, cycling infrastructure, and green space, and in some cases reclaiming streets from cars altogether.\n\nThat said, I wouldn't want to paint too rosy a picture. For all their dynamism, modern cities are grappling with deepening inequality, the displacement of long-standing communities, and an environmental footprint that remains stubbornly high. So if I had to sum it up, I'd say cities have become more efficient and more exciting, yet also more polarised. Ultimately, the cities that thrive will be the ones that manage to grow without leaving their most vulnerable residents behind.",
+          "word_count": 257,
+          "estimated_read_seconds": 128,
+          "vocab": [
+            {
+              "word": "demographic",
+              "pos": "adjective",
+              "meaning_ko": "인구통계학적인"
+            },
+            {
+              "word": "urbanisation",
+              "pos": "noun",
+              "meaning_ko": "도시화"
+            },
+            {
+              "word": "congestion",
+              "pos": "noun",
+              "meaning_ko": "혼잡"
+            },
+            {
+              "word": "polarised",
+              "pos": "adjective",
+              "meaning_ko": "양극화된"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "on several fronts simultaneously",
+              "meaning_ko": "여러 측면에서 동시에"
+            },
+            {
+              "phrase": "to my mind",
+              "meaning_ko": "제 생각에는"
+            },
+            {
+              "phrase": "What strikes me is how",
+              "meaning_ko": "제가 인상 깊은 점은 ~이다"
+            },
+            {
+              "phrase": "That said",
+              "meaning_ko": "그렇긴 하지만"
+            },
+            {
+              "phrase": "paint too rosy a picture",
+              "meaning_ko": "지나치게 장밋빛으로 그리다"
+            },
+            {
+              "phrase": "if I had to sum it up",
+              "meaning_ko": "한마디로 요약하자면"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

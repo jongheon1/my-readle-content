@@ -9,7 +9,9 @@
       "science-how-auroras-form",
       "science-how-photosynthesis-works",
       "science-why-the-sky-is-blue",
-      "science-how-vaccines-train-the-immune-system"
+      "science-how-vaccines-train-the-immune-system",
+      "science-how-earthquakes-happen",
+      "science-why-leaves-change-color-in-autumn"
     ],
     "academic_humanities": [
       "humanities-how-writing-was-invented",
@@ -19,7 +21,9 @@
       "humanities-how-the-silk-road-shaped-world-history",
       "humanities-how-democracy-began-in-athens",
       "humanities-why-the-renaissance-began",
-      "humanities-how-the-industrial-revolution-changed-work"
+      "humanities-how-the-industrial-revolution-changed-work",
+      "humanities-how-the-alphabet-developed",
+      "humanities-why-the-great-depression-happened"
     ],
     "cs_concepts": [
       "cs-why-hash-table-lookup-is-o1-on-average",
@@ -30,7 +34,9 @@
       "cs-how-hash-maps-handle-collisions",
       "cs-how-garbage-collection-works",
       "cs-how-quicksort-works",
-      "cs-how-a-compiler-works"
+      "cs-how-a-compiler-works",
+      "cs-how-dijkstras-algorithm-finds-shortest-paths",
+      "cs-how-virtual-memory-works"
     ],
     "backend_systems": [
       "backend-what-is-consistent-hashing",
@@ -41,7 +47,9 @@
       "backend-what-is-the-cap-theorem",
       "backend-what-is-database-sharding",
       "backend-what-is-a-load-balancer",
-      "backend-what-is-database-replication"
+      "backend-what-is-database-replication",
+      "backend-what-is-a-message-queue",
+      "backend-what-is-a-write-ahead-log"
     ],
     "speaking": [
       "behavioral-disagreed-technical-decision",
@@ -51,7 +59,9 @@
       "opic-tell-me-about-a-typical-weekend",
       "behavioral-difficult-bug-debugged",
       "ielts-p1-do-you-enjoy-cooking",
-      "ielts-p2-describe-a-place-you-like-to-relax"
+      "ielts-p2-describe-a-place-you-like-to-relax",
+      "ielts-p3-how-cities-are-changing",
+      "opic-describe-your-neighborhood"
     ]
   },
   "speaking_subtype_history": [
@@ -65,7 +75,9 @@
     "opic",
     "behavioral",
     "ielts_p1",
-    "ielts_p2"
+    "ielts_p2",
+    "ielts_p3",
+    "opic"
   ],
-  "updated_at": "2026-06-07T11:25:13.878138+00:00"
+  "updated_at": "2026-06-09T12:37:22.311362+00:00"
 }
