@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-09T12:37:22.311174+00:00",
+  "updated_at": "2026-06-28T15:09:57.000648+00:00",
   "available_levels": [
     "A2",
     "B1",
@@ -15,6 +15,39 @@
     "speaking"
   ],
   "dates": [
+    {
+      "date": "2026-06-30",
+      "topic_count": 5,
+      "categories": [
+        "academic_science",
+        "academic_humanities",
+        "cs_concepts",
+        "backend_systems",
+        "speaking"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "topic_count": 5,
+      "categories": [
+        "academic_science",
+        "academic_humanities",
+        "cs_concepts",
+        "backend_systems",
+        "speaking"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "topic_count": 5,
+      "categories": [
+        "academic_science",
+        "academic_humanities",
+        "cs_concepts",
+        "backend_systems",
+        "speaking"
+      ]
+    },
     {
       "date": "2026-06-11",
       "topic_count": 5,

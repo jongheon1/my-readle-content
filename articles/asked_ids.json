@@ -11,7 +11,10 @@
       "science-why-the-sky-is-blue",
       "science-how-vaccines-train-the-immune-system",
       "science-how-earthquakes-happen",
-      "science-why-leaves-change-color-in-autumn"
+      "science-why-leaves-change-color-in-autumn",
+      "science-how-rainbows-form",
+      "science-why-the-ocean-is-salty",
+      "science-how-tides-are-caused-by-the-moon"
     ],
     "academic_humanities": [
       "humanities-how-writing-was-invented",
@@ -23,7 +26,10 @@
       "humanities-why-the-renaissance-began",
       "humanities-how-the-industrial-revolution-changed-work",
       "humanities-how-the-alphabet-developed",
-      "humanities-why-the-great-depression-happened"
+      "humanities-why-the-great-depression-happened",
+      "humanities-how-the-compass-changed-exploration",
+      "humanities-why-the-roman-empire-fell",
+      "humanities-how-coffee-shaped-culture"
     ],
     "cs_concepts": [
       "cs-why-hash-table-lookup-is-o1-on-average",
@@ -36,7 +42,10 @@
       "cs-how-quicksort-works",
       "cs-how-a-compiler-works",
       "cs-how-dijkstras-algorithm-finds-shortest-paths",
-      "cs-how-virtual-memory-works"
+      "cs-how-virtual-memory-works",
+      "cs-how-merge-sort-works",
+      "cs-what-is-a-linked-list",
+      "cs-how-deadlock-happens"
     ],
     "backend_systems": [
       "backend-what-is-consistent-hashing",
@@ -49,7 +58,10 @@
       "backend-what-is-a-load-balancer",
       "backend-what-is-database-replication",
       "backend-what-is-a-message-queue",
-      "backend-what-is-a-write-ahead-log"
+      "backend-what-is-a-write-ahead-log",
+      "backend-what-is-connection-pooling",
+      "backend-how-caching-improves-performance",
+      "backend-what-is-an-api-gateway"
     ],
     "speaking": [
       "behavioral-disagreed-technical-decision",
@@ -61,7 +73,10 @@
       "ielts-p1-do-you-enjoy-cooking",
       "ielts-p2-describe-a-place-you-like-to-relax",
       "ielts-p3-how-cities-are-changing",
-      "opic-describe-your-neighborhood"
+      "opic-describe-your-neighborhood",
+      "behavioral-led-a-project-under-tight-deadline",
+      "ielts-p1-do-you-like-music",
+      "ielts-p2-describe-a-skill-you-want-to-learn"
     ]
   },
   "speaking_subtype_history": [
@@ -77,7 +92,10 @@
     "ielts_p1",
     "ielts_p2",
     "ielts_p3",
-    "opic"
+    "opic",
+    "behavioral",
+    "ielts_p1",
+    "ielts_p2"
   ],
-  "updated_at": "2026-06-09T12:37:22.311362+00:00"
+  "updated_at": "2026-06-28T15:09:57.000648+00:00"
 }

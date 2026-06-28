@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-30",
+  "topics": [
+    {
+      "topic_id": "2026-06-30-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "달은 어떻게 밀물과 썰물을 만들까",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How tides are caused by the Moon",
+          "body": "Have you ever built a sandcastle at the beach, only to come back later and find the sea has crept much closer? That slow rise and fall of the ocean is called the tide.\n\nTides are mostly caused by the Moon. Even though it is far away, the Moon pulls on the Earth with gravity. This pull is a little stronger on the side of the Earth facing the Moon.\n\nThat gentle pull lifts the ocean water into a small bulge. As the Earth turns, different beaches pass through this bulge. So the water seems to rise and fall about twice a day.",
+          "word_count": 103,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "tide",
+              "pos": "noun",
+              "meaning_ko": "조수, 밀물과 썰물"
+            },
+            {
+              "word": "gravity",
+              "pos": "noun",
+              "meaning_ko": "중력"
+            },
+            {
+              "word": "pull",
+              "pos": "noun",
+              "meaning_ko": "끌어당김"
+            },
+            {
+              "word": "bulge",
+              "pos": "noun",
+              "meaning_ko": "불룩한 부분"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever built",
+              "meaning_ko": "만들어 본 적 있나요"
+            },
+            {
+              "phrase": "rise and fall",
+              "meaning_ko": "오르내림"
+            },
+            {
+              "phrase": "mostly caused by",
+              "meaning_ko": "주로 ~에 의해 생기는"
+            },
+            {
+              "phrase": "even though",
+              "meaning_ko": "~인데도"
+            },
+            {
+              "phrase": "facing the Moon",
+              "meaning_ko": "달을 향한"
+            },
+            {
+              "phrase": "twice a day",
+              "meaning_ko": "하루에 두 번"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How tides are caused by the Moon",
+          "body": "Have you ever left a towel near the water at the beach, then returned to find the sea has quietly swallowed the spot where you were sitting? That steady rise and fall of the ocean is the tide, and its main author is the Moon.\n\nThe Moon may look small and distant, but it constantly pulls on the Earth through gravity. This pull is slightly stronger on the side of the planet nearest the Moon and slightly weaker on the far side. The difference stretches the oceans into two gentle bulges, one facing the Moon and one on the opposite side.\n\nAs the Earth spins on its axis once a day, the coastlines rotate through these bulges. When a beach moves into a bulge, the water rises and we see high tide; as it moves out, the water falls to low tide. This is why most coasts experience two high tides and two low tides roughly every day.\n\nThe Sun adds its own smaller pull, and when the Sun and Moon line up, the tides grow especially large.",
+          "word_count": 178,
+          "estimated_read_seconds": 89,
+          "vocab": [
+            {
+              "word": "distant",
+              "pos": "adjective",
+              "meaning_ko": "먼"
+            },
+            {
+              "word": "axis",
+              "pos": "noun",
+              "meaning_ko": "축"
+            },
+            {
+              "word": "coastline",
+              "pos": "noun",
+              "meaning_ko": "해안선"
+            },
+            {
+              "word": "rotate",
+              "pos": "verb",
+              "meaning_ko": "회전하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "rise and fall",
+              "meaning_ko": "오르내림"
+            },
+            {
+              "phrase": "pulls on",
+              "meaning_ko": "끌어당기다"
+            },
+            {
+              "phrase": "nearest the Moon",
+              "meaning_ko": "달에 가장 가까운"
+            },
+            {
+              "phrase": "spins on its axis",
+              "meaning_ko": "축을 중심으로 돈다"
+            },
+            {
+              "phrase": "high tide",
+              "meaning_ko": "만조, 밀물"
+            },
+            {
+              "phrase": "line up",
+              "meaning_ko": "일직선으로 늘어서다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How tides are caused by the Moon",
+          "body": "Have you ever watched the sea slowly reclaim a beach over a few hours, covering rocks that were dry when you arrived? That rhythmic rise and fall is the tide, and although the Sun plays a part, the Moon is the principal cause.\n\nGravity weakens with distance, and this simple fact is the key. The Moon pulls hardest on the side of the Earth closest to it, less hard on the solid center, and least of all on the far side. Because water flows freely, the oceans respond to these differences by bulging outward in two places at once: one bulge directly beneath the Moon, and a second on the opposite face of the planet, where the Moon's pull is weakest. These twin bulges are the high tides. Curiously, this is why a high tide can occur on the side of the Earth pointing away from the Moon, a fact that surprises most people when they first hear it.\n\nAs the Earth rotates once every twenty-four hours, any given coastline sweeps through both bulges and both of the low points between them. That is why most shorelines see roughly two high tides and two low tides each day, with the timing shifting slightly because the Moon is also moving along its orbit.\n\nThe Sun contributes a weaker tide of its own. When the Sun, Earth, and Moon fall into a line, near full and new moons, their pulls combine to produce unusually large spring tides. When they sit at right angles, the effects partly cancel, giving gentler neap tides. In this way, the daily dance of the seas is really a record of gravity acting across vast distances.",
+          "word_count": 278,
+          "estimated_read_seconds": 139,
+          "vocab": [
+            {
+              "word": "rhythmic",
+              "pos": "adjective",
+              "meaning_ko": "규칙적인, 율동적인"
+            },
+            {
+              "word": "principal",
+              "pos": "adjective",
+              "meaning_ko": "주요한"
+            },
+            {
+              "word": "orbit",
+              "pos": "noun",
+              "meaning_ko": "궤도"
+            },
+            {
+              "word": "spring tide",
+              "pos": "noun",
+              "meaning_ko": "사리, 대조"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "plays a part",
+              "meaning_ko": "한몫하다"
+            },
+            {
+              "phrase": "weakens with distance",
+              "meaning_ko": "거리에 따라 약해진다"
+            },
+            {
+              "phrase": "at once",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "sweeps through",
+              "meaning_ko": "휩쓸고 지나가다"
+            },
+            {
+              "phrase": "fall into a line",
+              "meaning_ko": "일직선이 되다"
+            },
+            {
+              "phrase": "at right angles",
+              "meaning_ko": "직각으로"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How tides are caused by the Moon",
+          "body": "Anyone who has spent a day by the sea has felt the tide without naming the physics behind it: the patient advance and retreat of the water, twice over, between dawn and dusk. The phenomenon looks simple, yet it springs from one of the more subtle consequences of gravity, the fact that its strength varies across the body it acts upon.\n\nThe Moon, our nearest celestial neighbor, tugs on every part of the Earth, but not equally. The near side is pulled more strongly than the planet's center, and the center more strongly than the far side. What matters for tides is not the overall pull but these differences, known as tidal forces. They effectively stretch the Earth along the Earth-Moon line, and because ocean water yields far more readily than rock, the seas heap up into two bulges: one beneath the Moon, and a matching one on the antipodal side, where the deficit of pull leaves water seeming to swing outward. It helps to remember that the Earth and Moon both orbit their shared center of mass, and the far-side bulge partly reflects the outward swing produced as the two bodies circle one another.\n\nAs the planet rotates beneath these relatively fixed bulges, each coastline passes through two crests and two troughs in a little over twenty-four hours, producing the familiar pattern of two highs and two lows daily. The interval is not exactly twelve hours, because the Moon advances in its orbit as the Earth spins, so the coastline must turn a bit further each time to catch up, which is why high tide arrives roughly fifty minutes later each day.\n\nThe Sun complicates and enriches the picture. Though far more massive, it is so distant that its tidal effect is under half the Moon's. When Sun and Moon align at new and full moon, their tidal bulges reinforce one another to give the large spring tides; when they pull at right angles near the quarter moons, they partly cancel, yielding the muted neap tides. Local geography, the shape of bays, the depth of channels, can amplify these effects dramatically, which is why a few coastlines see tides of more than ten meters. The tide, in the end, is the ocean's slow, faithful answer to the geometry of the heavens.",
+          "word_count": 382,
+          "estimated_read_seconds": 191,
+          "vocab": [
+            {
+              "word": "celestial",
+              "pos": "adjective",
+              "meaning_ko": "천체의"
+            },
+            {
+              "word": "tidal force",
+              "pos": "noun",
+              "meaning_ko": "기조력"
+            },
+            {
+              "word": "antipodal",
+              "pos": "adjective",
+              "meaning_ko": "정반대 쪽의"
+            },
+            {
+              "word": "amplify",
+              "pos": "verb",
+              "meaning_ko": "증폭하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "springs from",
+              "meaning_ko": "~에서 비롯되다"
+            },
+            {
+              "phrase": "not equally",
+              "meaning_ko": "똑같지 않게"
+            },
+            {
+              "phrase": "What matters for tides is",
+              "meaning_ko": "조수에서 중요한 것은"
+            },
+            {
+              "phrase": "yields far more readily",
+              "meaning_ko": "훨씬 더 쉽게 변형된다"
+            },
+            {
+              "phrase": "reinforce one another",
+              "meaning_ko": "서로를 강화하다"
+            },
+            {
+              "phrase": "in the end",
+              "meaning_ko": "결국"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-30-academic_humanities-02",
+      "category": "academic_humanities",
+      "title_ko": "커피는 어떻게 문화를 바꿨을까",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How coffee shaped culture",
+          "body": "Do you drink coffee in the morning? For many people, the day does not really begin until that first warm cup. But coffee is more than just a drink. It has shaped how people meet and talk for hundreds of years.\n\nLong ago, coffee came from Africa and the Middle East. Soon, special shops called coffeehouses opened in many cities. People went there not only to drink, but also to share news, do business, and argue about ideas.\n\nBecause coffee keeps the mind awake, it became the drink of thinkers and workers. In a way, many great ideas were born around a simple cup of coffee.",
+          "word_count": 106,
+          "estimated_read_seconds": 53,
+          "vocab": [
+            {
+              "word": "shape",
+              "pos": "verb",
+              "meaning_ko": "형성하다"
+            },
+            {
+              "word": "coffeehouse",
+              "pos": "noun",
+              "meaning_ko": "커피하우스, 카페"
+            },
+            {
+              "word": "share",
+              "pos": "verb",
+              "meaning_ko": "나누다"
+            },
+            {
+              "word": "awake",
+              "pos": "adjective",
+              "meaning_ko": "깨어 있는"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "does not really begin until",
+              "meaning_ko": "~하기 전에는 시작되지 않는"
+            },
+            {
+              "phrase": "more than just",
+              "meaning_ko": "단순한 ~ 이상"
+            },
+            {
+              "phrase": "long ago",
+              "meaning_ko": "오래전"
+            },
+            {
+              "phrase": "not only ... but also",
+              "meaning_ko": "~뿐만 아니라 ~도"
+            },
+            {
+              "phrase": "keeps the mind awake",
+              "meaning_ko": "정신을 깨어 있게 한다"
+            },
+            {
+              "phrase": "in a way",
+              "meaning_ko": "어떤 면에서"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How coffee shaped culture",
+          "body": "Do you reach for a cup of coffee to start your day? You are taking part in a habit that is hundreds of years old and that has quietly changed human history.\n\nCoffee was first enjoyed in the Middle East and North Africa. From there, it spread along trade routes into Europe in the seventeenth century. Wherever it went, a new kind of place appeared: the coffeehouse. Unlike a bar serving alcohol, a coffeehouse was a space where people stayed alert and talked.\n\nThese coffeehouses became centers of conversation. Merchants discussed deals, writers debated books, and ordinary people exchanged the latest news. Some famous businesses and newspapers actually grew out of meetings held over coffee. In London, one coffeehouse even became the start of a major insurance company.\n\nBecause coffee sharpens the mind rather than dulling it, it suited an age that valued reason and discussion. So the drink in your hand is not just a pick-me-up. It is tied to centuries of trade, ideas, and the simple human pleasure of talking things over.",
+          "word_count": 174,
+          "estimated_read_seconds": 87,
+          "vocab": [
+            {
+              "word": "habit",
+              "pos": "noun",
+              "meaning_ko": "습관"
+            },
+            {
+              "word": "trade route",
+              "pos": "noun",
+              "meaning_ko": "무역로"
+            },
+            {
+              "word": "alert",
+              "pos": "adjective",
+              "meaning_ko": "정신이 또렷한"
+            },
+            {
+              "word": "merchant",
+              "pos": "noun",
+              "meaning_ko": "상인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "reach for",
+              "meaning_ko": "손을 뻗다"
+            },
+            {
+              "phrase": "taking part in",
+              "meaning_ko": "~에 참여하다"
+            },
+            {
+              "phrase": "spread along",
+              "meaning_ko": "~을 따라 퍼지다"
+            },
+            {
+              "phrase": "grew out of",
+              "meaning_ko": "~에서 생겨났다"
+            },
+            {
+              "phrase": "rather than",
+              "meaning_ko": "~보다는"
+            },
+            {
+              "phrase": "a pick-me-up",
+              "meaning_ko": "기운을 북돋우는 것"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How coffee shaped culture",
+          "body": "Do you treat your morning coffee as a small ritual, the moment your day truly starts? If so, you are joining a centuries-old tradition that has done far more than wake people up. Coffee has helped shape how societies think, trade, and talk.\n\nThe drink emerged from Ethiopia and the Arabian Peninsula, where it was prized for keeping worshippers and scholars alert. As it traveled along trade routes into the Ottoman cities and then Europe, it brought with it an entirely new institution: the coffeehouse. This mattered enormously. In a world where much socializing happened over alcohol, the coffeehouse offered a sober, stimulating alternative, a place to stay sharp rather than grow drowsy.\n\nThese establishments quickly became engines of public life. In seventeenth and eighteenth-century Europe, they were nicknamed penny universities, because for the price of a cup anyone could sit, read newspapers, and join debates on science, politics, and literature. Crucial pieces of modern life took shape in them. The famous insurer Lloyd's of London began in a coffeehouse popular with merchants and ship-owners, and stock trading and journalism both flourished in similar rooms.\n\nThere is a deeper point here. By gathering curious, caffeinated people into shared spaces, coffee helped accelerate the exchange of ideas during the Enlightenment. The beverage did not cause these changes by itself, of course, but it provided the setting and the stimulant. So the next time you cradle a warm cup, it is worth remembering that you are holding a small piece of a long social revolution.",
+          "word_count": 253,
+          "estimated_read_seconds": 126,
+          "vocab": [
+            {
+              "word": "ritual",
+              "pos": "noun",
+              "meaning_ko": "의식, 일상적 절차"
+            },
+            {
+              "word": "prize",
+              "pos": "verb",
+              "meaning_ko": "소중히 여기다"
+            },
+            {
+              "word": "institution",
+              "pos": "noun",
+              "meaning_ko": "제도, 기관"
+            },
+            {
+              "word": "Enlightenment",
+              "pos": "noun",
+              "meaning_ko": "계몽주의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "far more than",
+              "meaning_ko": "훨씬 더 많은"
+            },
+            {
+              "phrase": "emerged from",
+              "meaning_ko": "~에서 생겨났다"
+            },
+            {
+              "phrase": "brought with it",
+              "meaning_ko": "~을 함께 가져왔다"
+            },
+            {
+              "phrase": "engines of public life",
+              "meaning_ko": "공적 생활의 원동력"
+            },
+            {
+              "phrase": "took shape in",
+              "meaning_ko": "~에서 형성됐다"
+            },
+            {
+              "phrase": "by itself",
+              "meaning_ko": "그 자체로"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How coffee shaped culture",
+          "body": "Few everyday objects carry as much hidden history as the cup of coffee that marks the start of so many mornings. We tend to think of it as a simple stimulant, but for several centuries coffee has functioned as something larger: a social technology that reshaped how people gathered, argued, traded, and reasoned.\n\nIts journey began in the highlands of Ethiopia and the ports of Yemen, where the brew was valued for sustaining the long devotions of worshippers and the late study of scholars. Carried along Ottoman trade networks and into Europe by the seventeenth century, coffee arrived not merely as a drink but as the centerpiece of a new public space, the coffeehouse. The significance of this is easy to underestimate. In societies where communal life had long revolved around taverns and the fog of alcohol, the coffeehouse offered a radically different atmosphere: sober, alert, and conducive to sustained conversation.\n\nWhat unfolded in these rooms helped lay the groundwork for modern civic and commercial life. English coffeehouses earned the nickname penny universities because, for the cost of admission, a patron could read the latest pamphlets and argue freely with strangers of every rank. For a population accustomed to rigid hierarchy, this casual mixing of classes around a shared table was quietly radical in itself. Institutions we still recognize crystallized in this environment. Lloyd's of London grew from a coffeehouse frequented by mariners and underwriters; early stock exchanges and newspapers took root in comparable settings. The coffeehouse was, in effect, an information network rendered in brick and conversation. News traveled faster there than almost anywhere else, and reputations could be made or unmade over a single afternoon.\n\nIt would be too neat to credit coffee alone with the intellectual ferment of the Enlightenment. Broad economic, political, and technological currents were also at work. Yet the correlation is striking, and not accidental. By assembling curious, caffeinated minds in spaces designed for talk, coffee lowered the friction of exchanging ideas at precisely the moment when Europe was learning to prize reason and debate. To sip a coffee, then, is to participate, however unknowingly, in a long tradition in which a humble beverage helped power the conversations that built the modern world.",
+          "word_count": 369,
+          "estimated_read_seconds": 184,
+          "vocab": [
+            {
+              "word": "stimulant",
+              "pos": "noun",
+              "meaning_ko": "흥분제, 자극제"
+            },
+            {
+              "word": "conducive",
+              "pos": "adjective",
+              "meaning_ko": "~에 도움이 되는"
+            },
+            {
+              "word": "patron",
+              "pos": "noun",
+              "meaning_ko": "손님, 단골"
+            },
+            {
+              "word": "ferment",
+              "pos": "noun",
+              "meaning_ko": "들끓음, 동요"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "carry as much hidden history",
+              "meaning_ko": "이만큼 숨은 역사를 지니다"
+            },
+            {
+              "phrase": "easy to underestimate",
+              "meaning_ko": "과소평가하기 쉬운"
+            },
+            {
+              "phrase": "lay the groundwork for",
+              "meaning_ko": "~의 토대를 놓다"
+            },
+            {
+              "phrase": "took root in",
+              "meaning_ko": "~에 뿌리내렸다"
+            },
+            {
+              "phrase": "It would be too neat to",
+              "meaning_ko": "~라고 깔끔하게 단정하기는 어렵다"
+            },
+            {
+              "phrase": "however unknowingly",
+              "meaning_ko": "자신도 모르게나마"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-30-cs_concepts-03",
+      "category": "cs_concepts",
+      "title_ko": "교착 상태(데드락)는 왜 생길까",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How deadlock happens",
+          "body": "Imagine two people in a narrow hallway. Each one steps aside to let the other pass first. But they both wait, and neither moves. They are stuck forever, just being polite.\n\nComputers can get stuck in a very similar way. This is called a deadlock.\n\nInside a program, tasks often need to lock things they use, like a file or some memory. Suppose task A locks file one and waits for file two. At the same time, task B locks file two and waits for file one.\n\nNow both tasks are waiting for each other. Neither can move on. Nothing gets done. That frozen situation is a deadlock.",
+          "word_count": 108,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "stuck",
+              "pos": "adjective",
+              "meaning_ko": "꼼짝 못하는"
+            },
+            {
+              "word": "deadlock",
+              "pos": "noun",
+              "meaning_ko": "교착 상태"
+            },
+            {
+              "word": "lock",
+              "pos": "verb",
+              "meaning_ko": "잠그다"
+            },
+            {
+              "word": "task",
+              "pos": "noun",
+              "meaning_ko": "작업, 태스크"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "steps aside",
+              "meaning_ko": "옆으로 비키다"
+            },
+            {
+              "phrase": "let the other pass",
+              "meaning_ko": "상대를 먼저 보내다"
+            },
+            {
+              "phrase": "in a very similar way",
+              "meaning_ko": "비슷한 방식으로"
+            },
+            {
+              "phrase": "at the same time",
+              "meaning_ko": "동시에"
+            },
+            {
+              "phrase": "waiting for each other",
+              "meaning_ko": "서로를 기다리는"
+            },
+            {
+              "phrase": "move on",
+              "meaning_ko": "앞으로 나아가다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How deadlock happens",
+          "body": "Picture two polite people meeting in a narrow doorway. Each waits for the other to go first, so neither moves, and they stand there frozen. Computers can fall into exactly this kind of trap, and we call it a deadlock.\n\nTo work safely, programs often need exclusive access to resources such as files, memory, or database rows. To get it, a task places a lock on the resource so that no one else can use it until the lock is released. This usually works well, but it can go wrong when tasks need more than one resource.\n\nSuppose task A locks resource one and then waits for resource two. Meanwhile, task B has locked resource two and is waiting for resource one. Each task holds something the other needs, and neither will let go. Both wait forever, and that part of the system simply stops.\n\nDeadlocks are dangerous because nothing crashes loudly; the program just hangs. To avoid them, designers use tricks like always locking resources in the same order, or letting a task give up and retry if it waits too long.",
+          "word_count": 183,
+          "estimated_read_seconds": 92,
+          "vocab": [
+            {
+              "word": "exclusive",
+              "pos": "adjective",
+              "meaning_ko": "독점적인"
+            },
+            {
+              "word": "resource",
+              "pos": "noun",
+              "meaning_ko": "자원"
+            },
+            {
+              "word": "release",
+              "pos": "verb",
+              "meaning_ko": "해제하다"
+            },
+            {
+              "word": "hang",
+              "pos": "verb",
+              "meaning_ko": "멈춰 버리다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "go first",
+              "meaning_ko": "먼저 가다"
+            },
+            {
+              "phrase": "fall into",
+              "meaning_ko": "~에 빠지다"
+            },
+            {
+              "phrase": "exclusive access",
+              "meaning_ko": "독점적 접근"
+            },
+            {
+              "phrase": "go wrong",
+              "meaning_ko": "잘못되다"
+            },
+            {
+              "phrase": "let go",
+              "meaning_ko": "놓아주다"
+            },
+            {
+              "phrase": "give up and retry",
+              "meaning_ko": "포기하고 다시 시도하다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How deadlock happens",
+          "body": "One of the stranger ways a program can fail is not by crashing, but by quietly freezing forever. This is the danger of a deadlock, and the easiest way to picture it is two overly polite people stuck in a doorway, each waiting for the other to step through first.\n\nInside software, the doorway is a shared resource, a file, a chunk of memory, a row in a database, that only one task may use at a time. To enforce this, a task acquires a lock before using the resource and releases it afterward. Locking is essential for correctness, but it introduces a subtle hazard whenever a task needs to hold several locks at once.\n\nA classic deadlock involves two tasks and two resources. Task A locks resource one and then tries to lock resource two. Simultaneously, task B locks resource two and then reaches for resource one. Now each task is holding exactly what the other is waiting for, and since neither will release its lock until it finishes, neither can ever finish. The two are frozen in a circular wait.\n\nComputer scientists describe four conditions that must all hold for deadlock to occur, including mutual exclusion and that circular waiting, and breaking any one of them prevents the problem. In practice, engineers impose a consistent global order in which locks must be taken, so that a cycle can never form, or they add timeouts that let a stalled task back off and try again. The lesson is that locks, while necessary, must be handled with real care, because the failure they invite is silent rather than loud.",
+          "word_count": 269,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "acquire",
+              "pos": "verb",
+              "meaning_ko": "획득하다"
+            },
+            {
+              "word": "hazard",
+              "pos": "noun",
+              "meaning_ko": "위험 요소"
+            },
+            {
+              "word": "mutual exclusion",
+              "pos": "noun",
+              "meaning_ko": "상호 배제"
+            },
+            {
+              "word": "circular wait",
+              "pos": "noun",
+              "meaning_ko": "순환 대기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "the easiest way to picture it",
+              "meaning_ko": "가장 쉽게 떠올리는 방법"
+            },
+            {
+              "phrase": "at a time",
+              "meaning_ko": "한 번에 하나씩"
+            },
+            {
+              "phrase": "reaches for",
+              "meaning_ko": "~을 잡으려 손을 뻗다"
+            },
+            {
+              "phrase": "must all hold",
+              "meaning_ko": "모두 성립해야 한다"
+            },
+            {
+              "phrase": "back off and try again",
+              "meaning_ko": "물러섰다가 다시 시도하다"
+            },
+            {
+              "phrase": "silent rather than loud",
+              "meaning_ko": "요란하지 않고 조용한"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How deadlock happens",
+          "body": "Among the failure modes that haunt concurrent software, deadlock is uniquely unsettling, because nothing visibly breaks. No exception is thrown, no process crashes; the system simply stops making progress and waits, with infinite patience, for something that will never arrive. The textbook image, two courteous strangers frozen in a doorway each yielding to the other, captures the essence precisely.\n\nThe setting for deadlock is the management of shared resources. When multiple tasks run at once, they frequently need exclusive use of things, a file handle, a region of memory, a database record, that cannot safely be used by two parties simultaneously. The standard discipline is locking: a task acquires a lock before touching the resource and surrenders it when done. This is indispensable for correctness, but it becomes treacherous the moment a task must hold more than one lock at the same time.\n\nThe canonical scenario needs only two tasks and two resources. Task A seizes lock one and then requests lock two; concurrently, task B seizes lock two and then requests lock one. Each now possesses precisely what the other requires, and because each will release nothing until it completes, completion becomes impossible. The result is a circular wait from which there is no internal escape.\n\nFormally, deadlock requires four simultaneous conditions, mutual exclusion, hold-and-wait, no preemption, and circular wait, and the elegance of this analysis is that defeating any single one suffices to make deadlock impossible. Engineers exploit this in several ways. The most common is to impose a strict global ordering on locks, so that every task acquires them in the same sequence and a cycle can never close. Others rely on timeouts, allowing a thwarted task to release what it holds and retry, or on deadlock detection, in which the system periodically searches for cycles in its wait-for graph and forcibly aborts a victim to break the impasse. Each approach trades simplicity, performance, or fairness against safety. What unites them is a sober recognition that concurrency's power comes bundled with hazards that are easy to create and, because they fail so quietly, genuinely hard to find.",
+          "word_count": 350,
+          "estimated_read_seconds": 175,
+          "vocab": [
+            {
+              "word": "concurrent",
+              "pos": "adjective",
+              "meaning_ko": "동시에 실행되는"
+            },
+            {
+              "word": "preemption",
+              "pos": "noun",
+              "meaning_ko": "선점"
+            },
+            {
+              "word": "thwart",
+              "pos": "verb",
+              "meaning_ko": "좌절시키다"
+            },
+            {
+              "word": "impasse",
+              "pos": "noun",
+              "meaning_ko": "교착, 막다른 상태"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "failure modes that haunt",
+              "meaning_ko": "괴롭히는 실패 양상들"
+            },
+            {
+              "phrase": "with infinite patience",
+              "meaning_ko": "무한한 인내심으로"
+            },
+            {
+              "phrase": "captures the essence",
+              "meaning_ko": "본질을 포착하다"
+            },
+            {
+              "phrase": "becomes treacherous the moment",
+              "meaning_ko": "~하는 순간 위험해진다"
+            },
+            {
+              "phrase": "no internal escape",
+              "meaning_ko": "내부적 탈출구가 없는"
+            },
+            {
+              "phrase": "comes bundled with",
+              "meaning_ko": "~이 함께 딸려 온다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-30-backend_systems-04",
+      "category": "backend_systems",
+      "title_ko": "API 게이트웨이란 무엇일까",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is an API gateway",
+          "body": "Imagine a big company building with many offices inside. Visitors do not wander the halls looking for the right room. Instead, they stop at the front desk. The receptionist checks who they are and sends them to the correct place.\n\nAn API gateway is like that front desk for software. Modern apps are often built from many small services. Each one does a different job.\n\nInstead of talking to all of them directly, an app sends every request to the gateway first. The gateway checks the request, then passes it to the right service. It gives the whole system one clear front door.",
+          "word_count": 103,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "service",
+              "pos": "noun",
+              "meaning_ko": "서비스"
+            },
+            {
+              "word": "request",
+              "pos": "noun",
+              "meaning_ko": "요청"
+            },
+            {
+              "word": "gateway",
+              "pos": "noun",
+              "meaning_ko": "게이트웨이, 관문"
+            },
+            {
+              "word": "receptionist",
+              "pos": "noun",
+              "meaning_ko": "안내원"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "wander the halls",
+              "meaning_ko": "복도를 헤매다"
+            },
+            {
+              "phrase": "front desk",
+              "meaning_ko": "안내 데스크"
+            },
+            {
+              "phrase": "is like",
+              "meaning_ko": "~와 같다"
+            },
+            {
+              "phrase": "a different job",
+              "meaning_ko": "다른 일"
+            },
+            {
+              "phrase": "instead of",
+              "meaning_ko": "~ 대신에"
+            },
+            {
+              "phrase": "front door",
+              "meaning_ko": "정문"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is an API gateway",
+          "body": "Imagine walking into a large company with dozens of departments. You do not search every floor for the right person. You go to the front desk, where a receptionist checks your details and directs you to the correct office. In modern software, an API gateway plays this role.\n\nToday, big applications are often split into many small services, one for users, one for payments, one for messages, and so on. A phone app could, in theory, call each of these services directly, but that would be messy and hard to secure.\n\nInstead, every request goes to the API gateway first. The gateway acts as a single entry point for the whole system. It can check that the user is allowed in, limit how many requests they may send, and then forward each request to the right service behind the scenes.\n\nThis makes life easier for everyone. Client apps only need to know one address, while security and traffic rules live in one place. The services behind the gateway can change or move without the outside world noticing. In short, the gateway is the organized front door to a busy building of services.",
+          "word_count": 192,
+          "estimated_read_seconds": 96,
+          "vocab": [
+            {
+              "word": "department",
+              "pos": "noun",
+              "meaning_ko": "부서"
+            },
+            {
+              "word": "entry point",
+              "pos": "noun",
+              "meaning_ko": "진입점"
+            },
+            {
+              "word": "forward",
+              "pos": "verb",
+              "meaning_ko": "전달하다"
+            },
+            {
+              "word": "secure",
+              "pos": "verb",
+              "meaning_ko": "보안을 지키다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "search every floor",
+              "meaning_ko": "모든 층을 뒤지다"
+            },
+            {
+              "phrase": "directs you to",
+              "meaning_ko": "~로 안내하다"
+            },
+            {
+              "phrase": "split into",
+              "meaning_ko": "~로 나뉜"
+            },
+            {
+              "phrase": "single entry point",
+              "meaning_ko": "단일 진입점"
+            },
+            {
+              "phrase": "behind the scenes",
+              "meaning_ko": "보이지 않는 곳에서"
+            },
+            {
+              "phrase": "in short",
+              "meaning_ko": "요컨대"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is an API gateway",
+          "body": "Picture arriving at the headquarters of a large company. You do not roam the corridors hunting for the right department; you check in at the front desk, where a receptionist verifies who you are and points you to the correct office. An API gateway performs this same job for a software system.\n\nModern applications are frequently built as a collection of small, independent services, perhaps one for accounts, another for billing, another for notifications. A client could call each service directly, but doing so creates real problems: the client must track many addresses, every service must repeat its own security checks, and exposing them all widens the attack surface. An API gateway solves this by standing in front of the services as a single entry point.\n\nWhen a request arrives, the gateway can do a great deal before forwarding it. It authenticates the caller, enforces rate limits to prevent abuse, terminates encryption, and routes the request to the appropriate service. It can also combine results from several services into one response, log traffic for monitoring, and translate between protocols. In effect, it concentrates a whole family of cross-cutting concerns in one well-guarded place.\n\nThe benefits are clear. Clients deal with a single, stable address while the messy internal structure stays hidden and free to evolve. Security and traffic policies live in one location rather than being scattered across every service. The trade-off is that the gateway becomes a critical piece of infrastructure: if it is poorly designed it can turn into a bottleneck or a single point of failure, so teams run it redundantly and keep its logic lean.",
+          "word_count": 269,
+          "estimated_read_seconds": 134,
+          "vocab": [
+            {
+              "word": "independent",
+              "pos": "adjective",
+              "meaning_ko": "독립적인"
+            },
+            {
+              "word": "authenticate",
+              "pos": "verb",
+              "meaning_ko": "인증하다"
+            },
+            {
+              "word": "route",
+              "pos": "verb",
+              "meaning_ko": "경로를 정하다"
+            },
+            {
+              "word": "redundantly",
+              "pos": "adverb",
+              "meaning_ko": "이중으로, 여분을 두어"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "roam the corridors",
+              "meaning_ko": "복도를 헤매다"
+            },
+            {
+              "phrase": "check in at",
+              "meaning_ko": "~에서 확인 절차를 밟다"
+            },
+            {
+              "phrase": "a collection of",
+              "meaning_ko": "~의 모음"
+            },
+            {
+              "phrase": "widens the attack surface",
+              "meaning_ko": "공격 표면을 넓히다"
+            },
+            {
+              "phrase": "cross-cutting concerns",
+              "meaning_ko": "공통 관심사"
+            },
+            {
+              "phrase": "single point of failure",
+              "meaning_ko": "단일 장애점"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is an API gateway",
+          "body": "As software systems have splintered from single monolithic programs into constellations of small services, a new architectural question has become urgent: how should the outside world talk to a system made of dozens of moving parts? The common answer is the API gateway, and the simplest way to grasp it is the receptionist at a large company's front desk, the one point through which every visitor passes and is checked, recorded, and directed.\n\nIn a microservices architecture, an application is decomposed into many independent services, each owning a slice of functionality and its own data. Letting clients address these services directly is tempting but fraught. Clients would need to know the location and interface of every service; each service would have to implement its own authentication, throttling, and logging; and the sheer number of publicly reachable endpoints would enlarge the system's attack surface. The API gateway resolves these tensions by interposing a single front door between clients and the services behind it.\n\nThat position lets the gateway absorb a broad set of cross-cutting responsibilities. It authenticates and authorizes incoming requests, applies rate limiting and quota enforcement, terminates TLS, and routes each call to the correct upstream service. More ambitiously, it can aggregate responses from several services into one payload, tailor responses to different client types, translate between protocols such as REST and gRPC, and emit the metrics and traces that make a distributed system observable. Concentrating these concerns in one layer spares every individual service from reimplementing them. The result is that each service can stay small and focused, trusting the gateway to handle the messy, repetitive work at the edge.\n\nThe architecture is not without cost. The gateway is, by design, on the critical path of essentially every request, which makes it both a potential performance bottleneck and a tempting single point of failure; mitigating this demands redundancy, careful capacity planning, and a discipline of keeping business logic out of the gateway lest it swell into a new monolith. Teams therefore guard that boundary jealously, resisting the temptation to let convenient shortcuts quietly accumulate inside it. Handled well, though, the API gateway delivers a rare combination: a clean, stable contract for clients on the outside, and the freedom to reshape the tangle of services on the inside without anyone beyond the front desk ever noticing.",
+          "word_count": 386,
+          "estimated_read_seconds": 193,
+          "vocab": [
+            {
+              "word": "monolithic",
+              "pos": "adjective",
+              "meaning_ko": "단일체의, 모놀리식의"
+            },
+            {
+              "word": "microservices",
+              "pos": "noun",
+              "meaning_ko": "마이크로서비스"
+            },
+            {
+              "word": "aggregate",
+              "pos": "verb",
+              "meaning_ko": "통합하다, 집계하다"
+            },
+            {
+              "word": "observable",
+              "pos": "adjective",
+              "meaning_ko": "관측 가능한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "splintered from",
+              "meaning_ko": "~에서 쪼개져 나온"
+            },
+            {
+              "phrase": "the simplest way to grasp it",
+              "meaning_ko": "가장 쉽게 이해하는 방법"
+            },
+            {
+              "phrase": "tempting but fraught",
+              "meaning_ko": "솔깃하지만 위험이 따르는"
+            },
+            {
+              "phrase": "interposing a single front door",
+              "meaning_ko": "단일 정문을 사이에 두는 것"
+            },
+            {
+              "phrase": "on the critical path",
+              "meaning_ko": "핵심 경로 위에 있는"
+            },
+            {
+              "phrase": "without anyone ... noticing",
+              "meaning_ko": "누구도 알아채지 못하게"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-30-speaking-05",
+      "category": "speaking",
+      "title_ko": "[IELTS P2] 배우고 싶은 기술을 묘사해 주세요",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 2",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Describe a skill you would like to learn.",
+          "body": "I'd like to talk about a skill I really want to learn, which is cooking. To be honest, I can only make very simple food right now, like fried eggs and instant noodles.\n\nThe skill I want to learn is proper home cooking, especially Korean and Italian dishes. I want to be able to cook a full meal for my friends and family.\n\nWhy do I want to learn it? First, eating out every day is expensive and not very healthy. Second, I think cooking is a fun way to relax after work. And I really want to make my parents happy with a nice meal.\n\nHow would I learn it? I would start with easy recipes on YouTube. I would also ask my mother, because she is a great cook. I think practice every weekend is the key.\n\nThis skill would be useful in many ways. I would save money, eat healthier food, and feel proud when people enjoy my cooking. That is the skill I would love to learn.",
+          "word_count": 171,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "skill",
+              "pos": "noun",
+              "meaning_ko": "기술, 능력"
+            },
+            {
+              "word": "recipe",
+              "pos": "noun",
+              "meaning_ko": "조리법, 레시피"
+            },
+            {
+              "word": "proper",
+              "pos": "adjective",
+              "meaning_ko": "제대로 된"
+            },
+            {
+              "word": "proud",
+              "pos": "adjective",
+              "meaning_ko": "자랑스러운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd like to talk about",
+              "meaning_ko": "~에 대해 이야기하고 싶어요"
+            },
+            {
+              "phrase": "to be honest",
+              "meaning_ko": "솔직히 말하면"
+            },
+            {
+              "phrase": "Why do I want to",
+              "meaning_ko": "왜 ~하고 싶은가 하면"
+            },
+            {
+              "phrase": "How would I learn",
+              "meaning_ko": "어떻게 배울까 하면"
+            },
+            {
+              "phrase": "the key",
+              "meaning_ko": "핵심"
+            },
+            {
+              "phrase": "useful in many ways",
+              "meaning_ko": "여러 면에서 유용한"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Describe a skill you would like to learn.",
+          "body": "I'd like to describe a skill I've wanted to learn for a long time, which is public speaking. Right now, I get really nervous whenever I have to talk in front of a group, even a small one at work.\n\nThe skill itself is being able to speak clearly and confidently to an audience, whether it's a work presentation or a wedding speech. I want to express my ideas without my voice shaking or my mind going blank.\n\nThere are a few reasons I want to learn it. The main one is my job. As I take on more responsibility, I have to present to my team and sometimes to clients, and being a poor speaker holds me back. On a personal level, I also admire people who can hold a room, and I'd love to feel that comfortable myself.\n\nAs for how I would learn it, I think the only real way is practice. I would join a speaking club like Toastmasters, where you give short talks every week and get honest feedback. I would also record myself and watch it back, even though that sounds painful.\n\nThis skill would be incredibly useful. At work, it could help me lead meetings and even get promoted. In my personal life, it would make me braver in all kinds of social situations. That's why public speaking is the skill I most want to master.",
+          "word_count": 233,
+          "estimated_read_seconds": 116,
+          "vocab": [
+            {
+              "word": "nervous",
+              "pos": "adjective",
+              "meaning_ko": "긴장한"
+            },
+            {
+              "word": "audience",
+              "pos": "noun",
+              "meaning_ko": "청중"
+            },
+            {
+              "word": "responsibility",
+              "pos": "noun",
+              "meaning_ko": "책임"
+            },
+            {
+              "word": "feedback",
+              "pos": "noun",
+              "meaning_ko": "피드백"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "for a long time",
+              "meaning_ko": "오랫동안"
+            },
+            {
+              "phrase": "going blank",
+              "meaning_ko": "머릿속이 하얘지다"
+            },
+            {
+              "phrase": "take on more responsibility",
+              "meaning_ko": "더 많은 책임을 맡다"
+            },
+            {
+              "phrase": "holds me back",
+              "meaning_ko": "나를 가로막다"
+            },
+            {
+              "phrase": "hold a room",
+              "meaning_ko": "좌중을 사로잡다"
+            },
+            {
+              "phrase": "watch it back",
+              "meaning_ko": "다시 돌려 보다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Describe a skill you would like to learn.",
+          "body": "I'd like to talk about a skill I've been meaning to learn for years but keep putting off, which is coding, specifically being able to build a simple web application from scratch.\n\nTo be more precise, the skill I want is enough programming to take an idea in my head and turn it into something real that runs in a browser. I'm not aiming to become a professional software engineer; I just want to be capable enough to build small tools for myself and prototype my own ideas.\n\nThere are really two reasons I'm drawn to it. The practical one is that I work closely with developers, and I often feel a bit helpless when I cannot tell whether something is easy or hard to build. Learning to code would let me speak their language and contribute more usefully. The deeper reason is creative: I love the idea of being able to make something out of nothing but logic, the way a writer makes a story out of words.\n\nIn terms of how I'd approach it, I would start with a structured online course rather than jumping around randomly, because I know myself and I need a clear path. Then I would force myself to build one real project, however ugly, because I genuinely believe you only learn coding by struggling through your own bugs.\n\nAs for usefulness, the payoff would be huge. At work, it would make me a far better collaborator and might open new roles. Outside work, it would give me a powerful creative outlet and a sense of independence, knowing I could build a solution instead of always waiting for someone else. That combination is exactly why coding sits at the top of my list.",
+          "word_count": 289,
+          "estimated_read_seconds": 144,
+          "vocab": [
+            {
+              "word": "precise",
+              "pos": "adjective",
+              "meaning_ko": "정확한"
+            },
+            {
+              "word": "prototype",
+              "pos": "verb",
+              "meaning_ko": "시제품을 만들다"
+            },
+            {
+              "word": "helpless",
+              "pos": "adjective",
+              "meaning_ko": "무력한"
+            },
+            {
+              "word": "collaborator",
+              "pos": "noun",
+              "meaning_ko": "협업자"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "been meaning to",
+              "meaning_ko": "~하려고 마음먹어 온"
+            },
+            {
+              "phrase": "putting off",
+              "meaning_ko": "미루는"
+            },
+            {
+              "phrase": "to be more precise",
+              "meaning_ko": "더 정확히 말하면"
+            },
+            {
+              "phrase": "drawn to it",
+              "meaning_ko": "거기에 끌리는"
+            },
+            {
+              "phrase": "in terms of",
+              "meaning_ko": "~의 측면에서"
+            },
+            {
+              "phrase": "sits at the top of my list",
+              "meaning_ko": "내 목록 맨 위에 있다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Describe a skill you would like to learn.",
+          "body": "The skill I'd most love to acquire, and the one I'll talk about here, is playing the piano properly, by which I mean being able to sit down and play a piece of real music fluently, rather than picking out a clumsy melody with one finger.\n\nLet me be specific about what I'm imagining. I don't dream of performing in concert halls; what I want is the quiet competence to open a book of, say, Chopin or some jazz standards, and bring the notes to life with both hands, reading the score and feeling the rhythm without it being a constant battle. Essentially, I want music to become a language I can actually speak rather than merely admire. Honestly, just being able to play one piece beautifully from start to finish would feel like a small triumph.\n\nThere are a few intertwined reasons this appeals to me so strongly. The most honest one is regret: I had a few lessons as a child, gave up far too early, and I've quietly envied pianists ever since. Beyond that, I'm drawn to it as a counterweight to my work, which is entirely digital and abstract. There's something deeply appealing about a skill that lives in your hands and ears, that rewards patience, and that produces something beautiful and immediate rather than another file on a screen. I think I crave that kind of tangible, hands-on creativity more and more as my days fill up with glowing screens.\n\nAs for how I'd go about it, I'd be realistic this time. I would find a good teacher rather than relying solely on apps, because I now understand how much technique matters early on, and I would commit to short, daily practice instead of occasional marathon sessions, since consistency is what actually rewires the fingers. I'd also choose pieces I genuinely love, to keep myself motivated through the inevitable plateaus.\n\nIn terms of how it would enrich my life, the benefits feel less practical than profound. It would give me a lifelong source of relaxation and flow, a way to express emotions I struggle to put into words, and a small, private sense of accomplishment that has nothing to do with my career. For all those reasons, learning the piano properly is the skill I'd reach for first.",
+          "word_count": 383,
+          "estimated_read_seconds": 192,
+          "vocab": [
+            {
+              "word": "fluently",
+              "pos": "adverb",
+              "meaning_ko": "유창하게"
+            },
+            {
+              "word": "competence",
+              "pos": "noun",
+              "meaning_ko": "능숙함"
+            },
+            {
+              "word": "counterweight",
+              "pos": "noun",
+              "meaning_ko": "균형추, 상쇄하는 것"
+            },
+            {
+              "word": "plateau",
+              "pos": "noun",
+              "meaning_ko": "정체기"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd most love to acquire",
+              "meaning_ko": "가장 익히고 싶은"
+            },
+            {
+              "phrase": "Let me be specific",
+              "meaning_ko": "구체적으로 말하자면"
+            },
+            {
+              "phrase": "a few intertwined reasons",
+              "meaning_ko": "서로 얽힌 몇 가지 이유"
+            },
+            {
+              "phrase": "a counterweight to",
+              "meaning_ko": "~을 상쇄하는 것"
+            },
+            {
+              "phrase": "I'd be realistic this time",
+              "meaning_ko": "이번엔 현실적으로 하겠다"
+            },
+            {
+              "phrase": "less practical than profound",
+              "meaning_ko": "실용적이라기보다 깊은"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

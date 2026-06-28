@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-29",
+  "topics": [
+    {
+      "topic_id": "2026-06-29-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "바다는 왜 짤까",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why the ocean is salty",
+          "body": "Have you ever tasted seawater by accident? It is very salty! But rivers and rain are not salty at all. So where does all the salt come from?\n\nThe answer is the land. Rain falls on rocks and slowly breaks them down. As the water flows in rivers, it carries tiny bits of salt and minerals from the rocks.\n\nThe rivers run into the sea. When seawater dries up in the sun, the water leaves as vapor, but the salt stays behind. Over millions of years, more and more salt has gathered. That is why the ocean tastes so salty today.",
+          "word_count": 101,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "seawater",
+              "pos": "noun",
+              "meaning_ko": "바닷물"
+            },
+            {
+              "word": "mineral",
+              "pos": "noun",
+              "meaning_ko": "광물"
+            },
+            {
+              "word": "vapor",
+              "pos": "noun",
+              "meaning_ko": "수증기"
+            },
+            {
+              "word": "gather",
+              "pos": "verb",
+              "meaning_ko": "모이다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "by accident",
+              "meaning_ko": "우연히"
+            },
+            {
+              "phrase": "not ... at all",
+              "meaning_ko": "전혀 ~ 아닌"
+            },
+            {
+              "phrase": "where does all the salt come from",
+              "meaning_ko": "그것은 어디서 올까"
+            },
+            {
+              "phrase": "breaks them down",
+              "meaning_ko": "그것들을 분해한다"
+            },
+            {
+              "phrase": "stays behind",
+              "meaning_ko": "뒤에 남는다"
+            },
+            {
+              "phrase": "over millions of years",
+              "meaning_ko": "수백만 년에 걸쳐"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why the ocean is salty",
+          "body": "Have you ever wondered why the sea is salty when the rain that fills it is fresh? It seems strange, but the answer is hidden in the rocks all around us.\n\nWhen rain falls, it is slightly acidic, and over time it slowly wears away the rocks it touches. As the water trickles into streams and rivers, it picks up tiny amounts of salt and other minerals and carries them toward the sea. Each river adds only a little, but there are countless rivers, and they have been flowing for a very long time.\n\nOnce this water reaches the ocean, something important happens. Heat from the sun makes the surface water evaporate, but only the pure water escapes into the air as vapor. The salt is left behind, trapped in the sea. Because salt keeps arriving and almost never leaves, it has built up over hundreds of millions of years. So the saltiness of the ocean is really a record of the slow, patient work of rain and rivers.",
+          "word_count": 169,
+          "estimated_read_seconds": 84,
+          "vocab": [
+            {
+              "word": "acidic",
+              "pos": "adjective",
+              "meaning_ko": "산성의"
+            },
+            {
+              "word": "evaporate",
+              "pos": "verb",
+              "meaning_ko": "증발하다"
+            },
+            {
+              "word": "trickle",
+              "pos": "verb",
+              "meaning_ko": "졸졸 흐르다"
+            },
+            {
+              "word": "countless",
+              "pos": "adjective",
+              "meaning_ko": "셀 수 없이 많은"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "궁금해한 적 있나요"
+            },
+            {
+              "phrase": "wears away",
+              "meaning_ko": "닳게 한다"
+            },
+            {
+              "phrase": "picks up",
+              "meaning_ko": "주워 담는다"
+            },
+            {
+              "phrase": "left behind",
+              "meaning_ko": "뒤에 남겨진"
+            },
+            {
+              "phrase": "built up",
+              "meaning_ko": "축적되어 온"
+            },
+            {
+              "phrase": "the slow, patient work of",
+              "meaning_ko": "느리고 끈질긴 작용"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why the ocean is salty",
+          "body": "Have you ever swallowed a mouthful of seawater and wondered why it is so salty, even though the rivers and rain that feed the ocean taste fresh? The explanation is a story of patience, written over hundreds of millions of years.\n\nIt begins on land. Rainwater is naturally a little acidic, because it absorbs carbon dioxide from the air. As it falls on rocks and soil, it slowly dissolves tiny amounts of minerals, including sodium and chloride, the two elements that make up common salt. These are exactly the ions your tongue detects as a salty taste. Streams and rivers gather this mineral-rich water and carry it steadily toward the sea.\n\nAny single river delivers only a faint trace of salt. But rivers are countless, and they have been running for almost the entire history of the planet. Their contributions add up. Crucially, when sunlight evaporates water from the ocean's surface, only the water molecules rise into the air as vapor; the dissolved salt cannot follow and is left behind. Fresh water keeps arriving, evaporating, and returning as rain, while the salt simply accumulates. Picture filling a bathtub that never drains while only the clean water is scooped off the top, and you have the essential idea.\n\nThere are also other sources, such as underwater volcanic vents that release minerals directly into the deep sea. Over geological time, the balance between salt coming in and salt being removed has settled, which is why the ocean's saltiness has stayed roughly steady for a very long time. In a sense, every sip of seawater is a tiny taste of eroded mountains, delivered grain by grain across an almost unimaginable span of time.",
+          "word_count": 280,
+          "estimated_read_seconds": 140,
+          "vocab": [
+            {
+              "word": "dissolve",
+              "pos": "verb",
+              "meaning_ko": "녹이다"
+            },
+            {
+              "word": "sodium",
+              "pos": "noun",
+              "meaning_ko": "나트륨"
+            },
+            {
+              "word": "accumulate",
+              "pos": "verb",
+              "meaning_ko": "축적되다"
+            },
+            {
+              "word": "geological",
+              "pos": "adjective",
+              "meaning_ko": "지질학적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "even though",
+              "meaning_ko": "~인데도"
+            },
+            {
+              "phrase": "a story of patience",
+              "meaning_ko": "인내의 이야기"
+            },
+            {
+              "phrase": "make up",
+              "meaning_ko": "구성하다"
+            },
+            {
+              "phrase": "add up",
+              "meaning_ko": "쌓여 합쳐지다"
+            },
+            {
+              "phrase": "left behind",
+              "meaning_ko": "뒤에 남겨진"
+            },
+            {
+              "phrase": "in a sense",
+              "meaning_ko": "어떤 의미에서"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why the ocean is salty",
+          "body": "Have you ever paused, after tasting seawater, to ask why the ocean is salty at all, when every drop of rain and every river that pours into it is fresh? The puzzle dissolves once you realize that the sea is not so much a body of water as a vast, slow-filling basin that collects whatever the land gives up.\n\nThe process starts in the atmosphere. Rainwater absorbs a little carbon dioxide as it falls, becoming mildly acidic, and this faint acidity allows it to attack rock with surprising effectiveness over long periods. As the weathered minerals wash into streams, the water carries dissolved ions, most importantly sodium and chloride, the building blocks of ordinary salt, toward the ocean. No individual river seems to matter much; the concentration of salt it delivers is minuscule. But multiply that trickle by every river on Earth and stretch it across billions of years, and the totals become staggering. To put it in perspective, if all the salt in the oceans were spread evenly over the continents, it would form a layer many times taller than a person.\n\nThe decisive twist is what happens at the ocean's surface. Solar heat drives evaporation, but evaporation is selective: water molecules escape into the air while dissolved salts are physically unable to leave. The fresh water is recycled endlessly through clouds and rain, yet each cycle abandons its salt in the sea. Salt enters and stays; water enters and departs. Given enough time, the inevitable result is a steadily saltier ocean. This one-way ratchet, salt in but never out by the same door, is the heart of the whole phenomenon.\n\nThe picture is not quite that one-sided, however. Salt is also removed, as sea spray, as minerals locked into clay on the seafloor, and as deposits left when shallow seas dry out. Hydrothermal vents, meanwhile, add fresh minerals from below. Today these inputs and outputs roughly balance, which is why ocean salinity has hovered near its current level for a very long stretch of geological history. Understood this way, the saltiness of the sea is less a static fact than a long-running ledger, a chemical accounting of mountains slowly dismantled and carried, ion by ion, into the deep.",
+          "word_count": 370,
+          "estimated_read_seconds": 185,
+          "vocab": [
+            {
+              "word": "weathered",
+              "pos": "adjective",
+              "meaning_ko": "풍화된"
+            },
+            {
+              "word": "ion",
+              "pos": "noun",
+              "meaning_ko": "이온"
+            },
+            {
+              "word": "salinity",
+              "pos": "noun",
+              "meaning_ko": "염도"
+            },
+            {
+              "word": "hydrothermal",
+              "pos": "adjective",
+              "meaning_ko": "열수의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "The puzzle dissolves once",
+              "meaning_ko": "~하면 수수께끼가 풀린다"
+            },
+            {
+              "phrase": "the building blocks of",
+              "meaning_ko": "~의 기본 구성 요소"
+            },
+            {
+              "phrase": "The decisive twist",
+              "meaning_ko": "결정적인 반전"
+            },
+            {
+              "phrase": "Given enough time",
+              "meaning_ko": "충분한 시간이 주어지면"
+            },
+            {
+              "phrase": "not quite that one-sided",
+              "meaning_ko": "그렇게 일방적이지는 않은"
+            },
+            {
+              "phrase": "less ... than",
+              "meaning_ko": "~라기보다는"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-29-academic_humanities-02",
+      "category": "academic_humanities",
+      "title_ko": "로마 제국은 왜 멸망했을까",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Why the Roman Empire fell",
+          "body": "The Roman Empire was once one of the biggest and strongest empires in history. It lasted for centuries. So why did such a powerful empire finally fall?\n\nThere was not just one reason. The empire became very large, and it was hard to control such a huge area. Sending soldiers and messages across the land took a long time.\n\nMoney was also a problem. Wars were expensive, and the government raised taxes again and again. Many people grew poor and unhappy.\n\nAt the same time, groups from outside attacked the borders. Slowly, the western part of the empire broke apart. Rome did not fall in one day, but over many long years.",
+          "word_count": 112,
+          "estimated_read_seconds": 56,
+          "vocab": [
+            {
+              "word": "empire",
+              "pos": "noun",
+              "meaning_ko": "제국"
+            },
+            {
+              "word": "century",
+              "pos": "noun",
+              "meaning_ko": "100년, 세기"
+            },
+            {
+              "word": "tax",
+              "pos": "noun",
+              "meaning_ko": "세금"
+            },
+            {
+              "word": "border",
+              "pos": "noun",
+              "meaning_ko": "국경"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "one of the biggest",
+              "meaning_ko": "가장 큰 것 중 하나"
+            },
+            {
+              "phrase": "lasted for centuries",
+              "meaning_ko": "수 세기 동안 지속됐다"
+            },
+            {
+              "phrase": "not just one reason",
+              "meaning_ko": "이유가 하나만은 아닌"
+            },
+            {
+              "phrase": "hard to control",
+              "meaning_ko": "통제하기 어려운"
+            },
+            {
+              "phrase": "again and again",
+              "meaning_ko": "반복해서"
+            },
+            {
+              "phrase": "broke apart",
+              "meaning_ko": "산산이 갈라졌다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Why the Roman Empire fell",
+          "body": "The Roman Empire ruled much of Europe, North Africa, and the Middle East for hundreds of years. It built roads, cities, and laws that still shape the world today. So how could something so vast and powerful collapse?\n\nHistorians agree there was no single cause. One big problem was size. The empire had grown so large that it was difficult to defend its long borders and govern its distant provinces. Decisions and armies moved slowly across such great distances.\n\nMoney troubles made things worse. Constant wars were expensive, and to pay for them, emperors raised taxes and even reduced the amount of silver in their coins. This caused prices to rise and trust in the government to fall.\n\nMeanwhile, groups from beyond the borders pushed into Roman land, sometimes peacefully and sometimes by force. Political fighting at the top left the empire weak and divided. In the end, the western half slowly came apart in the fifth century, less through one dramatic defeat than through many years of pressure from inside and out.",
+          "word_count": 173,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "collapse",
+              "pos": "verb",
+              "meaning_ko": "붕괴하다"
+            },
+            {
+              "word": "province",
+              "pos": "noun",
+              "meaning_ko": "속주, 지방"
+            },
+            {
+              "word": "emperor",
+              "pos": "noun",
+              "meaning_ko": "황제"
+            },
+            {
+              "word": "defend",
+              "pos": "verb",
+              "meaning_ko": "방어하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "shape the world",
+              "meaning_ko": "세상을 형성하다"
+            },
+            {
+              "phrase": "no single cause",
+              "meaning_ko": "단일한 원인은 없는"
+            },
+            {
+              "phrase": "made things worse",
+              "meaning_ko": "상황을 더 나쁘게 만들었다"
+            },
+            {
+              "phrase": "trust ... to fall",
+              "meaning_ko": "신뢰가 떨어지다"
+            },
+            {
+              "phrase": "from beyond the borders",
+              "meaning_ko": "국경 너머에서"
+            },
+            {
+              "phrase": "In the end",
+              "meaning_ko": "결국"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Why the Roman Empire fell",
+          "body": "The fall of the Roman Empire is one of history's great questions, partly because Rome did not so much fall as fade. For centuries it had dominated the Mediterranean world, yet by the late fifth century the western half had dissolved into a patchwork of smaller kingdoms. What went wrong?\n\nModern historians resist simple answers and point instead to a tangle of overlapping pressures. Geography was one. The empire had become too large to manage efficiently; defending thousands of miles of frontier drained resources, and communication across such distances was painfully slow. To cope, the empire was eventually split into eastern and western halves, but the west was the poorer and more exposed of the two. Holding that long, vulnerable border absorbed soldiers and money that the western treasury could increasingly ill afford.\n\nEconomic strain ran underneath everything. Endless wars and a bloated military were enormously expensive, and emperors responded by raising taxes and debasing the currency, which fueled inflation and eroded public confidence. Heavy taxation pushed many farmers into poverty or dependence on powerful landlords, weakening the social fabric. Trade also suffered as roads grew unsafe and cities shrank, so the economy that had once funded Roman power steadily contracted.\n\nOn top of this came political instability, with emperors rising and falling through assassination and civil war, and mounting pressure from migrating peoples along the borders. When these groups crossed into Roman territory in large numbers, a state already stretched thin could not absorb the shock, and each crisis made the next one harder to survive. The empire did not collapse in a single catastrophe; it unraveled gradually, as many long-standing weaknesses finally converged.",
+          "word_count": 275,
+          "estimated_read_seconds": 138,
+          "vocab": [
+            {
+              "word": "frontier",
+              "pos": "noun",
+              "meaning_ko": "변경, 국경 지대"
+            },
+            {
+              "word": "debase",
+              "pos": "verb",
+              "meaning_ko": "(화폐) 가치를 떨어뜨리다"
+            },
+            {
+              "word": "inflation",
+              "pos": "noun",
+              "meaning_ko": "인플레이션"
+            },
+            {
+              "word": "unravel",
+              "pos": "verb",
+              "meaning_ko": "풀려 무너지다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "did not so much ... as",
+              "meaning_ko": "~라기보다는 오히려"
+            },
+            {
+              "phrase": "resist simple answers",
+              "meaning_ko": "단순한 답을 거부하다"
+            },
+            {
+              "phrase": "ran underneath everything",
+              "meaning_ko": "모든 것의 밑바탕에 깔려 있었다"
+            },
+            {
+              "phrase": "On top of this",
+              "meaning_ko": "이에 더하여"
+            },
+            {
+              "phrase": "stretched thin",
+              "meaning_ko": "여력이 없는"
+            },
+            {
+              "phrase": "finally converged",
+              "meaning_ko": "마침내 한데 모였다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Why the Roman Empire fell",
+          "body": "Few historical questions have attracted as much speculation as the fall of the Roman Empire, and part of the difficulty is that the question itself is slightly misleading. Rome did not topple in a single dramatic moment; the western empire eroded over generations until, in 476, the deposition of a child emperor merely confirmed a collapse that had long been underway. Explaining that erosion means abandoning the search for one cause and accepting a convergence of many.\n\nStructural overstretch sits near the center of most accounts. At its height the empire spanned three continents, and the cost of garrisoning its enormous frontiers was relentless. Slow communications meant that crises on distant borders could spiral before Rome could respond, and the eventual division of the empire, though administratively sensible, left the wealthier east intact while exposing the poorer west. From then on, the two halves drifted apart, and the west could no longer count on eastern wealth to bail it out of trouble.\n\nBeneath the military picture lay chronic economic disease. Perpetual warfare and an oversized army demanded revenue that the economy could not comfortably supply. Emperors resorted to debasing the coinage and squeezing taxpayers, triggering inflation and driving small farmers into the arms of large landowners. As the tax base narrowed and loyalty to the central state thinned, the empire's capacity to fund its own defense quietly decayed. An army that cannot be paid is an army that cannot be relied upon, and increasingly Rome leaned on foreign recruits whose loyalty was conditional at best.\n\nLayered over these slow trends were sharper shocks: relentless cycles of civil war and assassination that consumed competent leadership, and the large-scale movement of peoples pressing on, and eventually pouring across, the frontiers. None of these forces alone would necessarily have been fatal. What proved decisive was their accumulation. A resilient, prosperous state can absorb an invasion or a bad emperor; a state already hollowed by fiscal exhaustion, political chaos, and military overextension cannot. The lasting lesson of Rome is less about any single enemy than about how a great power can be undone by the gradual compounding of its own unresolved weaknesses.",
+          "word_count": 358,
+          "estimated_read_seconds": 179,
+          "vocab": [
+            {
+              "word": "deposition",
+              "pos": "noun",
+              "meaning_ko": "폐위"
+            },
+            {
+              "word": "garrison",
+              "pos": "verb",
+              "meaning_ko": "수비대를 두다"
+            },
+            {
+              "word": "perpetual",
+              "pos": "adjective",
+              "meaning_ko": "끊임없는"
+            },
+            {
+              "word": "fiscal",
+              "pos": "adjective",
+              "meaning_ko": "재정의"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "slightly misleading",
+              "meaning_ko": "다소 오해를 부르는"
+            },
+            {
+              "phrase": "abandoning the search for one cause",
+              "meaning_ko": "단일 원인 찾기를 포기하기"
+            },
+            {
+              "phrase": "sits near the center of",
+              "meaning_ko": "~의 중심에 있다"
+            },
+            {
+              "phrase": "Layered over these",
+              "meaning_ko": "이 위에 겹쳐진"
+            },
+            {
+              "phrase": "What proved decisive was",
+              "meaning_ko": "결정적이었던 것은"
+            },
+            {
+              "phrase": "less about ... than about",
+              "meaning_ko": "~라기보다는 ~에 관한"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-29-cs_concepts-03",
+      "category": "cs_concepts",
+      "title_ko": "연결 리스트란 무엇일까",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is a linked list",
+          "body": "Imagine a treasure hunt. Each clue does not show the whole map. Instead, it just tells you where to find the next clue. A linked list works in a very similar way.\n\nIn a linked list, data is stored in small boxes called nodes. Each node holds one value and also a pointer that says the next item is over there.\n\nTo find something, the computer starts at the first node and follows the pointers one by one. The boxes do not have to sit next to each other in memory. That makes it easy to add or remove items, because you only change a few pointers.",
+          "word_count": 107,
+          "estimated_read_seconds": 54,
+          "vocab": [
+            {
+              "word": "node",
+              "pos": "noun",
+              "meaning_ko": "노드"
+            },
+            {
+              "word": "pointer",
+              "pos": "noun",
+              "meaning_ko": "포인터"
+            },
+            {
+              "word": "value",
+              "pos": "noun",
+              "meaning_ko": "값"
+            },
+            {
+              "word": "memory",
+              "pos": "noun",
+              "meaning_ko": "메모리"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in a very similar way",
+              "meaning_ko": "비슷한 방식으로"
+            },
+            {
+              "phrase": "one by one",
+              "meaning_ko": "하나씩"
+            },
+            {
+              "phrase": "next to each other",
+              "meaning_ko": "서로 옆에"
+            },
+            {
+              "phrase": "easy to add or remove",
+              "meaning_ko": "추가하거나 제거하기 쉬운"
+            },
+            {
+              "phrase": "a few",
+              "meaning_ko": "몇 개의"
+            },
+            {
+              "phrase": "where to find",
+              "meaning_ko": "어디서 찾을지"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is a linked list",
+          "body": "Imagine a treasure hunt where each clue does not reveal the whole route, but only points to where the next clue is hidden. A linked list, one of the most basic structures in computer science, stores data in exactly this way.\n\nA linked list is made of small units called nodes. Each node contains two things: a piece of data, and a pointer that holds the location of the next node. Following these pointers, the computer can travel from one node to the next until it reaches the end of the list.\n\nThe clever thing is that the nodes do not need to sit together in memory. They can be scattered anywhere, linked only by their pointers. This makes adding or removing items very cheap, because you simply update a couple of pointers instead of shifting everything around.\n\nThe trade-off is that you cannot jump straight to the tenth item. To reach it, you must walk through the nine nodes before it, one step at a time. So a linked list is flexible, but not always fast.",
+          "word_count": 177,
+          "estimated_read_seconds": 88,
+          "vocab": [
+            {
+              "word": "structure",
+              "pos": "noun",
+              "meaning_ko": "구조, 자료 구조"
+            },
+            {
+              "word": "unit",
+              "pos": "noun",
+              "meaning_ko": "단위"
+            },
+            {
+              "word": "scatter",
+              "pos": "verb",
+              "meaning_ko": "흩어 놓다"
+            },
+            {
+              "word": "flexible",
+              "pos": "adjective",
+              "meaning_ko": "유연한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "does not reveal",
+              "meaning_ko": "드러내지 않는다"
+            },
+            {
+              "phrase": "points to",
+              "meaning_ko": "가리키다"
+            },
+            {
+              "phrase": "made of",
+              "meaning_ko": "~로 이루어진"
+            },
+            {
+              "phrase": "The clever thing is",
+              "meaning_ko": "영리한 점은"
+            },
+            {
+              "phrase": "instead of shifting",
+              "meaning_ko": "옮기는 대신에"
+            },
+            {
+              "phrase": "one step at a time",
+              "meaning_ko": "한 번에 한 걸음씩"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is a linked list",
+          "body": "A linked list is one of the first data structures every programmer meets, and it offers a clean answer to a basic question: how do you store a sequence of items when you do not know in advance how many there will be? Picture a treasure hunt in which each clue holds nothing but the location of the next clue. That chain of references is, in essence, a linked list.\n\nThe structure is built from nodes. Each node bundles two pieces of information: a value, and a pointer to the next node in the sequence. Starting from a reference to the first node, often called the head, a program can traverse the entire list by repeatedly following each pointer until it reaches a node that points to nothing, marking the end.\n\nThe defining advantage is flexibility in memory. Unlike an array, whose elements must occupy one continuous block, the nodes of a linked list can live anywhere; only the pointers tie them together. Because of this, inserting or deleting an item is cheap: you redirect a pointer or two rather than shuffling a whole block of data.\n\nThat freedom comes at a price, however. A linked list offers no shortcut to a particular position. To reach the hundredth element, you must walk through the ninety-nine before it. Arrays, by contrast, allow instant access by index. Choosing between them is therefore a matter of trade-offs: linked lists shine when insertions and deletions are frequent, while arrays win when fast, direct access matters most.",
+          "word_count": 252,
+          "estimated_read_seconds": 126,
+          "vocab": [
+            {
+              "word": "array",
+              "pos": "noun",
+              "meaning_ko": "배열"
+            },
+            {
+              "word": "traverse",
+              "pos": "verb",
+              "meaning_ko": "순회하다"
+            },
+            {
+              "word": "index",
+              "pos": "noun",
+              "meaning_ko": "인덱스, 색인"
+            },
+            {
+              "word": "insert",
+              "pos": "verb",
+              "meaning_ko": "삽입하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in advance",
+              "meaning_ko": "미리"
+            },
+            {
+              "phrase": "in essence",
+              "meaning_ko": "본질적으로"
+            },
+            {
+              "phrase": "The defining advantage",
+              "meaning_ko": "결정적 장점"
+            },
+            {
+              "phrase": "tie them together",
+              "meaning_ko": "그것들을 묶어 주다"
+            },
+            {
+              "phrase": "comes at a price",
+              "meaning_ko": "대가가 따른다"
+            },
+            {
+              "phrase": "a matter of trade-offs",
+              "meaning_ko": "절충의 문제"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is a linked list",
+          "body": "The linked list is deceptively humble. It rarely impresses anyone at first glance, yet it encodes a profound idea that runs through much of computer science: that the logical order of data need not match its physical arrangement in memory. Understanding why this matters reveals a great deal about how programs manage information.\n\nAt its core, a linked list is a chain of nodes, each holding a value together with a reference, or pointer, to the next node. A program keeps a handle on the first node, the head, and reaches every other element by following pointers in sequence until it encounters a null reference signaling the end. There is no requirement that consecutive nodes lie near one another; they may be scattered across memory, stitched into a coherent sequence purely by their links.\n\nThis indirection is the source of both the structure's strengths and its weaknesses. Because order is expressed through pointers rather than position, inserting or removing an element is a local operation: you splice in a new node or bypass an old one by adjusting a handful of references, with no need to relocate the rest of the data. In an array, the same insertion might force every later element to shift, an expensive proposition for large collections. This is also why queues, stacks, and many other structures are so naturally built on top of linked nodes.\n\nThe cost of this flexibility is the loss of random access. An array can compute the address of its nth element instantly through simple arithmetic, but a linked list must be walked node by node, giving linear-time access to arbitrary positions. For a long list, that gap between a constant-time jump and a slow walk can dominate a program's performance. There are also subtler penalties: the extra memory consumed by pointers, and poorer cache performance, since scattered nodes defeat the processor's assumption that nearby data will be needed next. Seasoned engineers therefore treat the linked list not as a default but as a deliberate choice, reached for when frequent insertion and deletion outweigh the need for speedy indexed access. Its enduring value lies less in raw efficiency than in the conceptual lesson it teaches about decoupling structure from storage.",
+          "word_count": 369,
+          "estimated_read_seconds": 184,
+          "vocab": [
+            {
+              "word": "indirection",
+              "pos": "noun",
+              "meaning_ko": "간접 참조"
+            },
+            {
+              "word": "null",
+              "pos": "noun",
+              "meaning_ko": "널, 빈 참조"
+            },
+            {
+              "word": "splice",
+              "pos": "verb",
+              "meaning_ko": "이어 붙이다, 끼워 넣다"
+            },
+            {
+              "word": "cache",
+              "pos": "noun",
+              "meaning_ko": "캐시"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "at first glance",
+              "meaning_ko": "언뜻 보기에"
+            },
+            {
+              "phrase": "At its core",
+              "meaning_ko": "핵심적으로"
+            },
+            {
+              "phrase": "the source of both",
+              "meaning_ko": "둘 다의 원천"
+            },
+            {
+              "phrase": "an expensive proposition",
+              "meaning_ko": "비싼 일"
+            },
+            {
+              "phrase": "reached for when",
+              "meaning_ko": "~할 때 선택되는"
+            },
+            {
+              "phrase": "lies less in ... than in",
+              "meaning_ko": "~보다는 ~에 있다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-29-backend_systems-04",
+      "category": "backend_systems",
+      "title_ko": "캐싱은 어떻게 성능을 높일까",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How caching improves performance",
+          "body": "Imagine you look up the same word in a big dictionary ten times a day. Flipping through all those pages again and again is slow. So you write the meaning on a sticky note and keep it on your desk. Now the answer is right there.\n\nCaching works in the same way. A cache is a small, fast place where a computer keeps copies of data it uses often.\n\nThe first time the app needs something, it does the slow work and saves a copy in the cache. The next time, it grabs the copy instead. This saves time and makes apps feel quick.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "cache",
+              "pos": "noun",
+              "meaning_ko": "캐시"
+            },
+            {
+              "word": "copy",
+              "pos": "noun",
+              "meaning_ko": "사본"
+            },
+            {
+              "word": "data",
+              "pos": "noun",
+              "meaning_ko": "데이터"
+            },
+            {
+              "word": "often",
+              "pos": "adverb",
+              "meaning_ko": "자주"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "look up",
+              "meaning_ko": "찾아보다"
+            },
+            {
+              "phrase": "again and again",
+              "meaning_ko": "반복해서"
+            },
+            {
+              "phrase": "right there",
+              "meaning_ko": "바로 거기"
+            },
+            {
+              "phrase": "in the same way",
+              "meaning_ko": "같은 방식으로"
+            },
+            {
+              "phrase": "the first time",
+              "meaning_ko": "처음으로 ~할 때"
+            },
+            {
+              "phrase": "grabs the copy instead",
+              "meaning_ko": "대신 사본을 가져온다"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How caching improves performance",
+          "body": "Imagine you keep looking up the same phone number in a thick directory many times a day. Searching the whole book over and over wastes time, so you copy that one number onto a sticky note and keep it next to you. Caching does the same thing for computers.\n\nA cache is a small, fast store that holds copies of data the system uses frequently. When an application needs some information for the first time, it does the slow work, perhaps a heavy database query or a call to another service, and then saves the result in the cache. The next time the same information is requested, the application can read it straight from the cache, skipping the slow step entirely.\n\nBecause cache reads are far quicker than the original work, this can make a system dramatically faster and lighten the load on the database. The challenge is keeping the cache honest. If the real data changes, the cached copy may become out of date, so systems need rules to refresh or remove stale entries at the right time.",
+          "word_count": 179,
+          "estimated_read_seconds": 90,
+          "vocab": [
+            {
+              "word": "store",
+              "pos": "noun",
+              "meaning_ko": "저장소"
+            },
+            {
+              "word": "query",
+              "pos": "noun",
+              "meaning_ko": "질의, 쿼리"
+            },
+            {
+              "word": "frequently",
+              "pos": "adverb",
+              "meaning_ko": "자주"
+            },
+            {
+              "word": "stale",
+              "pos": "adjective",
+              "meaning_ko": "오래된, 신선하지 않은"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "looking up",
+              "meaning_ko": "찾아보다"
+            },
+            {
+              "phrase": "over and over",
+              "meaning_ko": "반복해서"
+            },
+            {
+              "phrase": "for the first time",
+              "meaning_ko": "처음으로"
+            },
+            {
+              "phrase": "straight from",
+              "meaning_ko": "곧바로 ~에서"
+            },
+            {
+              "phrase": "lighten the load",
+              "meaning_ko": "부하를 줄이다"
+            },
+            {
+              "phrase": "out of date",
+              "meaning_ko": "오래되어 낡은"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How caching improves performance",
+          "body": "Caching is one of the most effective tools for making software fast, and the idea behind it is wonderfully simple: doing expensive work once and reusing the result. Think of jotting a frequently needed phone number on a sticky note rather than searching the directory every time. In computing, that sticky note is a cache, a small, fast layer that stores copies of data the system would otherwise have to recompute or fetch repeatedly.\n\nThe basic pattern is straightforward. When a request arrives, the application first checks the cache. If the data is there, a cache hit, it is returned immediately, avoiding slow operations like a complex database query or a network call to another service. If it is missing, a cache miss, the application does the full work, returns the result, and stores a copy so that future requests can be served quickly.\n\nThe payoff is significant. Because cached data typically lives in fast memory, reads can be orders of magnitude quicker than recomputation, and the database is spared a great deal of repeated load. Under heavy traffic, a good cache can be the difference between a snappy service and a struggling one.\n\nThe real difficulty lies in invalidation. A cache holds a copy, and copies can drift from the truth when the underlying data changes. Decide to keep entries too long and users see stale information; expire them too aggressively and you lose the benefit. Engineers manage this with expiry times, eviction policies, and careful update strategies, balancing freshness against speed for each kind of data.",
+          "word_count": 258,
+          "estimated_read_seconds": 129,
+          "vocab": [
+            {
+              "word": "recompute",
+              "pos": "verb",
+              "meaning_ko": "다시 계산하다"
+            },
+            {
+              "word": "hit",
+              "pos": "noun",
+              "meaning_ko": "적중, 히트"
+            },
+            {
+              "word": "invalidation",
+              "pos": "noun",
+              "meaning_ko": "무효화"
+            },
+            {
+              "word": "eviction",
+              "pos": "noun",
+              "meaning_ko": "축출, 제거"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "the idea behind it",
+              "meaning_ko": "그 배경에 깔린 생각"
+            },
+            {
+              "phrase": "would otherwise have to",
+              "meaning_ko": "그렇지 않으면 ~해야 할"
+            },
+            {
+              "phrase": "orders of magnitude",
+              "meaning_ko": "자릿수가 다를 만큼"
+            },
+            {
+              "phrase": "The payoff is significant",
+              "meaning_ko": "그 보상은 상당하다"
+            },
+            {
+              "phrase": "The real difficulty lies in",
+              "meaning_ko": "진짜 어려움은 ~에 있다"
+            },
+            {
+              "phrase": "balancing ... against",
+              "meaning_ko": "~와 ~의 균형을 맞추다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How caching improves performance",
+          "body": "Caching ranks among the highest-leverage techniques in backend engineering, capable of turning a sluggish system into a responsive one with relatively little code. Its premise is almost trivial, reuse the result of expensive work instead of repeating it, yet applying that premise well draws in some of the field's hardest trade-offs.\n\nMechanically, a cache is a fast intermediate layer, usually in memory, that sits between a consumer of data and the slower source of truth behind it. The canonical flow is read-through: an incoming request first consults the cache, and on a hit returns the stored value immediately; on a miss it falls back to the authoritative source, a database, an external API, or a costly computation, and writes the result into the cache before responding. Subsequent requests for the same data then bypass the expensive path entirely.\n\nThe performance gains can be dramatic. Memory access is often several orders of magnitude faster than a disk-bound query or a cross-network call, so a high hit rate translates directly into lower latency and, just as importantly, reduced load on backend systems that would otherwise buckle under repeated identical work. In many architectures, caching is precisely what allows a modest database to serve an enormous audience. A single popular cache layer can quietly soak up the vast majority of read traffic, leaving the database almost idle.\n\nYet caching is famously treacherous, captured in the old joke that the two hardest problems in computer science are cache invalidation and naming things. Because a cache stores a copy, it can fall out of sync with reality the moment the source changes. Serving stale data may be harmless for a product catalog but unacceptable for an account balance, so engineers must reason carefully about each data type. The toolkit includes time-based expiration, explicit invalidation when writes occur, and eviction policies such as least-recently-used to bound memory. There are deeper hazards too, like the thundering herd, where many clients miss simultaneously and stampede the source at once. Guarding against that often means letting just one request rebuild the entry while the others wait. Done thoughtfully, caching is close to magic; done carelessly, it quietly serves wrong answers, which is why it rewards discipline as much as cleverness.",
+          "word_count": 371,
+          "estimated_read_seconds": 186,
+          "vocab": [
+            {
+              "word": "leverage",
+              "pos": "noun",
+              "meaning_ko": "지렛대 효과, 영향력"
+            },
+            {
+              "word": "authoritative",
+              "pos": "adjective",
+              "meaning_ko": "권위 있는, 원본의"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간"
+            },
+            {
+              "word": "treacherous",
+              "pos": "adjective",
+              "meaning_ko": "위험한, 믿기 어려운"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "highest-leverage techniques",
+              "meaning_ko": "가장 효과가 큰 기법들"
+            },
+            {
+              "phrase": "source of truth",
+              "meaning_ko": "원본 데이터, 진실의 원천"
+            },
+            {
+              "phrase": "falls back to",
+              "meaning_ko": "~로 되돌아간다"
+            },
+            {
+              "phrase": "translates directly into",
+              "meaning_ko": "곧바로 ~로 이어진다"
+            },
+            {
+              "phrase": "fall out of sync",
+              "meaning_ko": "어긋나다"
+            },
+            {
+              "phrase": "rewards discipline as much as cleverness",
+              "meaning_ko": "영리함만큼이나 절제를 요구한다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-29-speaking-05",
+      "category": "speaking",
+      "title_ko": "[IELTS P1] 음악을 좋아하나요?",
+      "source_url": null,
+      "source_name": "Generated · IELTS Speaking Part 1",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Do you like music?",
+          "body": "Yes, I love music. I listen to it almost every day, usually on my way to work. I like pop and a bit of jazz. Music helps me relax when I feel tired, and it makes boring train rides much more fun.",
+          "word_count": 42,
+          "estimated_read_seconds": 21,
+          "vocab": [
+            {
+              "word": "relax",
+              "pos": "verb",
+              "meaning_ko": "쉬다, 긴장을 풀다"
+            },
+            {
+              "word": "jazz",
+              "pos": "noun",
+              "meaning_ko": "재즈"
+            },
+            {
+              "word": "boring",
+              "pos": "adjective",
+              "meaning_ko": "지루한"
+            },
+            {
+              "word": "ride",
+              "pos": "noun",
+              "meaning_ko": "탑승, 이동"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I love music",
+              "meaning_ko": "음악을 정말 좋아해요"
+            },
+            {
+              "phrase": "almost every day",
+              "meaning_ko": "거의 매일"
+            },
+            {
+              "phrase": "on my way to",
+              "meaning_ko": "~로 가는 길에"
+            },
+            {
+              "phrase": "a bit of",
+              "meaning_ko": "약간의"
+            },
+            {
+              "phrase": "helps me relax",
+              "meaning_ko": "긴장을 풀게 해줘요"
+            },
+            {
+              "phrase": "much more fun",
+              "meaning_ko": "훨씬 더 재미있는"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Do you like music?",
+          "body": "Yes, I'm really into music. I listen to it every single day, mostly while I'm commuting or cooking. I mainly enjoy pop and some jazz, but honestly I'll listen to almost anything with a good melody. For me, music is a quick way to change my mood. If I'm stressed after work, a few songs can calm me down, and if I need energy in the morning, something upbeat does the trick.",
+          "word_count": 72,
+          "estimated_read_seconds": 36,
+          "vocab": [
+            {
+              "word": "commute",
+              "pos": "verb",
+              "meaning_ko": "통근하다"
+            },
+            {
+              "word": "melody",
+              "pos": "noun",
+              "meaning_ko": "멜로디, 선율"
+            },
+            {
+              "word": "mood",
+              "pos": "noun",
+              "meaning_ko": "기분"
+            },
+            {
+              "word": "upbeat",
+              "pos": "adjective",
+              "meaning_ko": "경쾌한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'm really into",
+              "meaning_ko": "정말 좋아해요"
+            },
+            {
+              "phrase": "every single day",
+              "meaning_ko": "매일같이"
+            },
+            {
+              "phrase": "almost anything",
+              "meaning_ko": "거의 무엇이든"
+            },
+            {
+              "phrase": "change my mood",
+              "meaning_ko": "기분을 바꾸다"
+            },
+            {
+              "phrase": "calm me down",
+              "meaning_ko": "나를 진정시키다"
+            },
+            {
+              "phrase": "does the trick",
+              "meaning_ko": "효과가 있다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Do you like music?",
+          "body": "Yeah, I'd say music is a big part of my daily life. I listen to something almost constantly, whether I'm commuting, cooking, or just trying to focus at work. My taste is pretty broad, but I lean toward pop and jazz, and lately I've been getting into a bit of lo-fi while I study. What I love most is how music can completely shift my mood. After a stressful day, putting on a familiar album feels like pressing a reset button. And honestly, discovering a new artist I really click with is one of those small pleasures that never gets old.",
+          "word_count": 101,
+          "estimated_read_seconds": 50,
+          "vocab": [
+            {
+              "word": "constantly",
+              "pos": "adverb",
+              "meaning_ko": "끊임없이"
+            },
+            {
+              "word": "taste",
+              "pos": "noun",
+              "meaning_ko": "취향"
+            },
+            {
+              "word": "shift",
+              "pos": "verb",
+              "meaning_ko": "바꾸다"
+            },
+            {
+              "word": "artist",
+              "pos": "noun",
+              "meaning_ko": "아티스트, 음악가"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd say",
+              "meaning_ko": "말하자면"
+            },
+            {
+              "phrase": "a big part of",
+              "meaning_ko": "~의 큰 부분"
+            },
+            {
+              "phrase": "lean toward",
+              "meaning_ko": "~쪽으로 기울다"
+            },
+            {
+              "phrase": "getting into",
+              "meaning_ko": "~에 빠지고 있다"
+            },
+            {
+              "phrase": "a reset button",
+              "meaning_ko": "리셋 버튼"
+            },
+            {
+              "phrase": "never gets old",
+              "meaning_ko": "질리지 않다"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Do you like music?",
+          "body": "Absolutely, I'd struggle to imagine my day without it. Music is more or less the soundtrack to everything I do, from my morning commute to late-night work sessions, and I'm constantly bouncing between genres depending on my mood. I grew up on pop and jazz, but over the years I've drifted into lo-fi, a bit of classical, and whatever my friends happen to recommend. What really draws me in is the emotional shorthand of it. A single song can pull me straight back to a specific summer or a particular person, which feels almost like time travel. Beyond that, there's something genuinely thrilling about stumbling on an artist who seems to put your own unspoken feelings into words. To be honest, that little jolt of discovery is probably what keeps me hooked.",
+          "word_count": 132,
+          "estimated_read_seconds": 66,
+          "vocab": [
+            {
+              "word": "soundtrack",
+              "pos": "noun",
+              "meaning_ko": "사운드트랙, 배경 음악"
+            },
+            {
+              "word": "genre",
+              "pos": "noun",
+              "meaning_ko": "장르"
+            },
+            {
+              "word": "shorthand",
+              "pos": "noun",
+              "meaning_ko": "간단한 표현 방식"
+            },
+            {
+              "word": "jolt",
+              "pos": "noun",
+              "meaning_ko": "충격, 짜릿함"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I'd struggle to imagine",
+              "meaning_ko": "상상하기 어려울 거예요"
+            },
+            {
+              "phrase": "more or less",
+              "meaning_ko": "거의, 대체로"
+            },
+            {
+              "phrase": "bouncing between",
+              "meaning_ko": "~ 사이를 오가는"
+            },
+            {
+              "phrase": "what really draws me in",
+              "meaning_ko": "나를 정말 끌어당기는 것"
+            },
+            {
+              "phrase": "pull me straight back to",
+              "meaning_ko": "곧장 ~로 데려가다"
+            },
+            {
+              "phrase": "keeps me hooked",
+              "meaning_ko": "나를 계속 빠져들게 하다"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1136 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-28",
+  "topics": [
+    {
+      "topic_id": "2026-06-28-academic_science-01",
+      "category": "academic_science",
+      "title_ko": "무지개는 어떻게 생길까",
+      "source_url": null,
+      "source_name": "Generated · 자연과학",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How rainbows form",
+          "body": "Have you ever seen a rainbow after the rain? It feels like a small gift from the sky. But where does it come from?\n\nA rainbow needs two things: sunlight and water. After it rains, many tiny drops of water still float in the air. When sunlight passes through these drops, something special happens.\n\nWhite light is not really white. It is made of many colors mixed together. When light goes into a water drop, it bends. The drop splits the light into red, orange, yellow, green, and blue.\n\nSo a rainbow is just sunlight, broken into colors by the rain. Nature paints it for free, and only for a short time.",
+          "word_count": 112,
+          "estimated_read_seconds": 56,
+          "vocab": [
+            {
+              "word": "rainbow",
+              "pos": "noun",
+              "meaning_ko": "무지개"
+            },
+            {
+              "word": "drop",
+              "pos": "noun",
+              "meaning_ko": "물방울"
+            },
+            {
+              "word": "bend",
+              "pos": "verb",
+              "meaning_ko": "휘다, 굴절하다"
+            },
+            {
+              "word": "split",
+              "pos": "verb",
+              "meaning_ko": "나누다, 쪼개다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever seen",
+              "meaning_ko": "~을 본 적 있나요"
+            },
+            {
+              "phrase": "where does it come from",
+              "meaning_ko": "그것은 어디에서 올까요"
+            },
+            {
+              "phrase": "something special happens",
+              "meaning_ko": "특별한 일이 일어난다"
+            },
+            {
+              "phrase": "is made of",
+              "meaning_ko": "~로 이루어져 있다"
+            },
+            {
+              "phrase": "for free",
+              "meaning_ko": "공짜로"
+            },
+            {
+              "phrase": "for a short time",
+              "meaning_ko": "잠깐 동안"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How rainbows form",
+          "body": "Have you ever wondered why a rainbow appears only after the rain, and never on a dry, sunny afternoon? The answer is a beautiful bit of physics happening right above your head.\n\nA rainbow needs two simple ingredients: sunlight and drops of water in the air. When the sun comes out after a shower, millions of tiny drops are still floating around. Each drop acts like a small glass prism.\n\nSunlight looks white, but it is actually a mixture of many colors. When a ray of light enters a water drop, it slows down and bends. Because each color bends by a slightly different amount, the colors spread out and separate. The light then reflects off the back of the drop and bends once more as it leaves.\n\nThe result is a band of colors, always in the same order: red on the outside and violet on the inside. You can only see a rainbow when the sun is behind you and the rain is in front of you. In a way, every rainbow belongs to the person looking at it.",
+          "word_count": 181,
+          "estimated_read_seconds": 90,
+          "vocab": [
+            {
+              "word": "ingredient",
+              "pos": "noun",
+              "meaning_ko": "재료, 구성 요소"
+            },
+            {
+              "word": "prism",
+              "pos": "noun",
+              "meaning_ko": "프리즘"
+            },
+            {
+              "word": "reflect",
+              "pos": "verb",
+              "meaning_ko": "반사하다"
+            },
+            {
+              "word": "violet",
+              "pos": "noun",
+              "meaning_ko": "보라색"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Have you ever wondered",
+              "meaning_ko": "~을 궁금해한 적 있나요"
+            },
+            {
+              "phrase": "right above your head",
+              "meaning_ko": "약간의"
+            },
+            {
+              "phrase": "acts like",
+              "meaning_ko": "~처럼 작동하다"
+            },
+            {
+              "phrase": "a mixture of",
+              "meaning_ko": "~의 혼합물"
+            },
+            {
+              "phrase": "spread out",
+              "meaning_ko": "퍼지다"
+            },
+            {
+              "phrase": "in a way",
+              "meaning_ko": "어떤 면에서는"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How rainbows form",
+          "body": "Have you ever wondered why a rainbow appears only after the rain, and why two people standing side by side never see exactly the same one? The explanation lies in the way light behaves when it meets water.\n\nA rainbow forms when sunlight passes through tiny drops of water floating in the air. Although sunlight appears white, it is really a blend of all the colors of the spectrum. When a ray enters a raindrop, it bends, or refracts, because light travels more slowly in water than in air. Each color bends by a slightly different angle, so they begin to separate inside the drop.\n\nThe light then strikes the back of the drop and reflects, turning back toward the observer. As it exits, it refracts a second time, spreading the colors even further apart. By the time the light reaches your eyes, it has split into the familiar band of red, orange, yellow, green, blue, and violet.\n\nWhat makes a rainbow personal is geometry. The colors only reach your eyes at a specific angle, roughly forty-two degrees from the line between the sun and your shadow. Because that angle depends on where you are standing, the rainbow you see is built from a different set of raindrops than the one your friend sees. Move a few steps, and the rainbow shifts with you. This is also why a rainbow has no end you can ever reach: walk toward it, and it simply retreats, because it was never anchored to a place to begin with. It is less an object in the sky and more a meeting point between light, water, and your own point of view.",
+          "word_count": 277,
+          "estimated_read_seconds": 138,
+          "vocab": [
+            {
+              "word": "refract",
+              "pos": "verb",
+              "meaning_ko": "굴절하다"
+            },
+            {
+              "word": "spectrum",
+              "pos": "noun",
+              "meaning_ko": "스펙트럼, 빛의 띠"
+            },
+            {
+              "word": "observer",
+              "pos": "noun",
+              "meaning_ko": "관찰자"
+            },
+            {
+              "word": "geometry",
+              "pos": "noun",
+              "meaning_ko": "기하, 위치 관계"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "lies in",
+              "meaning_ko": "~에 있다"
+            },
+            {
+              "phrase": "a blend of",
+              "meaning_ko": "~의 혼합"
+            },
+            {
+              "phrase": "by the time",
+              "meaning_ko": "~할 무렵에는"
+            },
+            {
+              "phrase": "What makes a rainbow personal",
+              "meaning_ko": "무지개를 개인적인 것으로 만드는 것"
+            },
+            {
+              "phrase": "roughly",
+              "meaning_ko": "대략"
+            },
+            {
+              "phrase": "less ... and more",
+              "meaning_ko": "~라기보다는 오히려"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How rainbows form",
+          "body": "Have you ever noticed that no matter how fast you run toward a rainbow, you can never reach it? That small frustration hides a deep truth about what a rainbow actually is. It is not a thing sitting in the sky; it is an event that exists only in the relationship between sunlight, raindrops, and your particular line of sight.\n\nThe story begins with sunlight, which seems colorless but is in fact a tightly woven bundle of every visible wavelength. When such a ray strikes a spherical raindrop, it slows abruptly at the surface and bends inward, a process called refraction. Crucially, shorter wavelengths like violet bend a little more sharply than longer ones like red, so the single white beam begins to fan out into its component colors.\n\nInside the drop, the separated light travels to the far wall and reflects back toward the direction it came from. On its way out, it refracts a second time, widening the spread of colors still further. The net effect is that each raindrop sends a small cone of sorted light back toward the sun's side of the sky.\n\nHere is the elegant part. Your eye only catches a particular color from a given drop when that drop sits at exactly the right angle, about forty-two degrees from the antisolar point, the spot directly opposite the sun. Red arrives from drops slightly higher, violet from drops slightly lower, and the brain assembles these contributions into a smooth arc. If conditions are right, some light reflects twice inside each drop instead of once, producing a fainter secondary rainbow higher in the sky, with its colors reversed. The dark band between the two, often called Alexander's band, appears simply because almost no light is sent back toward you at those in-between angles.\n\nBecause the geometry depends entirely on where your eyes are, the rainbow has no fixed location. Every observer stands at the center of their own circle of light, gathering rays from a unique population of drops. Step sideways and the arc quietly rebuilds itself from new drops. This is why you cannot walk into a rainbow, and why, in the most literal sense, the one you are admiring is yours alone.",
+          "word_count": 369,
+          "estimated_read_seconds": 184,
+          "vocab": [
+            {
+              "word": "wavelength",
+              "pos": "noun",
+              "meaning_ko": "파장"
+            },
+            {
+              "word": "refraction",
+              "pos": "noun",
+              "meaning_ko": "굴절"
+            },
+            {
+              "word": "antisolar",
+              "pos": "adjective",
+              "meaning_ko": "태양 반대쪽의"
+            },
+            {
+              "word": "arc",
+              "pos": "noun",
+              "meaning_ko": "호, 아치 모양"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "no matter how",
+              "meaning_ko": "아무리 ~해도"
+            },
+            {
+              "phrase": "in fact",
+              "meaning_ko": "사실은"
+            },
+            {
+              "phrase": "Crucially",
+              "meaning_ko": "결정적으로"
+            },
+            {
+              "phrase": "The net effect",
+              "meaning_ko": "결과적으로 나타나는 효과"
+            },
+            {
+              "phrase": "Here is the elegant part",
+              "meaning_ko": "여기 우아한 부분이 있다"
+            },
+            {
+              "phrase": "in the most literal sense",
+              "meaning_ko": "가장 문자 그대로의 의미에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-28-academic_humanities-02",
+      "category": "academic_humanities",
+      "title_ko": "나침반은 어떻게 탐험의 역사를 바꿨을까",
+      "source_url": null,
+      "source_name": "Generated · 인문·사회",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How the compass changed exploration",
+          "body": "Imagine you are on a ship in the middle of the sea. There is water everywhere and no roads. How do you know which way to go?\n\nLong ago, sailors used the sun and the stars. But on cloudy nights, they could get lost. Then people found a small tool that changed everything: the compass.\n\nA compass has a thin needle that always points north. It works because the Earth itself is like a giant magnet. With a compass, sailors could find their way even in fog or darkness.\n\nThis simple tool helped people sail far across the ocean and discover new lands.",
+          "word_count": 103,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "sailor",
+              "pos": "noun",
+              "meaning_ko": "선원"
+            },
+            {
+              "word": "needle",
+              "pos": "noun",
+              "meaning_ko": "바늘"
+            },
+            {
+              "word": "compass",
+              "pos": "noun",
+              "meaning_ko": "나침반"
+            },
+            {
+              "word": "magnet",
+              "pos": "noun",
+              "meaning_ko": "자석"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine you are",
+              "meaning_ko": "~라고 상상해 보세요"
+            },
+            {
+              "phrase": "which way to go",
+              "meaning_ko": "어느 쪽으로 갈지"
+            },
+            {
+              "phrase": "get lost",
+              "meaning_ko": "길을 잃다"
+            },
+            {
+              "phrase": "changed everything",
+              "meaning_ko": "모든 것을 바꿨다"
+            },
+            {
+              "phrase": "find their way",
+              "meaning_ko": "길을 찾다"
+            },
+            {
+              "phrase": "across the ocean",
+              "meaning_ko": "바다를 건너"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How the compass changed exploration",
+          "body": "Imagine standing on the deck of an old wooden ship, surrounded by open water in every direction. There are no signs, no roads, and on a cloudy night, not even stars to guide you. For thousands of years, this was the greatest problem in travel: how to know where you are going.\n\nEarly sailors learned to read the sun and the stars, but bad weather could hide them for days. Everything changed with a small invention from ancient China: the magnetic compass. A compass is simply a light needle that can spin freely. Because the Earth behaves like a huge magnet, the needle always settles pointing roughly north and south.\n\nSuddenly, sailors had a direction they could trust in any weather. They could sail away from the coast with confidence, knowing they could still find their way home. This little tool helped open the great age of exploration, when ships crossed vast oceans and connected parts of the world that had never met before.",
+          "word_count": 164,
+          "estimated_read_seconds": 82,
+          "vocab": [
+            {
+              "word": "deck",
+              "pos": "noun",
+              "meaning_ko": "갑판"
+            },
+            {
+              "word": "invention",
+              "pos": "noun",
+              "meaning_ko": "발명품"
+            },
+            {
+              "word": "magnetic",
+              "pos": "adjective",
+              "meaning_ko": "자석의, 자기의"
+            },
+            {
+              "word": "exploration",
+              "pos": "noun",
+              "meaning_ko": "탐험"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "in every direction",
+              "meaning_ko": "사방으로"
+            },
+            {
+              "phrase": "for thousands of years",
+              "meaning_ko": "수천 년 동안"
+            },
+            {
+              "phrase": "Everything changed with",
+              "meaning_ko": "~로 모든 것이 바뀌었다"
+            },
+            {
+              "phrase": "with confidence",
+              "meaning_ko": "자신 있게"
+            },
+            {
+              "phrase": "find their way home",
+              "meaning_ko": "집으로 가는 길을 찾다"
+            },
+            {
+              "phrase": "that had never met before",
+              "meaning_ko": "전에 한 번도 만난 적 없던"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How the compass changed exploration",
+          "body": "Imagine being a sailor five hundred years ago, far from any coast, with nothing but water stretching to the horizon. Before one small instrument arrived, leaving sight of land was a terrifying gamble. That instrument was the magnetic compass, and it quietly reshaped the map of the world.\n\nThe compass works on a simple principle. A thin magnetized needle, balanced so that it can turn freely, lines itself up with the Earth's magnetic field. No matter how the ship rolls or which way the clouds drift, the needle keeps pointing toward magnetic north. For the first time, sailors had a reference they could rely on day or night, in clear skies or thick fog.\n\nThe consequences were enormous. With a dependable sense of direction, navigators could plan long routes across open ocean rather than hugging the shoreline. European voyages to the Americas and around Africa to Asia became possible, and trade, ideas, and people began to flow between continents on a scale never seen before.\n\nOf course, the compass was not perfect. Magnetic north is not the same as true north, and skilled navigators had to correct for the difference. They also had to watch for nearby iron, which could pull the needle astray, and they learned to combine the compass with charts and careful timing to estimate how far they had traveled. Yet even with its flaws, this modest needle did something remarkable: it turned the open sea from a wall into a highway, and in doing so, it helped stitch the separate halves of the world together.",
+          "word_count": 259,
+          "estimated_read_seconds": 130,
+          "vocab": [
+            {
+              "word": "horizon",
+              "pos": "noun",
+              "meaning_ko": "수평선"
+            },
+            {
+              "word": "magnetized",
+              "pos": "adjective",
+              "meaning_ko": "자성을 띤"
+            },
+            {
+              "word": "navigator",
+              "pos": "noun",
+              "meaning_ko": "항해사"
+            },
+            {
+              "word": "shoreline",
+              "pos": "noun",
+              "meaning_ko": "해안선"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "nothing but",
+              "meaning_ko": "오직 ~뿐"
+            },
+            {
+              "phrase": "works on a simple principle",
+              "meaning_ko": "간단한 원리로 작동한다"
+            },
+            {
+              "phrase": "No matter how",
+              "meaning_ko": "아무리 ~해도"
+            },
+            {
+              "phrase": "rely on",
+              "meaning_ko": "~에 의존하다"
+            },
+            {
+              "phrase": "The consequences were enormous",
+              "meaning_ko": "그 결과는 엄청났다"
+            },
+            {
+              "phrase": "even with its flaws",
+              "meaning_ko": "결점에도 불구하고"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How the compass changed exploration",
+          "body": "It is easy to take direction for granted today, when a phone can pin our location to within a few meters. But for most of human history, knowing which way you faced on the open ocean was a matter of life and death, and the tool that solved it, the magnetic compass, ranks among the most quietly transformative inventions ever made.\n\nThe device itself is almost absurdly simple. A slender magnetized needle, mounted so that it pivots with little friction, aligns itself with the Earth's magnetic field and comes to rest along a north-south line. The genius lies not in complexity but in reliability: unlike the sun or the stars, the needle answers at midnight, in storms, and under a blanket of cloud. First described in China and later refined across the Islamic world and Europe, the compass gave sailors something they had never possessed, a sense of direction independent of the sky.\n\nThe historical ripple effects are hard to overstate. Once captains could hold a heading far from any landmark, the coast stopped being a leash. Ambitious voyages that would once have been suicidal became calculated risks. The crossings of the Atlantic, the rounding of Africa, and the long reaches into the Indian and Pacific Oceans all leaned on this humble needle. With them came an unprecedented exchange of crops, technologies, religions, diseases, and peoples, the beginnings of a genuinely connected world. None of this would have unfolded the same way without a reliable means of holding a course; the compass did not cause exploration on its own, but it removed the single greatest obstacle standing in its path, and history rarely waits once such a barrier falls.\n\nIt would be naive, though, to call the story purely triumphant. The same voyages that the compass enabled also carried conquest, slavery, and the collapse of entire societies. A tool is only as humane as the hands that wield it. Still, as a piece of engineering, the compass deserves its quiet fame: a sliver of magnetized metal that loosened humanity's grip on the shoreline and let it venture, for better and worse, into the wider world.",
+          "word_count": 355,
+          "estimated_read_seconds": 178,
+          "vocab": [
+            {
+              "word": "pivot",
+              "pos": "verb",
+              "meaning_ko": "회전축을 중심으로 돌다"
+            },
+            {
+              "word": "heading",
+              "pos": "noun",
+              "meaning_ko": "진행 방향, 침로"
+            },
+            {
+              "word": "unprecedented",
+              "pos": "adjective",
+              "meaning_ko": "전례 없는"
+            },
+            {
+              "word": "conquest",
+              "pos": "noun",
+              "meaning_ko": "정복"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "take ... for granted",
+              "meaning_ko": "~을 당연하게 여기다"
+            },
+            {
+              "phrase": "a matter of life and death",
+              "meaning_ko": "생사의 문제"
+            },
+            {
+              "phrase": "The genius lies",
+              "meaning_ko": "천재성은 ~에 있다"
+            },
+            {
+              "phrase": "hard to overstate",
+              "meaning_ko": "아무리 강조해도 지나치지 않은"
+            },
+            {
+              "phrase": "It would be naive",
+              "meaning_ko": "~라고 보는 것은 순진하다"
+            },
+            {
+              "phrase": "for better and worse",
+              "meaning_ko": "좋든 나쁘든"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-28-cs_concepts-03",
+      "category": "cs_concepts",
+      "title_ko": "병합 정렬은 어떻게 동작할까",
+      "source_url": null,
+      "source_name": "Generated · CS 개념",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "How merge sort works",
+          "body": "Imagine you have a big pile of mixed-up cards and you want to put them in order. Sorting them all at once feels hard. So what if you make the job smaller?\n\nMerge sort does exactly that. First, it splits the pile in half. Then it splits each half again, and again, until each piece has only one card. One card is already in order by itself.\n\nNow comes the clever part. The computer takes two small sorted piles and joins them into one bigger sorted pile. It keeps joining until everything is back together, neatly in order.\n\nSplit, then merge. That is the whole idea.",
+          "word_count": 106,
+          "estimated_read_seconds": 53,
+          "vocab": [
+            {
+              "word": "pile",
+              "pos": "noun",
+              "meaning_ko": "더미"
+            },
+            {
+              "word": "sort",
+              "pos": "verb",
+              "meaning_ko": "정렬하다"
+            },
+            {
+              "word": "split",
+              "pos": "verb",
+              "meaning_ko": "나누다"
+            },
+            {
+              "word": "join",
+              "pos": "verb",
+              "meaning_ko": "합치다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "all at once",
+              "meaning_ko": "한꺼번에"
+            },
+            {
+              "phrase": "what if",
+              "meaning_ko": "~하면 어떨까"
+            },
+            {
+              "phrase": "does exactly that",
+              "meaning_ko": "바로 그것을 한다"
+            },
+            {
+              "phrase": "in order",
+              "meaning_ko": "순서대로"
+            },
+            {
+              "phrase": "comes the clever part",
+              "meaning_ko": "영리한 부분이 나온다"
+            },
+            {
+              "phrase": "back together",
+              "meaning_ko": "다시 하나로"
+            }
+          ]
+        },
+        "B1": {
+          "title": "How merge sort works",
+          "body": "Imagine you have a messy pile of a hundred numbered cards and you need to sort them. Doing it all in your head sounds exhausting. Merge sort offers a smarter approach: instead of solving one big problem, it breaks it into many tiny ones.\n\nThe algorithm has two phases. First, it keeps cutting the pile in half. A hundred cards become two piles of fifty, then four piles of twenty-five, and so on, until each pile holds just a single card. A pile of one card is, by definition, already sorted.\n\nThen the merging begins. The computer takes two sorted piles and combines them by comparing the top card of each and always picking the smaller one. This produces a new, larger sorted pile. It repeats this step, merging pairs of piles, until only one fully sorted pile remains.\n\nThis divide-and-conquer trick is powerful. Even with millions of items, merge sort stays fast and predictable, which is why it remains a favorite in computer science.",
+          "word_count": 165,
+          "estimated_read_seconds": 82,
+          "vocab": [
+            {
+              "word": "algorithm",
+              "pos": "noun",
+              "meaning_ko": "알고리즘"
+            },
+            {
+              "word": "phase",
+              "pos": "noun",
+              "meaning_ko": "단계"
+            },
+            {
+              "word": "combine",
+              "pos": "verb",
+              "meaning_ko": "결합하다"
+            },
+            {
+              "word": "predictable",
+              "pos": "adjective",
+              "meaning_ko": "예측 가능한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "all in your head",
+              "meaning_ko": "머릿속으로 다"
+            },
+            {
+              "phrase": "instead of",
+              "meaning_ko": "~ 대신에"
+            },
+            {
+              "phrase": "breaks it into",
+              "meaning_ko": "그것을 ~로 나눈다"
+            },
+            {
+              "phrase": "by definition",
+              "meaning_ko": "정의상"
+            },
+            {
+              "phrase": "and so on",
+              "meaning_ko": "기타 등등"
+            },
+            {
+              "phrase": "which is why",
+              "meaning_ko": "그래서 ~인 이유다"
+            }
+          ]
+        },
+        "B2": {
+          "title": "How merge sort works",
+          "body": "Sorting a long list of numbers quickly is one of the oldest problems in computing, and merge sort offers a particularly elegant solution. Its strategy is captured in three words: divide and conquer.\n\nThe idea is to avoid attacking the whole list at once. Instead, merge sort repeatedly splits the list into halves until it is left with many tiny lists of just one element each. A single element is trivially sorted, so the hard part of the problem has, in a sense, been dissolved.\n\nThe real work happens during merging. The algorithm takes two already-sorted lists and walks through them together, comparing the front element of each and copying the smaller one into a new list. Because both inputs are sorted, this single pass is enough to produce a correctly sorted combined list. Crucially, neither list is ever scanned more than once, so the merge itself is remarkably cheap. Merge sort applies this step over and over, joining pairs of small lists into larger ones until the entire collection is ordered again.\n\nWhat makes merge sort attractive is its consistency. No matter how the original data is arranged, whether nearly sorted or completely random, it always runs in about n log n time. That predictability, along with the fact that it preserves the relative order of equal items, makes it a dependable choice for large datasets. This is also why merge sort is the natural pick when the data is too big to fit in memory at once and must be sorted in chunks read from disk. The main trade-off is memory: merge sort usually needs extra space to hold the lists while merging, which is the price it pays for its reliable speed.",
+          "word_count": 285,
+          "estimated_read_seconds": 142,
+          "vocab": [
+            {
+              "word": "element",
+              "pos": "noun",
+              "meaning_ko": "원소, 요소"
+            },
+            {
+              "word": "trivially",
+              "pos": "adverb",
+              "meaning_ko": "자명하게"
+            },
+            {
+              "word": "dataset",
+              "pos": "noun",
+              "meaning_ko": "데이터셋"
+            },
+            {
+              "word": "trade-off",
+              "pos": "noun",
+              "meaning_ko": "절충, 희생"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "captured in three words",
+              "meaning_ko": "세 단어로 요약되는"
+            },
+            {
+              "phrase": "at once",
+              "meaning_ko": "한꺼번에"
+            },
+            {
+              "phrase": "in a sense",
+              "meaning_ko": "어떤 의미에서"
+            },
+            {
+              "phrase": "over and over",
+              "meaning_ko": "반복해서"
+            },
+            {
+              "phrase": "No matter how",
+              "meaning_ko": "어떻게 ~하든"
+            },
+            {
+              "phrase": "the price it pays for",
+              "meaning_ko": "~을 위해 치르는 대가"
+            }
+          ]
+        },
+        "C1": {
+          "title": "How merge sort works",
+          "body": "Among the classic sorting algorithms, merge sort holds a special place because it makes a difficult problem look almost inevitable. Its logic rests on a single, deceptively simple observation: merging two already-sorted lists into one sorted list is easy, and a list of a single element is already sorted. Everything else follows from pushing that observation to its limit.\n\nMerge sort proceeds in two movements. In the first, it recursively divides the input, halving it again and again until the original list of n items has been reduced to n lists of one item apiece. Nothing is compared or rearranged during this descent; the algorithm is merely setting the stage. The genuine work belongs to the second movement, the ascent, in which pairs of sorted sublists are merged back together. Merging is a linear scan: two pointers advance through the two lists, repeatedly emitting whichever front element is smaller, until both inputs are exhausted.\n\nThe cost analysis is where the design reveals its beauty. Each level of merging touches every element once, costing on the order of n operations, and because the list is halved at each step, there are only about log n levels. Multiplying the two gives the famous n log n running time, and crucially, this bound holds in the best, average, and worst cases alike. Unlike quicksort, merge sort cannot be tripped into quadratic behavior by an unlucky input. That worst-case guarantee is precisely why merge sort is trusted in situations where predictability matters more than raw speed, such as sorting on shared servers where a sudden pathological slowdown could cascade into a wider failure.\n\nThis reliability comes with a characteristic cost. Standard merge sort is not in-place; it typically allocates auxiliary memory proportional to the size of the input to stage the merges. In exchange, it offers a property many algorithms lack: stability, meaning that records with equal keys retain their original relative order. That combination of guaranteed performance and stability is why merge sort underpins many real-world systems, from external sorts that handle data too large to fit in memory to the standard libraries of widely used programming languages. In short, what looks like a humble bookkeeping trick turns out to be one of the most dependable tools in the entire field.",
+          "word_count": 378,
+          "estimated_read_seconds": 189,
+          "vocab": [
+            {
+              "word": "recursively",
+              "pos": "adverb",
+              "meaning_ko": "재귀적으로"
+            },
+            {
+              "word": "pointer",
+              "pos": "noun",
+              "meaning_ko": "포인터"
+            },
+            {
+              "word": "quadratic",
+              "pos": "adjective",
+              "meaning_ko": "2차의, 제곱에 비례하는"
+            },
+            {
+              "word": "stability",
+              "pos": "noun",
+              "meaning_ko": "안정성"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "rests on",
+              "meaning_ko": "~에 기반을 두다"
+            },
+            {
+              "phrase": "follows from",
+              "meaning_ko": "~로부터 따라 나오다"
+            },
+            {
+              "phrase": "setting the stage",
+              "meaning_ko": "무대를 마련하다"
+            },
+            {
+              "phrase": "on the order of",
+              "meaning_ko": "대략 ~정도의"
+            },
+            {
+              "phrase": "In exchange",
+              "meaning_ko": "그 대가로"
+            },
+            {
+              "phrase": "is why",
+              "meaning_ko": "그래서 ~인 이유다"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-28-backend_systems-04",
+      "category": "backend_systems",
+      "title_ko": "커넥션 풀링이란 무엇일까",
+      "source_url": null,
+      "source_name": "Generated · 백엔드 시스템",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "What is connection pooling",
+          "body": "Imagine a restaurant where every customer must build a new table before they can eat, then throw it away after. That would waste so much time! Opening a connection to a database can be a little like that.\n\nEach time an app talks to a database, it must open a connection. Opening one is slow. If the app opens a new one for every request, it wastes time and power.\n\nConnection pooling solves this. The app keeps a small group, or pool, of ready connections. When it needs one, it borrows it, uses it, and returns it. The same connections get reused again and again.",
+          "word_count": 105,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "connection",
+              "pos": "noun",
+              "meaning_ko": "연결"
+            },
+            {
+              "word": "database",
+              "pos": "noun",
+              "meaning_ko": "데이터베이스"
+            },
+            {
+              "word": "pool",
+              "pos": "noun",
+              "meaning_ko": "풀, 모아 둔 묶음"
+            },
+            {
+              "word": "reuse",
+              "pos": "verb",
+              "meaning_ko": "재사용하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "Imagine a",
+              "meaning_ko": "~을 상상해 보세요"
+            },
+            {
+              "phrase": "a little like that",
+              "meaning_ko": "그것과 약간 비슷한"
+            },
+            {
+              "phrase": "every request",
+              "meaning_ko": "매 요청마다"
+            },
+            {
+              "phrase": "solves this",
+              "meaning_ko": "이것을 해결한다"
+            },
+            {
+              "phrase": "a small group",
+              "meaning_ko": "~의 무리"
+            },
+            {
+              "phrase": "again and again",
+              "meaning_ko": "반복해서"
+            }
+          ]
+        },
+        "B1": {
+          "title": "What is connection pooling",
+          "body": "Imagine a busy office where, every time someone needs to make a call, they first have to install a brand-new phone line and then rip it out afterward. It sounds ridiculous, yet that is close to what happens when an application opens a fresh database connection for every single request.\n\nOpening a connection is surprisingly expensive. The application and the database have to find each other, check passwords, and agree on settings. All of this takes time and uses memory. Under heavy traffic, doing it thousands of times per second can bring a system to its knees.\n\nConnection pooling fixes the problem by reusing connections instead of throwing them away. When the application starts, it opens a small set of connections and keeps them ready in a pool. When a request needs the database, it borrows a connection from the pool, does its work, and returns the connection so others can use it. The expensive setup happens only a few times, not on every request, which keeps the whole system fast and stable.",
+          "word_count": 173,
+          "estimated_read_seconds": 86,
+          "vocab": [
+            {
+              "word": "request",
+              "pos": "noun",
+              "meaning_ko": "요청"
+            },
+            {
+              "word": "expensive",
+              "pos": "adjective",
+              "meaning_ko": "비용이 큰"
+            },
+            {
+              "word": "traffic",
+              "pos": "noun",
+              "meaning_ko": "트래픽, 통신량"
+            },
+            {
+              "word": "stable",
+              "pos": "adjective",
+              "meaning_ko": "안정적인"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "every time",
+              "meaning_ko": "~할 때마다"
+            },
+            {
+              "phrase": "close to what",
+              "meaning_ko": "~와 가까운"
+            },
+            {
+              "phrase": "surprisingly expensive",
+              "meaning_ko": "놀랄 만큼 비용이 큰"
+            },
+            {
+              "phrase": "bring a system to its knees",
+              "meaning_ko": "시스템을 마비시키다"
+            },
+            {
+              "phrase": "instead of",
+              "meaning_ko": "~ 대신에"
+            },
+            {
+              "phrase": "only a few times",
+              "meaning_ko": "몇 번만"
+            }
+          ]
+        },
+        "B2": {
+          "title": "What is connection pooling",
+          "body": "Every interaction between an application and its database begins with a connection, and connections are far more costly than they first appear. Establishing one involves a network handshake, authentication, and the allocation of resources on both the client and the server. When a service handles only a few requests, this overhead is harmless. When it handles thousands per second, opening and closing a connection each time becomes a serious bottleneck. The database can end up spending more effort setting up and tearing down connections than actually answering the queries it was asked.\n\nConnection pooling is the standard answer. Rather than creating a connection on demand and discarding it afterward, the application maintains a pool of pre-opened connections that stay alive and ready. When a request arrives, it checks out a connection from the pool, runs its queries, and returns the connection to the pool instead of closing it. The costly setup is paid once, at startup, and then amortized across countless requests.\n\nA well-tuned pool also acts as a safety valve. By capping the number of connections, it protects the database from being overwhelmed when traffic spikes. Requests that arrive while every connection is busy simply wait briefly for one to free up, rather than piling unlimited load onto the server. In effect, the pool turns a sudden surge of demand into something the database can survive instead of something that knocks it over.\n\nThe trade-offs are mostly about sizing. A pool that is too small forces requests to queue and wait; one that is too large wastes memory and can exhaust the database's own connection limit. Choosing the right pool size, along with sensible timeouts, is one of the quiet but important decisions in building a system that stays responsive under pressure.",
+          "word_count": 293,
+          "estimated_read_seconds": 146,
+          "vocab": [
+            {
+              "word": "handshake",
+              "pos": "noun",
+              "meaning_ko": "핸드셰이크, 연결 수립 절차"
+            },
+            {
+              "word": "overhead",
+              "pos": "noun",
+              "meaning_ko": "부가 비용, 오버헤드"
+            },
+            {
+              "word": "bottleneck",
+              "pos": "noun",
+              "meaning_ko": "병목"
+            },
+            {
+              "word": "amortize",
+              "pos": "verb",
+              "meaning_ko": "분산해 상각하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "far more ... than",
+              "meaning_ko": "~보다 훨씬 더"
+            },
+            {
+              "phrase": "on demand",
+              "meaning_ko": "요청 시에"
+            },
+            {
+              "phrase": "paid once",
+              "meaning_ko": "한 번만 치러지는"
+            },
+            {
+              "phrase": "acts as a safety valve",
+              "meaning_ko": "안전 밸브 역할을 한다"
+            },
+            {
+              "phrase": "free up",
+              "meaning_ko": "여유가 생기다, 풀리다"
+            },
+            {
+              "phrase": "under pressure",
+              "meaning_ko": "부하 속에서"
+            }
+          ]
+        },
+        "C1": {
+          "title": "What is connection pooling",
+          "body": "Few optimizations in backend engineering deliver as much benefit for as little conceptual complexity as connection pooling, and yet its details reward careful attention. The motivation begins with an uncomfortable fact: a database connection is not a lightweight object. Creating one requires a TCP handshake, often a TLS negotiation, an authentication exchange, and the reservation of memory and process or thread resources on the database server. Measured in milliseconds, this setup is trivial for a single request but ruinous when repeated for every operation in a high-throughput service.\n\nA connection pool breaks the link between the lifetime of a connection and the lifetime of a request. At startup, or lazily as demand grows, the application opens a bounded set of connections and holds them open. Application code no longer connects directly; instead it borrows a connection from the pool, executes its work, and returns it. Because the same physical connections are recycled across thousands of requests, the expensive establishment cost is amortized almost to nothing, and latency becomes far more predictable.\n\nThe pool does more than save time, however. It functions as a governor on concurrency. The database can only sustain a finite number of simultaneous connections before its own memory and scheduling overhead degrade performance, so allowing every request to open its own connection invites collapse under load. By fixing an upper bound, the pool converts a potentially unbounded flood into an orderly queue, applying gentle back-pressure when demand exceeds capacity.\n\nOperating a pool well is largely a matter of tuning. Pool size must be balanced against both the database's connection ceiling and the realistic concurrency of the workload, since an oversized pool wastes resources while an undersized one starves requests. Equally important are timeouts and health checks: connections can be silently dropped by the network or the server, so a robust pool validates idle connections and quietly replaces stale ones. Many teams also route all traffic through an external pooler sitting in front of the database, so that even short-lived serverless functions can share a single stable set of connections rather than each opening their own. Done thoughtfully, connection pooling is invisible in the best way, a piece of plumbing that lets a service absorb heavy traffic without ever thinking about the cost of saying hello to its database.",
+          "word_count": 381,
+          "estimated_read_seconds": 190,
+          "vocab": [
+            {
+              "word": "throughput",
+              "pos": "noun",
+              "meaning_ko": "처리량"
+            },
+            {
+              "word": "latency",
+              "pos": "noun",
+              "meaning_ko": "지연 시간"
+            },
+            {
+              "word": "concurrency",
+              "pos": "noun",
+              "meaning_ko": "동시성"
+            },
+            {
+              "word": "back-pressure",
+              "pos": "noun",
+              "meaning_ko": "배압, 역압"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "reward careful attention",
+              "meaning_ko": "주의 깊게 볼 가치가 있다"
+            },
+            {
+              "phrase": "breaks the link between",
+              "meaning_ko": "~ 사이의 연결을 끊는다"
+            },
+            {
+              "phrase": "amortized almost to nothing",
+              "meaning_ko": "거의 0에 가깝게 분산된"
+            },
+            {
+              "phrase": "functions as a governor",
+              "meaning_ko": "조절기 역할을 한다"
+            },
+            {
+              "phrase": "under load",
+              "meaning_ko": "부하 상태에서"
+            },
+            {
+              "phrase": "in the best way",
+              "meaning_ko": "가장 좋은 의미에서"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "topic_id": "2026-06-28-speaking-05",
+      "category": "speaking",
+      "title_ko": "[행동면접] 촉박한 마감 속에서 프로젝트를 이끈 경험을 말해 주세요",
+      "source_url": null,
+      "source_name": "Generated · Behavioral interview",
+      "image_url": null,
+      "levels": {
+        "A2": {
+          "title": "Tell me about a time you led a project under a tight deadline.",
+          "body": "Sure, I can share one example. Last year, my team had to launch a new payment feature in just two weeks. Our usual time was about a month, so the pressure was real.\n\nAs the lead, I first broke the work into small tasks. Then I gave each person one clear job, and we met every morning for ten minutes to check progress.\n\nWhen one part fell behind, I jumped in to help instead of waiting. In the end, we shipped on time, and the feature worked well. What I learned was that clear small steps and daily check-ins really keep a team moving.",
+          "word_count": 104,
+          "estimated_read_seconds": 52,
+          "vocab": [
+            {
+              "word": "deadline",
+              "pos": "noun",
+              "meaning_ko": "마감 기한"
+            },
+            {
+              "word": "task",
+              "pos": "noun",
+              "meaning_ko": "업무, 할 일"
+            },
+            {
+              "word": "progress",
+              "pos": "noun",
+              "meaning_ko": "진척"
+            },
+            {
+              "word": "ship",
+              "pos": "verb",
+              "meaning_ko": "출시하다"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "I can share",
+              "meaning_ko": "하나 말씀드릴 수 있어요"
+            },
+            {
+              "phrase": "the pressure was real",
+              "meaning_ko": "압박이 정말 컸어요"
+            },
+            {
+              "phrase": "broke the work into",
+              "meaning_ko": "일을 ~로 나눴어요"
+            },
+            {
+              "phrase": "fell behind",
+              "meaning_ko": "뒤처졌어요"
+            },
+            {
+              "phrase": "jumped in to help",
+              "meaning_ko": "나서서 도왔어요"
+            },
+            {
+              "phrase": "What I learned was",
+              "meaning_ko": "제가 배운 것은"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Tell me about a time you led a project under a tight deadline.",
+          "body": "Sure, let me tell you about a project from last year. My team was asked to launch a new payment feature in just two weeks, when our normal timeline would have been about a month. I was the lead, so a lot of it landed on me.\n\nThe first thing I did was break the work into small, clear tasks and assign each one to a specific person. I also set up a quick ten-minute stand-up every morning so we could spot problems early. Halfway through, one part started falling behind, so instead of waiting, I rolled up my sleeves and helped fix it myself.\n\nIn the end, we shipped the feature on time and it ran smoothly after launch. What I really took away from it was that breaking a big, scary deadline into small daily wins keeps everyone calm and moving forward.",
+          "word_count": 144,
+          "estimated_read_seconds": 72,
+          "vocab": [
+            {
+              "word": "assign",
+              "pos": "verb",
+              "meaning_ko": "배정하다"
+            },
+            {
+              "word": "stand-up",
+              "pos": "noun",
+              "meaning_ko": "짧은 일일 회의"
+            },
+            {
+              "word": "launch",
+              "pos": "noun",
+              "meaning_ko": "출시"
+            },
+            {
+              "word": "smoothly",
+              "pos": "adverb",
+              "meaning_ko": "매끄럽게"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "landed on me",
+              "meaning_ko": "내게 맡겨졌다"
+            },
+            {
+              "phrase": "The first thing I did",
+              "meaning_ko": "가장 먼저 한 일"
+            },
+            {
+              "phrase": "spot problems early",
+              "meaning_ko": "문제를 일찍 발견하다"
+            },
+            {
+              "phrase": "rolled up my sleeves",
+              "meaning_ko": "팔을 걷어붙였다"
+            },
+            {
+              "phrase": "In the end",
+              "meaning_ko": "결국"
+            },
+            {
+              "phrase": "took away from it",
+              "meaning_ko": "거기서 배운 것"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Tell me about a time you led a project under a tight deadline.",
+          "body": "Sure, one example that comes to mind is a payment feature my team launched last year. Marketing had committed to a date that gave us only two weeks, roughly half our usual timeline, and as the team lead, I had to figure out how to make it work without burning everyone out. I knew that if I handled it badly, we would either miss the date or ship something broken, and neither was acceptable.\n\nMy first move was to get clarity. I sat down with the product manager, trimmed the scope to the absolute essentials, and pushed the nice-to-have parts to a later release. Then I broke the remaining work into small tasks, assigned clear owners, and started a short daily stand-up so blockers would surface within hours rather than days.\n\nAbout halfway through, our integration with the payment provider started failing in testing, which threatened the whole timeline. Instead of just escalating, I paired directly with the engineer on it, and together we traced the bug to a misconfigured setting and fixed it that afternoon. I also sent a short update to stakeholders each evening, so no one felt the need to interrupt the team for status during the day.\n\nWe launched on the agreed date, and the feature processed transactions cleanly from day one. The biggest lesson for me was that leading under pressure is mostly about cutting scope honestly and removing blockers fast, not about asking people to simply work harder.",
+          "word_count": 244,
+          "estimated_read_seconds": 122,
+          "vocab": [
+            {
+              "word": "scope",
+              "pos": "noun",
+              "meaning_ko": "범위"
+            },
+            {
+              "word": "blocker",
+              "pos": "noun",
+              "meaning_ko": "진행을 막는 문제"
+            },
+            {
+              "word": "escalate",
+              "pos": "verb",
+              "meaning_ko": "상부에 보고하다, 확대하다"
+            },
+            {
+              "word": "transaction",
+              "pos": "noun",
+              "meaning_ko": "거래, 트랜잭션"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "comes to mind",
+              "meaning_ko": "떠오르다"
+            },
+            {
+              "phrase": "get clarity",
+              "meaning_ko": "명확히 하다"
+            },
+            {
+              "phrase": "the nice-to-have parts",
+              "meaning_ko": "있으면 좋은 부분들"
+            },
+            {
+              "phrase": "surface within hours",
+              "meaning_ko": "몇 시간 안에 드러나다"
+            },
+            {
+              "phrase": "Instead of just escalating",
+              "meaning_ko": "그냥 보고만 하지 않고"
+            },
+            {
+              "phrase": "The biggest lesson for me",
+              "meaning_ko": "내게 가장 큰 교훈"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Tell me about a time you led a project under a tight deadline.",
+          "body": "Sure, the example that stands out is a payment feature my team shipped last year under a genuinely uncomfortable deadline. Marketing had publicly committed to a launch date that left us about two weeks, when a project like that would normally take a month, and as the lead I was the one who had to absorb that pressure and turn it into a workable plan.\n\nMy instinct wasn't to push everyone to work longer hours, because I've learned that rarely ends well. Instead, I started by attacking the scope. I sat down with the product manager and we made some honest cuts, stripping the release down to the core flow that customers actually needed and deferring the polish to a follow-up. That single decision probably saved us more time than anything else, and it also forced a useful conversation about what the launch was really for.\n\nFrom there it was about execution and visibility. I decomposed the work into small, clearly owned tasks and introduced a tight daily stand-up, not as a status ritual but specifically to surface blockers while they were still cheap to fix. When our integration with the payment provider began failing in testing about midway through, I didn't simply escalate it upward; I paired directly with the engineer, and we tracked it down to a misconfigured timeout and resolved it the same day. Just as importantly, I made a point of protecting the team from noise: I fielded the anxious questions from stakeholders myself and sent a brief written update each evening, so the engineers could keep their heads down and build.\n\nWe launched on the committed date, and the feature handled real transactions cleanly from the very first day. What I genuinely took away from the experience is that leadership under a tight deadline is less about heroics and more about judgment: cutting scope honestly, making ownership unambiguous, and clearing obstacles for your team faster than they pile up.",
+          "word_count": 324,
+          "estimated_read_seconds": 162,
+          "vocab": [
+            {
+              "word": "absorb",
+              "pos": "verb",
+              "meaning_ko": "흡수하다, 감당하다"
+            },
+            {
+              "word": "decompose",
+              "pos": "verb",
+              "meaning_ko": "분해하다"
+            },
+            {
+              "word": "defer",
+              "pos": "verb",
+              "meaning_ko": "미루다"
+            },
+            {
+              "word": "unambiguous",
+              "pos": "adjective",
+              "meaning_ko": "명확한"
+            }
+          ],
+          "key_phrases": [
+            {
+              "phrase": "the example that stands out",
+              "meaning_ko": "가장 두드러지는 사례"
+            },
+            {
+              "phrase": "rarely ends well",
+              "meaning_ko": "좋게 끝나는 일이 드물다"
+            },
+            {
+              "phrase": "attacking the scope",
+              "meaning_ko": "범위부터 손대다"
+            },
+            {
+              "phrase": "while they were still cheap to fix",
+              "meaning_ko": "고치기 아직 쉬울 때"
+            },
+            {
+              "phrase": "didn't simply escalate",
+              "meaning_ko": "그냥 위로 보고하지 않았다"
+            },
+            {
+              "phrase": "less about ... and more about",
+              "meaning_ko": "~보다는 오히려 ~에 관한 것"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
